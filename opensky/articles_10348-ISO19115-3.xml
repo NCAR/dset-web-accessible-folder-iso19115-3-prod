@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:22.913732</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:52.994539</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In climate science, collections of climate model output, usually referred to as ensembles, are commonly used devices to study uncertainty in climate model experiments. The ensemble members may reflect variation in initial conditions, different physics implementations, or even entirely different climate models. However, there is a need to deliver a unified product based on the ensemble members that reflects the information contained in whole of the ensemble. We propose a technique for creating linear combinations of ensemble members where the weights are constructed from estimates of variation and correlation both within and between ensemble members. At the heart of this approach is a Bayesian hierarchical model that allows for estimation of the correlation between ensemble members as well as the study of the impact of uncertainty in the parameter estimates of the hierarchical model on the weights. The approach is demonstrated on an ensemble of regional climate model (RCM) output.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In climate science, collections of climate model output, usually referred to as ensembles, are commonly used devices to study uncertainty in climate model experiments. The ensemble members may reflect variation in initial conditions, different physics implementations, or even entirely different climate models. However, there is a need to deliver a unified product based on the ensemble members that reflects the information contained in whole of the ensemble. We propose a technique for creating linear combinations of ensemble members where the weights are constructed from estimates of variation and correlation both within and between ensemble members. At the heart of this approach is a Bayesian hierarchical model that allows for estimation of the correlation between ensemble members as well as the study of the impact of uncertainty in the parameter estimates of the hierarchical model on the weights. The approach is demonstrated on an ensemble of regional climate model (RCM) output.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:52.119215</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:55.480626</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Internal variability in the climate system gives rise to large uncertainty in projections of future climate. The uncertainty in future climate due to internal climate variability can be estimated from large ensembles of climate change simulations in which the experiment setup is the same from one ensemble member to the next but for small perturbations in the initial atmospheric state. However, large ensembles are invariably computationally expensive and susceptible to model bias. Here the authors outline an alternative approach for assessing the role of internal variability in future climate based on a simple analytic model and the statistics of the unforced climate variability. The analytic model is derived from the standard error of the regression and assumes that the statistics of the internal variability are roughly Gaussian and stationary in time. When applied to the statistics of an unforced control simulation, the analytic model provides a remarkably robust estimate of the uncertainty in future climate indicated by a large ensemble of climate change simulations. To the extent that observations can be used to estimate the amplitude of internal climate variability, it is argued that the uncertainty in future climate trends due to internal variability can be robustly estimated from the statistics of the observed climate.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Internal variability in the climate system gives rise to large uncertainty in projections of future climate. The uncertainty in future climate due to internal climate variability can be estimated from large ensembles of climate change simulations in which the experiment setup is the same from one ensemble member to the next but for small perturbations in the initial atmospheric state. However, large ensembles are invariably computationally expensive and susceptible to model bias. Here the authors outline an alternative approach for assessing the role of internal variability in future climate based on a simple analytic model and the statistics of the unforced climate variability. The analytic model is derived from the standard error of the regression and assumes that the statistics of the internal variability are roughly Gaussian and stationary in time. When applied to the statistics of an unforced control simulation, the analytic model provides a remarkably robust estimate of the uncertainty in future climate indicated by a large ensemble of climate change simulations. To the extent that observations can be used to estimate the amplitude of internal climate variability, it is argued that the uncertainty in future climate trends due to internal variability can be robustly estimated from the statistics of the observed climate.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

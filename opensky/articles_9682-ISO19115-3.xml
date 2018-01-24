@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:19.076614</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:47.311466</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>During our yearlong participation in the Surface Heat Budget of the Arctic Ocean experiment (SHEBA), we found the measured relative humidity, figured for saturation with respect to ice, to almost always be near 100%. Often, multiple humidity sensors even showed supersaturation. Four months of observations over sea ice in the Antarctic showed the same behavior. These frequent, ubiquitous, and reproducible measurements are too compelling to discount. We hypothesize that the high relative humidity is a consequence of plentiful water vapor given up by leads and polynyas. We thus develop a simple time-dependent vapor budget model that we solve analytically to assess the role of leads in supplying water vapor to the polar atmospheric boundary layer. The solution to that model shows that because the polar marine boundary layer is generally thin, its timescale for reaching moisture equilibrium is much shorter than the timescale of the synoptic processes that tend to disrupt equilibrium, and because they have relatively warm surfaces, open leads and polynyas supply water vapor more rapidly than the surrounding sea ice surface can remove it, despite an open water fractional area that may be only 5%. In concert, the two processes commonly lead to water vapor densities in the boundary layer over sea ice that are near the value for ice saturation.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[During our yearlong participation in the Surface Heat Budget of the Arctic Ocean experiment (SHEBA), we found the measured relative humidity, figured for saturation with respect to ice, to almost always be near 100%. Often, multiple humidity sensors even showed supersaturation. Four months of observations over sea ice in the Antarctic showed the same behavior. These frequent, ubiquitous, and reproducible measurements are too compelling to discount. We hypothesize that the high relative humidity is a consequence of plentiful water vapor given up by leads and polynyas. We thus develop a simple time-dependent vapor budget model that we solve analytically to assess the role of leads in supplying water vapor to the polar atmospheric boundary layer. The solution to that model shows that because the polar marine boundary layer is generally thin, its timescale for reaching moisture equilibrium is much shorter than the timescale of the synoptic processes that tend to disrupt equilibrium, and because they have relatively warm surfaces, open leads and polynyas supply water vapor more rapidly than the surrounding sea ice surface can remove it, despite an open water fractional area that may be only 5%. In concert, the two processes commonly lead to water vapor densities in the boundary layer over sea ice that are near the value for ice saturation.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

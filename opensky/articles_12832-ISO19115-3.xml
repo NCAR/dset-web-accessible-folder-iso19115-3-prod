@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:05.628227</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:50.846437</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Diurnal restratification of the ocean surface boundary layer (OSBL) represents a competition between mixing of the OSBL and solar heating. Langmuir turbulence (LT) is a mixing process in the OSBL, driven by wind and surface waves, that transfers momentum, heat, and mass. Observations in nonequilibrium swell conditions reveal that the OSBL does not restratify despite low winds and strong solar radiation. Motivated by observations, we use large-eddy simulations of the wave-averaged Navier-Stokes equations to show that LT is capable of inhibiting diurnal restratification of the OSBL. Incoming heat is redistributed vertically by LT, forming a warmer OSBL with a nearly uniform temperature. The inhibition of restratification is not reproduced by two common Reynolds-averaged Navier-Stokes equation models, highlighting the importance of properly representing sea-state dependent LT dynamics in OSBL models.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Diurnal restratification of the ocean surface boundary layer (OSBL) represents a competition between mixing of the OSBL and solar heating. Langmuir turbulence (LT) is a mixing process in the OSBL, driven by wind and surface waves, that transfers momentum, heat, and mass. Observations in nonequilibrium swell conditions reveal that the OSBL does not restratify despite low winds and strong solar radiation. Motivated by observations, we use large-eddy simulations of the wave-averaged Navier-Stokes equations to show that LT is capable of inhibiting diurnal restratification of the OSBL. Incoming heat is redistributed vertically by LT, forming a warmer OSBL with a nearly uniform temperature. The inhibition of restratification is not reproduced by two common Reynolds-averaged Navier-Stokes equation models, highlighting the importance of properly representing sea-state dependent LT dynamics in OSBL models.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

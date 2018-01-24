@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:56.382040</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:31.360562</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -343,7 +343,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In Part I of this two-part paper, a formulation was developed to treat fragmentation in ice-ice collisions. In the present Part II, the formulation is implemented in two microphysically advanced cloud models simulating a convective line observed over the U.S. high plains. One model is 2D with a spectral bin microphysics scheme. The other has a hybrid bin-two-moment bulk microphysics scheme in 3D. The case consists of cumulonimbus cells with cold cloud bases (near 0 degrees C) in a dry troposphere.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In Part I of this two-part paper, a formulation was developed to treat fragmentation in ice-ice collisions. In the present Part II, the formulation is implemented in two microphysically advanced cloud models simulating a convective line observed over the U.S. high plains. One model is 2D with a spectral bin microphysics scheme. The other has a hybrid bin-two-moment bulk microphysics scheme in 3D. The case consists of cumulonimbus cells with cold cloud bases (near 0 degrees C) in a dry troposphere.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

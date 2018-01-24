@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:48.517524</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:49.993913</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -313,7 +313,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper describes a novel, airborne pod-based millimeter wavelength radar. Its frequency of operation is 94 GHz (3 mm wavelength). The radar has been designed to fly on the NCAR Gulfstream V HIAPER aircraft; however, it could be deployed on other similarly equipped aircraft. The pod-based configuration occupies minimum cabin space and maximizes scan coverage. The radar system is capable of collecting observations in a staring mode between zenith and nadir or in a scanning mode. Standard pulse-pair estimates of moments and raw time series of backscattered signals are recorded. The radar system design and characteristics, as well as techniques for calibrating reflectivity and correcting Doppler velocity for aircraft attitude and motion are described. The radar can alternatively be deployed in a ground-based configuration, housed in the 20 ft shipping container it shares with the High Spectral Resolution Lidar (HSRL). The radar was tested both on the ground and in flight. Preliminary measurements of Doppler and polarization measurements were collected and examples are presented.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper describes a novel, airborne pod-based millimeter wavelength radar. Its frequency of operation is 94 GHz (3 mm wavelength). The radar has been designed to fly on the NCAR Gulfstream V HIAPER aircraft; however, it could be deployed on other similarly equipped aircraft. The pod-based configuration occupies minimum cabin space and maximizes scan coverage. The radar system is capable of collecting observations in a staring mode between zenith and nadir or in a scanning mode. Standard pulse-pair estimates of moments and raw time series of backscattered signals are recorded. The radar system design and characteristics, as well as techniques for calibrating reflectivity and correcting Doppler velocity for aircraft attitude and motion are described. The radar can alternatively be deployed in a ground-based configuration, housed in the 20 ft shipping container it shares with the High Spectral Resolution Lidar (HSRL). The radar was tested both on the ground and in flight. Preliminary measurements of Doppler and polarization measurements were collected and examples are presented.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

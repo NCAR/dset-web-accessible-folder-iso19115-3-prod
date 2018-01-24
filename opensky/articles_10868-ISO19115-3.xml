@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:34.804511</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:10.022566</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study compares the performance of an ensemble Kalman filter (EnKF) with both the three-dimensional and four-dimensional variational data assimilation (3DVar and 4DVar) methods of the Weather Research and Forecasting (WRF) model over the contiguous United States in a warm-season month (June) of 2003. The data assimilated every 6 h include conventional sounding and surface observations as well as data from wind profilers, ships and aircraft, and the cloud-tracked winds from satellites. The performances of these methods are evaluated through verifying the 12- to 72-h forecasts initialized twice daily from the analysis of each method against the standard sounding observations. It is found that 4DVar has consistently smaller error than that of 3DVar for winds and temperature at all forecast lead times except at 60 and 72 h when their forecast errors become comparable in amplitude, while the two schemes have similar performance in moisture at all lead times. The forecast error of the EnKF is comparable to that of the 4DVar at 12 - 36-h lead times, both of which are substantially smaller than that of the 3DVar, despite the fact that 3DVar fits the sounding observations much more closely at the analysis time. The advantage of the EnKF becomes even more evident at 48 - 72-h lead times; the 72-h forecast error of the EnKF is comparable in magnitude to the 48-h error of 3DVar/4DVar.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study compares the performance of an ensemble Kalman filter (EnKF) with both the three-dimensional and four-dimensional variational data assimilation (3DVar and 4DVar) methods of the Weather Research and Forecasting (WRF) model over the contiguous United States in a warm-season month (June) of 2003. The data assimilated every 6 h include conventional sounding and surface observations as well as data from wind profilers, ships and aircraft, and the cloud-tracked winds from satellites. The performances of these methods are evaluated through verifying the 12- to 72-h forecasts initialized twice daily from the analysis of each method against the standard sounding observations. It is found that 4DVar has consistently smaller error than that of 3DVar for winds and temperature at all forecast lead times except at 60 and 72 h when their forecast errors become comparable in amplitude, while the two schemes have similar performance in moisture at all lead times. The forecast error of the EnKF is comparable to that of the 4DVar at 12 - 36-h lead times, both of which are substantially smaller than that of the 3DVar, despite the fact that 3DVar fits the sounding observations much more closely at the analysis time. The advantage of the EnKF becomes even more evident at 48 - 72-h lead times; the 72-h forecast error of the EnKF is comparable in magnitude to the 48-h error of 3DVar/4DVar.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

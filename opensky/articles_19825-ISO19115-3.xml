@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:50.834556</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:22.967433</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Gravity wave forcing near the mesopause drives a summer-to-winter residual circulation in the mesosphere and a reversed, lower thermospheric winter-to-summer residual circulation. We conducted modeling studies to investigate how this lower thermospheric residual circulation impacts thermospheric composition (O/N-2). We found that the upwelling associated with the residual circulation significantly decreases O/N-2 in winter and the downwelling in summer slightly increases O/N-2. Consequently, the residual circulation reduces the summer-to-winter latitudinal gradient of O/N-2, which causes the simulated latitudinal gradient of O/N-2 to be more consistent with observations. The smaller summer-to-winter latitudinal gradient of O/N-2 would decrease the ionosphere winter anomaly in model simulations, which would bring the simulated winter anomaly into better agreement with ionospheric observations. The lower thermospheric residual circulation may be a process that has been largely ignored but is very important to the summer-to-winter latitudinal gradients, as well as annual/semiannual variations in the thermosphere and ionosphere.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Gravity wave forcing near the mesopause drives a summer-to-winter residual circulation in the mesosphere and a reversed, lower thermospheric winter-to-summer residual circulation. We conducted modeling studies to investigate how this lower thermospheric residual circulation impacts thermospheric composition (O/N-2). We found that the upwelling associated with the residual circulation significantly decreases O/N-2 in winter and the downwelling in summer slightly increases O/N-2. Consequently, the residual circulation reduces the summer-to-winter latitudinal gradient of O/N-2, which causes the simulated latitudinal gradient of O/N-2 to be more consistent with observations. The smaller summer-to-winter latitudinal gradient of O/N-2 would decrease the ionosphere winter anomaly in model simulations, which would bring the simulated winter anomaly into better agreement with ionospheric observations. The lower thermospheric residual circulation may be a process that has been largely ignored but is very important to the summer-to-winter latitudinal gradients, as well as annual/semiannual variations in the thermosphere and ionosphere.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

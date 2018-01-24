@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:05.517654</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:27.672388</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Integrated water vapor (IWV) estimates derived from four different Special Sensor Microwave Imager (SSM/I) algorithms are collocated and compared with IWV retrievals using Global Positioning System radio occultation (GPSRO) soundings from the Constellation Observing System for Meteorology, Ionosphere, and Climate (COSMIC) mission. The values exhibit strong overall agreement lending support for the accuracy of both the COSMIC data and the traditional passive microwave IWV products. Differences among the products varying with latitude, cloud liquid water content, rain rate, and wind speed highlight key differences between the SSM/I algorithms. Additional differences related to the coarser COSMIC spatial resolution are also observed but are independent from the other dependencies. The differences appear independent of the bottom altitude of the GPSRO soundings. The results suggest a new method of quantifying the uncertainty in individual IWV retrievals as functions of coincident environmental parameters for application to data assimilation and numerical weather prediction.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Integrated water vapor (IWV) estimates derived from four different Special Sensor Microwave Imager (SSM/I) algorithms are collocated and compared with IWV retrievals using Global Positioning System radio occultation (GPSRO) soundings from the Constellation Observing System for Meteorology, Ionosphere, and Climate (COSMIC) mission. The values exhibit strong overall agreement lending support for the accuracy of both the COSMIC data and the traditional passive microwave IWV products. Differences among the products varying with latitude, cloud liquid water content, rain rate, and wind speed highlight key differences between the SSM/I algorithms. Additional differences related to the coarser COSMIC spatial resolution are also observed but are independent from the other dependencies. The differences appear independent of the bottom altitude of the GPSRO soundings. The results suggest a new method of quantifying the uncertainty in individual IWV retrievals as functions of coincident environmental parameters for application to data assimilation and numerical weather prediction.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

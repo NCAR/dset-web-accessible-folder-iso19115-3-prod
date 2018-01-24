@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:20.486210</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:49.306894</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -189,7 +189,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Decades of cloud microphysical research have not provided conclusive understanding of the physical processes responsible for droplet spectral broadening. Numerous mechanisms have been proposed?for example, entrainment mixing, vortex shedding, giant cloud condensation nuclei (CCN), chemical processing of CCN, and radiative cooling?all of which are likely candidates under select conditions. In this paper it is suggested that variability in the composition of CCN, and in particular, the existence of condensation inhibiting compounds, is another possible candidate. The inferred potential abundance of these amphiphilic film-forming compounds (FFCs) suggests that their effect may be important. Using a cloud parcel model with a simplified treatment of the effect of FFCs, it is shown that modest concentrations of FFCs (on the order of 5% of the total aerosol mass) can have a marked effect on drop growth and can cause significant increases in spectral dispersions. Moreover, it is shown that FFCs may, in some cases, reduce the number concentration of cloud droplets, with implications for cloud-climate feedbacks. This trend is at least in qualitative agreement with results from a recent field campaign.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Decades of cloud microphysical research have not provided conclusive understanding of the physical processes responsible for droplet spectral broadening. Numerous mechanisms have been proposed?for example, entrainment mixing, vortex shedding, giant cloud condensation nuclei (CCN), chemical processing of CCN, and radiative cooling?all of which are likely candidates under select conditions. In this paper it is suggested that variability in the composition of CCN, and in particular, the existence of condensation inhibiting compounds, is another possible candidate. The inferred potential abundance of these amphiphilic film-forming compounds (FFCs) suggests that their effect may be important. Using a cloud parcel model with a simplified treatment of the effect of FFCs, it is shown that modest concentrations of FFCs (on the order of 5% of the total aerosol mass) can have a marked effect on drop growth and can cause significant increases in spectral dispersions. Moreover, it is shown that FFCs may, in some cases, reduce the number concentration of cloud droplets, with implications for cloud-climate feedbacks. This trend is at least in qualitative agreement with results from a recent field campaign.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

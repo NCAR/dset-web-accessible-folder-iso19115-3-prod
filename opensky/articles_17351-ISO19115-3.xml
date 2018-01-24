@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:03.393115</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:11.786761</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We describe a method for obtaining single-path phase delays from GPS double differences. The resulting "zero differences" (ZDs) can be used for remote sensing of atmospheric water vapor. The method is demonstrated by simulating and observing atmospheric delay gradients, and by comparing ZDs with pointed radiometer observations of integrated water vapor along GPS ray paths. In-situ GPS antenna phase center and multipath effects are mapped in ZD residuals for a specific site and network. We conclude that ZDs derived from GPS network data show promise for real time sensing of water vapor for use in meteorological modeling and forecasting.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We describe a method for obtaining single-path phase delays from GPS double differences. The resulting "zero differences" (ZDs) can be used for remote sensing of atmospheric water vapor. The method is demonstrated by simulating and observing atmospheric delay gradients, and by comparing ZDs with pointed radiometer observations of integrated water vapor along GPS ray paths. In-situ GPS antenna phase center and multipath effects are mapped in ZD residuals for a specific site and network. We conclude that ZDs derived from GPS network data show promise for real time sensing of water vapor for use in meteorological modeling and forecasting.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

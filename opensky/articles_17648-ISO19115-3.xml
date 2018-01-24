@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:11.052905</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:22.665580</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Recent idealized studies examined the sensitivity of topographically forced rain and snowfall to changes in mountain geometry and upwind sounding in moist stable and neutral environments. These studies were restricted by necessity to small ensembles of carefully chosen simulations. Research presented here extends earlier studies by utilizing a Bayesian Markov chain Monte Carlo (MCMC) algorithm to create a large ensemble of simulations, all of which produce precipitation concentrated on the upwind slope of an idealized Gaussian bell-shaped mountain. MCMC-based probabilistic analysis yields information about the combinations of sounding and mountain geometry favorable for upslope rain, as well as the sensitivity of orographic precipitation to changes in mountain geometry and upwind sounding. Exploration of the multivariate sensitivity of rainfall to changes in parameters also reveals a nonunique solution: multiple combinations of flow, topography, and environment produce similar surface rainfall amount and distribution. Finally, the results also divulge that the nonunique solutions have different sensitivity profiles, and that changes in observation uncertainty also alter model sensitivity to input parameters.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Recent idealized studies examined the sensitivity of topographically forced rain and snowfall to changes in mountain geometry and upwind sounding in moist stable and neutral environments. These studies were restricted by necessity to small ensembles of carefully chosen simulations. Research presented here extends earlier studies by utilizing a Bayesian Markov chain Monte Carlo (MCMC) algorithm to create a large ensemble of simulations, all of which produce precipitation concentrated on the upwind slope of an idealized Gaussian bell-shaped mountain. MCMC-based probabilistic analysis yields information about the combinations of sounding and mountain geometry favorable for upslope rain, as well as the sensitivity of orographic precipitation to changes in mountain geometry and upwind sounding. Exploration of the multivariate sensitivity of rainfall to changes in parameters also reveals a nonunique solution: multiple combinations of flow, topography, and environment produce similar surface rainfall amount and distribution. Finally, the results also divulge that the nonunique solutions have different sensitivity profiles, and that changes in observation uncertainty also alter model sensitivity to input parameters.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

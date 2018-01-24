@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:34.133747</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:09.179428</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Parameter uncertainty in atmospheric model forcing and closure schemes has motivated both parameter estimation with data assimilation and use of pre-specified distributions to simulate model uncertainty in short-range ensemble prediction. This work assesses the potential for parameter estimation and ensemble prediction by analysing 2 months of mesoscale ensemble predictions in which each member uses distinct, and fixed, settings for four model parameters. A space-filling parameter selection design leads to a unique parameter set for each ensemble member. An experiment to test linear scaling between parameter distribution width and ensemble spread shows the lack of a general linear response to parameters. Individual member near-surface spatial means, spatial variances and skill show that perturbed models are typically indistinguishable. Parameter--state rank correlation fields are not statistically significant, although the presence of other sources of noise may mask true correlations. Results suggest that ensemble prediction using perturbed parameters may be a simple complement to more complex model-error simulation methods, but that parameter estimation may prove difficult or costly for real mesoscale numerical weather prediction applications.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Parameter uncertainty in atmospheric model forcing and closure schemes has motivated both parameter estimation with data assimilation and use of pre-specified distributions to simulate model uncertainty in short-range ensemble prediction. This work assesses the potential for parameter estimation and ensemble prediction by analysing 2 months of mesoscale ensemble predictions in which each member uses distinct, and fixed, settings for four model parameters. A space-filling parameter selection design leads to a unique parameter set for each ensemble member. An experiment to test linear scaling between parameter distribution width and ensemble spread shows the lack of a general linear response to parameters. Individual member near-surface spatial means, spatial variances and skill show that perturbed models are typically indistinguishable. Parameter--state rank correlation fields are not statistically significant, although the presence of other sources of noise may mask true correlations. Results suggest that ensemble prediction using perturbed parameters may be a simple complement to more complex model-error simulation methods, but that parameter estimation may prove difficult or costly for real mesoscale numerical weather prediction applications.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

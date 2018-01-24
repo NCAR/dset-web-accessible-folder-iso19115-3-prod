@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:28.491414</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:48.722273</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Current estimates of the height of the Laurentide Ice Sheet (LIS) at the Last Glacial Maximum (LGM) range from around 3000 to 4500 m. Modeling studies of the LGM, using low-end estimates of the LIS height, show a relatively weak and northeastward-tilted winter jet in the North Atlantic, similar to the modern jet, while simulations with high-end LIS elevations show a much more intense and zonally oriented jet. Here, an explanation for this response of the Atlantic circulation is sought using a sequence of LGM simulations spanning a broad range of LIS elevations. It is found that increasing LIS height favors planetary wave breaking and nonlinear reflection in the subtropical North Atlantic. For high LIS elevations, planetary wave reflection becomes sufficiently prevalent that a poleward-directed flux of wave activity appears in the climatology over the midlatitude North Atlantic. This entails a zonalization of the stationary wave phase lines and thus of the midlatitude jet.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Current estimates of the height of the Laurentide Ice Sheet (LIS) at the Last Glacial Maximum (LGM) range from around 3000 to 4500 m. Modeling studies of the LGM, using low-end estimates of the LIS height, show a relatively weak and northeastward-tilted winter jet in the North Atlantic, similar to the modern jet, while simulations with high-end LIS elevations show a much more intense and zonally oriented jet. Here, an explanation for this response of the Atlantic circulation is sought using a sequence of LGM simulations spanning a broad range of LIS elevations. It is found that increasing LIS height favors planetary wave breaking and nonlinear reflection in the subtropical North Atlantic. For high LIS elevations, planetary wave reflection becomes sufficiently prevalent that a poleward-directed flux of wave activity appears in the climatology over the midlatitude North Atlantic. This entails a zonalization of the stationary wave phase lines and thus of the midlatitude jet.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

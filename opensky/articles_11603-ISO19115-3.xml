@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:37.002228</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:12.976753</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -613,7 +613,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The fate of deepwater releases of gas and oil mixtures is initially determined by solubility and volatility of individual hydrocarbon species; these attributes determine partitioning between air and water. Quantifying this partitioning is necessary to constrain simulations of gas and oil transport, to predict marine bioavailability of different fractions of the gas-oil mixture, and to develop a comprehensive picture of the fate of leaked hydrocarbons in the marine environment. Analysis of airborne atmospheric data shows massive amounts (~258,000 kg/day) of hydrocarbons evaporating promptly from the Deepwater Horizon spill; these data collected during two research flights constrain air-water partitioning, thus bioavailability and fate, of the leaked fluid. This analysis quantifies the fraction of surfacing hydrocarbons that dissolves in the water column (~33% by mass), the fraction that does not dissolve, and the fraction that evaporates promptly after surfacing (~14% by mass). We do not quantify the leaked fraction lacking a surface expression; therefore, calculation of atmospheric mass fluxes provides a lower limit to the total hydrocarbon leak rate of 32,600 to 47,700 barrels of fluid per day, depending on reservoir fluid composition information. This study demonstrates a new approach for rapid-response airborne assessment of future oil spills.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The fate of deepwater releases of gas and oil mixtures is initially determined by solubility and volatility of individual hydrocarbon species; these attributes determine partitioning between air and water. Quantifying this partitioning is necessary to constrain simulations of gas and oil transport, to predict marine bioavailability of different fractions of the gas-oil mixture, and to develop a comprehensive picture of the fate of leaked hydrocarbons in the marine environment. Analysis of airborne atmospheric data shows massive amounts (~258,000 kg/day) of hydrocarbons evaporating promptly from the Deepwater Horizon spill; these data collected during two research flights constrain air-water partitioning, thus bioavailability and fate, of the leaked fluid. This analysis quantifies the fraction of surfacing hydrocarbons that dissolves in the water column (~33% by mass), the fraction that does not dissolve, and the fraction that evaporates promptly after surfacing (~14% by mass). We do not quantify the leaked fraction lacking a surface expression; therefore, calculation of atmospheric mass fluxes provides a lower limit to the total hydrocarbon leak rate of 32,600 to 47,700 barrels of fluid per day, depending on reservoir fluid composition information. This study demonstrates a new approach for rapid-response airborne assessment of future oil spills.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

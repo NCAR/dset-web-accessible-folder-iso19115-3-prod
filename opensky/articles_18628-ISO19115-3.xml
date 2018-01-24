@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:27.846722</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:47.734086</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This article describes the extreme value analysis (EVA) R package extRemes version 2.0, which is completely redesigned from previous versions. The functions primarily provide utilities for implementing univariate EVA, with a focus on weather and climate applications, including the incorporation of covariates, as well as some functionality for assessing bivariate tail dependence.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This article describes the extreme value analysis (EVA) R package extRemes version 2.0, which is completely redesigned from previous versions. The functions primarily provide utilities for implementing univariate EVA, with a focus on weather and climate applications, including the incorporation of covariates, as well as some functionality for assessing bivariate tail dependence.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

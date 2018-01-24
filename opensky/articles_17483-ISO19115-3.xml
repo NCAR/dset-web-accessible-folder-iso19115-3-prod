@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:06.613667</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:16.341231</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -463,7 +463,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>During 15 August through 30 September 2006 (Special Observing Period 3, SOP3), key weather measurements are obtained from ground and aircraft platforms during the African Monsoon Multidisciplinary Analysis campaign. Key measurements are aimed at investigating African easterly waves (AEWs) and mesoscale convective systems in a coastal environment as they transition to the eastern Atlantic Ocean. Ground and aircraft instruments include polarimetric radar, a coarse and a high-density rain gauge network, surface chemical measurements, 12 m meteorological measurement, broadband IR, solar and microwave measurements, rawinsonde, aircraft dropsonde, lidar, and cloud radar measurements. Ground observations during SOP3 show that Senegal was influenced by 5 squall lines, 6 Saharan air layer intrusions, and 10 AEWs. Downstream tropical cyclones developed were associated with the passage of four AEWs. FA-20 aircraft measurements of microphysical aspects of 22 September squall line and several nondeveloping AEWs over the extreme eastern Atlantic Ocean are presented.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[During 15 August through 30 September 2006 (Special Observing Period 3, SOP3), key weather measurements are obtained from ground and aircraft platforms during the African Monsoon Multidisciplinary Analysis campaign. Key measurements are aimed at investigating African easterly waves (AEWs) and mesoscale convective systems in a coastal environment as they transition to the eastern Atlantic Ocean. Ground and aircraft instruments include polarimetric radar, a coarse and a high-density rain gauge network, surface chemical measurements, 12 m meteorological measurement, broadband IR, solar and microwave measurements, rawinsonde, aircraft dropsonde, lidar, and cloud radar measurements. Ground observations during SOP3 show that Senegal was influenced by 5 squall lines, 6 Saharan air layer intrusions, and 10 AEWs. Downstream tropical cyclones developed were associated with the passage of four AEWs. FA-20 aircraft measurements of microphysical aspects of 22 September squall line and several nondeveloping AEWs over the extreme eastern Atlantic Ocean are presented.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

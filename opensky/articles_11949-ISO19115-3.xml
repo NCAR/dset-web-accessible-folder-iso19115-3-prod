@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:44.518407</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:23.786702</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Large-scale Rossby normal modes are studied for the Northern Hemisphere winters of 2005, 2006, 2008, and 2009 using global observational meteorological analyses spanning the 0--92-km altitude range. Spectral analysis of geopotential height fields shows pronounced peaks at westward-propagating zonal wavenumber 1 near the theoretical locations of the free Rossby waves at 25, 16, 10, and 5 days that, in some cases, have amplitudes significantly larger than the estimated background spectrum. Evidence is also found for a wavenumber-2 free mode near 4 days. A coherence analysis is used to extract the amplitude and phase of the waves, and to isolate those regions of the latitude/altitude plane where the signals are statistically significant. Although the spectral location, temporal evolution, and vertical structure of several of these waves are suggestive of the presence of Rossby normal modes, this study shows that in the real atmosphere the waves only occasionally have the global properties of classical normal modes. Moreover, no evidence is found that the amplitudes of these modes are enhanced during stratospheric sudden warmings.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Large-scale Rossby normal modes are studied for the Northern Hemisphere winters of 2005, 2006, 2008, and 2009 using global observational meteorological analyses spanning the 0--92-km altitude range. Spectral analysis of geopotential height fields shows pronounced peaks at westward-propagating zonal wavenumber 1 near the theoretical locations of the free Rossby waves at 25, 16, 10, and 5 days that, in some cases, have amplitudes significantly larger than the estimated background spectrum. Evidence is also found for a wavenumber-2 free mode near 4 days. A coherence analysis is used to extract the amplitude and phase of the waves, and to isolate those regions of the latitude/altitude plane where the signals are statistically significant. Although the spectral location, temporal evolution, and vertical structure of several of these waves are suggestive of the presence of Rossby normal modes, this study shows that in the real atmosphere the waves only occasionally have the global properties of classical normal modes. Moreover, no evidence is found that the amplitudes of these modes are enhanced during stratospheric sudden warmings.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

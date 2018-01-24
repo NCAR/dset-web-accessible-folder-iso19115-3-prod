@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:48.481534</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:49.945258</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -373,7 +373,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This work advances a unified approach to process-based hydrologic modeling to enable controlled and systematic evaluation of multiple model representations (hypotheses) of hydrologic processes and scaling behavior. Our approach, which we term the Structure for Unifying Multiple Modeling Alternatives (SUMMA), formulates a general set of conservation equations, providing the flexibility to experiment with different spatial representations, different flux parameterizations, different model parameter values, and different time stepping schemes. In this paper, we introduce the general approach used in SUMMA, detailing the spatial organization and model simplifications, and how different representations of multiple physical processes can be combined within a single modeling framework. We discuss how SUMMA can be used to systematically pursue the method of multiple working hypotheses in hydrology. In particular, we discuss how SUMMA can help tackle major hydrologic modeling challenges, including defining the appropriate complexity of a model, selecting among competing flux parameterizations, representing spatial variability across a hierarchy of scales, identifying potential improvements in computational efficiency and numerical accuracy as part of the numerical solver, and improving understanding of the various sources of model uncertainty.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This work advances a unified approach to process-based hydrologic modeling to enable controlled and systematic evaluation of multiple model representations (hypotheses) of hydrologic processes and scaling behavior. Our approach, which we term the Structure for Unifying Multiple Modeling Alternatives (SUMMA), formulates a general set of conservation equations, providing the flexibility to experiment with different spatial representations, different flux parameterizations, different model parameter values, and different time stepping schemes. In this paper, we introduce the general approach used in SUMMA, detailing the spatial organization and model simplifications, and how different representations of multiple physical processes can be combined within a single modeling framework. We discuss how SUMMA can be used to systematically pursue the method of multiple working hypotheses in hydrology. In particular, we discuss how SUMMA can help tackle major hydrologic modeling challenges, including defining the appropriate complexity of a model, selecting among competing flux parameterizations, representing spatial variability across a hierarchy of scales, identifying potential improvements in computational efficiency and numerical accuracy as part of the numerical solver, and improving understanding of the various sources of model uncertainty.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

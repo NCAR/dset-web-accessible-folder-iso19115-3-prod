@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:01.279962</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:45.401045</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Closure of the water and energy cycles for North America has been improved by combining several new data sets to provide an integrated view from 1979 to 2010. We use new global atmospheric reanalyses, top-of-atmosphere radiation, surface fluxes including evaporation E and precipitation P, streamflow and river discharge, and Gravity Recovery and Climate Experiment estimates of water storage and its tendency. The atmospheric moisture budget provides more reliable estimates and reproducible time series of E-P than separate estimates of E and P. The excess of P over E is greatest in winter largely because of changing evapotranspiration, whereas precipitation is largest in summer. The annual mean loss of energy to space of 33Wm-2 is compensated for nearly equally by transports of dry static energy and latent energy onto land. The annual cycle (amplitude of ~20Wm-2) of implied downward surface flux corresponds to changes in surface and soil temperatures and seasonal snowmelt.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Closure of the water and energy cycles for North America has been improved by combining several new data sets to provide an integrated view from 1979 to 2010. We use new global atmospheric reanalyses, top-of-atmosphere radiation, surface fluxes including evaporation E and precipitation P, streamflow and river discharge, and Gravity Recovery and Climate Experiment estimates of water storage and its tendency. The atmospheric moisture budget provides more reliable estimates and reproducible time series of E-P than separate estimates of E and P. The excess of P over E is greatest in winter largely because of changing evapotranspiration, whereas precipitation is largest in summer. The annual mean loss of energy to space of 33Wm-2 is compensated for nearly equally by transports of dry static energy and latent energy onto land. The annual cycle (amplitude of ~20Wm-2) of implied downward surface flux corresponds to changes in surface and soil temperatures and seasonal snowmelt.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

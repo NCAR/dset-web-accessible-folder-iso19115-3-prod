@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:21.970622</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:51.540644</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Wind setdown is the drop in water level caused by wind stress acting on the surface of a body of water for an extended period of time. As the wind blows, water recedes from the upwind shore and exposes terrain that was formerly underwater. Previous researchers have suggested wind setdown as a possible hydrodynamic explanation for Moses crossing the Red Sea, as described in Exodus 14.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Wind setdown is the drop in water level caused by wind stress acting on the surface of a body of water for an extended period of time. As the wind blows, water recedes from the upwind shore and exposes terrain that was formerly underwater. Previous researchers have suggested wind setdown as a possible hydrodynamic explanation for Moses crossing the Red Sea, as described in Exodus 14.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

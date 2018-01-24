@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:38.709774</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:04.926521</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Planetary heating can be quantified using top of the atmosphere energy fluxes or through monitoring the heat content of the Earth system. It has been difficult, however, to compare the two methods with each other because of biases in satellite measurements and incomplete spatial coverage of ocean observations. Here we focus on the the seasonal cycle whose amplitude is large relative to satellite biases and observational errors. The seasonal budget can be closed through inferring contributions from high-latitude oceans and marginal seas using the covariance structure of National Center for Atmospheric Research (NCAR) Community Earth System Model (CESM1). In contrast, if these regions are approximated as the average across well-observed regions, the amplitude of the seasonal cycle is overestimated relative to satellite constraints. Analysis of the same CESM1 simulation indicates that complete measurement of the upper ocean would increase the magnitude and precision of interannual trend estimates in ocean heating more than fully measuring the deep ocean.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Planetary heating can be quantified using top of the atmosphere energy fluxes or through monitoring the heat content of the Earth system. It has been difficult, however, to compare the two methods with each other because of biases in satellite measurements and incomplete spatial coverage of ocean observations. Here we focus on the the seasonal cycle whose amplitude is large relative to satellite biases and observational errors. The seasonal budget can be closed through inferring contributions from high-latitude oceans and marginal seas using the covariance structure of National Center for Atmospheric Research (NCAR) Community Earth System Model (CESM1). In contrast, if these regions are approximated as the average across well-observed regions, the amplitude of the seasonal cycle is overestimated relative to satellite constraints. Analysis of the same CESM1 simulation indicates that complete measurement of the upper ocean would increase the magnitude and precision of interannual trend estimates in ocean heating more than fully measuring the deep ocean.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

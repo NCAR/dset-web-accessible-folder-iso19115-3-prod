@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:24.345930</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:15.078559</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The liquid water content and drop diameters in supercooled clouds have been measured since the 1940s at the summit of Mount Washington in New Hampshire using a rotating multicylinder. Many of the cloud microphysics models in the Weather Research and Forecasting Model (WRF) assume a gamma distribution for cloud drops. In this paper, years of multicylinder data are reanalyzed to determine the best-fitting gamma or monodisperse distribution to compare with parameters in the WRF cloud models. The single-moment cloud schemes specify a predetermined and constant drop number density in clouds, which leads to a fixed relationship between the median volume drop diameter and the liquid water content. The Mount Washington drop number densities are generally larger and best-fit distributions are generally narrower than is typically assumed in WRF.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The liquid water content and drop diameters in supercooled clouds have been measured since the 1940s at the summit of Mount Washington in New Hampshire using a rotating multicylinder. Many of the cloud microphysics models in the Weather Research and Forecasting Model (WRF) assume a gamma distribution for cloud drops. In this paper, years of multicylinder data are reanalyzed to determine the best-fitting gamma or monodisperse distribution to compare with parameters in the WRF cloud models. The single-moment cloud schemes specify a predetermined and constant drop number density in clouds, which leads to a fixed relationship between the median volume drop diameter and the liquid water content. The Mount Washington drop number densities are generally larger and best-fit distributions are generally narrower than is typically assumed in WRF.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

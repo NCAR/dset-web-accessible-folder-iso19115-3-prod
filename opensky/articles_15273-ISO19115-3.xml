@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:36.459912</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:31.998509</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Global aerosol-climate models with prognostic treatment of cloud droplet number concentration (CDNC) often prescribe lower bounds for CDNC or aerosol concentrations. Here we demonstrate that this possibly unphysical constraint reduces the simulated aerosol indirect effect by up to 80%, caused by extensively uniform CDNCs. In present-day conditions, the impact of the prescribed lower bound for CDNC is mainly visible over oceans, while with preindustrial emissions, large parts of both land and ocean areas are influenced. We furthermore show that imposing the same constraints on aerosol instead of on CDNC reduces the aerosol indirect effect to a lesser extent.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Global aerosol-climate models with prognostic treatment of cloud droplet number concentration (CDNC) often prescribe lower bounds for CDNC or aerosol concentrations. Here we demonstrate that this possibly unphysical constraint reduces the simulated aerosol indirect effect by up to 80%, caused by extensively uniform CDNCs. In present-day conditions, the impact of the prescribed lower bound for CDNC is mainly visible over oceans, while with preindustrial emissions, large parts of both land and ocean areas are influenced. We furthermore show that imposing the same constraints on aerosol instead of on CDNC reduces the aerosol indirect effect to a lesser extent.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:39.002578</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:05.391279</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We present the first simulations of magnetospheric sawtooth oscillations under steady solar wind conditions that are driven internally by heavy ion outflow from a physics-based model. The simulations presented use the multifluid Lyon-Fedder-Mobarry magnetohydrodynamics model two-way coupled to the ionosphere/polar wind model (IPWM). Depending on the type of wave-particle interactions utilized within IPWM, the coupled simulations exhibit either sawtooth oscillations or steady magnetospheric convection. Contrasting the simulations that do and do not develop sawtooth oscillations yields insights into the relationship between outflow and sawtooth oscillations. The total outflow rate is not an adequate predictor of the convection mode that will emerge. The simulations that develop sawtooth oscillations are characterized by intense outflow concentrated in the midnight auroral region. This outflow distribution mass loads the tail reconnection region without excessively mass loading the dayside reconnection region and leads to an imbalance between the dayside and nightside reconnection rates.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We present the first simulations of magnetospheric sawtooth oscillations under steady solar wind conditions that are driven internally by heavy ion outflow from a physics-based model. The simulations presented use the multifluid Lyon-Fedder-Mobarry magnetohydrodynamics model two-way coupled to the ionosphere/polar wind model (IPWM). Depending on the type of wave-particle interactions utilized within IPWM, the coupled simulations exhibit either sawtooth oscillations or steady magnetospheric convection. Contrasting the simulations that do and do not develop sawtooth oscillations yields insights into the relationship between outflow and sawtooth oscillations. The total outflow rate is not an adequate predictor of the convection mode that will emerge. The simulations that develop sawtooth oscillations are characterized by intense outflow concentrated in the midnight auroral region. This outflow distribution mass loads the tail reconnection region without excessively mass loading the dayside reconnection region and leads to an imbalance between the dayside and nightside reconnection rates.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

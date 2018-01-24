@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:16.989487</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:45.995560</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[Because of its chemical and radiative properties, atmospheric ozone constitutes a key element of the Earth's climate system. Absorption of sunlight by ozone in the ultraviolet wavelength range is responsible for stratospheric heating, and determines the temperature structure of the middle atmosphere. Changes in middle atmospheric ozone concentrations result in an altered radiative input to the troposphere and to the Earth's surface, with implications on the energy balance and the chemical composition of the lower atmosphere. Although a wide range of ground- and satellite-based measurements of its integrated content and of its vertical distribution have been performed since several decades, a number of uncertainties still remain as to the response of middle atmospheric ozone to changes in solar irradiance over decadal time scales. This paper presents an overview of achieved findings, including a discussion of commonly applied data analysis methods and of their implication for the obtained results. We suggest that because it does not imply least-squares fitting of prescribed periodic or proxy data functions into the considered times series, time-domain analysis provides a more reliable method than multiple regression analysis for extracting decadal-scale signals from observational ozone datasets. Applied to decadal ground-based observations, time-domain analysis indicates an average middle atmospheric ozone increase of the order of 2% from solar minimum to solar maximum, which is in reasonable agreement with model results.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

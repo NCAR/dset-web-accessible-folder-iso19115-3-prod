@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:48.564303</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:29.086948</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The goal of this work is to characterize the annual temperature for regional climate models. Of interest for impacts studies, these profiles and the potential change in these profiles are a new way to describe climate change and the inherent uncertainty. To that end, we propose a Bayesian hierarchical spatial model to simultaneously model the temperature profile for the four seasons of the year, current and future. These profiles are then analyzed focusing on understanding how they change over time, how they vary spatially, and how they vary between five different regional climate models. The results show that for temperature, the regional models have different profile shapes depending on a number of factors including spatial location, driving climate model, and regional climate model. This article has supplementary material online.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The goal of this work is to characterize the annual temperature for regional climate models. Of interest for impacts studies, these profiles and the potential change in these profiles are a new way to describe climate change and the inherent uncertainty. To that end, we propose a Bayesian hierarchical spatial model to simultaneously model the temperature profile for the four seasons of the year, current and future. These profiles are then analyzed focusing on understanding how they change over time, how they vary spatially, and how they vary between five different regional climate models. The results show that for temperature, the regional models have different profile shapes depending on a number of factors including spatial location, driving climate model, and regional climate model. This article has supplementary material online.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

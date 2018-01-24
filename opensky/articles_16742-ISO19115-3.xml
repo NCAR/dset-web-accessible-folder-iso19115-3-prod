@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:49.306768</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:51.158595</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper examines the impact of the dynamical core on the simulation of tropical cyclone (TC) frequency, distribution, and intensity. The dynamical core, the central fluid flow component of any general circulation model (GCM), is often overlooked in the analysis of a model's ability to simulate TCs compared to the impact of more commonly documented components (e.g., physical parameterizations). The Community Atmosphere Model version 5 is configured with multiple dynamics packages. This analysis demonstrates that the dynamical core has a significant impact on storm intensity and frequency, even in the presence of similar large-scale environments. In particular, the spectral element core produces stronger TCs and more hurricanes than the finite-volume core using very similar parameterization packages despite the latter having a slightly more favorable TC environment. The results suggest that more detailed investigations into the impact of the GCM dynamical core on TC climatology are needed to fully understand these uncertainties.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper examines the impact of the dynamical core on the simulation of tropical cyclone (TC) frequency, distribution, and intensity. The dynamical core, the central fluid flow component of any general circulation model (GCM), is often overlooked in the analysis of a model's ability to simulate TCs compared to the impact of more commonly documented components (e.g., physical parameterizations). The Community Atmosphere Model version 5 is configured with multiple dynamics packages. This analysis demonstrates that the dynamical core has a significant impact on storm intensity and frequency, even in the presence of similar large-scale environments. In particular, the spectral element core produces stronger TCs and more hurricanes than the finite-volume core using very similar parameterization packages despite the latter having a slightly more favorable TC environment. The results suggest that more detailed investigations into the impact of the GCM dynamical core on TC climatology are needed to fully understand these uncertainties.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

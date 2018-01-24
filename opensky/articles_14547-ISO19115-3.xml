@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:33.375373</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:27.490348</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Global climate models that do not include interactive middle atmosphere chemistry, such as most of those contributing to the Coupled Model Intercomparison Project Phase 5, typically specify stratospheric ozone using monthly mean, zonal mean values and linearly interpolate to the time resolution of the model. We show that this method leads to significant biases in the simulated climate of the southern hemisphere (SH) over the late twentieth century. Previous studies have attributed similar biases in simulated SH climate change to the effect of the spatial smoothing of the specified ozone, i.e., to using zonal mean concentrations. We here show that the bias in climate trends due to undersampling of the rapid temporal changes in ozone during the seasonal evolution of the Antarctic ozone hole is considerable and reaches all the way into the troposphere. Our results suggest that the bias can be substantially reduced by specifying daily ozone concentrations.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Global climate models that do not include interactive middle atmosphere chemistry, such as most of those contributing to the Coupled Model Intercomparison Project Phase 5, typically specify stratospheric ozone using monthly mean, zonal mean values and linearly interpolate to the time resolution of the model. We show that this method leads to significant biases in the simulated climate of the southern hemisphere (SH) over the late twentieth century. Previous studies have attributed similar biases in simulated SH climate change to the effect of the spatial smoothing of the specified ozone, i.e., to using zonal mean concentrations. We here show that the bias in climate trends due to undersampling of the rapid temporal changes in ozone during the seasonal evolution of the Antarctic ozone hole is considerable and reaches all the way into the troposphere. Our results suggest that the bias can be substantially reduced by specifying daily ozone concentrations.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

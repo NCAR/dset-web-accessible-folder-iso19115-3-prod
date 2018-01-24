@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:18.692771</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:07.417515</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The recent HIWIND (High-Altitude Interferometer Wind Observations) balloon measurements have revealed persistent equatorward winds in the dayside thermosphere during geomagnetically quiet times. Although this result does not agree with some current thermospheric density models, it is consistent with an earlier thermospheric density model (M1975) which includes the energy input through the magnetospheric dayside cusps during geomagnetically quiet times. We show the thermospheric density distribution with and without the magnetospheric input to illustrate the effect of the density gradient on the winds at high latitudes. We review the early history of the development of our understanding of the energy input to the high-latitude thermosphere. Future HIWIND measurements can add to our understanding and lead to improved models of thermospheric densities and winds.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The recent HIWIND (High-Altitude Interferometer Wind Observations) balloon measurements have revealed persistent equatorward winds in the dayside thermosphere during geomagnetically quiet times. Although this result does not agree with some current thermospheric density models, it is consistent with an earlier thermospheric density model (M1975) which includes the energy input through the magnetospheric dayside cusps during geomagnetically quiet times. We show the thermospheric density distribution with and without the magnetospheric input to illustrate the effect of the density gradient on the winds at high latitudes. We review the early history of the development of our understanding of the energy input to the high-latitude thermosphere. Future HIWIND measurements can add to our understanding and lead to improved models of thermospheric densities and winds.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

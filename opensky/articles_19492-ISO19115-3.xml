@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:42.880337</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:11.230299</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Previous studies have indicated that boreal winter subtropical and extratropical sea surface pressure (SLP) anomalies over both the North and South Pacific are significantly related to the El Nino-Southern Oscillation (ENSO) state in the following boreal winter. Here we use observational data and model simulations to show that the ability of the boreal winter North Pacific SLP anomalies to initiate ENSO events a year later may strongly depend on the state of the simultaneous South Pacific SLP anomalies and vice versa. When the boreal winter North Pacific SLP anomalies are of the opposite sign to the simultaneous South Pacific anomalies, the correlation of the North or South Pacific anomalies with the following ENSO state becomes much weaker, and the strength of the ENSO events also tends to be weaker. One possible reason for this is that when the boreal winter North and South Pacific SLP anomalies have the opposite sign, the westerly anomalies over the western-central equatorial Pacific during the following boreal summer are greatly reduced by the interference between the antecedent North and South Pacific SLP anomalies, thereby not favoring the development of ENSO events. Further analysis indicates that a combination of North and South Pacific precursor signals may serve to enhance the ENSO prediction skill.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Previous studies have indicated that boreal winter subtropical and extratropical sea surface pressure (SLP) anomalies over both the North and South Pacific are significantly related to the El Nino-Southern Oscillation (ENSO) state in the following boreal winter. Here we use observational data and model simulations to show that the ability of the boreal winter North Pacific SLP anomalies to initiate ENSO events a year later may strongly depend on the state of the simultaneous South Pacific SLP anomalies and vice versa. When the boreal winter North Pacific SLP anomalies are of the opposite sign to the simultaneous South Pacific anomalies, the correlation of the North or South Pacific anomalies with the following ENSO state becomes much weaker, and the strength of the ENSO events also tends to be weaker. One possible reason for this is that when the boreal winter North and South Pacific SLP anomalies have the opposite sign, the westerly anomalies over the western-central equatorial Pacific during the following boreal summer are greatly reduced by the interference between the antecedent North and South Pacific SLP anomalies, thereby not favoring the development of ENSO events. Further analysis indicates that a combination of North and South Pacific precursor signals may serve to enhance the ENSO prediction skill.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

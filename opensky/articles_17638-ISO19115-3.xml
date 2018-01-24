@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:10.722507</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:22.194015</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>An error in the energy formulation in the Community Atmosphere Model (CAM) is identified and corrected. Ten year AMIP simulations are compared using the correct and incorrect energy formulations. Statistics of selected primary variables all indicate physically insignificant differences between the simulations, comparable to differences with simulations initialized with rounding sized perturbations. The two simulations are so similar mainly because of an inconsistency in the application of the incorrect energy formulation in the original CAM. CAM used the erroneous energy form to determine the states passed between the parameterizations, but used a form related to the correct formulation for the state passed from the parameterizations to the dynamical core. If the incorrect form is also used to determine the state passed to the dynamical core the simulations are significantly different. In addition, CAM uses the incorrect form for the global energy fixer, but that seems to be less important. The difference of the magnitude of the fixers using the correct and incorrect energy definitions is very small.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[An error in the energy formulation in the Community Atmosphere Model (CAM) is identified and corrected. Ten year AMIP simulations are compared using the correct and incorrect energy formulations. Statistics of selected primary variables all indicate physically insignificant differences between the simulations, comparable to differences with simulations initialized with rounding sized perturbations. The two simulations are so similar mainly because of an inconsistency in the application of the incorrect energy formulation in the original CAM. CAM used the erroneous energy form to determine the states passed between the parameterizations, but used a form related to the correct formulation for the state passed from the parameterizations to the dynamical core. If the incorrect form is also used to determine the state passed to the dynamical core the simulations are significantly different. In addition, CAM uses the incorrect form for the global energy fixer, but that seems to be less important. The difference of the magnitude of the fixers using the correct and incorrect energy definitions is very small.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

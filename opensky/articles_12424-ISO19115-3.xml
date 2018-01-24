@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:56.102966</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:38.781368</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Science and technology always have been interdependent, but never more so than with today's highly instrumented data collection practices. We report on a long-term study of collaboration between environmental scientists (biology, ecology, marine sciences), computer scientists, and engineering research teams as part of a five-university distributed science and technology research center devoted to embedded networked sensing. The science and technology teams go into the field with mutual interests in gathering scientific data. "Data" are constituted very differently between the research teams. What are data to the science teams may be context to the technology teams, and vice versa. Interdependencies between the teams determine the ability to collect, use, and manage data in both the short and long terms. Four types of data were identified, which are managed separately, limiting both reusability of data and replication of research. Decisions on what data to curate, for whom, for what purposes, and for how long, should consider the interdependencies between scientific and technical processes, the complexities of data collection, and the disposition of the resulting data.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Science and technology always have been interdependent, but never more so than with today's highly instrumented data collection practices. We report on a long-term study of collaboration between environmental scientists (biology, ecology, marine sciences), computer scientists, and engineering research teams as part of a five-university distributed science and technology research center devoted to embedded networked sensing. The science and technology teams go into the field with mutual interests in gathering scientific data. "Data" are constituted very differently between the research teams. What are data to the science teams may be context to the technology teams, and vice versa. Interdependencies between the teams determine the ability to collect, use, and manage data in both the short and long terms. Four types of data were identified, which are managed separately, limiting both reusability of data and replication of research. Decisions on what data to curate, for whom, for what purposes, and for how long, should consider the interdependencies between scientific and technical processes, the complexities of data collection, and the disposition of the resulting data.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

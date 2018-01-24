@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:16.995460</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:31.264124</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study is devoted to simulation of the interannual variability of daily rainfall, such as the mean and variance of seasonal rainfall totals and the correlation between seasonal rainfall totals and a seasonal climate variable (e.g., an index of atmospheric or oceanic circulation). Prior work established that a mixture of chain-dependent processes, involving conditioning on an observed seasonal circulation index, results in improved representation of the interannual variance of seasonal rainfall totals, as well as of the correlation between rainfall and this index. The present study extends this work through consideration of a mixture model of generalized chain-dependent processes. Here "generalized" refers to the inclusion of a generalized linear model in accounting for the relationship between daily rainfall statistics and the circulation index. It is shown that this extension results in further improvements in the simulation of the interannual variability of seasonal rainfall and, especially, in its correlation with the circulation index.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study is devoted to simulation of the interannual variability of daily rainfall, such as the mean and variance of seasonal rainfall totals and the correlation between seasonal rainfall totals and a seasonal climate variable (e.g., an index of atmospheric or oceanic circulation). Prior work established that a mixture of chain-dependent processes, involving conditioning on an observed seasonal circulation index, results in improved representation of the interannual variance of seasonal rainfall totals, as well as of the correlation between rainfall and this index. The present study extends this work through consideration of a mixture model of generalized chain-dependent processes. Here "generalized" refers to the inclusion of a generalized linear model in accounting for the relationship between daily rainfall statistics and the circulation index. It is shown that this extension results in further improvements in the simulation of the interannual variability of seasonal rainfall and, especially, in its correlation with the circulation index.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

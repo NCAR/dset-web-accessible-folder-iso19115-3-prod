@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:42.999789</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:21.607261</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper documents the incorporation of an inventory of the AEDT (Aviation Environmental Design Tool) global commercial aircraft emissions for the year of 2006 into the National Center for Atmospheric Research Community Earth System Model (CESM) version 1. The original dataset reports aircraft emission mass of ten species on an hourly basis which is converted to monthly emission mixing ratio tendencies as the released version of the dataset. We also describe how the released aircraft emission dataset is incorporated into CESM. A contrail parameterization is implemented in the CESM in which it is assumed that persistent contrails initially form when aircraft water vapor emissions experience a favorable atmospheric environment. Both aircraft emissions and ambient humidity are attributed to the formation of contrails. The ice water content of contrails is assumed to follow an empirical function of atmospheric temperature which determines the cloud fraction associated with contrails. Our modeling study indicates that the simulated global contrail coverage is sensitive to the vertical resolution of the GCMs in the upper troposphere and lower stratosphere because of model assumptions about the vertical overlap structure of clouds. Furthermore, the extent of global contrail coverage simulated by CESM exhibits a seasonal cycle which is in broad agreement with observations.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper documents the incorporation of an inventory of the AEDT (Aviation Environmental Design Tool) global commercial aircraft emissions for the year of 2006 into the National Center for Atmospheric Research Community Earth System Model (CESM) version 1. The original dataset reports aircraft emission mass of ten species on an hourly basis which is converted to monthly emission mixing ratio tendencies as the released version of the dataset. We also describe how the released aircraft emission dataset is incorporated into CESM. A contrail parameterization is implemented in the CESM in which it is assumed that persistent contrails initially form when aircraft water vapor emissions experience a favorable atmospheric environment. Both aircraft emissions and ambient humidity are attributed to the formation of contrails. The ice water content of contrails is assumed to follow an empirical function of atmospheric temperature which determines the cloud fraction associated with contrails. Our modeling study indicates that the simulated global contrail coverage is sensitive to the vertical resolution of the GCMs in the upper troposphere and lower stratosphere because of model assumptions about the vertical overlap structure of clouds. Furthermore, the extent of global contrail coverage simulated by CESM exhibits a seasonal cycle which is in broad agreement with observations.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

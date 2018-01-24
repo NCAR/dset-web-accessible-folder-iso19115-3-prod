@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:03.382665</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:48.135837</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A new ensemble of climate models is becoming available and provides the basis for climate change projections. Here, we show a first analysis indicating that the models in the new ensemble agree better with observations than those in older ones and that the poorest models have been eliminated. Most models are strongly tied to their predecessors, and some also exchange ideas and code with other models, thus supporting an earlier hypothesis that the models in the new ensemble are neither independent of each other nor independent of the earlier generation. On the basis of one atmosphere model, we show how statistical methods can identify similarities between model versions and complement process understanding in characterizing how and why a model has changed. We argue that the interdependence of models complicates the interpretation of multimodel ensembles but largely goes unnoticed.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A new ensemble of climate models is becoming available and provides the basis for climate change projections. Here, we show a first analysis indicating that the models in the new ensemble agree better with observations than those in older ones and that the poorest models have been eliminated. Most models are strongly tied to their predecessors, and some also exchange ideas and code with other models, thus supporting an earlier hypothesis that the models in the new ensemble are neither independent of each other nor independent of the earlier generation. On the basis of one atmosphere model, we show how statistical methods can identify similarities between model versions and complement process understanding in characterizing how and why a model has changed. We argue that the interdependence of models complicates the interpretation of multimodel ensembles but largely goes unnoticed.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:15.901205</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:42.579207</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study documents and describes supercells embedded within the outer rainbands of Hurricane Katrina (2005). Radar reflectivity and velocity data collected on 29 August 2005 by Weather Surveillance Radar 1988 Doppler radars were used to track the supercells. Radar analysis indicates that the supercells were characterized by heavy precipitation collocated with band-relative mesocylonic circulations containing strong vorticity and a wind speed enhancement to their northeast. Atmospheric soundings and dual-Doppler derived shear suggest that environmental conditions were comparable to those in previous hurricane-spawned supercell studies. Twenty-three storms from 0300-0900 UTC were tracked, and single- and dual-Doppler radar analyses were used to examine characteristics such as shear and rotational velocity. Remarkably, the majority of the supercells formed over the Gulf of Mexico rather than over land, which contrasts with previous studies. Furthermore, the ground-relative wind speeds of these potentially tornadic mesocyclones in the outer rainbands could have been Category 4 intensity despite sustained winds in Katrina's eyewall only reaching Category 3 at landfall.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study documents and describes supercells embedded within the outer rainbands of Hurricane Katrina (2005). Radar reflectivity and velocity data collected on 29 August 2005 by Weather Surveillance Radar 1988 Doppler radars were used to track the supercells. Radar analysis indicates that the supercells were characterized by heavy precipitation collocated with band-relative mesocylonic circulations containing strong vorticity and a wind speed enhancement to their northeast. Atmospheric soundings and dual-Doppler derived shear suggest that environmental conditions were comparable to those in previous hurricane-spawned supercell studies. Twenty-three storms from 0300-0900 UTC were tracked, and single- and dual-Doppler radar analyses were used to examine characteristics such as shear and rotational velocity. Remarkably, the majority of the supercells formed over the Gulf of Mexico rather than over land, which contrasts with previous studies. Furthermore, the ground-relative wind speeds of these potentially tornadic mesocyclones in the outer rainbands could have been Category 4 intensity despite sustained winds in Katrina's eyewall only reaching Category 3 at landfall.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

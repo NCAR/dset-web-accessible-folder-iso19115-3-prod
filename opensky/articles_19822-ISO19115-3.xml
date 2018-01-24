@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:50.724410</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:22.806869</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Recent decades have seen strong trends in hydroclimate over the American Southwest, with major river basins such as the Rio Grande exhibiting intermittent drought and declining runoff efficiencies. The extent to which these observed trends are exceptional has implications for current water management and seasonal streamflow forecasting practices. We present a new reconstruction of runoff ratio for the Upper Rio Grande basin back to 1571 C.E., which provides evidence that the declining trend in runoff ratio from the 1980s to present day is unprecedented in context of the last 445years. Though runoff ratio is found to vary primarily in proportion to precipitation, the reconstructions suggest a secondary influence of temperature. In years of low precipitation, very low runoff ratios are made 2.5-3 times more likely by high temperatures. This temperature sensitivity appears to have strengthened in recent decades, implying future water management vulnerability should recent warming trends in the region continue.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Recent decades have seen strong trends in hydroclimate over the American Southwest, with major river basins such as the Rio Grande exhibiting intermittent drought and declining runoff efficiencies. The extent to which these observed trends are exceptional has implications for current water management and seasonal streamflow forecasting practices. We present a new reconstruction of runoff ratio for the Upper Rio Grande basin back to 1571 C.E., which provides evidence that the declining trend in runoff ratio from the 1980s to present day is unprecedented in context of the last 445years. Though runoff ratio is found to vary primarily in proportion to precipitation, the reconstructions suggest a secondary influence of temperature. In years of low precipitation, very low runoff ratios are made 2.5-3 times more likely by high temperatures. This temperature sensitivity appears to have strengthened in recent decades, implying future water management vulnerability should recent warming trends in the region continue.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

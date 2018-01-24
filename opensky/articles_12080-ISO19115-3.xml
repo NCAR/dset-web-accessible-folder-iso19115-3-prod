@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:47.683487</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:27.887601</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this paper, we discuss the results of 2000-2100 simulations following the emissions associated with the Representative Concentration Pathways (RCPs) with a chemistry-climate model, focusing on the changes in 1) atmospheric composition (troposphere and stratosphere) and 2) associated environmental parameters (such as nitrogen deposition). In particular, we find that tropospheric ozone is projected to decrease (RCP2.6, RCP4.5 and RCP6) or increase (RCP8.5) between 2000 and 2100, with variations in methane a strong contributor to this spread. The associated tropospheric ozone global radiative forcing is shown to be in agreement with the estimate used in the RCPs, except for RCP8.5. Surface ozone in 2100 is projected to change little compared from its 2000 distribution, a much-reduced impact from previous projections based on the A2 high-emission scenario. In addition, globally-averaged stratospheric ozone is projected to recover at or beyond pre-1980 levels. Anthropogenic aerosols are projected to strongly decrease in the 21st century, a reflection of their projected decrease in emissions. Consequently, sulfate deposition is projected to strongly decrease. However, nitrogen deposition is projected to increase over certain regions because of the projected increase in NH3 emissions.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this paper, we discuss the results of 2000-2100 simulations following the emissions associated with the Representative Concentration Pathways (RCPs) with a chemistry-climate model, focusing on the changes in 1) atmospheric composition (troposphere and stratosphere) and 2) associated environmental parameters (such as nitrogen deposition). In particular, we find that tropospheric ozone is projected to decrease (RCP2.6, RCP4.5 and RCP6) or increase (RCP8.5) between 2000 and 2100, with variations in methane a strong contributor to this spread. The associated tropospheric ozone global radiative forcing is shown to be in agreement with the estimate used in the RCPs, except for RCP8.5. Surface ozone in 2100 is projected to change little compared from its 2000 distribution, a much-reduced impact from previous projections based on the A2 high-emission scenario. In addition, globally-averaged stratospheric ozone is projected to recover at or beyond pre-1980 levels. Anthropogenic aerosols are projected to strongly decrease in the 21st century, a reflection of their projected decrease in emissions. Consequently, sulfate deposition is projected to strongly decrease. However, nitrogen deposition is projected to increase over certain regions because of the projected increase in NH3 emissions.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

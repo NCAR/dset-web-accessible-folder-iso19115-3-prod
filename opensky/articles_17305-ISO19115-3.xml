@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:02.094306</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:10.083824</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Development of radio-holographic inversion methods that solve for multipath propagation of radio occultation signals in the moist lower troposphere resulted in significant reduction of inversion errors of the bending angle and refractivity. Still, inversion errors depend on the length of recorded radio occultation signals, additive noise, and some tunable inversion parameters. These errors have components with nonzero mean (biases) and thus must be understood and quantified for weather and climate applications. In this study a physical explanation of the above mentioned inversion biases is given and their magnitude is evaluated (about 1% in the tropical lower troposphere). Assuming data with 50 Hz sampling rate and a noise level that is typical for the COSMIC GPS radio occultation observations, this magnitude can be considered as the measure of uncertainty of radio holographic inversions below ~5 km in the moist tropical troposphere.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Development of radio-holographic inversion methods that solve for multipath propagation of radio occultation signals in the moist lower troposphere resulted in significant reduction of inversion errors of the bending angle and refractivity. Still, inversion errors depend on the length of recorded radio occultation signals, additive noise, and some tunable inversion parameters. These errors have components with nonzero mean (biases) and thus must be understood and quantified for weather and climate applications. In this study a physical explanation of the above mentioned inversion biases is given and their magnitude is evaluated (about 1% in the tropical lower troposphere). Assuming data with 50 Hz sampling rate and a noise level that is typical for the COSMIC GPS radio occultation observations, this magnitude can be considered as the measure of uncertainty of radio holographic inversions below ~5 km in the moist tropical troposphere.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

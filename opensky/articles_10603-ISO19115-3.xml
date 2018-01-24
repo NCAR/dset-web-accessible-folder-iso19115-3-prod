@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:29.275100</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:02.200155</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Radio occultation (RO) refractivity observations provide information about tropospheric water vapor and temperature in all weather conditions. The impact of using RO refractivity observations on analyses and forecasts of Hurricane Ernesto's genesis (2006) using an ensemble Kaman filter data assimilation system is investigated. Assimilating RO refractivity profiles in the vicinity of the storm locally moistens the analysis of the lower troposphere and also adjusts the wind analysis in both the lower and upper troposphere through forecast multivariate correlations of RO refractivity and wind. The model forecasts propagate and enhance the added water vapor and the wind adjustments leading to more accurate analyses of the later stages of the genesis of the storm. The root mean square errors of water vapor and wind forecasts compared to dropsonde and radiosonde observations are reduced consistently. As a result, assimilating RO refractivity data in addition to traditional observations leads to a stronger initial vortex of the storm and improved forecasts of the storm's intensification. The benefits of the RO data are much reduced when the RO data in the lower troposphere (below 6 km) is ignored.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Radio occultation (RO) refractivity observations provide information about tropospheric water vapor and temperature in all weather conditions. The impact of using RO refractivity observations on analyses and forecasts of Hurricane Ernesto's genesis (2006) using an ensemble Kaman filter data assimilation system is investigated. Assimilating RO refractivity profiles in the vicinity of the storm locally moistens the analysis of the lower troposphere and also adjusts the wind analysis in both the lower and upper troposphere through forecast multivariate correlations of RO refractivity and wind. The model forecasts propagate and enhance the added water vapor and the wind adjustments leading to more accurate analyses of the later stages of the genesis of the storm. The root mean square errors of water vapor and wind forecasts compared to dropsonde and radiosonde observations are reduced consistently. As a result, assimilating RO refractivity data in addition to traditional observations leads to a stronger initial vortex of the storm and improved forecasts of the storm's intensification. The benefits of the RO data are much reduced when the RO data in the lower troposphere (below 6 km) is ignored.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

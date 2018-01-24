@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:11.203750</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:22.865139</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Particle filters may suffer from degeneracy of the particle weights. For the simplest "bootstrap" filter, it is known that avoiding degeneracy in large systems requires that the ensemble size must increase exponentially with the variance of the observation log-likelihood. The present article shows first that a similar result applies to particle filters using sequential importance sampling and the optimal proposal distribution and, second, that the optimal proposal yields minimal degeneracy when compared to any other proposal distribution that depends only on the previous state and the most recent observations. Thus, the optimal proposal provides performance bounds for filters using sequential importance sampling and any such proposal. An example with independent and identically distributed degrees of freedom illustrates both the need for exponentially large ensemble size with the optimal proposal as the system dimension increases and the potentially dramatic advantages of the optimal proposal relative to simpler proposals. Those advantages depend crucially on the magnitude of the system noise.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Particle filters may suffer from degeneracy of the particle weights. For the simplest "bootstrap" filter, it is known that avoiding degeneracy in large systems requires that the ensemble size must increase exponentially with the variance of the observation log-likelihood. The present article shows first that a similar result applies to particle filters using sequential importance sampling and the optimal proposal distribution and, second, that the optimal proposal yields minimal degeneracy when compared to any other proposal distribution that depends only on the previous state and the most recent observations. Thus, the optimal proposal provides performance bounds for filters using sequential importance sampling and any such proposal. An example with independent and identically distributed degrees of freedom illustrates both the need for exponentially large ensemble size with the optimal proposal as the system dimension increases and the potentially dramatic advantages of the optimal proposal relative to simpler proposals. Those advantages depend crucially on the magnitude of the system noise.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

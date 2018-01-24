@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:54.930542</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:29.262906</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -328,7 +328,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Actions to reduce greenhouse gas (GHG) emissions often reduce co-emitted air pollutants, bringing co-benefits for air quality and human health. Past studies(1-6) typically evaluated near-term and local co-benefits, neglecting the long-range transport of air pollutants(7-9), long-term demographic changes, and the influence of climate change on air quality(10-12). Here we simulate the co-benefits of global GHG reductions on air quality and human health using a global atmospheric model and consistent future scenarios, via two mechanisms: reducing co-emitted air pollutants, and slowing climate change and its effect on air quality. We use new relationships between chronic mortality and exposure to fine particulate matter(13) and ozone(14), global modelling methods(15) and new future scenarios(16). Relative to a reference scenario, global GHG mitigation avoids 0.5 +/- 0.2, 1.3 +/- 0.5 and 2.2 +/- 0.8 million premature deaths in 2030, 2050 and 2100. Global average marginal co-benefits of avoided mortality are US$ 50-380 per tonne of CO2, which exceed previous estimates, exceed marginal abatement costs in 2030 and 2050, and are within the low range of costs in 2100. East Asian co-benefits are 10-70 times the marginal cost in 2030. Air quality and health co-benefits, especially as they are mainly local and near-term, provide strong additional motivation for transitioning to a low-carbon future.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Actions to reduce greenhouse gas (GHG) emissions often reduce co-emitted air pollutants, bringing co-benefits for air quality and human health. Past studies(1-6) typically evaluated near-term and local co-benefits, neglecting the long-range transport of air pollutants(7-9), long-term demographic changes, and the influence of climate change on air quality(10-12). Here we simulate the co-benefits of global GHG reductions on air quality and human health using a global atmospheric model and consistent future scenarios, via two mechanisms: reducing co-emitted air pollutants, and slowing climate change and its effect on air quality. We use new relationships between chronic mortality and exposure to fine particulate matter(13) and ozone(14), global modelling methods(15) and new future scenarios(16). Relative to a reference scenario, global GHG mitigation avoids 0.5 +/- 0.2, 1.3 +/- 0.5 and 2.2 +/- 0.8 million premature deaths in 2030, 2050 and 2100. Global average marginal co-benefits of avoided mortality are US$ 50-380 per tonne of CO2, which exceed previous estimates, exceed marginal abatement costs in 2030 and 2050, and are within the low range of costs in 2100. East Asian co-benefits are 10-70 times the marginal cost in 2030. Air quality and health co-benefits, especially as they are mainly local and near-term, provide strong additional motivation for transitioning to a low-carbon future.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

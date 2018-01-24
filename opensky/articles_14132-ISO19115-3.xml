@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:23.351179</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:13.715271</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Small Ice Detector, version 2 (SID-2), High-performance Instrumented Airborne Platform for Environmental Research (HIAPER; SID-2H) was used to detect small ice particles in the early stages of ice formation in the high liquid water environment of tropical maritime cumulus clouds sampled during the Ice in Clouds Experiment-Tropical (ICE-T) field campaign. Its performance in comparison to other probes and the development of new corrections applied to the data are presented. The SID-2H detected small ice crystals among larger particles. It correctly identified water drops, and discriminated between round and irregular particle shapes in water-dominated clouds with errors less than 5%. Remaining uncertainties in the sensing volume and the volume over which coincidence of particles occurred, result in the data being used here in a qualitative manner to identify the presence of ice, and its habits and sizes.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Small Ice Detector, version 2 (SID-2), High-performance Instrumented Airborne Platform for Environmental Research (HIAPER; SID-2H) was used to detect small ice particles in the early stages of ice formation in the high liquid water environment of tropical maritime cumulus clouds sampled during the Ice in Clouds Experiment-Tropical (ICE-T) field campaign. Its performance in comparison to other probes and the development of new corrections applied to the data are presented. The SID-2H detected small ice crystals among larger particles. It correctly identified water drops, and discriminated between round and irregular particle shapes in water-dominated clouds with errors less than 5%. Remaining uncertainties in the sensing volume and the volume over which coincidence of particles occurred, result in the data being used here in a qualitative manner to identify the presence of ice, and its habits and sizes.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:06.425483</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:16.083484</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A physically-sound, non-local excess phase delay observation operator is developed for simulating excess phase delay measurements from GPS radio occultation (RO) missions. By approximating an observed ray by a straight line, the refractivity gradient information along an observed ray path is included in the simulated excess phase delay. This observation operator is used to simulate observations from the German CHAllenging Minisatellite Payload (CHAMP) RO mission based on large-scale analysis. The need to use such an observation operator for GPS RO data assimilation in spherically asymmetric regions is shown by results from a set of forward simulation and data assimilation experiments. A modification that renders the non-local excess phase delay observation operator more suitable for parallel implementation of GPS RO data assimilation is proposed.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A physically-sound, non-local excess phase delay observation operator is developed for simulating excess phase delay measurements from GPS radio occultation (RO) missions. By approximating an observed ray by a straight line, the refractivity gradient information along an observed ray path is included in the simulated excess phase delay. This observation operator is used to simulate observations from the German CHAllenging Minisatellite Payload (CHAMP) RO mission based on large-scale analysis. The need to use such an observation operator for GPS RO data assimilation in spherically asymmetric regions is shown by results from a set of forward simulation and data assimilation experiments. A modification that renders the non-local excess phase delay observation operator more suitable for parallel implementation of GPS RO data assimilation is proposed.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

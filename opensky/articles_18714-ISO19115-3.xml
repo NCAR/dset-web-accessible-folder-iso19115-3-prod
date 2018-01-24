@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:30.081314</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:51.115747</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A robust positive trend in the Southern Annular Mode (SAM) is projected for the end of the 21st century under the Representative Concentration Pathway 8.5 scenario, which results in rainfall decreases in the midlatitudes and increases in the high latitudes in the Southern Hemisphere (SH). We find that this SAM trend also increases rainfall over the SH subtropics in austral summer but not in winter, leading to a pronounced wintertime poleward expansion of the subtropical dry zone. These dynamically driven rainfall changes by the SAM appear to oppose the thermodynamically driven projected rainfall changes in the SH subtropics and midlatitudes, whereas the two components reinforce each other in the high latitudes. However, we show that most climate models fall short in capturing the observed SAM component driven by the El Nino-Southern Oscillation and associated rainfall in the austral warm seasons, which limits our confidence in quantifying the contribution of the SAM to projected rainfall changes.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A robust positive trend in the Southern Annular Mode (SAM) is projected for the end of the 21st century under the Representative Concentration Pathway 8.5 scenario, which results in rainfall decreases in the midlatitudes and increases in the high latitudes in the Southern Hemisphere (SH). We find that this SAM trend also increases rainfall over the SH subtropics in austral summer but not in winter, leading to a pronounced wintertime poleward expansion of the subtropical dry zone. These dynamically driven rainfall changes by the SAM appear to oppose the thermodynamically driven projected rainfall changes in the SH subtropics and midlatitudes, whereas the two components reinforce each other in the high latitudes. However, we show that most climate models fall short in capturing the observed SAM component driven by the El Nino-Southern Oscillation and associated rainfall in the austral warm seasons, which limits our confidence in quantifying the contribution of the SAM to projected rainfall changes.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

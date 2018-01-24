@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:41.615110</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:19.629157</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this paper, we extend our earlier work to provide additional evidence for an alternative scenario to explain the nature of events called 'explosive events'. The bidirected, fast Doppler motion of explosive events observed spectroscopically in the transition region emission is classically interpreted as a pair of bidirectional jets moving upward and downward from a reconnection site. We discuss the problems of this model. In our previous work, we focused basically on the discrepancy of fast Doppler motion without detectable motion in the image plane. We now suggest an alternative scenario for the explosive events, based on our observations of spectral line tilts and bifurcated structure in some events. Both features are indicative of rotational motion in narrow structures. We explain the bifurcation as the result of rotation of hollow cylindrical structures and demonstrate that this kind of sheath model can also be applied to explain the nature of the puzzling 'explosive events'. We find that the spectral tilt, the lack of apparent motion, the bifurcation, and a rapidly growing number of direct observations support an alternative scenario of linear, spicular-sized jets with a strong spinning motion.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this paper, we extend our earlier work to provide additional evidence for an alternative scenario to explain the nature of events called 'explosive events'. The bidirected, fast Doppler motion of explosive events observed spectroscopically in the transition region emission is classically interpreted as a pair of bidirectional jets moving upward and downward from a reconnection site. We discuss the problems of this model. In our previous work, we focused basically on the discrepancy of fast Doppler motion without detectable motion in the image plane. We now suggest an alternative scenario for the explosive events, based on our observations of spectral line tilts and bifurcated structure in some events. Both features are indicative of rotational motion in narrow structures. We explain the bifurcation as the result of rotation of hollow cylindrical structures and demonstrate that this kind of sheath model can also be applied to explain the nature of the puzzling 'explosive events'. We find that the spectral tilt, the lack of apparent motion, the bifurcation, and a rapidly growing number of direct observations support an alternative scenario of linear, spicular-sized jets with a strong spinning motion.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

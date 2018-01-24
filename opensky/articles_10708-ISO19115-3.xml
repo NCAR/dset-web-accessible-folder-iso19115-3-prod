@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:31.287295</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:05.022788</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The mass-dimensional relationship put forth by Brown and Francis has been widely used for developing parameterizations for representing ice cloud microphysical properties. This relationship forms the cornerstone for past and forthcoming retrievals of ice cloud properties from ground-based and spaceborne active and passive sensors but has yet to be rigorously evaluated. This study uses data from six field campaigns to evaluate this mass-dimensional relationship in a variety of ice cloud types and temperatures and to account for the deviations observed with temperature and size, based on properties of the ice particle ensembles. Although the Brown and Francis relationship provides a good match to the observations in a mean sense, it fails to capture dependences on temperature and particle size that are a result of the complex microphysical processes operative within most ice cloud layers. Mass-dimensional relationships that provide a better fit to the observations are developed.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The mass-dimensional relationship put forth by Brown and Francis has been widely used for developing parameterizations for representing ice cloud microphysical properties. This relationship forms the cornerstone for past and forthcoming retrievals of ice cloud properties from ground-based and spaceborne active and passive sensors but has yet to be rigorously evaluated. This study uses data from six field campaigns to evaluate this mass-dimensional relationship in a variety of ice cloud types and temperatures and to account for the deviations observed with temperature and size, based on properties of the ice particle ensembles. Although the Brown and Francis relationship provides a good match to the observations in a mean sense, it fails to capture dependences on temperature and particle size that are a result of the complex microphysical processes operative within most ice cloud layers. Mass-dimensional relationships that provide a better fit to the observations are developed.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

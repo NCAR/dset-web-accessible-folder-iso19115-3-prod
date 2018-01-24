@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:40.897040</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:08.309482</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The false alarm rate ( FAR) measures the fraction of forecasted events that did not occur, and it remains one of the key metrics for verifying National Weather Service (NWS) weather warnings. The national FAR for tornado warnings in 2003 was 0.76, indicating that only one in four tornado warnings was verified. The NWS's goal for 2010 is to reduce this value to 0.70. Conventional wisdom is that false alarms reduce the public's willingness to respond to future events. This paper questions this conventional wisdom. In addition, this paper argues that the metrics used to evaluate false alarms do not accurately represent the numbers of actual false alarms or the forecasters' abilities because current metrics categorize events as either a hit or a miss and do not give forecasters credit for close calls. Aspects discussed in this paper include how the NWS FAR is measured, how humans respond to warnings, and what are alternative approaches to measure FAR. A conceptual model is presented as a framework for a new perspective on false alarms that includes close calls, providing a more balanced view of forecast verification.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The false alarm rate ( FAR) measures the fraction of forecasted events that did not occur, and it remains one of the key metrics for verifying National Weather Service (NWS) weather warnings. The national FAR for tornado warnings in 2003 was 0.76, indicating that only one in four tornado warnings was verified. The NWS's goal for 2010 is to reduce this value to 0.70. Conventional wisdom is that false alarms reduce the public's willingness to respond to future events. This paper questions this conventional wisdom. In addition, this paper argues that the metrics used to evaluate false alarms do not accurately represent the numbers of actual false alarms or the forecasters' abilities because current metrics categorize events as either a hit or a miss and do not give forecasters credit for close calls. Aspects discussed in this paper include how the NWS FAR is measured, how humans respond to warnings, and what are alternative approaches to measure FAR. A conceptual model is presented as a framework for a new perspective on false alarms that includes close calls, providing a more balanced view of forecast verification.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

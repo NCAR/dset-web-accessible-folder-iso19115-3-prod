@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:12.642407</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:37.963865</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Recent developments in satellite remote sensing technologies resulted in the ability to observe major pollution events such as dust and smoke around the world on a daily basis. Satellite imagery can sometimes detect long-range transport episodes. In this paper, a high CO episode at remote GAW station, Mt. Waliguan, detected by MOPITT CO dataset during the end of April 2002, is described. CO concentrations above 600 hPa almost doubled on 27 April and CMDL surface sample measurements also observed this significant CO enhancement. Using NCEP data, satellite fire products data and backward trajectory model we suggest that this high CO episode of 27 April is not a local pollution event, but that it is due to long-range transport from active biomass burning and biofuel burning areas located in the border areas of Pakistan and India. The trajectory cluster analysis shows that the origins of 5-day backward trajectories, for air masses reaching Mt. Waliguan station, at all altitudes, mainly overlap with the fire spot locations detected by TRMM data and biofuel burning in India.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Recent developments in satellite remote sensing technologies resulted in the ability to observe major pollution events such as dust and smoke around the world on a daily basis. Satellite imagery can sometimes detect long-range transport episodes. In this paper, a high CO episode at remote GAW station, Mt. Waliguan, detected by MOPITT CO dataset during the end of April 2002, is described. CO concentrations above 600 hPa almost doubled on 27 April and CMDL surface sample measurements also observed this significant CO enhancement. Using NCEP data, satellite fire products data and backward trajectory model we suggest that this high CO episode of 27 April is not a local pollution event, but that it is due to long-range transport from active biomass burning and biofuel burning areas located in the border areas of Pakistan and India. The trajectory cluster analysis shows that the origins of 5-day backward trajectories, for air masses reaching Mt. Waliguan station, at all altitudes, mainly overlap with the fire spot locations detected by TRMM data and biofuel burning in India.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

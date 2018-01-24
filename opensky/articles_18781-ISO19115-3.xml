@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:31.734199</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:53.630373</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Previous work demonstrates conflicting evidence regarding the influence of snowmelt timing on forest net ecosystem exchange (NEE). Based on 15years of eddy covariance measurements in Colorado, years with earlier snowmelt exhibited less net carbon uptake during the snow ablation period, which is a period of high potential for productivity. Earlier snowmelt aligned with colder periods of the seasonal air temperature cycle relative to later snowmelt. We found that the colder ablation-period air temperatures during these early snowmelt years lead to reduced rates of daily NEE. Hence, earlier snowmelt associated with climate warming, counterintuitively, leads to colder atmospheric temperatures during the snow ablation period and concomitantly reduced rates of net carbon uptake. Using a multilinear-regression (R-2=0.79, P&lt;0.001) relating snow ablation period mean air temperature and peak snow water equivalent (SWE) to ablation-period NEE, we predict that earlier snowmelt and decreased SWE may cause a 45% reduction in midcentury ablation-period net carbon uptake.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Previous work demonstrates conflicting evidence regarding the influence of snowmelt timing on forest net ecosystem exchange (NEE). Based on 15years of eddy covariance measurements in Colorado, years with earlier snowmelt exhibited less net carbon uptake during the snow ablation period, which is a period of high potential for productivity. Earlier snowmelt aligned with colder periods of the seasonal air temperature cycle relative to later snowmelt. We found that the colder ablation-period air temperatures during these early snowmelt years lead to reduced rates of daily NEE. Hence, earlier snowmelt associated with climate warming, counterintuitively, leads to colder atmospheric temperatures during the snow ablation period and concomitantly reduced rates of net carbon uptake. Using a multilinear-regression (R-2=0.79, P&lt;0.001) relating snow ablation period mean air temperature and peak snow water equivalent (SWE) to ablation-period NEE, we predict that earlier snowmelt and decreased SWE may cause a 45% reduction in midcentury ablation-period net carbon uptake.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

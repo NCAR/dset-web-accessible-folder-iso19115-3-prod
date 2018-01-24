@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:34.838837</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:10.066715</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -433,7 +433,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Given that over the course of the next 10 - 30 years the magnitude of natural decadal variations may rival that of anthropogenically forced climate change on regional scales, it is envisioned that initialized decadal predictions will provide important information for climate-related management and adaptation decisions. Such predictions are presently one of the grand challenges for the climate community. This requires identifying those physical phenomena--and their model equivalents--that may provide additional predictability on decadal time scales, including an assessment of the physical processes through which anthropogenic forcing may interact with or project upon natural variability. Such a physical framework is necessary to provide a consistent assessment (and insight into potential improvement) of the decadal prediction experiments planned to be assessed as part of the IPCC's Fifth Assessment Report.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Given that over the course of the next 10 - 30 years the magnitude of natural decadal variations may rival that of anthropogenically forced climate change on regional scales, it is envisioned that initialized decadal predictions will provide important information for climate-related management and adaptation decisions. Such predictions are presently one of the grand challenges for the climate community. This requires identifying those physical phenomena--and their model equivalents--that may provide additional predictability on decadal time scales, including an assessment of the physical processes through which anthropogenic forcing may interact with or project upon natural variability. Such a physical framework is necessary to provide a consistent assessment (and insight into potential improvement) of the decadal prediction experiments planned to be assessed as part of the IPCC's Fifth Assessment Report.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

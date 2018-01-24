@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:15.220046</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:28.647016</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -313,7 +313,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Numerical simulations are conducted across model platforms and resolutions with a focus on the North Atlantic. Barotropic vorticity diagnostics confirm that the subtropical gyre is characterized by an inviscid balance primarily between the applied wind stress curl and bottom pressure torque. In an area-integrated budget over the Gulf Stream, the northward return flow is balanced by bottom pressure torque. These integrated budgets are shown to be consistent across model platforms and resolution, suggesting that these balances are robust. Two of the simulations, at 100- and 10-km resolutions, produce a more northerly separating Gulf Stream but obtain the correct integrated vorticity balances. In these simulations, viscous torque is nonnegligible on smaller scales, indicating that the separation is linked to the details of the local dynamics. These results are shown to be consistent with a scale analysis argument that suggests that the biharmonic viscous torque in particular is upsetting the inviscid balance in simulations with a more northerly separation. In addition to providing evidence for locally controlled inviscid separation, these results provide motivation to revisit the formulation of subgrid-scale parameterizations in general circulation models.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Numerical simulations are conducted across model platforms and resolutions with a focus on the North Atlantic. Barotropic vorticity diagnostics confirm that the subtropical gyre is characterized by an inviscid balance primarily between the applied wind stress curl and bottom pressure torque. In an area-integrated budget over the Gulf Stream, the northward return flow is balanced by bottom pressure torque. These integrated budgets are shown to be consistent across model platforms and resolution, suggesting that these balances are robust. Two of the simulations, at 100- and 10-km resolutions, produce a more northerly separating Gulf Stream but obtain the correct integrated vorticity balances. In these simulations, viscous torque is nonnegligible on smaller scales, indicating that the separation is linked to the details of the local dynamics. These results are shown to be consistent with a scale analysis argument that suggests that the biharmonic viscous torque in particular is upsetting the inviscid balance in simulations with a more northerly separation. In addition to providing evidence for locally controlled inviscid separation, these results provide motivation to revisit the formulation of subgrid-scale parameterizations in general circulation models.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

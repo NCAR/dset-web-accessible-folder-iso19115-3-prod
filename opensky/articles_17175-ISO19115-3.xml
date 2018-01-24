@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:59.037658</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:05.742223</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This article discusses the interplay between computational experiments and scientific advancement in dynamical meteorology and climate dynamics. In doing so, the emphasis is on the dual role of computations in prediction and experimentation, permitting the development of physical insight and confidence in the mechanistic insight through verification. Modern climate dynamics has steadily evolved because of the ready access to computational power that has developed over the past quarter century. The landscape for state-of-the-art computational climate science is changing rapidly, however, with the drive toward greater complexity in climate models in order to more fully represent the interactions among components, the need for higher-resolution atmospheric and oceanic models to fully capture critical aspects of the variability in these components, and the advent of petascale and (eventually) exascale computing facilities. Finally, the manner in which the combination of these changes will likely alter the planning and execution of grand-challenge computational experiments and what this might mean in terms of collaborative climate science is discussed.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This article discusses the interplay between computational experiments and scientific advancement in dynamical meteorology and climate dynamics. In doing so, the emphasis is on the dual role of computations in prediction and experimentation, permitting the development of physical insight and confidence in the mechanistic insight through verification. Modern climate dynamics has steadily evolved because of the ready access to computational power that has developed over the past quarter century. The landscape for state-of-the-art computational climate science is changing rapidly, however, with the drive toward greater complexity in climate models in order to more fully represent the interactions among components, the need for higher-resolution atmospheric and oceanic models to fully capture critical aspects of the variability in these components, and the advent of petascale and (eventually) exascale computing facilities. Finally, the manner in which the combination of these changes will likely alter the planning and execution of grand-challenge computational experiments and what this might mean in terms of collaborative climate science is discussed.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

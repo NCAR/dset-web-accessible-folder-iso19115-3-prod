@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:08.287574</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:31.572347</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We demonstrate that a small modification of the multiplicative, additive, and restricted additive Schwarz preconditioner at the algebraic level, motivated by optimized Schwarz methods defined at the continuous level, leads to a significant reduction in the iteration count of the iterative solver. Numerical experiments using finite difference and spectral element discretizations of the positive definite Helmholtz problem and an idealized climate simulation illustrate the effectiveness of the new approach.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We demonstrate that a small modification of the multiplicative, additive, and restricted additive Schwarz preconditioner at the algebraic level, motivated by optimized Schwarz methods defined at the continuous level, leads to a significant reduction in the iteration count of the iterative solver. Numerical experiments using finite difference and spectral element discretizations of the positive definite Helmholtz problem and an idealized climate simulation illustrate the effectiveness of the new approach.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

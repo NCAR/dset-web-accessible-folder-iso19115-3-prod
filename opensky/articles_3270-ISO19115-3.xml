@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:04.557859</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:25.952972</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A new method for estimating moments from wind measurement devices that measure Doppler spectra as a function of range is presented. Quite often the spectra are contaminated by a wide variety of sources, including (but not limited to) birds, aircraft, velocity and range folding, radio frequency interference, and ground clutter. These contamination sources can vary in space, time, and even in their basic characteristics. Human experts analyzing Doppler spectra can often identify the desired atmospheric signal among the contamination. However, it is quite difficult to build automated algorithms that can approach the skill of the human expert. The method described here relies on mathematical analyses, fuzzy logic synthesis, and global image processing algorithms to mimic the human expert. Fuzzy logic is a very simple, robust, and efficient technique that is well suited to this type of feature extraction problem. These new moment estimation algorithms were originally designed for boundary layer wind profilers; however, they are quite general and have wide applicability to any device that measures Doppler spectra as a function of range (e.g., lidars, sodars, and weather radars).</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A new method for estimating moments from wind measurement devices that measure Doppler spectra as a function of range is presented. Quite often the spectra are contaminated by a wide variety of sources, including (but not limited to) birds, aircraft, velocity and range folding, radio frequency interference, and ground clutter. These contamination sources can vary in space, time, and even in their basic characteristics. Human experts analyzing Doppler spectra can often identify the desired atmospheric signal among the contamination. However, it is quite difficult to build automated algorithms that can approach the skill of the human expert. The method described here relies on mathematical analyses, fuzzy logic synthesis, and global image processing algorithms to mimic the human expert. Fuzzy logic is a very simple, robust, and efficient technique that is well suited to this type of feature extraction problem. These new moment estimation algorithms were originally designed for boundary layer wind profilers; however, they are quite general and have wide applicability to any device that measures Doppler spectra as a function of range (e.g., lidars, sodars, and weather radars).]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

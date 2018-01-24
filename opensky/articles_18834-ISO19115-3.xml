@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:33.158610</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:56.019816</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -538,7 +538,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Understanding the earth as a system requires integrating many forms of data from multiple fields. Builders and funders of the cyberinfrastructure designed to enable open data sharing in the geosciences risk a key failure mode: What if geoscientists do not use the cyberinfrastructure to share, discover and reuse data? In this study, we report a baseline assessment of engagement with the NSF EarthCube initiative, an open cyberinfrastructure effort for the geosciences. We find scientists perceive the need for cross-disciplinary engagement and engage where there is organizational or institutional support. However, we also find a possibly imbalanced involvement between cyber and geoscience communities at the outset, with the former showing more interest than the latter. This analysis highlights the importance of examining fields and disciplines as stakeholders to investments in the cyberinfrastructure supporting science.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Understanding the earth as a system requires integrating many forms of data from multiple fields. Builders and funders of the cyberinfrastructure designed to enable open data sharing in the geosciences risk a key failure mode: What if geoscientists do not use the cyberinfrastructure to share, discover and reuse data? In this study, we report a baseline assessment of engagement with the NSF EarthCube initiative, an open cyberinfrastructure effort for the geosciences. We find scientists perceive the need for cross-disciplinary engagement and engage where there is organizational or institutional support. However, we also find a possibly imbalanced involvement between cyber and geoscience communities at the outset, with the former showing more interest than the latter. This analysis highlights the importance of examining fields and disciplines as stakeholders to investments in the cyberinfrastructure supporting science.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

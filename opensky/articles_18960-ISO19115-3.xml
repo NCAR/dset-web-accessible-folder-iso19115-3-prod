@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:35.595737</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:59.913186</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -174,7 +174,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this paper we describe some of the challenges that solar physicists face in the application of polarized radiative transfer to the modeling of the emergent radiation from the outer layers of the solar atmosphere, where the plane-parallel approximation breaks down, and 3D atmospheric modeling becomes essential. We review the various plasma conditions occurring in the photosphere, chromosphere, and corona, which determine the different regimes of atomic excitation of these regions. Depending on the relative importance of anisotropic irradiation of the gas over collisional thermalization of the atomic populations, the description of the atomic excitation states may necessitate a full quantum-statistical treatment, which exacerbates the numerical complexity of an already computationally intensive problem. Special emphasis is placed on forward modeling and inversion techniques that mitigate this difficulty, making feasible the interpretation of polarization signals in terms of the magnetic field and its connectivity throughout the solar atmosphere.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this paper we describe some of the challenges that solar physicists face in the application of polarized radiative transfer to the modeling of the emergent radiation from the outer layers of the solar atmosphere, where the plane-parallel approximation breaks down, and 3D atmospheric modeling becomes essential. We review the various plasma conditions occurring in the photosphere, chromosphere, and corona, which determine the different regimes of atomic excitation of these regions. Depending on the relative importance of anisotropic irradiation of the gas over collisional thermalization of the atomic populations, the description of the atomic excitation states may necessitate a full quantum-statistical treatment, which exacerbates the numerical complexity of an already computationally intensive problem. Special emphasis is placed on forward modeling and inversion techniques that mitigate this difficulty, making feasible the interpretation of polarization signals in terms of the magnetic field and its connectivity throughout the solar atmosphere.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

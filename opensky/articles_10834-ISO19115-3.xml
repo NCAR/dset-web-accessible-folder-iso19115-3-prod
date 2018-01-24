@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:34.034642</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:09.042893</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A mathematical displacement metric, Baddeley's Delta, is examined for verifying gridded forecasts against gridded observations using the Spatial Forecast Verification Methods Intercomparison Project test cases. Results are compared with several other new approaches. The metric performs similarly to other displacement methods, complementing neighborhood techniques.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A mathematical displacement metric, Baddeley's Delta, is examined for verifying gridded forecasts against gridded observations using the Spatial Forecast Verification Methods Intercomparison Project test cases. Results are compared with several other new approaches. The metric performs similarly to other displacement methods, complementing neighborhood techniques.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

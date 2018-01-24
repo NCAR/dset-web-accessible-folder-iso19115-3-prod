@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:12.079838</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:24.099787</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Fires related to Amazonian deforestation are a large source of particulate matter emissions. Satellite measurements and models reveal that reductions in deforestation and fire emissions since 2001 have prevented hundreds of premature deaths each year.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Fires related to Amazonian deforestation are a large source of particulate matter emissions. Satellite measurements and models reveal that reductions in deforestation and fire emissions since 2001 have prevented hundreds of premature deaths each year.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

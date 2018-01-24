@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:25.164233</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:56.288838</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper compares present-day simulations made with two state-of-the-art climate models: a conventional model specifically designed to represent the tropospheric climate, which has a poorly resolved middle atmosphere, and a configuration that is built on the same physics and numerical algorithms but represents realistically the middle atmosphere and lower thermosphere. The atmospheric behavior is found to be different between the two model configurations, and it is shown that the differences in the two simulations can be attributed to differences in the behavior of the zonal mean state of the stratosphere, where reflection of quasi-stationary resolved planetary waves from the lid of the low-top model is prominent; the more realistic physics in the high-top model is not relevant. It is also shown that downward propagation of zonal wind anomalies during weak stratospheric vortex events is substantially different in the two model configurations. These findings extend earlier results that a poorly resolved stratosphere can influence simulations throughout the troposphere.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper compares present-day simulations made with two state-of-the-art climate models: a conventional model specifically designed to represent the tropospheric climate, which has a poorly resolved middle atmosphere, and a configuration that is built on the same physics and numerical algorithms but represents realistically the middle atmosphere and lower thermosphere. The atmospheric behavior is found to be different between the two model configurations, and it is shown that the differences in the two simulations can be attributed to differences in the behavior of the zonal mean state of the stratosphere, where reflection of quasi-stationary resolved planetary waves from the lid of the low-top model is prominent; the more realistic physics in the high-top model is not relevant. It is also shown that downward propagation of zonal wind anomalies during weak stratospheric vortex events is substantially different in the two model configurations. These findings extend earlier results that a poorly resolved stratosphere can influence simulations throughout the troposphere.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

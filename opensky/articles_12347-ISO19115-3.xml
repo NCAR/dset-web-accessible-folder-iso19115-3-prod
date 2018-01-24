@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:54.249309</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:36.401087</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The impact of very short-lived (VSL) halogenated source species on the ozone layer and surface erythemal ultraviolet radiation (UVERY) is investigated in the context of geo-engineering of climate by stratospheric sulfur injection. For a projected 2040 model atmosphere, consideration of VSL halogens at their upper limit results in lower ozone columns and higher UVERY due to geo-engineering for nearly all seasons and latitudes, with UVERY rising by 12% and 6% in southern and northern high latitudes, respectively. When VSL halogen sources are neglected, future UVERY increases due to declines in ozone column are nearly balanced by reductions of UVERY due to scattering by the higher stratospheric aerosol burden in mid-latitudes. Consideration of VSL sources at their upper limit tips the balance, resulting in annual average increases in UVERY of up to 5% in mid and high latitudes. Therefore, VSL halogens should be considered in models that assess the impact of stratospheric sulfur injections on the ozone layer.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The impact of very short-lived (VSL) halogenated source species on the ozone layer and surface erythemal ultraviolet radiation (UVERY) is investigated in the context of geo-engineering of climate by stratospheric sulfur injection. For a projected 2040 model atmosphere, consideration of VSL halogens at their upper limit results in lower ozone columns and higher UVERY due to geo-engineering for nearly all seasons and latitudes, with UVERY rising by 12% and 6% in southern and northern high latitudes, respectively. When VSL halogen sources are neglected, future UVERY increases due to declines in ozone column are nearly balanced by reductions of UVERY due to scattering by the higher stratospheric aerosol burden in mid-latitudes. Consideration of VSL sources at their upper limit tips the balance, resulting in annual average increases in UVERY of up to 5% in mid and high latitudes. Therefore, VSL halogens should be considered in models that assess the impact of stratospheric sulfur injections on the ozone layer.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:40.899632</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:38.580734</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Gravity wave forcing (GWF), which is the primary driver of the mesospheric and lower thermospheric (MLT) circulation, is difficult to measure directly. In this work, the zonal mean GWF at extratropical MLT is deduced from measured winds using momentum balance. With the GWF dominating in the MLT, the zonally averaged zonal momentum equation can be simplified to a balance relation between the GWF and the Coriolis force in the extratropics. The meridional advection of zonal momentum makes a higher order contribution to the momentum balance, especially at places where the GWF maximizes. This method is tested with WACCM3 model and preliminary results are obtained from wind measurements by CSU Na lidar and TIMED/TIDI.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Gravity wave forcing (GWF), which is the primary driver of the mesospheric and lower thermospheric (MLT) circulation, is difficult to measure directly. In this work, the zonal mean GWF at extratropical MLT is deduced from measured winds using momentum balance. With the GWF dominating in the MLT, the zonally averaged zonal momentum equation can be simplified to a balance relation between the GWF and the Coriolis force in the extratropics. The meridional advection of zonal momentum makes a higher order contribution to the momentum balance, especially at places where the GWF maximizes. This method is tested with WACCM3 model and preliminary results are obtained from wind measurements by CSU Na lidar and TIMED/TIDI.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

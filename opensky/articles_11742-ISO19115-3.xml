@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:40.198929</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:17.580857</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Thermal structure associated with deep convective clouds is investigated using Global Positioning System (GPS) radio occultation measurements. GPS data are insensitive to the presence of clouds, and provide high vertical resolution and high accuracy measurements to identify associated temperature behavior. Deep convective systems are identified using International Satellite Cloud Climatology Project (ISCCP) satellite data, and cloud tops are accurately measured using Cloud-Aerosol Lidar with Orthogonal Polarization (CALIPSO) lidar observations; we focus on 53 cases of near-coincident GPS occultations with CALIPSO profiles over deep convection. Results show a sharp spike in GPS bending angle highly correlated to the top of the clouds, corresponding to anomalously cold temperatures within the clouds. Above the clouds the temperatures return to background conditions, and there is a strong inversion at cloud top. For cloud tops below 14 km, the temperature lapse rate within the cloud often approaches a moist adiabat, consistent with rapid undiluted ascent within the convective systems.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Thermal structure associated with deep convective clouds is investigated using Global Positioning System (GPS) radio occultation measurements. GPS data are insensitive to the presence of clouds, and provide high vertical resolution and high accuracy measurements to identify associated temperature behavior. Deep convective systems are identified using International Satellite Cloud Climatology Project (ISCCP) satellite data, and cloud tops are accurately measured using Cloud-Aerosol Lidar with Orthogonal Polarization (CALIPSO) lidar observations; we focus on 53 cases of near-coincident GPS occultations with CALIPSO profiles over deep convection. Results show a sharp spike in GPS bending angle highly correlated to the top of the clouds, corresponding to anomalously cold temperatures within the clouds. Above the clouds the temperatures return to background conditions, and there is a strong inversion at cloud top. For cloud tops below 14 km, the temperature lapse rate within the cloud often approaches a moist adiabat, consistent with rapid undiluted ascent within the convective systems.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

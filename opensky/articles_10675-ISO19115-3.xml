@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:30.474920</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:03.919098</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Finescale, single- and dual-Doppler observations are used to diagnose the three-dimensional structure of the wind field surrounding a tornado that occurred near the town of Orleans, Nebraska, on 22 May 2004. The evolution of the vorticity and divergence fields and other structures near the tornado are documented in the lowest kilometer. Changes in tornado intensity are compared to the position of the tornado relative to primary and secondary gust fronts. Circulation on scales of a few kilometers surrounding the tornado remains relatively constant during the analysis period, which spans the intensifying and mature periods of the tornado's life cycle. Stretching of vertical vorticity and tilting of horizontal vorticity are diagnosed, but the latter is near or below the threshold of delectability in this analysis during the observation period in the analyzed domain. Low-level circulation within 500 m of the tornado increased several minutes before vortex-relative and ground-relative near-surface wind speeds in the tornado increased, raising the possibility that such trends in circulation may be useful in forecasting tornado intensification.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Finescale, single- and dual-Doppler observations are used to diagnose the three-dimensional structure of the wind field surrounding a tornado that occurred near the town of Orleans, Nebraska, on 22 May 2004. The evolution of the vorticity and divergence fields and other structures near the tornado are documented in the lowest kilometer. Changes in tornado intensity are compared to the position of the tornado relative to primary and secondary gust fronts. Circulation on scales of a few kilometers surrounding the tornado remains relatively constant during the analysis period, which spans the intensifying and mature periods of the tornado's life cycle. Stretching of vertical vorticity and tilting of horizontal vorticity are diagnosed, but the latter is near or below the threshold of delectability in this analysis during the observation period in the analyzed domain. Low-level circulation within 500 m of the tornado increased several minutes before vortex-relative and ground-relative near-surface wind speeds in the tornado increased, raising the possibility that such trends in circulation may be useful in forecasting tornado intensification.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

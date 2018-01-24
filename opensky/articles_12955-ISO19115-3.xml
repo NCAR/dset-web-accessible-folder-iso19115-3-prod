@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:09.142824</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:55.148168</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Peer REview for Publication and Accreditation of Research Data in the Earth sciences (PREPARDE) project is a JISC and NERC funded project which aims to investigate the policies and procedures required for the formal publication of research data, ranging from ingestion into a data repository, through to formal publication in a data journal. It also addresses key issues arising in the data publication paradigm, including, but not limited to, issues related to how one peer reviews a dataset, what criteria are needed for a repository to be considered objectively trustworthy, and how datasets and journal publications can be effectively cross-linked for the benefit of the wider research community. PREPARDE brings together a wide range of experts in the research, academic publishing and data management fields both within the Earth Sciences and in the broader life sciences with the aim of producing general guidelines applicable to a wide range of scientific disciplines and data publication types. This paper provides details of the work done in the first half of the project; the project itself will be completed in June 2013.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Peer REview for Publication and Accreditation of Research Data in the Earth sciences (PREPARDE) project is a JISC and NERC funded project which aims to investigate the policies and procedures required for the formal publication of research data, ranging from ingestion into a data repository, through to formal publication in a data journal. It also addresses key issues arising in the data publication paradigm, including, but not limited to, issues related to how one peer reviews a dataset, what criteria are needed for a repository to be considered objectively trustworthy, and how datasets and journal publications can be effectively cross-linked for the benefit of the wider research community. PREPARDE brings together a wide range of experts in the research, academic publishing and data management fields both within the Earth Sciences and in the broader life sciences with the aim of producing general guidelines applicable to a wide range of scientific disciplines and data publication types. This paper provides details of the work done in the first half of the project; the project itself will be completed in June 2013.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

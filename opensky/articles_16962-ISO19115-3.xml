@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:54.345957</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:58.942595</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>An unforced simulation of the Community Climate System Model, version 4 (CCSM4), is found to have Greenland warming and cooling events that resemble Dansgaard-Oeschger cycles in pattern and magnitude. With the caveat that only three transitions were available to be analyzed, it is found that the transitions are triggered by stochastic atmospheric forcing. The atmospheric anomalies change the strength of the subpolar gyre, leading to a change in Labrador Sea sea ice concentration and meridional heat transport. The changed climate state is maintained over centuries through the feedback between sea ice and sea level pressure in the North Atlantic. Indications that the initial atmospheric pressure anomalies are preceded by precipitation anomalies in the western Pacific warm pool are discussed. The full evolution of the anomalous climate state depends crucially on the climatic background state.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[An unforced simulation of the Community Climate System Model, version 4 (CCSM4), is found to have Greenland warming and cooling events that resemble Dansgaard-Oeschger cycles in pattern and magnitude. With the caveat that only three transitions were available to be analyzed, it is found that the transitions are triggered by stochastic atmospheric forcing. The atmospheric anomalies change the strength of the subpolar gyre, leading to a change in Labrador Sea sea ice concentration and meridional heat transport. The changed climate state is maintained over centuries through the feedback between sea ice and sea level pressure in the North Atlantic. Indications that the initial atmospheric pressure anomalies are preceded by precipitation anomalies in the western Pacific warm pool are discussed. The full evolution of the anomalous climate state depends crucially on the climatic background state.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

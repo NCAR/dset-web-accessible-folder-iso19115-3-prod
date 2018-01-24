@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:35.627032</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:59.957020</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -219,7 +219,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>An increasing number of astronomical applications depend on the measurement of polarized light. For example, our knowledge of solar magnetism relies heavily on our ability to measure and interpret polarization signatures introduced by magnetic field. Many new instruments have consequently focused considerable attention on polarimetry. For solar applications, spectro-polarimeters in particular are often designed to observe the solar atmosphere in multiple spectral lines simultaneously, thus requiring that the polarization modulator employed is efficient at all wavelengths of interest. We present designs of polarization modulators that exhibit near-optimal modulation characteristics over broad spectral ranges. Our design process employs a computer code to optimize the efficiency of the modulator at specified wavelengths. We will present several examples of modulator designs based on rotating stacks of Quartz waveplates and ferroelectric liquid crystals (FLCs). An FLC-based modulator of this design was recently deployed for the ProMag instrument at the Evans Solar Facility of NSO/SP.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[An increasing number of astronomical applications depend on the measurement of polarized light. For example, our knowledge of solar magnetism relies heavily on our ability to measure and interpret polarization signatures introduced by magnetic field. Many new instruments have consequently focused considerable attention on polarimetry. For solar applications, spectro-polarimeters in particular are often designed to observe the solar atmosphere in multiple spectral lines simultaneously, thus requiring that the polarization modulator employed is efficient at all wavelengths of interest. We present designs of polarization modulators that exhibit near-optimal modulation characteristics over broad spectral ranges. Our design process employs a computer code to optimize the efficiency of the modulator at specified wavelengths. We will present several examples of modulator designs based on rotating stacks of Quartz waveplates and ferroelectric liquid crystals (FLCs). An FLC-based modulator of this design was recently deployed for the ProMag instrument at the Evans Solar Facility of NSO/SP.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

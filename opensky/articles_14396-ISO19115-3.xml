@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:29.629738</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:22.106861</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -313,7 +313,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This document summarises guidelines produced by the UK Jisc-funded PREPARDE data publication project on the key issues of repository accreditation. It aims to lay out the principles and the requirements for data repositories intent on providing a dataset as part of the research record and as part of a research publication. The data publication requirements that repository accreditation may support are rapidly changing, hence this paper is intended as a provocation for further discussion and development in the future.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This document summarises guidelines produced by the UK Jisc-funded PREPARDE data publication project on the key issues of repository accreditation. It aims to lay out the principles and the requirements for data repositories intent on providing a dataset as part of the research record and as part of a research publication. The data publication requirements that repository accreditation may support are rapidly changing, hence this paper is intended as a provocation for further discussion and development in the future.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

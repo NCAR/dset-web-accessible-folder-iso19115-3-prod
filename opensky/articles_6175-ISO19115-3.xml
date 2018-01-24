@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:07.664917</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:30.669977</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>New technical information may lead to scientific beliefs that diverge over time from the a posteriori right answer. We call this phenomenon, which is particularly problematic in the global change arena, negative learning. Negative learning may have affected policy in important cases, including stratospheric ozone depletion, dynamics of the West Antarctic ice sheet, and population and energy projections. We simulate negative learning in the context of climate change with a formal model that embeds the concept within the Bayesian framework, illustrating that it may lead to errant decisions and large welfare losses to society. Based on these cases, we suggest approaches to scientific assessment and decision making that could mitigate the problem. Application of the tools of science history to the study of learning in global change, including critical examination of the assessment process to understand how judgments are made, could provide important insights on how to improve the flow of information to policy makers.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[New technical information may lead to scientific beliefs that diverge over time from the a posteriori right answer. We call this phenomenon, which is particularly problematic in the global change arena, negative learning. Negative learning may have affected policy in important cases, including stratospheric ozone depletion, dynamics of the West Antarctic ice sheet, and population and energy projections. We simulate negative learning in the context of climate change with a formal model that embeds the concept within the Bayesian framework, illustrating that it may lead to errant decisions and large welfare losses to society. Based on these cases, we suggest approaches to scientific assessment and decision making that could mitigate the problem. Application of the tools of science history to the study of learning in global change, including critical examination of the assessment process to understand how judgments are made, could provide important insights on how to improve the flow of information to policy makers.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

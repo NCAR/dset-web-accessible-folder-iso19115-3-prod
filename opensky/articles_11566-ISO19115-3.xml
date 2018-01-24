@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:36.192027</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:11.897303</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper follows up on the conclusion by Craig and Sneyd (2005) that the solutions to a linearized magnetostatic problem are counterexamples to the magnetostatic model of Parker (1972), demonstrating a general absence of continuous equilibrium for a magnetic field with an arbitrarily prescribed topology. The analysis presented here shows that Craig and Sneyd had incorrectly rejected an important subset of those solutions in a misunderstanding of the Parker model. The complete set of solutions when correctly interpreted is, in fact, physically consistent with the Parker model. A general discussion of the Parker theory of spontaneous current sheets is given.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper follows up on the conclusion by Craig and Sneyd (2005) that the solutions to a linearized magnetostatic problem are counterexamples to the magnetostatic model of Parker (1972), demonstrating a general absence of continuous equilibrium for a magnetic field with an arbitrarily prescribed topology. The analysis presented here shows that Craig and Sneyd had incorrectly rejected an important subset of those solutions in a misunderstanding of the Parker model. The complete set of solutions when correctly interpreted is, in fact, physically consistent with the Parker model. A general discussion of the Parker theory of spontaneous current sheets is given.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

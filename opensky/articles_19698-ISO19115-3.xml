@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:47.614420</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:18.249336</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Sea ice is an important component of the global climate system and a key indicator of climate change. A decreasing trend in Arctic sea-ice concentration is evident in recent years, whereas Antarctic sea-ice concentration exhibits a generally increasing trend. Various studies have investigated the underlying causes of the observed trends for each region, but possible linkages between the regional trends have not been studied. Here, we hypothesize that the opposite trends in Arctic and Antarctic sea-ice concentration may be linked, at least partially, through interdecadal variability of the Pacific Decadal Oscillation (PDO) and the Atlantic Multidecadal Oscillation (AMO). Although evaluation of this hypothesis is constrained by the limitations of the sea-ice cover record, preliminary statistical analyses of one short-term and two long-term time series of observed and reanalysis sea-ice concentrations data suggest the possibility of the hypothesized linkages. For all three data sets, the leading mode of variability of global sea-ice concentration is positively correlated with the AMO and negatively correlated with the PDO. Two wave trains related to the PDO and the AMO appear to produce anomalous surface-air temperature and low-level wind fields in the two polar regions that contribute to the opposite changes in sea-ice concentration.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Sea ice is an important component of the global climate system and a key indicator of climate change. A decreasing trend in Arctic sea-ice concentration is evident in recent years, whereas Antarctic sea-ice concentration exhibits a generally increasing trend. Various studies have investigated the underlying causes of the observed trends for each region, but possible linkages between the regional trends have not been studied. Here, we hypothesize that the opposite trends in Arctic and Antarctic sea-ice concentration may be linked, at least partially, through interdecadal variability of the Pacific Decadal Oscillation (PDO) and the Atlantic Multidecadal Oscillation (AMO). Although evaluation of this hypothesis is constrained by the limitations of the sea-ice cover record, preliminary statistical analyses of one short-term and two long-term time series of observed and reanalysis sea-ice concentrations data suggest the possibility of the hypothesized linkages. For all three data sets, the leading mode of variability of global sea-ice concentration is positively correlated with the AMO and negatively correlated with the PDO. Two wave trains related to the PDO and the AMO appear to produce anomalous surface-air temperature and low-level wind fields in the two polar regions that contribute to the opposite changes in sea-ice concentration.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

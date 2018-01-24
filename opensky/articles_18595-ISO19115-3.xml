@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:26.883825</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:46.303316</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Vertical shear commonly organizes atmospheric convection into coherent multiscale structures. The associated countergradient vertical transport of horizontal momentum by organized convection can enhance the wind shear and transport kinetic energy upscale. However, organized convection and its upscale effects are not represented by traditional mass-flux-based parameterizations. The present paper sets the archetypal dynamical models, originally formulated by the second author, into a parameterization context by utilizing a nonhydrostatic anelastic model with segmentally constant approximation (NAM-SCA). Using a two-dimensional framework as a starting point, NAM-SCA spontaneously generates propagating tropical squall lines in a sheared environment. High numerical efficiency is achieved through a novel compression methodology. The numerically generated archetypes produce vertical profiles of convective momentum transport that are consistent with the analytic archetype.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Vertical shear commonly organizes atmospheric convection into coherent multiscale structures. The associated countergradient vertical transport of horizontal momentum by organized convection can enhance the wind shear and transport kinetic energy upscale. However, organized convection and its upscale effects are not represented by traditional mass-flux-based parameterizations. The present paper sets the archetypal dynamical models, originally formulated by the second author, into a parameterization context by utilizing a nonhydrostatic anelastic model with segmentally constant approximation (NAM-SCA). Using a two-dimensional framework as a starting point, NAM-SCA spontaneously generates propagating tropical squall lines in a sheared environment. High numerical efficiency is achieved through a novel compression methodology. The numerically generated archetypes produce vertical profiles of convective momentum transport that are consistent with the analytic archetype.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

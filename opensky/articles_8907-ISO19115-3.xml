@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:16.710248</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:43.759569</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper describes and evaluates an algorithm for nowcasting snow water equivalent (SWE) at a point on the surface based on a real-time correlation of equivalent radar reflectivity (Ze) with snow gauge rate (S). It is shown from both theory and previous results that Ze-S relationships vary significantly during a storm and from storm to storm, requiring a real-time correlation of Ze and S. A key element of the algorithm is taking into account snow drift and distance of the radar volume from the snow gauge. The algorithm was applied to a number of New York City snowstorms and was shown to have skill in nowcasting SWE out to at least 1 h when compared with persistence. The algorithm is currently being used in a real-time winter weather nowcasting system, called Weather Support to Deicing Decision Making (WSDDM), to improve decision making regarding the deicing of aircraft and runway clearing. The algorithm can also be used to provide a real-time Z-S relationship for Weather Surveillance Radar-1988 Doppler (WSR-88D) if a well-shielded snow gauge is available to measure real-time SWE rate and appropriate range corrections are made.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper describes and evaluates an algorithm for nowcasting snow water equivalent (SWE) at a point on the surface based on a real-time correlation of equivalent radar reflectivity (Ze) with snow gauge rate (S). It is shown from both theory and previous results that Ze-S relationships vary significantly during a storm and from storm to storm, requiring a real-time correlation of Ze and S. A key element of the algorithm is taking into account snow drift and distance of the radar volume from the snow gauge. The algorithm was applied to a number of New York City snowstorms and was shown to have skill in nowcasting SWE out to at least 1 h when compared with persistence. The algorithm is currently being used in a real-time winter weather nowcasting system, called Weather Support to Deicing Decision Making (WSDDM), to improve decision making regarding the deicing of aircraft and runway clearing. The algorithm can also be used to provide a real-time Z-S relationship for Weather Surveillance Radar-1988 Doppler (WSR-88D) if a well-shielded snow gauge is available to measure real-time SWE rate and appropriate range corrections are made.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:36.068014</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:00.804055</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -373,7 +373,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper describes the flight control software of the wave-front correction system that flew on the 2009 science flight of the Sunrise balloon telescope. The software discussed here allowed fully automated operations of the wave-front sensor, communications with the adaptive optics sub-system, the pointing system, the instrument control unit and the main telescope controller. The software was developed using modern object oriented analysis and design techniques, and consists of roughly 13.000 lines of C++ code not counting code written for the on-board communication layer. The software operated error free during the 5.5 day flight.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper describes the flight control software of the wave-front correction system that flew on the 2009 science flight of the Sunrise balloon telescope. The software discussed here allowed fully automated operations of the wave-front sensor, communications with the adaptive optics sub-system, the pointing system, the instrument control unit and the main telescope controller. The software was developed using modern object oriented analysis and design techniques, and consists of roughly 13.000 lines of C++ code not counting code written for the on-board communication layer. The software operated error free during the 5.5 day flight.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

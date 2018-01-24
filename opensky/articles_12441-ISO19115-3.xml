@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:56.506131</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:39.266804</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The loss of Arctic sea ice has wide-ranging impacts, some of which are readily apparent and some of which remain obscure. For example, recent observational studies suggest that terrestrial snow cover may be affected by decreasing sea ice. Here, we examine a possible causal link between Arctic sea ice and Siberian snow cover during the past 3 decades using a suite of experiments with the National Center for Atmospheric Research Community Atmospheric Model version 3. The experiments were designed to isolate the influence of surface conditions within the Arctic Ocean from other forcing agents such as low-latitude sea surface temperatures and direct radiative effects of increasing greenhouse gases. Only those experiments that include the observed evolution of Arctic sea ice and sea surface temperatures result in increased snow depth over Siberia, while those that maintain climatological values for Arctic Ocean conditions result in no snow signal over Siberia. In the former, Siberian precipitation and air temperature both increase, but because surface air temperatures remain below freezing during most months, the snowpack thickens over this region. These results suggest that Arctic Ocean surface forcing is necessary and sufficient to induce a Siberian snow signal, and that other forcings in combination can modulate the strength and geographic extent of the response.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The loss of Arctic sea ice has wide-ranging impacts, some of which are readily apparent and some of which remain obscure. For example, recent observational studies suggest that terrestrial snow cover may be affected by decreasing sea ice. Here, we examine a possible causal link between Arctic sea ice and Siberian snow cover during the past 3 decades using a suite of experiments with the National Center for Atmospheric Research Community Atmospheric Model version 3. The experiments were designed to isolate the influence of surface conditions within the Arctic Ocean from other forcing agents such as low-latitude sea surface temperatures and direct radiative effects of increasing greenhouse gases. Only those experiments that include the observed evolution of Arctic sea ice and sea surface temperatures result in increased snow depth over Siberia, while those that maintain climatological values for Arctic Ocean conditions result in no snow signal over Siberia. In the former, Siberian precipitation and air temperature both increase, but because surface air temperatures remain below freezing during most months, the snowpack thickens over this region. These results suggest that Arctic Ocean surface forcing is necessary and sufficient to induce a Siberian snow signal, and that other forcings in combination can modulate the strength and geographic extent of the response.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

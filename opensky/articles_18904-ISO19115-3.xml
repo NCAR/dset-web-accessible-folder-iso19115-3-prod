@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:34.691451</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:58.409047</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Idealized two-dimensional model simulations are performed to study the frequent nocturnal occurrence of downslope-windstorm-type flows in Arizona's Meteor Crater. The model topography is a simplified representation of the Meteor Crater and its surroundings, with an approximately 1 degrees mesoscale slope upstream and downstream of the crater basin. A strong surface-based inversion and a katabatic flow develop above the mesoscale slope as a result of radiational cooling. The temperature and flow profiles are evaluated against observations over low-angle slopes from two field campaigns, showing that the model's turbulence parameterization has a strong impact on the near-surface conditions. The interaction of the katabatic flow with the basin topography leads to the formation of waves and hydraulic jumps over the basin. The simplified two-dimensional simulations show good qualitative agreement with observations of downslope-windstorm-type flows from the Meteor Crater. The sensitivity of the flow solution over the basin to basin depth, basin width, and background wind speed is investigated. The resulting flow regimes include a sweeping of the basin atmosphere, a wake over the upstream crater sidewall, waves over the basin with one or two wave crests, and a hydraulic jump. The regimes are discussed in the context of stratified flow over mountains.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Idealized two-dimensional model simulations are performed to study the frequent nocturnal occurrence of downslope-windstorm-type flows in Arizona's Meteor Crater. The model topography is a simplified representation of the Meteor Crater and its surroundings, with an approximately 1 degrees mesoscale slope upstream and downstream of the crater basin. A strong surface-based inversion and a katabatic flow develop above the mesoscale slope as a result of radiational cooling. The temperature and flow profiles are evaluated against observations over low-angle slopes from two field campaigns, showing that the model's turbulence parameterization has a strong impact on the near-surface conditions. The interaction of the katabatic flow with the basin topography leads to the formation of waves and hydraulic jumps over the basin. The simplified two-dimensional simulations show good qualitative agreement with observations of downslope-windstorm-type flows from the Meteor Crater. The sensitivity of the flow solution over the basin to basin depth, basin width, and background wind speed is investigated. The resulting flow regimes include a sweeping of the basin atmosphere, a wake over the upstream crater sidewall, waves over the basin with one or two wave crests, and a hydraulic jump. The regimes are discussed in the context of stratified flow over mountains.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

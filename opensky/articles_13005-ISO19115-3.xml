@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:10.459353</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:56.705739</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Helioseismic Magnetic Imager (HMI) has made full-disk vector magnetic field measurements of the Sun with cadence of 12 minutes. The three-component solar surface magnetic field vector data are from the HMI observations with the data process pipeline modules, VFISV (Very Fast Inversion of the Stokes Vector, Borrero et al., 2011) for Milne-Eddington inversion and the minimum-energy disambiguation algorithm (Metcalf 1994, Leka et al, 2009). The models of the global corona and solar wind, such as the PFSS (potential-field source-surface) model and the MHD simulations, often use the maps of solar surface magnetic field, especially the radial component (Br) as the boundary condition. The HMI observation can provide new Br data for these model. Because of weak magnetic signals at the quiet regions of the Sun, the limb darkening, and geometric effects near solar poles, we need to apply an assumption to make a whole-surface map. In this paper, we tested two assumptions for determining Br at weak-field regions. The coronal structures calculated by the PFSS model with the vector-based Br are compared with those with the magnetogram-based Br and the corona observed by the SDO/AIA (Atmospheric Imaging Assembly). In the tested period, CR 2098, the vector-based Br map gives better agreements than the line-of-sight magnetogram data, though we need further investigation for evaluation.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Helioseismic Magnetic Imager (HMI) has made full-disk vector magnetic field measurements of the Sun with cadence of 12 minutes. The three-component solar surface magnetic field vector data are from the HMI observations with the data process pipeline modules, VFISV (Very Fast Inversion of the Stokes Vector, Borrero et al., 2011) for Milne-Eddington inversion and the minimum-energy disambiguation algorithm (Metcalf 1994, Leka et al, 2009). The models of the global corona and solar wind, such as the PFSS (potential-field source-surface) model and the MHD simulations, often use the maps of solar surface magnetic field, especially the radial component (Br) as the boundary condition. The HMI observation can provide new Br data for these model. Because of weak magnetic signals at the quiet regions of the Sun, the limb darkening, and geometric effects near solar poles, we need to apply an assumption to make a whole-surface map. In this paper, we tested two assumptions for determining Br at weak-field regions. The coronal structures calculated by the PFSS model with the vector-based Br are compared with those with the magnetogram-based Br and the corona observed by the SDO/AIA (Atmospheric Imaging Assembly). In the tested period, CR 2098, the vector-based Br map gives better agreements than the line-of-sight magnetogram data, though we need further investigation for evaluation.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

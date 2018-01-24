@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:52.350781</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:55.846299</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -583,7 +583,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Understanding observed changes to the global water cycle is key to predicting future climate changes and their impacts. While many datasets document crucial variables such as precipitation, ocean salinity, runoff, and humidity, most are uncertain for determining long-term changes. In situ networks provide long time series over land, but are sparse in many regions, particularly the tropics. Satellite and reanalysis datasets provide global coverage, but their long-term stability is lacking. However, comparisons of changes among related variables can give insights into the robustness of observed changes. For example, ocean salinity, interpreted with an understanding of ocean processes, can help cross-validate precipitation. Observational evidence for human influences on the water cycle is emerging, but uncertainties resulting from internal variability and observational errors are too large to determine whether the observed and simulated changes are consistent. Improvements to the in situ and satellite observing networks that monitor the changing water cycle are required, yet continued data coverage is threatened by funding reductions. Uncertainty both in the role of anthropogenic aerosols and because of the large climate variability presently limits confidence in attribution of observed changes.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Understanding observed changes to the global water cycle is key to predicting future climate changes and their impacts. While many datasets document crucial variables such as precipitation, ocean salinity, runoff, and humidity, most are uncertain for determining long-term changes. In situ networks provide long time series over land, but are sparse in many regions, particularly the tropics. Satellite and reanalysis datasets provide global coverage, but their long-term stability is lacking. However, comparisons of changes among related variables can give insights into the robustness of observed changes. For example, ocean salinity, interpreted with an understanding of ocean processes, can help cross-validate precipitation. Observational evidence for human influences on the water cycle is emerging, but uncertainties resulting from internal variability and observational errors are too large to determine whether the observed and simulated changes are consistent. Improvements to the in situ and satellite observing networks that monitor the changing water cycle are required, yet continued data coverage is threatened by funding reductions. Uncertainty both in the role of anthropogenic aerosols and because of the large climate variability presently limits confidence in attribution of observed changes.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

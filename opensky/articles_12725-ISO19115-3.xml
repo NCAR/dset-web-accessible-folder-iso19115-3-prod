@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:02.748541</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:47.292134</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>With atmospheric greenhouse gas concentrations increasing and binding agreements to reduce anthropogenic emissions wanting, interest in geoengineering as a climate remediation option to be used in tandem with climate change mitigation is growing. Solar radiation management (SRM), due to its relatively low financial cost and the potential for near-term reduction in average global temperature, is gaining particular attention despite the risks of its use, both identified and unanticipated. This paper considers the structure--the participants, positions, actions, outcomes, information, and positive and negative payoffs--of U.S. weather modification research and governance developed between 1947 and 1980, offering a case study that may be useful in thinking through how to move forward with SRM development and governance should a decision be made to contemplate augmenting mitigation and adaptation with geoengineering.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[With atmospheric greenhouse gas concentrations increasing and binding agreements to reduce anthropogenic emissions wanting, interest in geoengineering as a climate remediation option to be used in tandem with climate change mitigation is growing. Solar radiation management (SRM), due to its relatively low financial cost and the potential for near-term reduction in average global temperature, is gaining particular attention despite the risks of its use, both identified and unanticipated. This paper considers the structure--the participants, positions, actions, outcomes, information, and positive and negative payoffs--of U.S. weather modification research and governance developed between 1947 and 1980, offering a case study that may be useful in thinking through how to move forward with SRM development and governance should a decision be made to contemplate augmenting mitigation and adaptation with geoengineering.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

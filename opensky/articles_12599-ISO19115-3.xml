@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:19.388792</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:43.418366</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -313,7 +313,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[A silver iodide (AgI) cloud-seeding parameterization has been implemented into the Thompson microphysics scheme of the Weather Research and Forecasting model to investigate glaciogenic cloud seeding effects. The sensitivity of the parameterization to meteorological conditions, cloud properties, and seeding rates was examined by simulating two-dimensional idealized moist flow over a bell-shaped mountain. The results verified that this parameterization can reasonably simulate the physical processes of cloud seeding with the limitations of the constant cloud droplet concentration assumed in the scheme and the two-dimensional model setup. The results showed the following: 1) Deposition was the dominant nucleation mode of AgI from simulated aircraft seeding, whereas immersion freezing was the most active mode for ground-based seeding. Deposition and condensation freezing were also important for ground-based seeding. Contact freezing was the weakest nucleation mode for both ground-based and airborne seeding. 2) Diffusion and riming on AgI-nucleated ice crystals depleted vapor and liquid water, resulting in more ice-phase precipitation on the ground for all of the seeding cases relative to the control cases. Most of the enhancement came from vapor depletion. The relative enhancement by seeding ranged from 0.3% to 429% under various conditions. 3) The maximum local AgI activation ratio was 60% under optimum conditions. Under most seeding conditions, however, this ratio was between 0.02% and 2% in orographic clouds. 4) The seeding effect was inversely related to the natural precipitation efficiency but was positively related to seeding rates. 5) Ground-based seeding enhanced precipitation on the lee side of the mountain, whereas airborne seeding from lower flight tracks enhanced precipitation on the windward side of the mountain.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

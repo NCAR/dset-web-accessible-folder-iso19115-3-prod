@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:48.121537</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:28.474501</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Accurate weather benefit many key societal functions and activities, including agriculture, transportation, recreation, and basic human and infrastructural safety. Over the past two decades, ensembles of numerical weather prediction models have been developed, in which multiple estimates of the current state of the atmosphere are used to generate probabilistic forecasts for future weather events. However, ensemble systems are uncalibrated and biased, and thus need to be statistically postprocessed. Bayesian model averaging (BMA) is a preferred way of doing this. Particularly for quantitative precipitation, biases and calibration errors depend critically on local terrain features. We introduce a geostatistical approach to modeling locally varying BMA parameters, as opposed to the extant method that holds parameters constant across the forecast domain. Degeneracies caused by enduring dry periods are overcome by Bayesian regularization and Laplace approximations. The new approach, called geostatistical model averaging (GMA), was applied to 48-hour-ahead forecasts of daily precipitation accumulation over the North American Pacific Northwest, using the eight-member University of Washington Mesoscale Ensemble. GMA had better aggregate and local calibration than the extant technique, and was sharper on average.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Accurate weather benefit many key societal functions and activities, including agriculture, transportation, recreation, and basic human and infrastructural safety. Over the past two decades, ensembles of numerical weather prediction models have been developed, in which multiple estimates of the current state of the atmosphere are used to generate probabilistic forecasts for future weather events. However, ensemble systems are uncalibrated and biased, and thus need to be statistically postprocessed. Bayesian model averaging (BMA) is a preferred way of doing this. Particularly for quantitative precipitation, biases and calibration errors depend critically on local terrain features. We introduce a geostatistical approach to modeling locally varying BMA parameters, as opposed to the extant method that holds parameters constant across the forecast domain. Degeneracies caused by enduring dry periods are overcome by Bayesian regularization and Laplace approximations. The new approach, called geostatistical model averaging (GMA), was applied to 48-hour-ahead forecasts of daily precipitation accumulation over the North American Pacific Northwest, using the eight-member University of Washington Mesoscale Ensemble. GMA had better aggregate and local calibration than the extant technique, and was sharper on average.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:53.113079</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:26.490541</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>An analytical model of maximum potential intensity (PI) for tropical cyclones (TCs) incorporating wind-induced ocean cooling is developed on the basis of Emanuel's PI theory. The model consists of a one-dimensional ocean and an axisymmetric TC vortex that is translating at a constant speed. The model advances upon previous approaches by accounting for TC size and shape. The PI is determined at the radius of maximum winds by radially integrating the effect of ocean mixing using a specified wind profile. The resulting analytic ocean cooling agrees well with numerical solutions, and the new PI model better captures maximum intensities of observed TCs compared with Emanuel's original PI. It is also shown that the degree of cooling (i.e., ocean's feedback to atmosphere) can be quantified by a dimensionless parameter, representing the ratio of atmospheric forcing to ocean stability.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[An analytical model of maximum potential intensity (PI) for tropical cyclones (TCs) incorporating wind-induced ocean cooling is developed on the basis of Emanuel's PI theory. The model consists of a one-dimensional ocean and an axisymmetric TC vortex that is translating at a constant speed. The model advances upon previous approaches by accounting for TC size and shape. The PI is determined at the radius of maximum winds by radially integrating the effect of ocean mixing using a specified wind profile. The resulting analytic ocean cooling agrees well with numerical solutions, and the new PI model better captures maximum intensities of observed TCs compared with Emanuel's original PI. It is also shown that the degree of cooling (i.e., ocean's feedback to atmosphere) can be quantified by a dimensionless parameter, representing the ratio of atmospheric forcing to ocean stability.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

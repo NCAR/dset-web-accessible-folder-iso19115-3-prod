@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:43.098331</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:41.840172</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study examines spiral rainbands in a numerical simulation of Hurricane Bill (2009). This paper, the first part of the study, evaluates the structures of spiral rainbands and compares them to previous observations. Four types of spiral rainbands are identified: principal, secondary, distant, and inner rainbands. Principal rainbands tend to be stationary relative to the storm center, while secondary rainbands are more transient and move around the storm center. Both principal and secondary rainbands are tilted radially outward with height and have many of the commonly observed kinematic features, such as overturning secondary circulation and enhanced tangential velocity on their radially outward sides. Principal rainbands are bounded by very dry air on their radially outward sides. Distant rainbands are radially inward-tilting convective features that have dense cold pools near the surface. Inner rainbands are made of shallow convection that appears to have originated from near the eyewall. Differences in the structures of spiral rainbands between observations and the Hurricane Bill simulation are noted. The second part of the study investigates how inner rainbands propagate and makes comparison with previously proposed hypotheses such as vortex Rossby waves.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study examines spiral rainbands in a numerical simulation of Hurricane Bill (2009). This paper, the first part of the study, evaluates the structures of spiral rainbands and compares them to previous observations. Four types of spiral rainbands are identified: principal, secondary, distant, and inner rainbands. Principal rainbands tend to be stationary relative to the storm center, while secondary rainbands are more transient and move around the storm center. Both principal and secondary rainbands are tilted radially outward with height and have many of the commonly observed kinematic features, such as overturning secondary circulation and enhanced tangential velocity on their radially outward sides. Principal rainbands are bounded by very dry air on their radially outward sides. Distant rainbands are radially inward-tilting convective features that have dense cold pools near the surface. Inner rainbands are made of shallow convection that appears to have originated from near the eyewall. Differences in the structures of spiral rainbands between observations and the Hurricane Bill simulation are noted. The second part of the study investigates how inner rainbands propagate and makes comparison with previously proposed hypotheses such as vortex Rossby waves.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

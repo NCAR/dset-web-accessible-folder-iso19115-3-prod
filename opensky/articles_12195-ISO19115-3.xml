@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:50.525926</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:31.508058</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>As the upper layer of the world ocean warms gradually during the 20th century, the inter-ocean heat transport from the Indian to Atlantic basin should be enhanced, and the Atlantic Ocean should therefore gain extra heat due to the increased upper ocean temperature of the inflow via the Agulhas leakage. Consistent with this hypothesis, instrumental records indicate that the Atlantic Ocean has warmed substantially more than any other ocean basin since the mid-20th century. A surface-forced global ocean-ice coupled model is used to test this hypothesis and to find that the observed warming trend of the Atlantic Ocean since the 1950s is largely due to an increase in the inter-ocean heat transport from the Indian Ocean. Further analysis reveals that the increased inter-ocean heat transport is not only caused by the increased upper ocean temperature of the inflow but also, and more strongly, by the increased Agulhas Current leakage, which is augmented by the strengthening of the wind stress curl over the South Atlantic and Indian subtropical gyre.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[As the upper layer of the world ocean warms gradually during the 20th century, the inter-ocean heat transport from the Indian to Atlantic basin should be enhanced, and the Atlantic Ocean should therefore gain extra heat due to the increased upper ocean temperature of the inflow via the Agulhas leakage. Consistent with this hypothesis, instrumental records indicate that the Atlantic Ocean has warmed substantially more than any other ocean basin since the mid-20th century. A surface-forced global ocean-ice coupled model is used to test this hypothesis and to find that the observed warming trend of the Atlantic Ocean since the 1950s is largely due to an increase in the inter-ocean heat transport from the Indian Ocean. Further analysis reveals that the increased inter-ocean heat transport is not only caused by the increased upper ocean temperature of the inflow but also, and more strongly, by the increased Agulhas Current leakage, which is augmented by the strengthening of the wind stress curl over the South Atlantic and Indian subtropical gyre.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

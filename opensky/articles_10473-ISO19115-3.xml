@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:25.950889</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:57.370558</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Airborne Doppler radar observations from the recent Tropical Cyclone Structure 2008 field campaign in the western North Pacific reveal the presence of deep, buoyant and vortical convective features within a vertically-sheared, westward-moving pre-depression disturbance that later developed into Typhoon Hagupit. On two consecutive days, the observations document tilted, vertically coherent precipitation, vorticity, and updraft structures in response to the complex shearing flows impinging on and occurring within the disturbance near 18 north latitude. The observations and analyses herein suggest that the low-level circulation of the pre-depression disturbance was enhanced by the coupling of the low-level vorticity and convergence in these deep convective structures on the meso-gamma scale, consistent with recent idealized studies using cloud-representing numerical weather prediction models. Further examination of these new observations is needed to quantify the relative role of these vortical convection features in the tropical cyclone spin up process.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Airborne Doppler radar observations from the recent Tropical Cyclone Structure 2008 field campaign in the western North Pacific reveal the presence of deep, buoyant and vortical convective features within a vertically-sheared, westward-moving pre-depression disturbance that later developed into Typhoon Hagupit. On two consecutive days, the observations document tilted, vertically coherent precipitation, vorticity, and updraft structures in response to the complex shearing flows impinging on and occurring within the disturbance near 18 north latitude. The observations and analyses herein suggest that the low-level circulation of the pre-depression disturbance was enhanced by the coupling of the low-level vorticity and convergence in these deep convective structures on the meso-gamma scale, consistent with recent idealized studies using cloud-representing numerical weather prediction models. Further examination of these new observations is needed to quantify the relative role of these vortical convection features in the tropical cyclone spin up process.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

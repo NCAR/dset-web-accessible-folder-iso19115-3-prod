@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:05.721712</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:50.977612</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A novel 2-moment bulk aerosol parameterization is derived from a state-of-the-art 2D bin microphysics model using power law relationships and a semi-analytical technique for activation. The activation scheme predicts both number and mass of a lognormal aerosol distribution and permits the evolution of the modal mass with time. The newly developed bulk aerosol scheme is formulated for use in traditional 2-moment bulk microphysics models. The new explicit scheme is compared with the 2D bin scheme and a simple scaling aerosol parameterization, in which all the aerosol processes are scaled to the respective cloud process rates, in a kinematic model with a specified flow field. We also perform hybrid simulations in which the explicit activation formulation is coupled to the scaling parameterization. Model results demonstrate the significance of including a physically realistic representation of aerosols contained in haze, cloud droplets, and rain. It is shown that the explicit aerosol parameterization and scaling method predict similar bulk aerosol quantities and match the results of the 2D bin model only if an explicit treatment of aerosol activation, i.e., both aerosol number and mass transfer due to activation, is included in the microphysics model.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A novel 2-moment bulk aerosol parameterization is derived from a state-of-the-art 2D bin microphysics model using power law relationships and a semi-analytical technique for activation. The activation scheme predicts both number and mass of a lognormal aerosol distribution and permits the evolution of the modal mass with time. The newly developed bulk aerosol scheme is formulated for use in traditional 2-moment bulk microphysics models. The new explicit scheme is compared with the 2D bin scheme and a simple scaling aerosol parameterization, in which all the aerosol processes are scaled to the respective cloud process rates, in a kinematic model with a specified flow field. We also perform hybrid simulations in which the explicit activation formulation is coupled to the scaling parameterization. Model results demonstrate the significance of including a physically realistic representation of aerosols contained in haze, cloud droplets, and rain. It is shown that the explicit aerosol parameterization and scaling method predict similar bulk aerosol quantities and match the results of the 2D bin model only if an explicit treatment of aerosol activation, i.e., both aerosol number and mass transfer due to activation, is included in the microphysics model.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

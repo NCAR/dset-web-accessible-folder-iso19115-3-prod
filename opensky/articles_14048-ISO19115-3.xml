@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:20.902705</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:10.511266</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study compares the distribution of surface climate trends over the Southern Ocean in austral summer between 1979-2011 and 1950-1978, using a wide variety of data sets including uninterpolated gridded marine archives, land station data, reanalysis, and satellite products. Apart from the Antarctic Peninsula and adjacent regions, sea surface temperatures and surface air temperatures decreased during 1979-2011, consistent with the expansion of Antarctic sea ice. In contrast, the Southern Ocean and coastal Antarctica warmed during 1950-1978. Sea level pressure (SLP) and zonal wind trends provide additional evidence for a sign reversal between the two periods, with cooling (warming) accompanied by stronger (weaker) westerlies and lower (higher) SLP at polar latitudes in the early (late) period. Such physically consistent trends across a range of independently measured parameters provide robust evidence for multidecadal climate variability over the Southern Ocean and place the recent Antarctic sea ice trends into a broader context.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study compares the distribution of surface climate trends over the Southern Ocean in austral summer between 1979-2011 and 1950-1978, using a wide variety of data sets including uninterpolated gridded marine archives, land station data, reanalysis, and satellite products. Apart from the Antarctic Peninsula and adjacent regions, sea surface temperatures and surface air temperatures decreased during 1979-2011, consistent with the expansion of Antarctic sea ice. In contrast, the Southern Ocean and coastal Antarctica warmed during 1950-1978. Sea level pressure (SLP) and zonal wind trends provide additional evidence for a sign reversal between the two periods, with cooling (warming) accompanied by stronger (weaker) westerlies and lower (higher) SLP at polar latitudes in the early (late) period. Such physically consistent trends across a range of independently measured parameters provide robust evidence for multidecadal climate variability over the Southern Ocean and place the recent Antarctic sea ice trends into a broader context.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

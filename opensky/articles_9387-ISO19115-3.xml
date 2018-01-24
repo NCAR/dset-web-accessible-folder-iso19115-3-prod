@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:17.459739</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:46.693518</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[Recent developments of two mid-infrared tunable laser spectrometers dedicated to carbon isotope ratio determination are presented. First, a field deployable quantum cascade laser-based sensor is described, along with line selection strategy for (CO2)-C-13/12 ratio measurements. Secondly, an instrument architecture based on difference frequency generation is presented. The analyses of fundamental limitations, specifically temperature and pressure stability, and water vapor collision broadening, are detailed.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

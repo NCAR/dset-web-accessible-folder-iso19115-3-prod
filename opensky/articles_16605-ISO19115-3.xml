@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:46.182095</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:46.462476</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A recently developed cell-integrated semi-Lagrangian (CISL) semi-implicit nonhydrostatic atmospheric solver that uses the conservative semi-Lagrangian multitracer (CSLAM) transport scheme is extended to include orographic influences. With the introduction of a new semi-implicit CISL discretization of the continuity equation, the nonhydrostatic solver, called CSLAM-NH, has been shown to ensure inherently conservative and numerically consistent transport of air mass and other scalar variables, such as moisture and passive tracers. The extended CSLAM-NH presented here includes two main modifications: transformation of the equation set to a terrain-following height coordinate to incorporate orography and an iterative centered-implicit time-stepping scheme to enhance the stability of the scheme associated with gravity wave propagation at large time steps. CSLAM-NH is tested for a suite of idealized 2D flows, including linear mountain waves (dry), a downslope windstorm (dry), and orographic cloud formation.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A recently developed cell-integrated semi-Lagrangian (CISL) semi-implicit nonhydrostatic atmospheric solver that uses the conservative semi-Lagrangian multitracer (CSLAM) transport scheme is extended to include orographic influences. With the introduction of a new semi-implicit CISL discretization of the continuity equation, the nonhydrostatic solver, called CSLAM-NH, has been shown to ensure inherently conservative and numerically consistent transport of air mass and other scalar variables, such as moisture and passive tracers. The extended CSLAM-NH presented here includes two main modifications: transformation of the equation set to a terrain-following height coordinate to incorporate orography and an iterative centered-implicit time-stepping scheme to enhance the stability of the scheme associated with gravity wave propagation at large time steps. CSLAM-NH is tested for a suite of idealized 2D flows, including linear mountain waves (dry), a downslope windstorm (dry), and orographic cloud formation.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

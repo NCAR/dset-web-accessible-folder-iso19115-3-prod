@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:44.272476</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:13.225076</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We report here the concept of using near-real time observations from a coronagraph to provide early warning of a fast coronal mass ejection (CME) and the possible onset of a solar energetic particle (SEP) event. The 1 January 2016, fast CME, and its associated SEP event are cited as an example. The CME was detected by the ground-based K-Cor coronagraph at Mauna Loa Solar Observatory and by the SOHO Large Angle and Spectrometric Coronagraph. The near-real-time availability of the high-cadence K-Cor observations in the low corona leads to an obvious question: Why has no one attempted to use a coronagraph as an early warning device for SEP events? The answer is that the low image cadence and the long latency of existing spaceborne coronagraphs make them valid for archival studies but typically unsuitable for near-real-time forecasting. The January 2016 event provided favorable CME viewing geometry and demonstrated that the primary component of a prototype ground-based system for SEP warnings is available several hours on most days. We discuss how a conceptual CME-based warning system relates to other techniques, including an estimate of the relative SEP warning times, and how such a system might be realized.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We report here the concept of using near-real time observations from a coronagraph to provide early warning of a fast coronal mass ejection (CME) and the possible onset of a solar energetic particle (SEP) event. The 1 January 2016, fast CME, and its associated SEP event are cited as an example. The CME was detected by the ground-based K-Cor coronagraph at Mauna Loa Solar Observatory and by the SOHO Large Angle and Spectrometric Coronagraph. The near-real-time availability of the high-cadence K-Cor observations in the low corona leads to an obvious question: Why has no one attempted to use a coronagraph as an early warning device for SEP events? The answer is that the low image cadence and the long latency of existing spaceborne coronagraphs make them valid for archival studies but typically unsuitable for near-real-time forecasting. The January 2016 event provided favorable CME viewing geometry and demonstrated that the primary component of a prototype ground-based system for SEP warnings is available several hours on most days. We discuss how a conceptual CME-based warning system relates to other techniques, including an estimate of the relative SEP warning times, and how such a system might be realized.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

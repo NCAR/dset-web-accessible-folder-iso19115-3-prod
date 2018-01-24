@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:41.910085</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:09.763065</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Diagnosing the source of errors in snow models requires intensive observations, a flexible model framework to test competing hypotheses, and a methodology to systematically test the dominant snow processes. We present a novel process-based approach to diagnose model errors through an example that focuses on snow accumulation processes (precipitation partitioning, new snow density, and snow compaction). Twelve years of meteorological and snow board measurements were used to identify the main source of model error on each snow accumulation day. Results show that modeled values of new snow density were outside observational uncertainties in 52% of days available for evaluation, while precipitation partitioning and compaction were in error 45% and 16% of the time, respectively. Precipitation partitioning errors mattered more for total winter accumulation during the anomalously warm winter of 2014-2015, when a higher fraction of precipitation fell within the temperature range where partition methods had the largest error. These results demonstrate how isolating individual model processes can identify the primary source(s) of model error, which helps prioritize future research.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Diagnosing the source of errors in snow models requires intensive observations, a flexible model framework to test competing hypotheses, and a methodology to systematically test the dominant snow processes. We present a novel process-based approach to diagnose model errors through an example that focuses on snow accumulation processes (precipitation partitioning, new snow density, and snow compaction). Twelve years of meteorological and snow board measurements were used to identify the main source of model error on each snow accumulation day. Results show that modeled values of new snow density were outside observational uncertainties in 52% of days available for evaluation, while precipitation partitioning and compaction were in error 45% and 16% of the time, respectively. Precipitation partitioning errors mattered more for total winter accumulation during the anomalously warm winter of 2014-2015, when a higher fraction of precipitation fell within the temperature range where partition methods had the largest error. These results demonstrate how isolating individual model processes can identify the primary source(s) of model error, which helps prioritize future research.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

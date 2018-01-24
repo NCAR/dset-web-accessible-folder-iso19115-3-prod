@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:42.407833</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:10.497622</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The spread of a dense gas in the atmosphere is a phenomenon that occurs widely with natural (and anthropogenic) causes and is often associated with high impact and hazardous events. In this study a method of simulating the spread of dense gases in a numerical weather prediction model is presented. This approach has the advantage that dense gases can be simulated in regions of complex terrain using realistic forcings (in terms of both the driving meteorological fields and the representation of surface characteristics). The model formulation is tested against semi-idealized gravity-current-type experiments and similar modelling studies. As an example application, the Lake Nyos disaster of 1986, where a dense CO2 cloud spread through a mountainous region of Cameroon, is simulated. The predicted spread of CO2 agrees (qualitatively) very well with the observations. The method provides a means of determining a potential safe height' above which simulated concentrations are not hazardous, and thus the height above which refuge should be taken during similar future events. The simulation demonstrates a novel application which can be rapidly applied to other scenarios.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The spread of a dense gas in the atmosphere is a phenomenon that occurs widely with natural (and anthropogenic) causes and is often associated with high impact and hazardous events. In this study a method of simulating the spread of dense gases in a numerical weather prediction model is presented. This approach has the advantage that dense gases can be simulated in regions of complex terrain using realistic forcings (in terms of both the driving meteorological fields and the representation of surface characteristics). The model formulation is tested against semi-idealized gravity-current-type experiments and similar modelling studies. As an example application, the Lake Nyos disaster of 1986, where a dense CO2 cloud spread through a mountainous region of Cameroon, is simulated. The predicted spread of CO2 agrees (qualitatively) very well with the observations. The method provides a means of determining a potential safe height' above which simulated concentrations are not hazardous, and thus the height above which refuge should be taken during similar future events. The simulation demonstrates a novel application which can be rapidly applied to other scenarios.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

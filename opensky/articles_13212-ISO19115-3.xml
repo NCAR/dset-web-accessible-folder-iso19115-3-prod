@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:14.925596</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:02.766077</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>It has been known for many decades that lunar tidal effects in the equatorial electrojet are greatest during northern winter; the mechanism of which has never been identified. Recent findings of the lunar tidal amplification during stratospheric sudden warming (SSW) events raise the question: To what extent do SSWs contribute to the large lunar tide during northern winter? We use ground magnetometer data at Addis Ababa for the years 1958-2007 to determine the average M2 lunar tide in the equatorial electrojet at different seasons. When all the data are included, the amplitude of the lunar tide is largest during northern winter. However, when only the data for non-SSW winters are used, the amplitude during northern winter is not significantly larger than during other seasons. The M2 amplitude during SSW events is approximately 3 times as large as that for non-SSW winters, and it considerably increases the amplitude of the average lunar tide during northern winter. The M2 phase is not significantly affected by SSW events. These results indicate that the occurrence of SSW events significantly modulates the seasonal pattern of lunar tidal effects on the ionosphere.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[It has been known for many decades that lunar tidal effects in the equatorial electrojet are greatest during northern winter; the mechanism of which has never been identified. Recent findings of the lunar tidal amplification during stratospheric sudden warming (SSW) events raise the question: To what extent do SSWs contribute to the large lunar tide during northern winter? We use ground magnetometer data at Addis Ababa for the years 1958-2007 to determine the average M2 lunar tide in the equatorial electrojet at different seasons. When all the data are included, the amplitude of the lunar tide is largest during northern winter. However, when only the data for non-SSW winters are used, the amplitude during northern winter is not significantly larger than during other seasons. The M2 amplitude during SSW events is approximately 3 times as large as that for non-SSW winters, and it considerably increases the amplitude of the average lunar tide during northern winter. The M2 phase is not significantly affected by SSW events. These results indicate that the occurrence of SSW events significantly modulates the seasonal pattern of lunar tidal effects on the ionosphere.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

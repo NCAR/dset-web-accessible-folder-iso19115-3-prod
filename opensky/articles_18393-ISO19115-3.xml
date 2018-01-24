@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:22.332520</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:39.406567</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>If the initial and boundary data for a partial differential equation (PDE) do not obey an infinite set of compatibility conditions, singularities will arise in its solutions. For dissipative equations, these singularities are well localized in both time and space, and an effective numerical remedy is available for accurate computation of initial transients. This study analyzes the nature of similar corner discrepancies for dispersive equations, such as ut-uxxx= 0 and iut-uxxx= 0.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[If the initial and boundary data for a partial differential equation (PDE) do not obey an infinite set of compatibility conditions, singularities will arise in its solutions. For dissipative equations, these singularities are well localized in both time and space, and an effective numerical remedy is available for accurate computation of initial transients. This study analyzes the nature of similar corner discrepancies for dispersive equations, such as ut-uxxx= 0 and iut-uxxx= 0.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

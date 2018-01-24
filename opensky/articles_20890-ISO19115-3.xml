@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:52.990229</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:26.238689</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Tibetan Plateau and the surrounding (TPS) with its vast land mass and high elevation affects regional climate and weather. The TPS is also the headwater of 9 major Asian rivers that provide fresh water for 1.65 billion people and many ecosystems, with wet season (May-September) precipitation being the critical component of the fresh water. Using station observations, ERA-Interim and MERRA2 reanalysis, we find that wet season precipitation displays vertical gradients (i.e., changes with elevation) that vary within the region on the TPS. The decrease of precipitation with elevation occurs in the interior TPS with elevation larger than 4000 m, little or no change over the southeastern TPS, and increase elsewhere. The increase of precipitation with elevation is caused by increasing convective available potential energy (CAPE) and decreasing lifting condensation level (LCL) with elevation overwhelming the effects of decreasing total column water vapor (TCWV) with elevation. The decreasing precipitation with elevation is due to the combined effects of increasing LCL and decreasing TCWV. LCL and CAPE play a more important role than TCWV in determining the spatial patterns. These findings are important for hydrology study in observation scarce mountainous areas, water resources and ecosystem managements in the region.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Tibetan Plateau and the surrounding (TPS) with its vast land mass and high elevation affects regional climate and weather. The TPS is also the headwater of 9 major Asian rivers that provide fresh water for 1.65 billion people and many ecosystems, with wet season (May-September) precipitation being the critical component of the fresh water. Using station observations, ERA-Interim and MERRA2 reanalysis, we find that wet season precipitation displays vertical gradients (i.e., changes with elevation) that vary within the region on the TPS. The decrease of precipitation with elevation occurs in the interior TPS with elevation larger than 4000 m, little or no change over the southeastern TPS, and increase elsewhere. The increase of precipitation with elevation is caused by increasing convective available potential energy (CAPE) and decreasing lifting condensation level (LCL) with elevation overwhelming the effects of decreasing total column water vapor (TCWV) with elevation. The decreasing precipitation with elevation is due to the combined effects of increasing LCL and decreasing TCWV. LCL and CAPE play a more important role than TCWV in determining the spatial patterns. These findings are important for hydrology study in observation scarce mountainous areas, water resources and ecosystem managements in the region.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

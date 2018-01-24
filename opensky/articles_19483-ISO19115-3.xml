@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:42.617791</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:10.843905</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -343,7 +343,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The 2015 hurricane season in the eastern and central Pacific Ocean (EPO and CPO), particularly around Hawaii, was extremely active, including a record number of tropical cyclones (TCs) and the first instance of three simultaneous category-4 hurricanes in the EPO and CPO. A strong El Nino developed during the 2015 boreal summer season and was attributed by some to be the cause of the extreme number of TCs. However, according to a suite of targeted high-resolution model experiments, the extreme 2015 EPO and CPO hurricane season was not primarily induced by the 2015 El Nino tropical Pacific warming, but by warming in the subtropical Pacific Ocean. This warming is not typical of El Nino, but rather of the Pacific meridional mode (PMM) superimposed on long-term anthropogenic warming. Although the likelihood of such an extreme year depends on the phase of natural variability, the coupled GCM projects an increase in the frequency of such extremely active TC years over the next few decades for EPO, CPO, and Hawaii as a result of enhanced subtropical Pacific warming from anthropogenic greenhouse gas forcing.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The 2015 hurricane season in the eastern and central Pacific Ocean (EPO and CPO), particularly around Hawaii, was extremely active, including a record number of tropical cyclones (TCs) and the first instance of three simultaneous category-4 hurricanes in the EPO and CPO. A strong El Nino developed during the 2015 boreal summer season and was attributed by some to be the cause of the extreme number of TCs. However, according to a suite of targeted high-resolution model experiments, the extreme 2015 EPO and CPO hurricane season was not primarily induced by the 2015 El Nino tropical Pacific warming, but by warming in the subtropical Pacific Ocean. This warming is not typical of El Nino, but rather of the Pacific meridional mode (PMM) superimposed on long-term anthropogenic warming. Although the likelihood of such an extreme year depends on the phase of natural variability, the coupled GCM projects an increase in the frequency of such extremely active TC years over the next few decades for EPO, CPO, and Hawaii as a result of enhanced subtropical Pacific warming from anthropogenic greenhouse gas forcing.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

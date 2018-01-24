@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:16.108694</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:42.884994</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A novel technique is developed for profiling radars to measure atmospheric wind fields when signals are contaminated by migrating birds. It exploits the idea of adaptive beamforming to suppress the interference from birds to provide accurate three-dimensional wind measurements using a spaced antenna system. Numerical simulations based on the configuration of the UHF Multiple Antenna Profiler Radar of the National Center for Atmospheric Research are implemented to investigate the performance and the limitation of the proposed technique. The feasibility of atmospheric wind measurements is further demonstrated by using the experimental data. Wind measurements from the full correlation analysis (FCA) and postset beam steering (PBS) are also provided for comparisons. During the period when a single bird is present in the radar beam, the proposed technique produces wind estimates that are consistent with atmospheric wind field prior to the entry of the bird, while both FCA and PBS wind estimates are biased.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A novel technique is developed for profiling radars to measure atmospheric wind fields when signals are contaminated by migrating birds. It exploits the idea of adaptive beamforming to suppress the interference from birds to provide accurate three-dimensional wind measurements using a spaced antenna system. Numerical simulations based on the configuration of the UHF Multiple Antenna Profiler Radar of the National Center for Atmospheric Research are implemented to investigate the performance and the limitation of the proposed technique. The feasibility of atmospheric wind measurements is further demonstrated by using the experimental data. Wind measurements from the full correlation analysis (FCA) and postset beam steering (PBS) are also provided for comparisons. During the period when a single bird is present in the radar beam, the proposed technique produces wind estimates that are consistent with atmospheric wind field prior to the entry of the bird, while both FCA and PBS wind estimates are biased.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

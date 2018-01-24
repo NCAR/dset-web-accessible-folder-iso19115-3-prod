@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:56.671787</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:31.799970</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Predicting when and where individual convective storms will develop remains an elusive challenge. Previous studies have suggested that surface observations can capture convective-scale features relevant to the convective initiation (CI) process, and new surface observing platforms such as crowdsourcing could significantly increase surface observation density in the near future. Here, a series of observing system simulation experiments (OSSEs) are performed to determine the required density of surface observations necessary to constrain storm-scale forecasts of CI. Ensemble simulations of an environment where CI occurs are cycled hourly using the CM1 model while assimilating synthetic surface observations at varying densities. Skillful and reliable storm-scale forecasts of CI are produced when surface observations of at least 4-km-and particularly with 1-km-density are assimilated, but only for forecasts initiated within 1 h of CI. Time scales of forecast improvement in surface variables suggest that hourly cycling is at the upper limit for CI forecast improvement. In addition, the structure of the assimilation increments, ensemble calibration in these experiments, and challenges of convective-scale assimilation are discussed.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Predicting when and where individual convective storms will develop remains an elusive challenge. Previous studies have suggested that surface observations can capture convective-scale features relevant to the convective initiation (CI) process, and new surface observing platforms such as crowdsourcing could significantly increase surface observation density in the near future. Here, a series of observing system simulation experiments (OSSEs) are performed to determine the required density of surface observations necessary to constrain storm-scale forecasts of CI. Ensemble simulations of an environment where CI occurs are cycled hourly using the CM1 model while assimilating synthetic surface observations at varying densities. Skillful and reliable storm-scale forecasts of CI are produced when surface observations of at least 4-km-and particularly with 1-km-density are assimilated, but only for forecasts initiated within 1 h of CI. Time scales of forecast improvement in surface variables suggest that hourly cycling is at the upper limit for CI forecast improvement. In addition, the structure of the assimilation increments, ensemble calibration in these experiments, and challenges of convective-scale assimilation are discussed.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

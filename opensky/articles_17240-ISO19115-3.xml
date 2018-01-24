@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:00.586467</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:08.012997</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Recent thinning of glaciers over the Himalayas (sometimes referred to as the third polar region) have raised concern on future water supplies since these glaciers supply water to large river systems that support millions of people inhabiting the surrounding areas. Black carbon (BC) aerosols, released from incomplete combustion, have been increasingly implicated as causing large changes in the hydrology and radiative forcing over Asia and its deposition on snow is thought to increase snow melt. In India BC from biofuel combustion is highly prevalent and compared to other regions, BC aerosol amounts are high. Here, we quantify the impact of BC aerosols on snow cover and precipitation from 1990 to 2010 over the Indian subcontinental region using two different BC emission inventories. New estimates indicate that Indian BC from coal and biofuel are large and transport is expected to expand rapidly in coming years. We show that over the Himalayas, from 1990 to 2000, simulated snow/ice cover decreases by ~0.9% due to aerosols. The contribution of the enhanced Indian BC to this decline is ~30%, similar to that simulated for 2000 to 2010. Spatial patterns of modeled changes in snow cover and precipitation are similar to observations (from 1990 to 2000), and are mainly obtained with the newer BC estimates.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Recent thinning of glaciers over the Himalayas (sometimes referred to as the third polar region) have raised concern on future water supplies since these glaciers supply water to large river systems that support millions of people inhabiting the surrounding areas. Black carbon (BC) aerosols, released from incomplete combustion, have been increasingly implicated as causing large changes in the hydrology and radiative forcing over Asia and its deposition on snow is thought to increase snow melt. In India BC from biofuel combustion is highly prevalent and compared to other regions, BC aerosol amounts are high. Here, we quantify the impact of BC aerosols on snow cover and precipitation from 1990 to 2010 over the Indian subcontinental region using two different BC emission inventories. New estimates indicate that Indian BC from coal and biofuel are large and transport is expected to expand rapidly in coming years. We show that over the Himalayas, from 1990 to 2000, simulated snow/ice cover decreases by ~0.9% due to aerosols. The contribution of the enhanced Indian BC to this decline is ~30%, similar to that simulated for 2000 to 2010. Spatial patterns of modeled changes in snow cover and precipitation are similar to observations (from 1990 to 2000), and are mainly obtained with the newer BC estimates.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

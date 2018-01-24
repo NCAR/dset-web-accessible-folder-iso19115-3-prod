@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:48.173310</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:19.016120</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A two-dimensional conservative nonhydrostatic (NH) model based on the compressible Euler system has been developed in the Cartesian (x, z) domain. The spatial discretization is based on a Godunov-type finite-volume (FV) method employing dimensionally split fifth-order reconstructions. The model uses the explicit strong stability-preserving Runge-Kutta scheme and a split-explicit method. The time-split approach is generally based on the split-explicit method, where the acoustic modes in the Euler system are solved using small time steps, and the advective modes are treated with larger time steps. However, for the Godunov-type FV method this traditional approach is not trivial for the Euler system of equations. In the present study, a new strategy is proposed by which the Euler system is split into three modes, and a multirate time integration is performed. The computational efficiency of the split scheme is compared with the explicit one using the FV model with various NH benchmark test cases.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A two-dimensional conservative nonhydrostatic (NH) model based on the compressible Euler system has been developed in the Cartesian (x, z) domain. The spatial discretization is based on a Godunov-type finite-volume (FV) method employing dimensionally split fifth-order reconstructions. The model uses the explicit strong stability-preserving Runge-Kutta scheme and a split-explicit method. The time-split approach is generally based on the split-explicit method, where the acoustic modes in the Euler system are solved using small time steps, and the advective modes are treated with larger time steps. However, for the Godunov-type FV method this traditional approach is not trivial for the Euler system of equations. In the present study, a new strategy is proposed by which the Euler system is split into three modes, and a multirate time integration is performed. The computational efficiency of the split scheme is compared with the explicit one using the FV model with various NH benchmark test cases.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

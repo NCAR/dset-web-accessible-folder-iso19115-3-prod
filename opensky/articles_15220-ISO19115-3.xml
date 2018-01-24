@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:35.345497</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:30.292091</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Using an interactive aerosol-climate model we find that absorbing anthropogenic aerosols, whether coexisting with scattering aerosols or not, can significantly affect the Indian summer monsoon system. We also show that the influence is reflected in a perturbation to the moist static energy in the sub-cloud layer, initiated as a heating by absorbing aerosols to the planetary boundary layer. The perturbation appears mostly over land, extending from just north of the Arabian Sea to northern India along the southern slope of the Tibetan Plateau. As a result, during the summer monsoon season, modeled convective precipitation experiences a clear northward shift, coincidently in general agreement with observed monsoon precipitation changes in recent decades particularly during the onset season. We demonstrate that the sub-cloud layer moist static energy is a useful quantity for determining the impact of aerosols on the northward extent and to a certain degree the strength of monsoon convection.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Using an interactive aerosol-climate model we find that absorbing anthropogenic aerosols, whether coexisting with scattering aerosols or not, can significantly affect the Indian summer monsoon system. We also show that the influence is reflected in a perturbation to the moist static energy in the sub-cloud layer, initiated as a heating by absorbing aerosols to the planetary boundary layer. The perturbation appears mostly over land, extending from just north of the Arabian Sea to northern India along the southern slope of the Tibetan Plateau. As a result, during the summer monsoon season, modeled convective precipitation experiences a clear northward shift, coincidently in general agreement with observed monsoon precipitation changes in recent decades particularly during the onset season. We demonstrate that the sub-cloud layer moist static energy is a useful quantity for determining the impact of aerosols on the northward extent and to a certain degree the strength of monsoon convection.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

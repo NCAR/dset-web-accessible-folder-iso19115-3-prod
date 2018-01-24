@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:44.031689</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:43.184700</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The low-level diurnal winds for different locations of eastern China are documented using the June 2006-11 hourly model data simulated with the Weather Research and Forecasting (WRF) mesoscale model with a 9-km horizontal resolution. A simple 1D model, including both diurnal thermal forcing and diurnally varying boundary layer friction, is found to explain important features of the WRF-simulated diurnal boundary layer winds in eastern China. For example, in northeastern China, at a similar latitude, the maximum velocity parallel to the coastline at a longitude over the ocean occurs earlier than the maximum velocity parallel to the inland chain of coastline-parallel mountains at a longitude over land. This difference can be identified with the well-known Blackadar effect over the land. Off the eastern coast of China, the diurnal winds for different latitudes over the ocean vary in both phase and amplitude, consistent with expectations based on the simple 1D model.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The low-level diurnal winds for different locations of eastern China are documented using the June 2006-11 hourly model data simulated with the Weather Research and Forecasting (WRF) mesoscale model with a 9-km horizontal resolution. A simple 1D model, including both diurnal thermal forcing and diurnally varying boundary layer friction, is found to explain important features of the WRF-simulated diurnal boundary layer winds in eastern China. For example, in northeastern China, at a similar latitude, the maximum velocity parallel to the coastline at a longitude over the ocean occurs earlier than the maximum velocity parallel to the inland chain of coastline-parallel mountains at a longitude over land. This difference can be identified with the well-known Blackadar effect over the land. Off the eastern coast of China, the diurnal winds for different latitudes over the ocean vary in both phase and amplitude, consistent with expectations based on the simple 1D model.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

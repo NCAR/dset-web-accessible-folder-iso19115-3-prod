@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:15.069750</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:39.869462</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[Two-day wave observations during January - March 2005 are reported using the recently launched Microwave Limb Sounder (MLS) aboard NASA's Earth Observing System Aura mission. Wave-induced disturbances in temperature, water vapor, carbon monoxide, and MLS line-of-sight wind appear in early January, peak near the end of January, and persist until late February. Temperature and wind amplitudes as large as 9 K and 50 m/s are observed near 90 km. The wave disturbance is initially confined in the mid to low summer latitudes where the climatological summer easterly jet exhibits strong shear. The wave then develops features akin to the third Rossby-gravity global normal mode, with a weak temperature disturbance in the winter hemisphere (anti-symmetric about the equator) and wind disturbance over the equator. Strong wind perturbation episode around 17 - 23 January 2005 in the mid-latitude Southern hemisphere coincides with a particularly intense solar proton event.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

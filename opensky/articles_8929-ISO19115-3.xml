@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:17.240375</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:44.570000</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We have examined the Michelson Interferometer (MI) OH airglow measurements at the South Pole Station and the National Center for Environment Prediction (NCEP) temperatures to investigate the dynamical effects of sudden stratospheric warming (SSW) events on the Antarctic mesosphere and stratosphere. Comparisons of stratospheric and mesospheric temperatures at the South Pole during the 1995 and 2002 observing seasons show evidence of mesospheric cooling preceding the SSW events. Spectral analyses of South Pole OH air glow brightness measurements from the 1995 and 2002 observing season and NCEP stratospheric temperatures show amplification of the 4-day wave planetary wave before the start of the mesospheric cooling trend, the latter preceding the onset of SSW event. A similar behavior of planetary wave is also seen in the stratosphere where the 4-day wave is seen to grow in amplitude just before the peak of the sudden increase in temperatures.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We have examined the Michelson Interferometer (MI) OH airglow measurements at the South Pole Station and the National Center for Environment Prediction (NCEP) temperatures to investigate the dynamical effects of sudden stratospheric warming (SSW) events on the Antarctic mesosphere and stratosphere. Comparisons of stratospheric and mesospheric temperatures at the South Pole during the 1995 and 2002 observing seasons show evidence of mesospheric cooling preceding the SSW events. Spectral analyses of South Pole OH air glow brightness measurements from the 1995 and 2002 observing season and NCEP stratospheric temperatures show amplification of the 4-day wave planetary wave before the start of the mesospheric cooling trend, the latter preceding the onset of SSW event. A similar behavior of planetary wave is also seen in the stratosphere where the 4-day wave is seen to grow in amplitude just before the peak of the sudden increase in temperatures.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

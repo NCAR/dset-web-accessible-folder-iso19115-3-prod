@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:39.269905</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:16.299662</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>To investigate the potential for initialization to improve decadal range predictions, we quantify the initial value predictability of upper 300 m temperature in the two northern ocean basins for 12 models from Coupled Model Intercomparison Project phase 5 (CMIP5), and we contrast it with the forced predictability in Representative Concentration Pathways (RCP) 4.5 climate change projections. We use a recently introduced method that produces predictability estimates from long control runs. Many initial states are considered, and we find on average 1) initialization has the potential to improve skill in the first 5 years in the North Pacific and the first 9 years in the North Atlantic, and 2) the impact from initialization becomes secondary compared to the impact of RCP4.5 forcing after 6 1/2 and 8 years in the two basins, respectively. Model-to-model and spatial variations in these limits are, however, substantial.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[To investigate the potential for initialization to improve decadal range predictions, we quantify the initial value predictability of upper 300 m temperature in the two northern ocean basins for 12 models from Coupled Model Intercomparison Project phase 5 (CMIP5), and we contrast it with the forced predictability in Representative Concentration Pathways (RCP) 4.5 climate change projections. We use a recently introduced method that produces predictability estimates from long control runs. Many initial states are considered, and we find on average 1) initialization has the potential to improve skill in the first 5 years in the North Pacific and the first 9 years in the North Atlantic, and 2) the impact from initialization becomes secondary compared to the impact of RCP4.5 forcing after 6 1/2 and 8 years in the two basins, respectively. Model-to-model and spatial variations in these limits are, however, substantial.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

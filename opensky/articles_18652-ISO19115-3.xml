@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:28.419895</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:48.595781</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Global mean sea level rise estimated from satellite altimetry provides a strong constraint on climate variability and change and is expected to accelerate as the rates of both ocean warming and cryospheric mass loss increase over time. In stark contrast to this expectation however, current altimeter products show the rate of sea level rise to have decreased from the first to second decades of the altimeter era. Here, a combined analysis of altimeter data and specially designed climate model simulations shows the 1991 eruption of Mt Pinatubo to likely have masked the acceleration that would have otherwise occurred. This masking arose largely from a recovery in ocean heat content through the mid to late 1990s subsequent to major heat content reductions in the years following the eruption. A consequence of this finding is that barring another major volcanic eruption, a detectable acceleration is likely to emerge from the noise of internal climate variability in the coming decade.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Global mean sea level rise estimated from satellite altimetry provides a strong constraint on climate variability and change and is expected to accelerate as the rates of both ocean warming and cryospheric mass loss increase over time. In stark contrast to this expectation however, current altimeter products show the rate of sea level rise to have decreased from the first to second decades of the altimeter era. Here, a combined analysis of altimeter data and specially designed climate model simulations shows the 1991 eruption of Mt Pinatubo to likely have masked the acceleration that would have otherwise occurred. This masking arose largely from a recovery in ocean heat content through the mid to late 1990s subsequent to major heat content reductions in the years following the eruption. A consequence of this finding is that barring another major volcanic eruption, a detectable acceleration is likely to emerge from the noise of internal climate variability in the coming decade.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

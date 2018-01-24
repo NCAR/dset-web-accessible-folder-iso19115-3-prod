@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:12.433708</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:24.602281</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -898,7 +898,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Deep Convective Clouds and Chemistry (DC3) field experiment produced an exceptional dataset on thunderstorms, including their dynamical, physical, and electrical structures and their impact on the chemical composition of the troposphere. The field experiment gathered detailed information on the chemical composition of the inflow and outflow regions of midlatitude thunderstorms in northeast Colorado, west Texas to central Oklahoma, and northern Alabama. A unique aspect of the DC3 strategy was to locate and sample the convective outflow a day after active convection in order to measure the chemical transformations within the upper-tropospheric convective plume. These data are being analyzed to investigate transport and dynamics of the storms, scavenging of soluble trace gases and aerosols, production of nitrogen oxides by lightning, relationships between lightning flash rates and storm parameters, chemistry in the upper troposphere that is affected by the convection, and related source characterization of the three sampling regions. DC3 also documented biomass-burning plumes and the interactions of these plumes with deep convection.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Deep Convective Clouds and Chemistry (DC3) field experiment produced an exceptional dataset on thunderstorms, including their dynamical, physical, and electrical structures and their impact on the chemical composition of the troposphere. The field experiment gathered detailed information on the chemical composition of the inflow and outflow regions of midlatitude thunderstorms in northeast Colorado, west Texas to central Oklahoma, and northern Alabama. A unique aspect of the DC3 strategy was to locate and sample the convective outflow a day after active convection in order to measure the chemical transformations within the upper-tropospheric convective plume. These data are being analyzed to investigate transport and dynamics of the storms, scavenging of soluble trace gases and aerosols, production of nitrogen oxides by lightning, relationships between lightning flash rates and storm parameters, chemistry in the upper troposphere that is affected by the convection, and related source characterization of the three sampling regions. DC3 also documented biomass-burning plumes and the interactions of these plumes with deep convection.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

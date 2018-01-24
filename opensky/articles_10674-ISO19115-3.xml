@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:30.442962</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:03.868105</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The finite-volume transport scheme of Miura, for icosahedral-hexagonal meshes on the sphere, is extended by using higher-order reconstructions of the transported scalar within the formulation. The use of second- and fourth-order reconstructions, in contrast to the first-order reconstruction used in the original scheme, results in significantly more accurate solutions at a given mesh density, and better phase and amplitude error characteristics in standard transport tests. The schemes using the higher-order reconstructions also exhibit much less dependence of the solution error on the time step compared to the original formulation. The original scheme of Miura was only tested using a nondeformational time-independent flow. The deformational time-dependent flow test used to examine 2D planar transport in Blossey and Durran is adapted to the sphere, and the schemes are subjected to this test. The results largely confirm those generated using the simpler tests. The results also indicate that the scheme using the second-order reconstruction is most efficient and its use is recommended over the scheme using the first-order reconstruction. The second-order reconstruction uses the same computational stencil as the first-order reconstruction and thus does not create any additional parallelization issues.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The finite-volume transport scheme of Miura, for icosahedral-hexagonal meshes on the sphere, is extended by using higher-order reconstructions of the transported scalar within the formulation. The use of second- and fourth-order reconstructions, in contrast to the first-order reconstruction used in the original scheme, results in significantly more accurate solutions at a given mesh density, and better phase and amplitude error characteristics in standard transport tests. The schemes using the higher-order reconstructions also exhibit much less dependence of the solution error on the time step compared to the original formulation. The original scheme of Miura was only tested using a nondeformational time-independent flow. The deformational time-dependent flow test used to examine 2D planar transport in Blossey and Durran is adapted to the sphere, and the schemes are subjected to this test. The results largely confirm those generated using the simpler tests. The results also indicate that the scheme using the second-order reconstruction is most efficient and its use is recommended over the scheme using the first-order reconstruction. The second-order reconstruction uses the same computational stencil as the first-order reconstruction and thus does not create any additional parallelization issues.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

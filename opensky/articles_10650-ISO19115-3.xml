@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:29.901986</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:03.090978</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -358,7 +358,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Because of the climate and air quality effects of organic aerosol, it is important to quantify the influence of anthropogenic emissions on the aerosol burden, both globally and regionally, and both in terms of mass and number. Methods exist with which the fractions of organic aerosol resulting directly from anthropogenic and biogenic processes can be estimated. However, anthropogenic emissions can also lead to an enhancement in secondary organic aerosol formation from naturally emitted precursors. We term this enhanced biogenic secondary organic aerosol (eBSOA). Here, we review the mechanisms through which such an effect may occur in the atmosphere and describe a work flow via which it may be quantified, using existing measurement techniques. An examination of published data reveals support for the existence of the enhancement effect.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Because of the climate and air quality effects of organic aerosol, it is important to quantify the influence of anthropogenic emissions on the aerosol burden, both globally and regionally, and both in terms of mass and number. Methods exist with which the fractions of organic aerosol resulting directly from anthropogenic and biogenic processes can be estimated. However, anthropogenic emissions can also lead to an enhancement in secondary organic aerosol formation from naturally emitted precursors. We term this enhanced biogenic secondary organic aerosol (eBSOA). Here, we review the mechanisms through which such an effect may occur in the atmosphere and describe a work flow via which it may be quantified, using existing measurement techniques. An examination of published data reveals support for the existence of the enhancement effect.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

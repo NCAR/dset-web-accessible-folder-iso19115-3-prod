@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:53.437973</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:27.052622</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Offshore wind energy development is underway in the U.S., with proposed sites located in hurricane-prone regions. Turbine design criteria outlined by the International Electrotechnical Commission do not encompass the extreme wind speeds and directional shifts of hurricanes stronger than category 2. We examine a hurricane's turbulent eyewall using large-eddy simulations with Cloud Model 1. Gusts and mean wind speeds near the eyewall of a category 5 hurricane exceed the current Class I turbine design threshold of 50 m s(-1) mean wind and 70 m s(-1) gusts. Largest gust factors occur at the eye-eyewall interface. Further, shifts in wind direction suggest that turbines must rotate or yaw faster than current practice. Although current design standards omit mention of wind direction change across the rotor layer, large values (15-50 degrees) suggest that veer should be considered.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Offshore wind energy development is underway in the U.S., with proposed sites located in hurricane-prone regions. Turbine design criteria outlined by the International Electrotechnical Commission do not encompass the extreme wind speeds and directional shifts of hurricanes stronger than category 2. We examine a hurricane's turbulent eyewall using large-eddy simulations with Cloud Model 1. Gusts and mean wind speeds near the eyewall of a category 5 hurricane exceed the current Class I turbine design threshold of 50 m s(-1) mean wind and 70 m s(-1) gusts. Largest gust factors occur at the eye-eyewall interface. Further, shifts in wind direction suggest that turbines must rotate or yaw faster than current practice. Although current design standards omit mention of wind direction change across the rotor layer, large values (15-50 degrees) suggest that veer should be considered.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

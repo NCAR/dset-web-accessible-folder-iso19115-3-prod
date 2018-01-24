@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:44.645411</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:13.770485</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper develops general analytical solutions for examples of water movement through snow and compares the derived analytical solutions to numerical simulations from a coupled energy and mass balance model. The intended use of the test cases is to evaluate the impact of different numerical approximations, especially different vertical discretization strategies and different time stepping schemes. The analytical solutions provide both outflow from the snowpack, as well as vertical profiles of temperature and volumetric liquid water content at different times throughout the analysis period. The derived analytical solutions have close correspondence with model simulations in most cases. The most pronounced differences between the numerical simulations and the analytical solutions are for the fresh snow test case, where the numerical simulations predict earlier arrival of snowpack outflow. The analytical solutions provide a useful test case for physically motivated snow models because the solutions can be used to evaluate the coupling of hydrology and thermodynamics as well as the unsaturated flow of water through porous media.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper develops general analytical solutions for examples of water movement through snow and compares the derived analytical solutions to numerical simulations from a coupled energy and mass balance model. The intended use of the test cases is to evaluate the impact of different numerical approximations, especially different vertical discretization strategies and different time stepping schemes. The analytical solutions provide both outflow from the snowpack, as well as vertical profiles of temperature and volumetric liquid water content at different times throughout the analysis period. The derived analytical solutions have close correspondence with model simulations in most cases. The most pronounced differences between the numerical simulations and the analytical solutions are for the fresh snow test case, where the numerical simulations predict earlier arrival of snowpack outflow. The analytical solutions provide a useful test case for physically motivated snow models because the solutions can be used to evaluate the coupling of hydrology and thermodynamics as well as the unsaturated flow of water through porous media.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

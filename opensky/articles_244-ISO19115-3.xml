@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:04.300093</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:25.568383</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We study mesh refinement techniques for first-order hyperbolic equations. A refinement method for use with the leap-frog scheme is defined and its stability established. The remainder of the paper is devoted to a discussion of the effects of nonuniform grids and the circumstances under which they may be used.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We study mesh refinement techniques for first-order hyperbolic equations. A refinement method for use with the leap-frog scheme is defined and its stability established. The remainder of the paper is devoted to a discussion of the effects of nonuniform grids and the circumstances under which they may be used.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

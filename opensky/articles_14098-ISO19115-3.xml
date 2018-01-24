@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:22.441797</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:12.538543</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The global warming hiatus does not necessarily mean a hiatus in anthropogenic greenhouse gas forcing and forced climate change (FCC). Here we show that both Atlantic Multidecadal Variability (AMV) and Pacific Decadal Oscillation (PDO) may cause fluctuations of the global mean surface air temperature (SAT) and hence alternately positive and negative trends on (inter)decadal time scales. However, the forced SAT change under a mean state due to greenhouse gas forcing does not depend on different phases of AMV and PDO, implying the effect of the FCC and internally generated climate variability can be linearly added up to the observed transient global mean SAT. On the other hand, the regional patterns of transient FCC do depend on the phases of the internal variability since the atmospheric and oceanic circulations can be affected by the different phases of the internal variability. Our results suggest a two-way interaction between internal variability and spatial patterns of FCC.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The global warming hiatus does not necessarily mean a hiatus in anthropogenic greenhouse gas forcing and forced climate change (FCC). Here we show that both Atlantic Multidecadal Variability (AMV) and Pacific Decadal Oscillation (PDO) may cause fluctuations of the global mean surface air temperature (SAT) and hence alternately positive and negative trends on (inter)decadal time scales. However, the forced SAT change under a mean state due to greenhouse gas forcing does not depend on different phases of AMV and PDO, implying the effect of the FCC and internally generated climate variability can be linearly added up to the observed transient global mean SAT. On the other hand, the regional patterns of transient FCC do depend on the phases of the internal variability since the atmospheric and oceanic circulations can be affected by the different phases of the internal variability. Our results suggest a two-way interaction between internal variability and spatial patterns of FCC.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

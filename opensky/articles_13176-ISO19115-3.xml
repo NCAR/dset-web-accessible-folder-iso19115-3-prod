@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:14.144595</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:01.687968</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The discontinuous Galerkin (DG) methods designed for hyperbolic problems arising from a wide range of applications are known to enjoy many computational advantages. DG methods coupled with strong-stability-preserving explicit Runge-Kutta discontinuous Galerkin (RKDG) time discretizations provide a robust numerical approach suitable for geoscience applications including atmospheric modeling. However, a major drawback of the RKDG method is its stringent Courant-Friedrichs-Lewy (CFL) stability restriction associated with explicit time stepping. To address this issue, the authors adopt a dimension-splitting approach where a semi-Lagrangian (SL) time-stepping strategy is combined with the DG method. The resulting SLDG scheme employs a sequence of 1D operations for solving multidimensional transport equations. The SLDG scheme is inherently conservative and has the option to incorporate a local positivity-preserving filter for tracers. A novel feature of the SLDG algorithm is that it can be used for multitracer transport for global models employing spectral-element grids, without using an additional finite-volume grid system. The quality of the proposed method is demonstrated via benchmark tests on Cartesian and cubed-sphere geometry, which employs nonorthogonal, curvilinear coordinates.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The discontinuous Galerkin (DG) methods designed for hyperbolic problems arising from a wide range of applications are known to enjoy many computational advantages. DG methods coupled with strong-stability-preserving explicit Runge-Kutta discontinuous Galerkin (RKDG) time discretizations provide a robust numerical approach suitable for geoscience applications including atmospheric modeling. However, a major drawback of the RKDG method is its stringent Courant-Friedrichs-Lewy (CFL) stability restriction associated with explicit time stepping. To address this issue, the authors adopt a dimension-splitting approach where a semi-Lagrangian (SL) time-stepping strategy is combined with the DG method. The resulting SLDG scheme employs a sequence of 1D operations for solving multidimensional transport equations. The SLDG scheme is inherently conservative and has the option to incorporate a local positivity-preserving filter for tracers. A novel feature of the SLDG algorithm is that it can be used for multitracer transport for global models employing spectral-element grids, without using an additional finite-volume grid system. The quality of the proposed method is demonstrated via benchmark tests on Cartesian and cubed-sphere geometry, which employs nonorthogonal, curvilinear coordinates.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

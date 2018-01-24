@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:49.260005</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:29.954164</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Successful simulation of aerosol indirect effects in climate models requires parameterizations that capture the full range of cloud-aerosol interactions, including positive and negative liquid water path (LWP) responses to increasing aerosol concentrations, as suggested by large eddy simulations (LESs). A parameterization based on multi-variate probability density functions with dynamics (MVD PDFs) has been incorporated into the single-column version of GFDL AM3, extended to treat aerosol activation, and coupled with a two-moment microphysics scheme. We use it to explore cloud-aerosol interactions. In agreement with LESs, our single-column simulations produce both positive and negative LWP responses to increasing aerosol concentrations, depending on precipitation and free atmosphere relative humidity. We have conducted sensitivity tests to vertical resolution and droplet sedimentation parameterization. The dependence of sedimentation on cloud droplet size is essential to capture the full LWP responses to aerosols. Further analyses reveal that the MVD PDFs are able to represent changes in buoyancy profiles induced by sedimentation as well as enhanced entrainment efficiency with aerosols comparable to LESs.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Successful simulation of aerosol indirect effects in climate models requires parameterizations that capture the full range of cloud-aerosol interactions, including positive and negative liquid water path (LWP) responses to increasing aerosol concentrations, as suggested by large eddy simulations (LESs). A parameterization based on multi-variate probability density functions with dynamics (MVD PDFs) has been incorporated into the single-column version of GFDL AM3, extended to treat aerosol activation, and coupled with a two-moment microphysics scheme. We use it to explore cloud-aerosol interactions. In agreement with LESs, our single-column simulations produce both positive and negative LWP responses to increasing aerosol concentrations, depending on precipitation and free atmosphere relative humidity. We have conducted sensitivity tests to vertical resolution and droplet sedimentation parameterization. The dependence of sedimentation on cloud droplet size is essential to capture the full LWP responses to aerosols. Further analyses reveal that the MVD PDFs are able to represent changes in buoyancy profiles induced by sedimentation as well as enhanced entrainment efficiency with aerosols comparable to LESs.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

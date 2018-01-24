@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:02.739289</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:10.960871</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We use two-dimensional spectral analysis method to extract diurnal eastward zonal wavenumber 3 (E3) and westward zonal wavenumber 2 (W2) nonmigrating tide in the mesospheric winds from TIMED TIDI instrument and ionosphere density from the COSMIC six satellite cluster GPS data to study seasonal and inter-annual variations. In the case of the diurnal E3 component our results show that the ionospheric electron density feature has the same inter-annual variation trend as the symmetric mode of the mesospheric wind E3 component. The mesospheric wind E3 antisymmetric mode has the opposite inter-annual trend and less influence on the ionosphere. The diurnal W2 component show less clear correlation between the mesosphere and the ionosphere. Quasi-Biennial Oscillation (QBO) influences on both the mesosphere and ionosphere are implied.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We use two-dimensional spectral analysis method to extract diurnal eastward zonal wavenumber 3 (E3) and westward zonal wavenumber 2 (W2) nonmigrating tide in the mesospheric winds from TIMED TIDI instrument and ionosphere density from the COSMIC six satellite cluster GPS data to study seasonal and inter-annual variations. In the case of the diurnal E3 component our results show that the ionospheric electron density feature has the same inter-annual variation trend as the symmetric mode of the mesospheric wind E3 component. The mesospheric wind E3 antisymmetric mode has the opposite inter-annual trend and less influence on the ionosphere. The diurnal W2 component show less clear correlation between the mesosphere and the ionosphere. Quasi-Biennial Oscillation (QBO) influences on both the mesosphere and ionosphere are implied.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

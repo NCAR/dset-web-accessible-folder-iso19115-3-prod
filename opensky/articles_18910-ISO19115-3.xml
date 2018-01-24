@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:34.818896</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:58.581759</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Observations and models of nocturnal katabatic winds indicate strong low-level stability with much weaker stability aloft. When such winds encounter an embedded depression in an otherwise smooth sloping plane, the flow responds in a manner that is largely describable by the inviscid fluid dynamics of stratified flow. Building on earlier work, the present study presents a series of numerical simulations based on the simplest nontrivial idealization relevant to the observations: the height-independent flow of a two-layer stratified fluid past a two-dimensional valley. Stratified flow past a valley has received much less attention than the related problem of stratified flow past a hill. Hence, the present paper gives a detailed review of existing theory and fills a few gaps along the way. The theory is used as an interpretive guide to an extensive set of numerical simulations. The solutions exhibit a variety of behaviors that depend on the nondimensional input parameters. These behaviors range from complete flow through the valley to valley-flow stagnation to situations involving internal wave breaking, lee waves, and quasi-stationary waves in the valley. A diagram is presented that organizes the solutions into flow regimes as a function of the nondimensional input parameters.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Observations and models of nocturnal katabatic winds indicate strong low-level stability with much weaker stability aloft. When such winds encounter an embedded depression in an otherwise smooth sloping plane, the flow responds in a manner that is largely describable by the inviscid fluid dynamics of stratified flow. Building on earlier work, the present study presents a series of numerical simulations based on the simplest nontrivial idealization relevant to the observations: the height-independent flow of a two-layer stratified fluid past a two-dimensional valley. Stratified flow past a valley has received much less attention than the related problem of stratified flow past a hill. Hence, the present paper gives a detailed review of existing theory and fills a few gaps along the way. The theory is used as an interpretive guide to an extensive set of numerical simulations. The solutions exhibit a variety of behaviors that depend on the nondimensional input parameters. These behaviors range from complete flow through the valley to valley-flow stagnation to situations involving internal wave breaking, lee waves, and quasi-stationary waves in the valley. A diagram is presented that organizes the solutions into flow regimes as a function of the nondimensional input parameters.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

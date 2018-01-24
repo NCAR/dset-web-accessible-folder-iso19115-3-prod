@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:28.165218</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:20.126965</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -808,7 +808,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Recently the number of main-sequence and subgiant stars exhibiting solar-like oscillations that are resolved into individual mode frequencies has increased dramatically. While only a few such data sets were available for detailed modeling just a decade ago, the Kepler mission has produced suitable observations for hundreds of new targets. This rapid expansion in observational capacity has been accompanied by a shift in analysis and modeling strategies to yield uniform sets of derived stellar properties more quickly and easily. We use previously published asteroseismic and spectroscopic data sets to provide a uniform analysis of 42 solar-type Kepler targets from the Asteroseismic Modeling Portal. We find that fitting the individual frequencies typically doubles the precision of the asteroseismic radius, mass, and age compared to grid-based modeling of the global oscillation properties, and improves the precision of the radius and mass by about a factor of three over empirical scaling relations. We demonstrate the utility of the derived properties with several applications.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Recently the number of main-sequence and subgiant stars exhibiting solar-like oscillations that are resolved into individual mode frequencies has increased dramatically. While only a few such data sets were available for detailed modeling just a decade ago, the Kepler mission has produced suitable observations for hundreds of new targets. This rapid expansion in observational capacity has been accompanied by a shift in analysis and modeling strategies to yield uniform sets of derived stellar properties more quickly and easily. We use previously published asteroseismic and spectroscopic data sets to provide a uniform analysis of 42 solar-type Kepler targets from the Asteroseismic Modeling Portal. We find that fitting the individual frequencies typically doubles the precision of the asteroseismic radius, mass, and age compared to grid-based modeling of the global oscillation properties, and improves the precision of the radius and mass by about a factor of three over empirical scaling relations. We demonstrate the utility of the derived properties with several applications.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

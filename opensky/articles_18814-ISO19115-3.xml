@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:32.729826</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:55.332150</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Feedbacks from the terrestrial carbon cycle significantly affect future climate change. The CO2 concentration dependence of global terrestrial carbon storage is one of the largest and most uncertain feedbacks. Theory predicts the CO2 effect should have a tropical maximum, but a large terrestrial sink has been contradicted by analyses of atmospheric CO2 that do not show large tropical uptake. Our results, however, show significant tropical uptake and, combining tropical and extratropical fluxes, suggest that up to 60% of the present-day terrestrial sink is caused by increasing atmospheric CO2. This conclusion is consistent with a validated subset of atmospheric analyses, but uncertainty remains. Improved model diagnostics and new space-based observations can reduce the uncertainty of tropical and temperate zone carbon flux estimates. This analysis supports a significant feedback to future atmospheric CO2 concentrations from carbon uptake in terrestrial ecosystems caused by rising atmospheric CO2 concentrations. This feedback will have substantial tropical contributions, but the magnitude of future carbon uptake by tropical forests also depends on how they respond to climate change and requires their protection from deforestation.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Feedbacks from the terrestrial carbon cycle significantly affect future climate change. The CO2 concentration dependence of global terrestrial carbon storage is one of the largest and most uncertain feedbacks. Theory predicts the CO2 effect should have a tropical maximum, but a large terrestrial sink has been contradicted by analyses of atmospheric CO2 that do not show large tropical uptake. Our results, however, show significant tropical uptake and, combining tropical and extratropical fluxes, suggest that up to 60% of the present-day terrestrial sink is caused by increasing atmospheric CO2. This conclusion is consistent with a validated subset of atmospheric analyses, but uncertainty remains. Improved model diagnostics and new space-based observations can reduce the uncertainty of tropical and temperate zone carbon flux estimates. This analysis supports a significant feedback to future atmospheric CO2 concentrations from carbon uptake in terrestrial ecosystems caused by rising atmospheric CO2 concentrations. This feedback will have substantial tropical contributions, but the magnitude of future carbon uptake by tropical forests also depends on how they respond to climate change and requires their protection from deforestation.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

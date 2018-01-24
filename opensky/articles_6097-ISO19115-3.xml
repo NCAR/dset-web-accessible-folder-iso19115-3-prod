@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:06.438668</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:28.908728</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A recently developed method of defining rain areas for the purpose of verifying precipitation produced by numerical weather prediction models is described. Precipitation objects are defined in both forecasts and observations based on a convolution (smoothing) and thresholding procedure. In an application of the new verification approach, the forecasts produced by the Weather Research and Forecasting (WRF) model are evaluated on a 22-km grid covering the continental United States during July-August 2001. Observed rainfall is derived from the stage-IV product from NCEP on a 4-km grid (averaged to a 22-km grid). It is found that the WRF produces too many large rain areas, and the spatial and temporal distribution of the rain areas reveals regional underestimates of the diurnal cycle in rain-area occurrence frequency. Objects in the two datasets are then matched according to the separation distance of their centroids. Overall, WRF rain errors exhibit no large biases in location, but do suffer from a positive size bias that maximizes during the later afternoon. This coincides with an excessive narrowing of the rainfall intensity range, consistent with the dominance of parameterized convection. Finally, matching ability has a strong dependence on object size and is interpreted as the influence of relatively predictable synoptic-scale systems on the larger areas.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A recently developed method of defining rain areas for the purpose of verifying precipitation produced by numerical weather prediction models is described. Precipitation objects are defined in both forecasts and observations based on a convolution (smoothing) and thresholding procedure. In an application of the new verification approach, the forecasts produced by the Weather Research and Forecasting (WRF) model are evaluated on a 22-km grid covering the continental United States during July-August 2001. Observed rainfall is derived from the stage-IV product from NCEP on a 4-km grid (averaged to a 22-km grid). It is found that the WRF produces too many large rain areas, and the spatial and temporal distribution of the rain areas reveals regional underestimates of the diurnal cycle in rain-area occurrence frequency. Objects in the two datasets are then matched according to the separation distance of their centroids. Overall, WRF rain errors exhibit no large biases in location, but do suffer from a positive size bias that maximizes during the later afternoon. This coincides with an excessive narrowing of the rainfall intensity range, consistent with the dominance of parameterized convection. Finally, matching ability has a strong dependence on object size and is interpreted as the influence of relatively predictable synoptic-scale systems on the larger areas.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

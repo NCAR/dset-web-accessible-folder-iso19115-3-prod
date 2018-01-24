@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:27.610713</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:19.321462</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Since 2011, the U.S. Department of Agriculture (USDA) Natural Resources Conservation Service (NRCS) and three major river forecasting centers of the National Oceanic and Atmospheric Administration's (NOAA) National Weather Service (NWS) have discontinued a long-standing practice of publishing consensus water supply forecasts in western U.S. river basins.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Since 2011, the U.S. Department of Agriculture (USDA) Natural Resources Conservation Service (NRCS) and three major river forecasting centers of the National Oceanic and Atmospheric Administration's (NOAA) National Weather Service (NWS) have discontinued a long-standing practice of publishing consensus water supply forecasts in western U.S. river basins.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

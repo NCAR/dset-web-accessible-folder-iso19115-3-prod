@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:32.541037</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:06.809064</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>It has been a long-standing question in solar physics how magnetic field structure changes with eruptive events (e.g., flares and coronal mass ejections). In this Letter, we present the eruption-associated changes in the magnetic inclination angle, the horizontal component of magnetic field vectors, and the Lorentz force. The analysis is based on the observation of the X3.4 flare on 2006 December 13 and in comparison to the numerical simulation of Fan. Both observation and simulation show that (1) the magnetic inclination angle in the decayed peripheral penumbra increases, while that in the central area close to the flaring polarity inversion line (PIL) deceases after the flare; (2) the horizontal component of magnetic field increases at the lower altitude near the flaring PIL after the flare. The result suggests that the field lines at the flaring neutral line turn to more horizontal near the surface, that is in agreement with the prediction of Hudson et al.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[It has been a long-standing question in solar physics how magnetic field structure changes with eruptive events (e.g., flares and coronal mass ejections). In this Letter, we present the eruption-associated changes in the magnetic inclination angle, the horizontal component of magnetic field vectors, and the Lorentz force. The analysis is based on the observation of the X3.4 flare on 2006 December 13 and in comparison to the numerical simulation of Fan. Both observation and simulation show that (1) the magnetic inclination angle in the decayed peripheral penumbra increases, while that in the central area close to the flaring polarity inversion line (PIL) deceases after the flare; (2) the horizontal component of magnetic field increases at the lower altitude near the flaring PIL after the flare. The result suggests that the field lines at the flaring neutral line turn to more horizontal near the surface, that is in agreement with the prediction of Hudson et al.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

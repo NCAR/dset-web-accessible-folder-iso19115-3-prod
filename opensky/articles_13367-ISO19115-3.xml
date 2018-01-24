@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:18.971721</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:07.771116</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The present manuscript compares Marine Isotope Stage 5 (MIS 5, 125-115 kyr BP) and MIS 7 (236-229 kyr BP) with the aim to investigate the origin of the difference in ice-sheet growth over the Northern Hemisphere high latitudes between these last two inceptions. Our approach combines a low resolution coupled atmosphere-ocean-sea-ice general circulation model and a 3-D thermo-mechanical ice-sheet model to simulate the state of the ice sheets associated with the inception climate states of MIS 5 and MIS 7. Our results show that external forcing (orbitals and GHG) and sea-ice albedo feedbacks are the main factors responsible for the difference in the land-ice initial state between MIS 5 and MIS 7 and that our cold climate model bias impacts more during a cold inception, such as MIS 7, than during a warm inception, such as MIS 5. In addition, if proper ice-elevation and albedo feedbacks are not taken into consideration, the evolution towards glacial inception is hardly simulated, especially for MIS 7. Finally, results highlight that while simulated ice volumes for MIS 5 glacial inception almost fit with paleo-reconstructions, the lack of precipitation over high latitudes, identified as a bias of our climate model, does not allow for a proper simulation of MIS 7 glacial inception.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The present manuscript compares Marine Isotope Stage 5 (MIS 5, 125-115 kyr BP) and MIS 7 (236-229 kyr BP) with the aim to investigate the origin of the difference in ice-sheet growth over the Northern Hemisphere high latitudes between these last two inceptions. Our approach combines a low resolution coupled atmosphere-ocean-sea-ice general circulation model and a 3-D thermo-mechanical ice-sheet model to simulate the state of the ice sheets associated with the inception climate states of MIS 5 and MIS 7. Our results show that external forcing (orbitals and GHG) and sea-ice albedo feedbacks are the main factors responsible for the difference in the land-ice initial state between MIS 5 and MIS 7 and that our cold climate model bias impacts more during a cold inception, such as MIS 7, than during a warm inception, such as MIS 5. In addition, if proper ice-elevation and albedo feedbacks are not taken into consideration, the evolution towards glacial inception is hardly simulated, especially for MIS 7. Finally, results highlight that while simulated ice volumes for MIS 5 glacial inception almost fit with paleo-reconstructions, the lack of precipitation over high latitudes, identified as a bias of our climate model, does not allow for a proper simulation of MIS 7 glacial inception.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

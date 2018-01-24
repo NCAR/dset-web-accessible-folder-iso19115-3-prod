@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:30.116896</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:51.167455</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The 2015 Paris Agreement aims to limit warming to 2 or 1.5 degrees C above preindustrial level, although combined Intended Nationally Determined Contributions (INDCs) are likely insufficient to achieve these targets. We propose a set of idealized emission pathways consistent with the targets. If countries reduce emissions in line with their INDCs, the 2 degrees C threshold could be avoided only if net zero greenhouse gas emissions (GHGEs) are achieved by 2085 and late century negative emissions are considerably in excess of those assumed in Representative Concentration Pathway (RCP) 2.6 (net -5GtCO(2)/yr, compared with -1.5GtCO(2)/yr in RCP2.6). More aggressive near-term reductions would allow 2 degrees C to be avoided with less end-of-century carbon removal capacity. A 10% cut in GHGEs by 2030 (relative to 2015) could likely achieve 2 degrees C with RCP2.6 level negative emissions. The 1.5 degrees C target requires GHGEs to be reduced by almost a third by 2030 and net zero by 2050, while a 50year overshoot of 1.5 degrees C allows net zero GHGEs by 2060.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The 2015 Paris Agreement aims to limit warming to 2 or 1.5 degrees C above preindustrial level, although combined Intended Nationally Determined Contributions (INDCs) are likely insufficient to achieve these targets. We propose a set of idealized emission pathways consistent with the targets. If countries reduce emissions in line with their INDCs, the 2 degrees C threshold could be avoided only if net zero greenhouse gas emissions (GHGEs) are achieved by 2085 and late century negative emissions are considerably in excess of those assumed in Representative Concentration Pathway (RCP) 2.6 (net -5GtCO(2)/yr, compared with -1.5GtCO(2)/yr in RCP2.6). More aggressive near-term reductions would allow 2 degrees C to be avoided with less end-of-century carbon removal capacity. A 10% cut in GHGEs by 2030 (relative to 2015) could likely achieve 2 degrees C with RCP2.6 level negative emissions. The 1.5 degrees C target requires GHGEs to be reduced by almost a third by 2030 and net zero by 2050, while a 50year overshoot of 1.5 degrees C allows net zero GHGEs by 2060.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

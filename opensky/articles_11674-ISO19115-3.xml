@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:38.610926</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:15.316659</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Major stratospheric sudden warmings (SSW) occurring during Northern Hemisphere winter were identified in four runs of the Whole Atmosphere Community Climate Model (WACCM). Their characteristics are compared to those found by other authors using reanalysis data. The comparison shows that the frequency of occurrence of major SSW in the model is very similar to that found in reanalysis data, as is the occurrence of vortex splitting and displacement events. The main difference with respect to observations is that the modeled SSW are relatively longer lasting. WACCM simulates quite accurately some dynamical features associated with major SSW, despite the presence of outlier cases; however, the recently reported relationship between regional blocking and the type of SSW is only partially reproduced by WACCM. In general, the observed climatological and dynamical signatures of displacement SSW tend to be better reproduced by the model than those associated with splitting SSW. We also find that SSW in the model are often associated with an elevated polar cap stratopause, in agreement with recent observations. However, the simulations also show that there is not in general a close correspondence between major SSW and elevated polar cap stratopause events</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Major stratospheric sudden warmings (SSW) occurring during Northern Hemisphere winter were identified in four runs of the Whole Atmosphere Community Climate Model (WACCM). Their characteristics are compared to those found by other authors using reanalysis data. The comparison shows that the frequency of occurrence of major SSW in the model is very similar to that found in reanalysis data, as is the occurrence of vortex splitting and displacement events. The main difference with respect to observations is that the modeled SSW are relatively longer lasting. WACCM simulates quite accurately some dynamical features associated with major SSW, despite the presence of outlier cases; however, the recently reported relationship between regional blocking and the type of SSW is only partially reproduced by WACCM. In general, the observed climatological and dynamical signatures of displacement SSW tend to be better reproduced by the model than those associated with splitting SSW. We also find that SSW in the model are often associated with an elevated polar cap stratopause, in agreement with recent observations. However, the simulations also show that there is not in general a close correspondence between major SSW and elevated polar cap stratopause events]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

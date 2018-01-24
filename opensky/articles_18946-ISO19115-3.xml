@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:35.274622</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:59.384553</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A nondeveloping tropical disturbance, identified as TCS025, was observed during three intensive observing periods during The Observing System Research and Predictability Experiment (THORPEX) Pacific Asian Regional Campaign (T-PARC)/Tropical Cyclone Structure-2008 (TCS-08) field experiment. The low-level circulation of the disturbance was relatively weak, asymmetric, and displaced a considerable distance from the midlevel circulation. An ensemble of high-resolution numerical simulations initialized from global model analyses was used to further examine TCS025. These simulations tended to unrealistically overdevelop the TCS025 disturbance. This study extends that work by examining the impact of assimilating in situ observations of TCS025 and dual-Doppler radial velocities from the airborne Electra Doppler Radar (ELDORA) using the Data Assimilation Research Testbed (DART) ensemble data assimilation system.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A nondeveloping tropical disturbance, identified as TCS025, was observed during three intensive observing periods during The Observing System Research and Predictability Experiment (THORPEX) Pacific Asian Regional Campaign (T-PARC)/Tropical Cyclone Structure-2008 (TCS-08) field experiment. The low-level circulation of the disturbance was relatively weak, asymmetric, and displaced a considerable distance from the midlevel circulation. An ensemble of high-resolution numerical simulations initialized from global model analyses was used to further examine TCS025. These simulations tended to unrealistically overdevelop the TCS025 disturbance. This study extends that work by examining the impact of assimilating in situ observations of TCS025 and dual-Doppler radial velocities from the airborne Electra Doppler Radar (ELDORA) using the Data Assimilation Research Testbed (DART) ensemble data assimilation system.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

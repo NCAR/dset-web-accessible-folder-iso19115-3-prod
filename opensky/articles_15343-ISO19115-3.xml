@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:37.918587</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:34.143027</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A land-surface model (LSM) is coupled with a large-eddy simulation (LES) model to investigate the vegetation-atmosphere exchange of heat, water vapour, and carbon dioxide (CO2) in heterogeneous landscapes. The dissimilarity of scalar transport in the lower convective boundary layer is quantified in several ways: eddy diffusivity, spatial structure of the scalar fields, and spatial and temporal variations in the surface fluxes of these scalars. The results show that eddy diffusivities differ among the three scalars, by up to 10 - 12%, in the surface layer; the difference is partly attributed to the influence of top-down diffusion. The turbulence-organized structures of CO2 bear more resemblance to those of water vapour than those of the potential temperature. The surface fluxes when coupled with the flow aloft show large spatial variations even with perfectly homogeneous surface conditions and constant solar radiation forcing across the horizontal simulation domain. In general, the surface sensible heat flux shows the greatest spatial and temporal variations, and the CO2 flux the least. Furthermore, our results show that the one-dimensional land-surface model scheme underestimates the surface heat flux by 3 - 8% and overestimates the water vapour and CO2 fluxes by 2 - 8% and 1 - 9%, respectively, as compared to the flux simulated with the coupled LES - LSM.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A land-surface model (LSM) is coupled with a large-eddy simulation (LES) model to investigate the vegetation-atmosphere exchange of heat, water vapour, and carbon dioxide (CO2) in heterogeneous landscapes. The dissimilarity of scalar transport in the lower convective boundary layer is quantified in several ways: eddy diffusivity, spatial structure of the scalar fields, and spatial and temporal variations in the surface fluxes of these scalars. The results show that eddy diffusivities differ among the three scalars, by up to 10 - 12%, in the surface layer; the difference is partly attributed to the influence of top-down diffusion. The turbulence-organized structures of CO2 bear more resemblance to those of water vapour than those of the potential temperature. The surface fluxes when coupled with the flow aloft show large spatial variations even with perfectly homogeneous surface conditions and constant solar radiation forcing across the horizontal simulation domain. In general, the surface sensible heat flux shows the greatest spatial and temporal variations, and the CO2 flux the least. Furthermore, our results show that the one-dimensional land-surface model scheme underestimates the surface heat flux by 3 - 8% and overestimates the water vapour and CO2 fluxes by 2 - 8% and 1 - 9%, respectively, as compared to the flux simulated with the coupled LES - LSM.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

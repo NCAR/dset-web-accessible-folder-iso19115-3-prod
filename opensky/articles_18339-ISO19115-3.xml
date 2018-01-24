@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:21.174377</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:37.589184</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Recent field observations suggest that cloud-top precipitation generating cells (GCs) are ubiquitous in the warm-frontal and comma-head regions of midlatitude winter cyclones. The presence of fallstreaks emanating from the GCs and their persistence either to the surface or until merging into precipitation bands suggests that GCs are a critical component of the precipitation process in these cyclones. This paper is the second part of a three-part series that investigates the dynamics of GCs through very-high-resolution idealized Weather Research and Forecasting (WRF) Model simulations. This paper assesses the role of cloud-top instability paired with nighttime, daytime, or no radiative forcing on the development and maintenance (or lack) of GCs. Under initially unstable conditions at cloud top, GCs develop regardless of radiative forcing but only persist clearly with radiative forcing. Cloud-top destabilization due to longwave cooling leads to development of GCs even under initially neutral and stable conditions, providing a physical explanation for the observed ubiquity of GCs atop winter cyclones. GCs do not develop in initially stable simulations with no radiation. Decreased range in vertical velocity spectra under daytime radiative forcing is consistent with offset of the destabilizing influence of longwave cooling by shortwave heating.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Recent field observations suggest that cloud-top precipitation generating cells (GCs) are ubiquitous in the warm-frontal and comma-head regions of midlatitude winter cyclones. The presence of fallstreaks emanating from the GCs and their persistence either to the surface or until merging into precipitation bands suggests that GCs are a critical component of the precipitation process in these cyclones. This paper is the second part of a three-part series that investigates the dynamics of GCs through very-high-resolution idealized Weather Research and Forecasting (WRF) Model simulations. This paper assesses the role of cloud-top instability paired with nighttime, daytime, or no radiative forcing on the development and maintenance (or lack) of GCs. Under initially unstable conditions at cloud top, GCs develop regardless of radiative forcing but only persist clearly with radiative forcing. Cloud-top destabilization due to longwave cooling leads to development of GCs even under initially neutral and stable conditions, providing a physical explanation for the observed ubiquity of GCs atop winter cyclones. GCs do not develop in initially stable simulations with no radiation. Decreased range in vertical velocity spectra under daytime radiative forcing is consistent with offset of the destabilizing influence of longwave cooling by shortwave heating.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:51.420938</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:32.720123</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Risk communication may accentuate or alleviate the vulnerability of people who have particular difficulties responding to the threat of hazards such as hurricanes. The process of risk communication involves how hazard information is received, understood, and responded to by individuals and groups. Thus, risk communication and vulnerability interact through peoples' knowledge, attitudes, and practices. This study explores risk communication with several groups that may be at particular risk of hurricane impacts: older adults, newer residents, and persons with disabilities. Focus groups conducted in Miami, Florida, examined how members of these groups express their own vulnerability or agency in terms of receiving, interpreting, and responding to hurricane risk information. Findings indicate that people's interactions with risk information are deeply contextual and are facilitated by their individual agency to cope with their vulnerabilities.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Risk communication may accentuate or alleviate the vulnerability of people who have particular difficulties responding to the threat of hazards such as hurricanes. The process of risk communication involves how hazard information is received, understood, and responded to by individuals and groups. Thus, risk communication and vulnerability interact through peoples' knowledge, attitudes, and practices. This study explores risk communication with several groups that may be at particular risk of hurricane impacts: older adults, newer residents, and persons with disabilities. Focus groups conducted in Miami, Florida, examined how members of these groups express their own vulnerability or agency in terms of receiving, interpreting, and responding to hurricane risk information. Findings indicate that people's interactions with risk information are deeply contextual and are facilitated by their individual agency to cope with their vulnerabilities.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

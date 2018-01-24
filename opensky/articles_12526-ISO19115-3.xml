@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:58.046913</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:41.181876</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Several transport schemes developed for spherical icosahedral grids are based on the piecewise linear approximation. The simplest one among them uses an algorithm where the tracer distribution in the upwind side of a cell face is reconstructed using a linear surface. Recently, it was demonstrated that using second- or fourth-order reconstructions instead of the linear one produces better results. The computational cost of the second-order reconstruction method was not much larger than the linear one, while that of the fourth-order one was significantly larger. In this work, the authors propose another second-order reconstruction scheme on the spherical icosahedral grids, motivated by some ideas from the piecewise parabolic method. The second-order profile of a tracer is reconstructed under two constraints: (i) the area integral of the profile is equal to the cell-averaged value times the cell area and (ii) the profile is the least squares fit to the cell-vertex values. The new scheme [the second upwind-biased quadratic approximation (UQA-2)] is more accurate than the preceding second-order reconstruction scheme [the first upwind-biased quadratic approximation (UQA-1)] in most of the tests in this work. Solutions of UQA-2 are sharper than those of UQA-1, although with slightly larger phase errors. The computational cost of UQA-2 is comparable to UQA-1.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Several transport schemes developed for spherical icosahedral grids are based on the piecewise linear approximation. The simplest one among them uses an algorithm where the tracer distribution in the upwind side of a cell face is reconstructed using a linear surface. Recently, it was demonstrated that using second- or fourth-order reconstructions instead of the linear one produces better results. The computational cost of the second-order reconstruction method was not much larger than the linear one, while that of the fourth-order one was significantly larger. In this work, the authors propose another second-order reconstruction scheme on the spherical icosahedral grids, motivated by some ideas from the piecewise parabolic method. The second-order profile of a tracer is reconstructed under two constraints: (i) the area integral of the profile is equal to the cell-averaged value times the cell area and (ii) the profile is the least squares fit to the cell-vertex values. The new scheme [the second upwind-biased quadratic approximation (UQA-2)] is more accurate than the preceding second-order reconstruction scheme [the first upwind-biased quadratic approximation (UQA-1)] in most of the tests in this work. Solutions of UQA-2 are sharper than those of UQA-1, although with slightly larger phase errors. The computational cost of UQA-2 is comparable to UQA-1.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

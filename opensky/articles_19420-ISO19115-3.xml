@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:41.024333</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:08.493282</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A new wind farm parameterization has been developed for the mesoscale numerical weather prediction model, the Weather Research and Forecasting model (WRF). The effects of wind turbines are represented by imposing a momentum sink on the mean flow; transferring kinetic energy into electricity and turbulent kinetic energy (TKE). The parameterization improves upon previous models, basing the atmospheric drag of turbines on the thrust coefficient of a modern commercial turbine. In addition, the source of TKE varies with wind speed, reflecting the amount of energy extracted from the atmosphere by the turbines that does not produce electrical energy.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A new wind farm parameterization has been developed for the mesoscale numerical weather prediction model, the Weather Research and Forecasting model (WRF). The effects of wind turbines are represented by imposing a momentum sink on the mean flow; transferring kinetic energy into electricity and turbulent kinetic energy (TKE). The parameterization improves upon previous models, basing the atmospheric drag of turbines on the thrust coefficient of a modern commercial turbine. In addition, the source of TKE varies with wind speed, reflecting the amount of energy extracted from the atmosphere by the turbines that does not produce electrical energy.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:15.958368</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:04.103587</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Measuring routine vertical profiles of atmospheric temperature is critical in understanding stability and the dynamics of the boundary layer. Routine monitoring in remote areas such as the McMurdo Dry Valleys (MDV) of Antarctica is logistically difficult and expensive. Pseudovertical profiles that were derived from a network of inexpensive ground temperature sensors planted on valley sidewalls (up to 330 m above valley floor), together with data from a weather station and a numerical weather prediction model, provided a long-term climatological description of the evolution of the winter boundary layer over the MDV. In winter, persistent valley cold pools (VCPs) were common, lasting up to 2 weeks. The VCPs were eroded by warm-air advection from aloft associated with strong winds, increasing the temperature of the valley by as much as 25 K. Pseudovertical datasets as described here can be used for model validation.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Measuring routine vertical profiles of atmospheric temperature is critical in understanding stability and the dynamics of the boundary layer. Routine monitoring in remote areas such as the McMurdo Dry Valleys (MDV) of Antarctica is logistically difficult and expensive. Pseudovertical profiles that were derived from a network of inexpensive ground temperature sensors planted on valley sidewalls (up to 330 m above valley floor), together with data from a weather station and a numerical weather prediction model, provided a long-term climatological description of the evolution of the winter boundary layer over the MDV. In winter, persistent valley cold pools (VCPs) were common, lasting up to 2 weeks. The VCPs were eroded by warm-air advection from aloft associated with strong winds, increasing the temperature of the valley by as much as 25 K. Pseudovertical datasets as described here can be used for model validation.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

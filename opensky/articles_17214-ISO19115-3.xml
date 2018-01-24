@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:59.830369</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:06.941874</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -343,7 +343,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The recently developed PTR-TOF instrument was evaluated to measure methanol fluxes emitted from grass land using the eddy covariance method. The high time resolution of the PTR-TOF allowed storing full mass spectra up to m/z 315 with a frequency of 10 Hz. Three isobaric ions were found at a nominal mass of m/z 33 due to the high mass resolving power of the PTR-TOF. Only one of the three peaks contributed to eddy covariance fluxes. The exact mass of this peak agrees well with the exact mass of protonated methanol (m/z 33.0335). The eddy covariance methanol fluxes measured with PTR-TOF were compared to virtual disjunct eddy covariance methanol fluxes simultaneously measured with a conventional PTR-MS. The methanol fluxes from both instruments show excellent agreement.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The recently developed PTR-TOF instrument was evaluated to measure methanol fluxes emitted from grass land using the eddy covariance method. The high time resolution of the PTR-TOF allowed storing full mass spectra up to m/z 315 with a frequency of 10 Hz. Three isobaric ions were found at a nominal mass of m/z 33 due to the high mass resolving power of the PTR-TOF. Only one of the three peaks contributed to eddy covariance fluxes. The exact mass of this peak agrees well with the exact mass of protonated methanol (m/z 33.0335). The eddy covariance methanol fluxes measured with PTR-TOF were compared to virtual disjunct eddy covariance methanol fluxes simultaneously measured with a conventional PTR-MS. The methanol fluxes from both instruments show excellent agreement.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

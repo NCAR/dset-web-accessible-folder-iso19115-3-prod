@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:15.997631</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:42.090651</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -373,7 +373,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[Using the unprecedented observational capabilities deployed during the Cooperative Atmosphere-Surface Exchange Study-99 (CASES-99), we found three distinct turbulence events on the night of 18 October 1999, each of which was associated with different phenomena: a density current, solitary waves, and downward propagating waves from a low-level jet. In this study, we focus on the first event, the density current and its associated intermittent turbulence. As the cold density current propagated through the CASES-99 site, eddy motions in the upper part of the density current led to periodic overturning of the stratified flow, local thermal instability and a downward diffusion of turbulent mixing. Propagation of the density current induced a secondary circulation. The descending motion following the head of the density current resulted in strong stratification, a sharp reduction in the turbulence, and a sudden increase in the wind speed. As the wind surge propagated toward the surface, shear instability generated upward diffusion of turbulent mixing. We demonstrate in detail that the height and sequence of the local thermal and shear instabilities associated with the dynamics of the density current are responsible for the apparent intermittent turbulence.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:53.893870</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:58.221352</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We have found that consideration of neutral helium as a major species leads to a more complete physics-based modeling description of the Earth's upper thermosphere. An augmented version of the composition equation employed by the Thermosphere-Ionosphere-Electrodynamic General Circulation Model (TIE-GCM) is presented, enabling the inclusion of helium as the fourth major neutral constituent. Exospheric transport acting above the upper boundary of the model is considered, further improving the local time and latitudinal distributions of helium. The new model successfully simulates a previously observed phenomenon known as the "winter helium bulge," yielding behavior very similar to that of an empirical model based on mass spectrometer observations. This inclusion has direct consequence on the study of atmospheric drag for low-Earth-orbiting satellites, as well as potential implications on exospheric and topside ionospheric research.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We have found that consideration of neutral helium as a major species leads to a more complete physics-based modeling description of the Earth's upper thermosphere. An augmented version of the composition equation employed by the Thermosphere-Ionosphere-Electrodynamic General Circulation Model (TIE-GCM) is presented, enabling the inclusion of helium as the fourth major neutral constituent. Exospheric transport acting above the upper boundary of the model is considered, further improving the local time and latitudinal distributions of helium. The new model successfully simulates a previously observed phenomenon known as the "winter helium bulge," yielding behavior very similar to that of an empirical model based on mass spectrometer observations. This inclusion has direct consequence on the study of atmospheric drag for low-Earth-orbiting satellites, as well as potential implications on exospheric and topside ionospheric research.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

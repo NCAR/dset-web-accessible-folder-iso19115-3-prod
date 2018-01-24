@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:04.936085</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:13.943888</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Despite hazard mitigation efforts and scientific and technological advances, extreme weather events continue to cause substantial losses. The impacts of extreme weather result from complex interactions among physical and human systems across spatial and temporal scales. This article synthesizes current interdisciplinary knowledge about extreme weather, including temperature extremes (heat and cold waves), precipitation extremes (including floods and droughts), and storms and severe weather (including tropical cyclones). We discuss hydrometeorological aspects of extreme weather; projections of changes in extremes with anthropogenic climate change; and how social vulnerability, coping, and adaptation shape the societal impacts of extreme weather. We find four critical gaps where work is needed in order to improve outcomes of extreme weather: 1) reducing vulnerability; 2) enhancing adaptive capacity, including decision flexibility; 3) improving the usability of scientific information in decision making, and 4) understanding and addressing local causes of harm through participatory, community-based work framed within the larger policy context.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Despite hazard mitigation efforts and scientific and technological advances, extreme weather events continue to cause substantial losses. The impacts of extreme weather result from complex interactions among physical and human systems across spatial and temporal scales. This article synthesizes current interdisciplinary knowledge about extreme weather, including temperature extremes (heat and cold waves), precipitation extremes (including floods and droughts), and storms and severe weather (including tropical cyclones). We discuss hydrometeorological aspects of extreme weather; projections of changes in extremes with anthropogenic climate change; and how social vulnerability, coping, and adaptation shape the societal impacts of extreme weather. We find four critical gaps where work is needed in order to improve outcomes of extreme weather: 1) reducing vulnerability; 2) enhancing adaptive capacity, including decision flexibility; 3) improving the usability of scientific information in decision making, and 4) understanding and addressing local causes of harm through participatory, community-based work framed within the larger policy context.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:57.588705</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:03.621507</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Aquaplanet configurations of four atmospheric general circulation models (GCMs) are compared with standard, Earth-like configurations and observations. The focus here is on tropical, low-level clouds, which have been identified as important for estimates of climate sensitivity. Investigating the distribution of the monthly mean vertical velocity and lower-tropospheric stability, the aquaplanets are seen to capture the core of the distribution of the more Earth-like configurations, whose distributions are, in turn, similar to that of reanalysis data. By conditionally sampling over these distributions, low-cloud regimes are defined, separating shallow cumulus convection from stratocumulus. Within each regime, the GCMs produce similar large-scale environments, yet disparate depictions of the clouds. Aquaplanets lack stratocumulus because of their zonally symmetric boundary conditions, but produce extensive trade-wind regions populated by shallow cumulus clouds just like those in the Earth-like setting. The analysis shows that aquaplanets can be compared with observations, just as well as the Earth-like configuration, with the added ability to focus on particular regimes without complications from geographical or temporal biases.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Aquaplanet configurations of four atmospheric general circulation models (GCMs) are compared with standard, Earth-like configurations and observations. The focus here is on tropical, low-level clouds, which have been identified as important for estimates of climate sensitivity. Investigating the distribution of the monthly mean vertical velocity and lower-tropospheric stability, the aquaplanets are seen to capture the core of the distribution of the more Earth-like configurations, whose distributions are, in turn, similar to that of reanalysis data. By conditionally sampling over these distributions, low-cloud regimes are defined, separating shallow cumulus convection from stratocumulus. Within each regime, the GCMs produce similar large-scale environments, yet disparate depictions of the clouds. Aquaplanets lack stratocumulus because of their zonally symmetric boundary conditions, but produce extensive trade-wind regions populated by shallow cumulus clouds just like those in the Earth-like setting. The analysis shows that aquaplanets can be compared with observations, just as well as the Earth-like configuration, with the added ability to focus on particular regimes without complications from geographical or temporal biases.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

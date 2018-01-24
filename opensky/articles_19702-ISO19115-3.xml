@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:47.720086</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:18.396172</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>As high-resolution numerical weather prediction models are now commonplace, "neighborhood'' verification metrics are regularly employed to evaluate forecast quality. These neighborhood approaches relax the requirement that perfect forecasts must match observations at the grid scale, contrasting traditional point-by-point verification methods. One recently proposed metric, the neighborhood equitable threat score, is calculated from 2 x 2 contingency tables that are populated within a neighborhood framework. However, the literature suggests three subtly different methods of populating neighborhood-based contingency tables. Thus, this work compares and contrasts these three variants and shows they yield statistically significantly different conclusions regarding forecast performance, illustrating that neighborhood-based contingency tables should be constructed carefully and transparently. Furthermore, this paper shows how two of the methods use inconsistent event definitions and suggests a "neighborhood maximum'' approach be used to fill neighborhood-based contingency tables.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[As high-resolution numerical weather prediction models are now commonplace, "neighborhood'' verification metrics are regularly employed to evaluate forecast quality. These neighborhood approaches relax the requirement that perfect forecasts must match observations at the grid scale, contrasting traditional point-by-point verification methods. One recently proposed metric, the neighborhood equitable threat score, is calculated from 2 x 2 contingency tables that are populated within a neighborhood framework. However, the literature suggests three subtly different methods of populating neighborhood-based contingency tables. Thus, this work compares and contrasts these three variants and shows they yield statistically significantly different conclusions regarding forecast performance, illustrating that neighborhood-based contingency tables should be constructed carefully and transparently. Furthermore, this paper shows how two of the methods use inconsistent event definitions and suggests a "neighborhood maximum'' approach be used to fill neighborhood-based contingency tables.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

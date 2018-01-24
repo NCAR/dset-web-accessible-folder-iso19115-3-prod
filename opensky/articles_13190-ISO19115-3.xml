@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:14.439945</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:02.133132</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Measurements of Pollution in the Troposphere (MOPITT) instrument on the NASA Terra platform has now acquired over thirteen years of global tropospheric carbon monoxide (CO) observations, forming the longest satellite record for an important pollutant. MOPITT products are routinely exploited for characterizing CO sources and for analyzing air quality. For retrieving CO concentrations in the lower troposphere, MOPITT is equipped with both thermal-infrared and near-infrared channels.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Measurements of Pollution in the Troposphere (MOPITT) instrument on the NASA Terra platform has now acquired over thirteen years of global tropospheric carbon monoxide (CO) observations, forming the longest satellite record for an important pollutant. MOPITT products are routinely exploited for characterizing CO sources and for analyzing air quality. For retrieving CO concentrations in the lower troposphere, MOPITT is equipped with both thermal-infrared and near-infrared channels.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

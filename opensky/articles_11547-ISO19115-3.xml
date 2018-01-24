@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:35.839503</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:11.478486</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A leading hypothesis relating productivity with climate variability in the California Current Ecosystem (CCE) describes an alternation between warmer, well-stratified periods of low productivity and cooler periods of high productivity. This empirical relationship suggests that productivity will decline with global warming. Here, we explore the response of productivity to future climate change in the CCE using an earth system model. This model projects increases in nitrate supply and productivity in the CCE during the 21st century despite increases in stratification and limited change in wind-driven upwelling. We attribute the increased nitrate supply to enrichment of deep source waters entering the CCE resulting from decreased ventilation of the North Pacific. Decreases in dissolved-oxygen concentration and increasing acidification accompany projected increases in nitrate. This analysis illustrates that anthropogenic climate change may be unlike past variability; empirical relationships based on historical observations may be inappropriate for projecting ecosystem responses to future climate change.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A leading hypothesis relating productivity with climate variability in the California Current Ecosystem (CCE) describes an alternation between warmer, well-stratified periods of low productivity and cooler periods of high productivity. This empirical relationship suggests that productivity will decline with global warming. Here, we explore the response of productivity to future climate change in the CCE using an earth system model. This model projects increases in nitrate supply and productivity in the CCE during the 21st century despite increases in stratification and limited change in wind-driven upwelling. We attribute the increased nitrate supply to enrichment of deep source waters entering the CCE resulting from decreased ventilation of the North Pacific. Decreases in dissolved-oxygen concentration and increasing acidification accompany projected increases in nitrate. This analysis illustrates that anthropogenic climate change may be unlike past variability; empirical relationships based on historical observations may be inappropriate for projecting ecosystem responses to future climate change.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:32.924550</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:55.662899</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Computational kernels, which are small pieces of software that selectively capture the characteristics of larger applications, have been used successfully for decades. Kernels allow for the testing of a compiler's ability to optimize code, performance of future hardware and reproducing compiler bugs. Unfortunately they can be rather time consuming to create and do not always accurately represent the full complexity of large scientific applications. Furthermore, expert knowledge is often required to create such kernels. In this paper, we present a Python-based tool that greatly simplifies the generation of computational kernels from Fortran based applications. Our tool automatically extracts partial source code of a larger Fortran application into a stand-alone executable kernel. Additionally, our tool also generates state data necessary for proper execution and verification of the extracted kernel. We have utilized our tool to extract more than thirty computational kernels from a million-line climate simulation model. Our extracted kernels have been used for a variety of purposes including: code modernization, identification of limitations in compiler optimizations, numerical algorithm debugging, compiler bug reporting, and for procurement benchmarking.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Computational kernels, which are small pieces of software that selectively capture the characteristics of larger applications, have been used successfully for decades. Kernels allow for the testing of a compiler's ability to optimize code, performance of future hardware and reproducing compiler bugs. Unfortunately they can be rather time consuming to create and do not always accurately represent the full complexity of large scientific applications. Furthermore, expert knowledge is often required to create such kernels. In this paper, we present a Python-based tool that greatly simplifies the generation of computational kernels from Fortran based applications. Our tool automatically extracts partial source code of a larger Fortran application into a stand-alone executable kernel. Additionally, our tool also generates state data necessary for proper execution and verification of the extracted kernel. We have utilized our tool to extract more than thirty computational kernels from a million-line climate simulation model. Our extracted kernels have been used for a variety of purposes including: code modernization, identification of limitations in compiler optimizations, numerical algorithm debugging, compiler bug reporting, and for procurement benchmarking.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:33.719407</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:27.971926</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -433,7 +433,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>To assist the National Science Foundation in meeting the needs of the community of scientists by providing them with the instrumentation and platforms necessary to conduct their research successfully, a meeting was held in late November 2012 with the purpose of defining the problems of the next generation that will require radar technologies and determining the suite of radars best suited to help solve these problems. This paper summarizes the outcome of the meeting: (i) Radars currently in use in the atmospheric sciences and in related research are reviewed. (ii) New and emerging radar technologies are described. (iii) Future needs and opportunities for radar support of high-priority research are discussed. The current radar technologies considered critical to answering the key and emerging scientific questions are examined. The emerging radar technologies that will be most helpful in answering the key scientific questions are identified. Finally, gaps in existing radar observing technologies are listed.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[To assist the National Science Foundation in meeting the needs of the community of scientists by providing them with the instrumentation and platforms necessary to conduct their research successfully, a meeting was held in late November 2012 with the purpose of defining the problems of the next generation that will require radar technologies and determining the suite of radars best suited to help solve these problems. This paper summarizes the outcome of the meeting: (i) Radars currently in use in the atmospheric sciences and in related research are reviewed. (ii) New and emerging radar technologies are described. (iii) Future needs and opportunities for radar support of high-priority research are discussed. The current radar technologies considered critical to answering the key and emerging scientific questions are examined. The emerging radar technologies that will be most helpful in answering the key scientific questions are identified. Finally, gaps in existing radar observing technologies are listed.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

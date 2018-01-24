@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:23.328511</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:40.953444</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>An image-processing algorithm has been developed to identify aerosol plumes in scanning lidar backscatter data. The images in this case consist of lidar data in a polar coordinate system. Each full lidar scan is taken as a fixed image in time, and sequences of such scans are considered functions of time. The data are analyzed in both the original backscatter polar coordinate system and a lagged coordinate system. The lagged coordinate system is a scatterplot of two datasets, such as subregions taken from the same lidar scan (spatial delay), or two sequential scans in time (time delay). The lagged coordinate system processing allows for finding and classifying clusters of data. The classification step is important in determining which clusters are valid aerosol plumes and which are from artifacts such as noise, hard targets, or background fields. These cluster classification techniques have skill since both local and global properties are used. Furthermore, more information is available since both the original data and the lag data are used. Performance statistics are presented for a limited set of data processed by the algorithm, where results from the algorithm were compared to subjective truth data identified by a human.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[An image-processing algorithm has been developed to identify aerosol plumes in scanning lidar backscatter data. The images in this case consist of lidar data in a polar coordinate system. Each full lidar scan is taken as a fixed image in time, and sequences of such scans are considered functions of time. The data are analyzed in both the original backscatter polar coordinate system and a lagged coordinate system. The lagged coordinate system is a scatterplot of two datasets, such as subregions taken from the same lidar scan (spatial delay), or two sequential scans in time (time delay). The lagged coordinate system processing allows for finding and classifying clusters of data. The classification step is important in determining which clusters are valid aerosol plumes and which are from artifacts such as noise, hard targets, or background fields. These cluster classification techniques have skill since both local and global properties are used. Furthermore, more information is available since both the original data and the lag data are used. Performance statistics are presented for a limited set of data processed by the algorithm, where results from the algorithm were compared to subjective truth data identified by a human.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

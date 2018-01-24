@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:01.060456</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:08.636951</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Extreme weather events such as thunderstorms and tornadoes are of great concern as these events pose a significant threat to life, property, and economic stability. Because of the difficulty of gathering data on extreme events, this paper proposes modeling the conditions for extreme weather through large-scale indicators. The advantage of using large-scale indicators is that climate models can be used to generate data whereas climate models cannot generate data on extreme events themselves. This paper focuses on comparing spatio-temporal models for reanalysis data of large-scale indicators for extreme weather observed across the continental United States and Mexico. Results indicate that rigorous treatment of spatial and temporal dynamics is necessary. The models find that the intensity of conditions for extreme weather is particularly high for the central United States and the intensity of these conditions is increasing over time but the amount of increase may not be practically significant.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Extreme weather events such as thunderstorms and tornadoes are of great concern as these events pose a significant threat to life, property, and economic stability. Because of the difficulty of gathering data on extreme events, this paper proposes modeling the conditions for extreme weather through large-scale indicators. The advantage of using large-scale indicators is that climate models can be used to generate data whereas climate models cannot generate data on extreme events themselves. This paper focuses on comparing spatio-temporal models for reanalysis data of large-scale indicators for extreme weather observed across the continental United States and Mexico. Results indicate that rigorous treatment of spatial and temporal dynamics is necessary. The models find that the intensity of conditions for extreme weather is particularly high for the central United States and the intensity of these conditions is increasing over time but the amount of increase may not be practically significant.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

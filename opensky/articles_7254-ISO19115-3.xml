@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:13.550682</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:39.278660</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A warming trend has been detected in the world's oceans in recent decades. The basin-averaged warming, however, shows a complex vertical structure in the Indian and Pacific oceans. Warming in the upper ocean-with maxima near the surface- accompanies a strong cooling in the upper thermocline. Analysis of observed data and model solutions from this study reveals that the complex structure is confined mainly to the tropics. While increased greenhouse gases act to warm up the upper ocean by increasing downward surface heat fluxes, anomalous winds in the tropics cause upward Ekman pumping velocity and shoal the thermocline, resulting in an upper-thermocline cooling. This cooling process is well demonstrated by a simple model based on the ventilated thermocline theory. The study has important implications for climate change and fisheries.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A warming trend has been detected in the world's oceans in recent decades. The basin-averaged warming, however, shows a complex vertical structure in the Indian and Pacific oceans. Warming in the upper ocean-with maxima near the surface- accompanies a strong cooling in the upper thermocline. Analysis of observed data and model solutions from this study reveals that the complex structure is confined mainly to the tropics. While increased greenhouse gases act to warm up the upper ocean by increasing downward surface heat fluxes, anomalous winds in the tropics cause upward Ekman pumping velocity and shoal the thermocline, resulting in an upper-thermocline cooling. This cooling process is well demonstrated by a simple model based on the ventilated thermocline theory. The study has important implications for climate change and fisheries.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

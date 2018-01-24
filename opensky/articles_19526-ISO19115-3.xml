@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:43.576377</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:12.240692</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The transport of chemicals is a major uncertainty in the modeling of tropospheric composition. A common approach is to transport gases using the winds from meteorological analyses, either using them directly in a chemical transport model or by constraining the flow in a general circulation model. Here we compare the transport of idealized tracers in several different models that use the same meteorological fields taken from Modern-Era Retrospective analysis for Research and Applications (MERRA). We show that, even though the models use the same meteorological fields, there are substantial differences in their global-scale tropospheric transport related to large differences in parameterized convection between the simulations. Furthermore, we find that the transport differences between simulations constrained with the same-large scale flow are larger than differences between free-running simulations, which have differing large-scale flow but much more similar convective mass fluxes. Our results indicate that more attention needs to be paid to convective parameterizations in order to understand large-scale tropospheric transport in models, particularly in simulations constrained with analyzed winds.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The transport of chemicals is a major uncertainty in the modeling of tropospheric composition. A common approach is to transport gases using the winds from meteorological analyses, either using them directly in a chemical transport model or by constraining the flow in a general circulation model. Here we compare the transport of idealized tracers in several different models that use the same meteorological fields taken from Modern-Era Retrospective analysis for Research and Applications (MERRA). We show that, even though the models use the same meteorological fields, there are substantial differences in their global-scale tropospheric transport related to large differences in parameterized convection between the simulations. Furthermore, we find that the transport differences between simulations constrained with the same-large scale flow are larger than differences between free-running simulations, which have differing large-scale flow but much more similar convective mass fluxes. Our results indicate that more attention needs to be paid to convective parameterizations in order to understand large-scale tropospheric transport in models, particularly in simulations constrained with analyzed winds.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

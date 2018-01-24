@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:36.310446</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:01.163166</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -264,7 +264,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper demonstrates how data from a small experimental basin can be used to evaluate possible structures for a lumped hydrological model. Data collected at the Mahurangi experimental basin in New Zealand includes rainfall, streamflow and multi-depth soil moisture time-series data. We use this data to evaluate possible model representations of the soil zone available in the FUSE modular modelling framework. Upper and lower soil zone architecture choices are tested. The results provide substantial guidance for model structure choice.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper demonstrates how data from a small experimental basin can be used to evaluate possible structures for a lumped hydrological model. Data collected at the Mahurangi experimental basin in New Zealand includes rainfall, streamflow and multi-depth soil moisture time-series data. We use this data to evaluate possible model representations of the soil zone available in the FUSE modular modelling framework. Upper and lower soil zone architecture choices are tested. The results provide substantial guidance for model structure choice.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

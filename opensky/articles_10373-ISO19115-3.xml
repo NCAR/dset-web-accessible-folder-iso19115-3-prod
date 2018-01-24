@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:23.547372</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:53.975681</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Broadband images in the Ca II H line, from the Broadband Filter Imager (BFI) instrument on the Hinode spacecraft, show emission from spicules emerging from and visible right down to the observed limb. Surprisingly, little absorption of spicule light is seen along their lengths. We present formal solutions to the transfer equation for given (ad hoc) source functions, including a stratified chromosphere from which spicules emanate. The model parameters are broadly compatible with earlier studies of spicules. The visibility of Ca II spicules down to the limb in Hinode data seems to require that spicule emission be Doppler shifted relative to the stratified atmosphere, either by supersonic turbulent or organized spicular motion. The non-spicule component of the chromosphere is almost invisible in the broadband BFI data, but we predict that it will be clearly visible in high spectral resolution data. Broadband Ca II H limb images give the false impression that the chromosphere is dominated by spicules. Our analysis serves as a reminder that the absence of a signature can be as significant as its presence.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Broadband images in the Ca II H line, from the Broadband Filter Imager (BFI) instrument on the Hinode spacecraft, show emission from spicules emerging from and visible right down to the observed limb. Surprisingly, little absorption of spicule light is seen along their lengths. We present formal solutions to the transfer equation for given (ad hoc) source functions, including a stratified chromosphere from which spicules emanate. The model parameters are broadly compatible with earlier studies of spicules. The visibility of Ca II spicules down to the limb in Hinode data seems to require that spicule emission be Doppler shifted relative to the stratified atmosphere, either by supersonic turbulent or organized spicular motion. The non-spicule component of the chromosphere is almost invisible in the broadband BFI data, but we predict that it will be clearly visible in high spectral resolution data. Broadband Ca II H limb images give the false impression that the chromosphere is dominated by spicules. Our analysis serves as a reminder that the absence of a signature can be as significant as its presence.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

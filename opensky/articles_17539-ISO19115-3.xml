@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:07.925914</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:18.173098</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>There are many problems in security and defense that require a robust optimization technique, including those that involve the release of a chemical or biological contaminant. Our problem, in particular, is computing the parameters to be used in modeling atmospheric transport and dispersion given field sensor measurements of contaminant concentration. This paper discusses using a genetic algorithm for addressing this problem. An example is given how a mixed integer genetic algorithm can be used in conjunction with field sensor data to invert a forward model to obtain the meteorological data and source information necessary for prediction of the subsequent concentration field. A new mixed integer genetic algorithm is described that is a state-of-the-art tool capable of optimizing a wide range of objective functions. Such an algorithm is used here for optimizing atmospheric stability, wind speed, wind direction, rainout, and source location. We demonstrate that the algorithm is successful at reconstructing these meteorological and source parameters despite moderate correlations between their effects on the sensor data.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[There are many problems in security and defense that require a robust optimization technique, including those that involve the release of a chemical or biological contaminant. Our problem, in particular, is computing the parameters to be used in modeling atmospheric transport and dispersion given field sensor measurements of contaminant concentration. This paper discusses using a genetic algorithm for addressing this problem. An example is given how a mixed integer genetic algorithm can be used in conjunction with field sensor data to invert a forward model to obtain the meteorological data and source information necessary for prediction of the subsequent concentration field. A new mixed integer genetic algorithm is described that is a state-of-the-art tool capable of optimizing a wide range of objective functions. Such an algorithm is used here for optimizing atmospheric stability, wind speed, wind direction, rainout, and source location. We demonstrate that the algorithm is successful at reconstructing these meteorological and source parameters despite moderate correlations between their effects on the sensor data.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

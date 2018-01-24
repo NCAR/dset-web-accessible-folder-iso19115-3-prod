@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:17.313664</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:46.511498</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -403,7 +403,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[The dramatic solar storm events of April 2002 deposited a large amount of energy into the Earth's upper atmosphere, substantially altering the thermal structure, the chemical composition, the dynamics, and the radiative environment. We examine the flow of energy within the thermosphere during this storm period from the perspective of infrared radiation transport and heat conduction. Observations from the SABER instrument on the TIMED satellite are coupled with computations based on the ASPEN thermospheric general circulation model to assess the energy flow. The dominant radiative response is associated with dramatically enhanced infrared emission from nitric oxide at 5.3 mu m from which a total of similar to 7.7 x 10(23) ergs of energy are radiated during the storm. Energy loss rates due to NO emission exceed 2200 Kelvin per day. In contrast, energy loss from carbon dioxide emission at 15 mm is only similar to 2.3% that of nitric oxide. Atomic oxygen emission at 63 mu m is essentially constant during the storm. Energy loss from molecular heat conduction may be as large as 3.8% of the NO emission. These results confirm the natural thermostat'' effect of nitric oxide emission as the primary mechanism by which storm energy is lost from the thermosphere below 210 km.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

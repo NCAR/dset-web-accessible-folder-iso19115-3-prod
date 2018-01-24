@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:33.969129</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:08.893256</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In situ experimental data and numerical model results are presented for the Ligurian Sea in the northwestern Mediterranean. The Ligurian Sea Air-Sea Interaction Experiment (LASIE07) and LIGURE2007 experiments took place in June 2007. The LASIE07 and LIGURE2007 data are used to validate the Coupled Ocean-Atmosphere Mesoscale Prediction System (COAMPS)(1) developed at the Naval Research Laboratory. This system includes an atmospheric sigma coordinate, nonhydrostatic model, coupled to a hydrostatic sigma-z-level ocean model (Navy Coastal Ocean Model), using the Earth System Modeling Framework (ESMF). A month-long simulation, which includes data assimilation in the atmosphere and full coupling, is compared against an uncoupled run where analysis SST is used for computation of the bulk fluxes. This reveals that COAMPS has reasonable skill in predicting the wind stress and surface heat fluxes at LASIE07 mooring locations in shallow and deep water. At the LASIE07 coastal site (but not at the deep site) the validation shows that the coupled model has a much smaller bias in latent heat flux, because of improvements in the SST field relative to the uncoupled model. This in turn leads to large differences in upper-ocean temperature between the coupled model and an uncoupled ocean model run.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In situ experimental data and numerical model results are presented for the Ligurian Sea in the northwestern Mediterranean. The Ligurian Sea Air-Sea Interaction Experiment (LASIE07) and LIGURE2007 experiments took place in June 2007. The LASIE07 and LIGURE2007 data are used to validate the Coupled Ocean-Atmosphere Mesoscale Prediction System (COAMPS)(1) developed at the Naval Research Laboratory. This system includes an atmospheric sigma coordinate, nonhydrostatic model, coupled to a hydrostatic sigma-z-level ocean model (Navy Coastal Ocean Model), using the Earth System Modeling Framework (ESMF). A month-long simulation, which includes data assimilation in the atmosphere and full coupling, is compared against an uncoupled run where analysis SST is used for computation of the bulk fluxes. This reveals that COAMPS has reasonable skill in predicting the wind stress and surface heat fluxes at LASIE07 mooring locations in shallow and deep water. At the LASIE07 coastal site (but not at the deep site) the validation shows that the coupled model has a much smaller bias in latent heat flux, because of improvements in the SST field relative to the uncoupled model. This in turn leads to large differences in upper-ocean temperature between the coupled model and an uncoupled ocean model run.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:40.508599</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:18.052523</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -433,7 +433,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We compare global-scale changes in satellite estimates of the temperature of the lower troposphere (TLT) with model simulations of forced and unforced TLT changes. While previous work has focused on a single period of record, we select analysis timescales ranging from 10 to 32 years, and then compare all possible observed TLT trends on each timescale with corresponding multi-model distributions of forced and unforced trends. We use observed estimates of the signal component of TLT changes and model estimates of climate noise to calculate timescale-dependent signal-to-noise ratios (S/N). These ratios are small (less than 1) on the 10-year timescale, increasing to more than 3.9 for 32-year trends. This large change in S/N is primarily due to a decrease in the amplitude of internally generated variability with increasing trend length. Because of the pronounced effect of interannual noise on decadal trends, a multi-model ensemble of anthropogenically-forced simulations displays many 10-year periods with little warming. A single decade of observational TLT data is therefore inadequate for identifying a slowly evolving anthropogenic warming signal. Our results show that temperature records of at least 17 years in length are required for identifying human effects on global-mean tropospheric temperature.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We compare global-scale changes in satellite estimates of the temperature of the lower troposphere (TLT) with model simulations of forced and unforced TLT changes. While previous work has focused on a single period of record, we select analysis timescales ranging from 10 to 32 years, and then compare all possible observed TLT trends on each timescale with corresponding multi-model distributions of forced and unforced trends. We use observed estimates of the signal component of TLT changes and model estimates of climate noise to calculate timescale-dependent signal-to-noise ratios (S/N). These ratios are small (less than 1) on the 10-year timescale, increasing to more than 3.9 for 32-year trends. This large change in S/N is primarily due to a decrease in the amplitude of internally generated variability with increasing trend length. Because of the pronounced effect of interannual noise on decadal trends, a multi-model ensemble of anthropogenically-forced simulations displays many 10-year periods with little warming. A single decade of observational TLT data is therefore inadequate for identifying a slowly evolving anthropogenic warming signal. Our results show that temperature records of at least 17 years in length are required for identifying human effects on global-mean tropospheric temperature.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

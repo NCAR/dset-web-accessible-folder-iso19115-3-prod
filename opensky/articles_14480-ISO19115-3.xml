@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:31.762770</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:25.241666</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The general principle behind the marine cloud brightening (MCB) climate engineering technique is that seeding marine stratocumulus clouds with substantial concentrations of roughly monodisperse sub-micrometre-sized seawater particles might significantly enhance cloud albedo and longevity, thereby producing a cooling effect. This paper is concerned with preliminary studies of the possible beneficial application of MCB to three regional issues: (1) recovery of polar ice loss, (2) weakening of developing hurricanes and (3) elimination or reduction of coral bleaching. The primary focus is on Item 1. We focus discussion herein on advantages associated with engaging in limited-area seeding, regional effects rather than global; and the levels of seeding that may be required to address changing current and near-term conditions in the Arctic. We also mention the possibility that MCB might be capable of producing a localized cooling to help stabilize the West Antarctic Ice Sheet.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The general principle behind the marine cloud brightening (MCB) climate engineering technique is that seeding marine stratocumulus clouds with substantial concentrations of roughly monodisperse sub-micrometre-sized seawater particles might significantly enhance cloud albedo and longevity, thereby producing a cooling effect. This paper is concerned with preliminary studies of the possible beneficial application of MCB to three regional issues: (1) recovery of polar ice loss, (2) weakening of developing hurricanes and (3) elimination or reduction of coral bleaching. The primary focus is on Item 1. We focus discussion herein on advantages associated with engaging in limited-area seeding, regional effects rather than global; and the levels of seeding that may be required to address changing current and near-term conditions in the Arctic. We also mention the possibility that MCB might be capable of producing a localized cooling to help stabilize the West Antarctic Ice Sheet.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

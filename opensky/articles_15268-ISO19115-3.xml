@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:36.308027</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:31.760691</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -174,7 +174,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Marine Ecosystems and Climate: Modeling and Analysis of Observed Variability; Boulder, Colorado, 2-14 August 2009; Despite evidence of significant impacts from climate change, relatively few published papers in ecology, conservation biology, and biodiversity research deal with marine systems. This stark fact motivated a recent colloquium, hosted by the Advanced Study Program (ASP) at the National Center for Atmospheric Research (NCAR). The goal was to encourage graduate students to undertake research studies on understanding and predicting global climate variability and its impacts on marine ecosystems. An invited group of 18 international experts worked closely with 26 students from the climate, marine ecosystem, and impact communities.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Marine Ecosystems and Climate: Modeling and Analysis of Observed Variability; Boulder, Colorado, 2-14 August 2009; Despite evidence of significant impacts from climate change, relatively few published papers in ecology, conservation biology, and biodiversity research deal with marine systems. This stark fact motivated a recent colloquium, hosted by the Advanced Study Program (ASP) at the National Center for Atmospheric Research (NCAR). The goal was to encourage graduate students to undertake research studies on understanding and predicting global climate variability and its impacts on marine ecosystems. An invited group of 18 international experts worked closely with 26 students from the climate, marine ecosystem, and impact communities.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

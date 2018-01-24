@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:31.158126</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:04.838314</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Coupled-carbon-climate simulations are an essential tool for predicting the impact of human activity onto the climate and biogeochemistry. Here we incorporate prognostic desert dust and anthropogenic aerosols into the CCSM3.1 coupled carbon-climate model and explore the resulting interactions with climate and biogeochemical dynamics through a series of transient anthropogenic simulations (20th and 21st centuries) and sensitivity studies. The inclusion of prognostic aerosols into this model has a small net global cooling effect on climate but does not significantly impact the globally averaged carbon cycle; we argue that this is likely to be because the CCSM3.1 model has a small climate feedback onto the carbon cycle. We propose a mechanism for including desert dust and anthropogenic aerosols into a simple carbon-climate feedback analysis to explain the results of our and previous studies. Inclusion of aerosols has statistically significant impacts on regional climate and biogeochemistry, in particular through the effects on the ocean nitrogen cycle and primary productivity of altered iron inputs from desert dust deposition.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Coupled-carbon-climate simulations are an essential tool for predicting the impact of human activity onto the climate and biogeochemistry. Here we incorporate prognostic desert dust and anthropogenic aerosols into the CCSM3.1 coupled carbon-climate model and explore the resulting interactions with climate and biogeochemical dynamics through a series of transient anthropogenic simulations (20th and 21st centuries) and sensitivity studies. The inclusion of prognostic aerosols into this model has a small net global cooling effect on climate but does not significantly impact the globally averaged carbon cycle; we argue that this is likely to be because the CCSM3.1 model has a small climate feedback onto the carbon cycle. We propose a mechanism for including desert dust and anthropogenic aerosols into a simple carbon-climate feedback analysis to explain the results of our and previous studies. Inclusion of aerosols has statistically significant impacts on regional climate and biogeochemistry, in particular through the effects on the ocean nitrogen cycle and primary productivity of altered iron inputs from desert dust deposition.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

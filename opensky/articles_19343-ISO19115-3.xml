@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:39.259217</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:05.800638</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We investigate intraannual to interannual variability in the Antarctic Polar Front (PF) using weekly PF realizations spanning 2002-2014 (found at doi.pangaea.de/10.1594/PANGAEA.855640). While several PF studies have used gradient maxima in sea surface temperature (SST) or height to define its location, results from this study are based on a PF defined using SST measurements that avoid cloud contamination and the influence of steric sea level change. With a few regional exceptions, we find that the latitudinal position of the PF does not vary seasonally, yet its temperature exhibits a clear seasonal cycle. Consistent with previous studies, the position and intensity of the PF is largely influenced by bathymetry; generally, over steep topography, we find that the front intensifies and interannual variability in its position is low. We also investigate drivers of PF variability in the context of large-scale climate variability on various spatial and temporal scales, but find that the major modes of Southern Hemisphere climate variability explain only a tiny fraction of the interannual PF variance. Over the study time period, the PF intensifies at nearly all longitudes while exhibiting no discernible meridional displacement in its zonal mean path.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We investigate intraannual to interannual variability in the Antarctic Polar Front (PF) using weekly PF realizations spanning 2002-2014 (found at doi.pangaea.de/10.1594/PANGAEA.855640). While several PF studies have used gradient maxima in sea surface temperature (SST) or height to define its location, results from this study are based on a PF defined using SST measurements that avoid cloud contamination and the influence of steric sea level change. With a few regional exceptions, we find that the latitudinal position of the PF does not vary seasonally, yet its temperature exhibits a clear seasonal cycle. Consistent with previous studies, the position and intensity of the PF is largely influenced by bathymetry; generally, over steep topography, we find that the front intensifies and interannual variability in its position is low. We also investigate drivers of PF variability in the context of large-scale climate variability on various spatial and temporal scales, but find that the major modes of Southern Hemisphere climate variability explain only a tiny fraction of the interannual PF variance. Over the study time period, the PF intensifies at nearly all longitudes while exhibiting no discernible meridional displacement in its zonal mean path.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

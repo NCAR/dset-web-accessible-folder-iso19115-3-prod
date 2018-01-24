@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:52.481365</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:25.425414</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Game-theoretic models of international cooperation on climate change come to very different results regarding the stability of the grand coalition of all countries, depending on the stability concept used. In particular, the core-stability concept produces an encouraging result that does not seem to be supported by reality. We extend the game-theoretic model based on this concept by introducing macroeconomic effects of emission reduction measures in multiple countries. The computable general equilibrium model DART and damage functions from the RICE model are used to quantify the theoretical model. Contrary to the classical model, we find that, under damages in the IPCC range, the core of the resulting cooperative game is empty and no stable global agreement exists. This is mainly due to fossil fuel exporting countries, which are negatively affected by lower fossil fuel prices resulting from emission reduction measures.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Game-theoretic models of international cooperation on climate change come to very different results regarding the stability of the grand coalition of all countries, depending on the stability concept used. In particular, the core-stability concept produces an encouraging result that does not seem to be supported by reality. We extend the game-theoretic model based on this concept by introducing macroeconomic effects of emission reduction measures in multiple countries. The computable general equilibrium model DART and damage functions from the RICE model are used to quantify the theoretical model. Contrary to the classical model, we find that, under damages in the IPCC range, the core of the resulting cooperative game is empty and no stable global agreement exists. This is mainly due to fossil fuel exporting countries, which are negatively affected by lower fossil fuel prices resulting from emission reduction measures.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

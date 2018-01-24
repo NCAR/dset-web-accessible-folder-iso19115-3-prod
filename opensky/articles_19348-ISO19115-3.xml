@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:39.398598</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:06.033497</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The rate of increase of extreme precipitation in response to global warming varies dramatically across climate model simulations, particularly over the tropics, for reasons that have yet to be established. Here we propose one potential mechanism: changing organization of convection with climate. We analyze a set of simulations with the Community Atmosphere Model version 5 with an idealized global radiative-convective equilibrium configuration forced by fixed sea surface temperatures varying in 2 degrees increments from 285 to 307 K. In these simulations, convective organization varies from semiorganized in cold simulations, disorganized in warm simulations, and abruptly becomes highly organized at just over 300 K. The change in extreme precipitation with warming also varies across these simulations, including a large increase at the transition from disorganized to organized convection. We develop an extreme precipitation-focused metric for convective organization and use this to explore their connection.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The rate of increase of extreme precipitation in response to global warming varies dramatically across climate model simulations, particularly over the tropics, for reasons that have yet to be established. Here we propose one potential mechanism: changing organization of convection with climate. We analyze a set of simulations with the Community Atmosphere Model version 5 with an idealized global radiative-convective equilibrium configuration forced by fixed sea surface temperatures varying in 2 degrees increments from 285 to 307 K. In these simulations, convective organization varies from semiorganized in cold simulations, disorganized in warm simulations, and abruptly becomes highly organized at just over 300 K. The change in extreme precipitation with warming also varies across these simulations, including a large increase at the transition from disorganized to organized convection. We develop an extreme precipitation-focused metric for convective organization and use this to explore their connection.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

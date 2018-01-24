@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:33.275864</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:56.213371</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The occurrence of recent summer temperature extremes in the midlatitudes has raised questions about whether and how the distributions of summer temperature are changing. While it is clear that in most regions the average temperature is increasing, there is less consensus regarding the presence or nature of changes in the shape of the distributions, which can influence the probability of extreme events. Using data from over 4000 weather stations in the Global Historical Climatology Network-Daily database, we quantify the changes in daily maximum and minimum temperature distributions for peak summer in the Northern Hemisphere midlatitudes during 1980-2015 using quantile regression. A large majority (87-88%) of the trends across percentiles and stations can be explained by a shift of the distributions with no change in shape. The remaining variability is summarized through projections onto orthogonal basis functions that are closely related to changes in variance, skewness, and kurtosis. North America and Eurasia show significant shifts in the estimated distributions of daily maximum and minimum temperatures. Although no general change in summer variance is found, variance has regionally increased in Eurasia and decreased in most of North America. Changes in shape that project onto the skewness and kurtosis basis functions have a much smaller spatial scale and are generally insignificant.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The occurrence of recent summer temperature extremes in the midlatitudes has raised questions about whether and how the distributions of summer temperature are changing. While it is clear that in most regions the average temperature is increasing, there is less consensus regarding the presence or nature of changes in the shape of the distributions, which can influence the probability of extreme events. Using data from over 4000 weather stations in the Global Historical Climatology Network-Daily database, we quantify the changes in daily maximum and minimum temperature distributions for peak summer in the Northern Hemisphere midlatitudes during 1980-2015 using quantile regression. A large majority (87-88%) of the trends across percentiles and stations can be explained by a shift of the distributions with no change in shape. The remaining variability is summarized through projections onto orthogonal basis functions that are closely related to changes in variance, skewness, and kurtosis. North America and Eurasia show significant shifts in the estimated distributions of daily maximum and minimum temperatures. Although no general change in summer variance is found, variance has regionally increased in Eurasia and decreased in most of North America. Changes in shape that project onto the skewness and kurtosis basis functions have a much smaller spatial scale and are generally insignificant.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

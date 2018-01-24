@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:05.816619</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:51.118410</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We present observational evidence for the presence of MHD (magnetohydrodynamic) waves in the solar photosphere deduced from SOHO/MDI(Solar and Heliospheric Observatory/Michelson Doppler Imager) Dopplergram velocity observations. The magneto-acoustic perturbations are observed as acoustic power enhancement in the sunspot umbra at high-frequency bands in the velocity component perpendicular to the magnetic field. We use numerical modelling of wave propagation through localized non-uniform magnetic field concentration along with the same filtering procedure as applied to the observations to identify the observed waves. Guided by the results of the numerical simulations we classify the observed oscillations as magneto-acoustic waves excited by the trapped sub-photospheric acoustic waves. We consider the potential application of the presented method as a diagnostic tool for magnetohelioseismology</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We present observational evidence for the presence of MHD (magnetohydrodynamic) waves in the solar photosphere deduced from SOHO/MDI(Solar and Heliospheric Observatory/Michelson Doppler Imager) Dopplergram velocity observations. The magneto-acoustic perturbations are observed as acoustic power enhancement in the sunspot umbra at high-frequency bands in the velocity component perpendicular to the magnetic field. We use numerical modelling of wave propagation through localized non-uniform magnetic field concentration along with the same filtering procedure as applied to the observations to identify the observed waves. Guided by the results of the numerical simulations we classify the observed oscillations as magneto-acoustic waves excited by the trapped sub-photospheric acoustic waves. We consider the potential application of the presented method as a diagnostic tool for magnetohelioseismology]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

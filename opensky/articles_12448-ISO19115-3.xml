@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:56.643822</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:39.464067</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Ionospheric Sq current systems during unusually strong and prolonged stratospheric sudden warming (SSW) events in January 2006 and January 2009 are examined by analyzing ground-magnetometer data for the American and Asian longitude sectors. During these SSW events, a significant decrease and increase of the Sq equivalent current intensity are observed in the Northern and Southern Hemispheres, respectively, along with a reduction in the longitudinal separation between the northern and southern current vortices. Numerical experiments using the National Center for Atmospheric Research Thermosphere-Ionosphere-Electrodynamics General-Circulation Model show that changes in the solar anti-symmetric (2,3) semidiurnal tide can bring about similar changes in the Sq current system.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Ionospheric Sq current systems during unusually strong and prolonged stratospheric sudden warming (SSW) events in January 2006 and January 2009 are examined by analyzing ground-magnetometer data for the American and Asian longitude sectors. During these SSW events, a significant decrease and increase of the Sq equivalent current intensity are observed in the Northern and Southern Hemispheres, respectively, along with a reduction in the longitudinal separation between the northern and southern current vortices. Numerical experiments using the National Center for Atmospheric Research Thermosphere-Ionosphere-Electrodynamics General-Circulation Model show that changes in the solar anti-symmetric (2,3) semidiurnal tide can bring about similar changes in the Sq current system.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

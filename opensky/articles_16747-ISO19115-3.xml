@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:49.466873</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:51.407579</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -189,7 +189,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Diebold-Mariano test for predictive accuracy has been used widely and adapted for economic forecasts, but has not seen much activity in weather forecast verification. The technique is applied to both simulated verification sets as well as weather data at eight stations in Utah, and a loss function based on dynamic time warping (DTW) is used. Results of the simulation experiment show that the DTW technique can be useful if timing errors are the concern. Real test cases demonstrate the difficulty in automating some of the more advanced methods proposed here, but also show the utility in even the most basic test, which is an improvement over similar tests that do not account for temporal and/or contemporaneous correlation.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Diebold-Mariano test for predictive accuracy has been used widely and adapted for economic forecasts, but has not seen much activity in weather forecast verification. The technique is applied to both simulated verification sets as well as weather data at eight stations in Utah, and a loss function based on dynamic time warping (DTW) is used. Results of the simulation experiment show that the DTW technique can be useful if timing errors are the concern. Real test cases demonstrate the difficulty in automating some of the more advanced methods proposed here, but also show the utility in even the most basic test, which is an improvement over similar tests that do not account for temporal and/or contemporaneous correlation.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

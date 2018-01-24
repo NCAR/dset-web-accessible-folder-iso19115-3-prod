@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:22.920646</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:40.316494</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This perspective paper reviews progress made in the last decades to enhance the communication and use of climate information relevant to the political and economic decision process. It focuses, specifically, on the creation and development of climate services, and highlights a number of difficulties that have limited the success of these services. Among them are the insufficient awareness by societal actors of their vulnerability to climate change, the lack of relevant products and services offered by the scientific community, the inappropriate format in which the information is provided, and the inadequate business model adopted by climate services. The authors suggest that, to be effective, centers should host within the same center a diversity of staff including experts in climate science, specialists in impact, adaptation, and vulnerability, representatives of the corporate world, agents of the public service as well as social managers and communication specialists. The role and importance of environmental engineering is emphasized.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This perspective paper reviews progress made in the last decades to enhance the communication and use of climate information relevant to the political and economic decision process. It focuses, specifically, on the creation and development of climate services, and highlights a number of difficulties that have limited the success of these services. Among them are the insufficient awareness by societal actors of their vulnerability to climate change, the lack of relevant products and services offered by the scientific community, the inappropriate format in which the information is provided, and the inadequate business model adopted by climate services. The authors suggest that, to be effective, centers should host within the same center a diversity of staff including experts in climate science, specialists in impact, adaptation, and vulnerability, representatives of the corporate world, agents of the public service as well as social managers and communication specialists. The role and importance of environmental engineering is emphasized.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

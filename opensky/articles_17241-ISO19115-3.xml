@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:00.626868</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:08.057065</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The pace of change in the arctic system during recent decades has captured the world's attention. Observations and model simulations both indicate that the arctic experiences an amplified response to climate forcing relative to that at lower latitudes. At the core of these changes is the arctic hydrologic system, which includes ice, gaseous vapor in the atmosphere, liquid water in soils and fluvial networks on land, and the freshwater content of the ocean. The changes in stores and fluxes of freshwater have a direct impact on biological systems, not only of the arctic region itself, but also well beyond its bounds. In this investigation, we used a heuristic, graphical approach to distill the system into its fundamental parts, documented the key relationships between those parts as best we know them, and identified the feedback loops within the system. The analysis illustrates relationships that are well understood, but also reveals others that are either unfamiliar, uncertain, or unexplored. The graphical approach was used to provide a visual assessment of the arctic hydrologic system in one possible future state in which the Arctic Ocean is seasonally ice free.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The pace of change in the arctic system during recent decades has captured the world's attention. Observations and model simulations both indicate that the arctic experiences an amplified response to climate forcing relative to that at lower latitudes. At the core of these changes is the arctic hydrologic system, which includes ice, gaseous vapor in the atmosphere, liquid water in soils and fluvial networks on land, and the freshwater content of the ocean. The changes in stores and fluxes of freshwater have a direct impact on biological systems, not only of the arctic region itself, but also well beyond its bounds. In this investigation, we used a heuristic, graphical approach to distill the system into its fundamental parts, documented the key relationships between those parts as best we know them, and identified the feedback loops within the system. The analysis illustrates relationships that are well understood, but also reveals others that are either unfamiliar, uncertain, or unexplored. The graphical approach was used to provide a visual assessment of the arctic hydrologic system in one possible future state in which the Arctic Ocean is seasonally ice free.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

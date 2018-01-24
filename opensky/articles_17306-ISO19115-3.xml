@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:02.127544</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:10.128641</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this study the effects of sporadic E (Es) clouds on GPS radio occultation (RO) signals are investigated by modeling wave propagation and analyzing observational GPS RO data. It has been shown that when the Es clouds are aligned with the propagation direction, they cause defocusing of the GPS RO signal, accompanied by scintillation above and below the defocusing region (due to the interference of direct and refracted radio waves). These effects result in specific U-shape structures in the amplitude of the GPS RO signals. When Es clouds are tilted with respect to the propagation direction, the effects reduce and disappear with the increase of the tilt angle. The U-shape structures are clearly identified in the observed GPS RO signals mainly at tangent point (TP) heights 90 - 120 km, but also at much lower TP heights. The latter indicates that some Es clouds are tilted with respect to the local horizon (this has also been shown in other studies). The distributions of the observed U-shape structures in latitude, local time, tilt angle, and vertical thickness of the cloud are evaluated in this study based on one month of COSMIC (Constellation Observing System for Meteorology, Ionosphere and Climate) RO data in July 2009.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this study the effects of sporadic E (Es) clouds on GPS radio occultation (RO) signals are investigated by modeling wave propagation and analyzing observational GPS RO data. It has been shown that when the Es clouds are aligned with the propagation direction, they cause defocusing of the GPS RO signal, accompanied by scintillation above and below the defocusing region (due to the interference of direct and refracted radio waves). These effects result in specific U-shape structures in the amplitude of the GPS RO signals. When Es clouds are tilted with respect to the propagation direction, the effects reduce and disappear with the increase of the tilt angle. The U-shape structures are clearly identified in the observed GPS RO signals mainly at tangent point (TP) heights 90 - 120 km, but also at much lower TP heights. The latter indicates that some Es clouds are tilted with respect to the local horizon (this has also been shown in other studies). The distributions of the observed U-shape structures in latitude, local time, tilt angle, and vertical thickness of the cloud are evaluated in this study based on one month of COSMIC (Constellation Observing System for Meteorology, Ionosphere and Climate) RO data in July 2009.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

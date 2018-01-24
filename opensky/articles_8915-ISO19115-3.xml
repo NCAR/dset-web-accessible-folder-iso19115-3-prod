@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:16.947363</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:44.126505</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Northern hemisphere planetary waves are strong in the winter and weak in the summer, and they go through a fast transition around equinox. This transition is studied here using NCAR Thermosphere-Ionosphere-Mesosphere-Electrodynamics general circulation model (TIME-GCM) simulations with 1997 National Centers for Environmental Prediction (NCEP) analysis. The planetary wave variability during the transition and its effect on the temperature and winds in the mesosphere are examined. The simulated planetary wave structure agrees with climatological studies, and the fast transition of the planetary waves is captured by the model. The wave variability produces large temperature changes in the upper atmosphere above local stations in middle and high latitudes. The qualitative behavior of the model is in excellent agreement with recent observations of a major perturbation in OH mesospheric temperatures from Ft. Collins (Taylor et al., 2001), although the smaller calculated magnitude suggests that the planetary wave amplitude might be underestimated by the model.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Northern hemisphere planetary waves are strong in the winter and weak in the summer, and they go through a fast transition around equinox. This transition is studied here using NCAR Thermosphere-Ionosphere-Mesosphere-Electrodynamics general circulation model (TIME-GCM) simulations with 1997 National Centers for Environmental Prediction (NCEP) analysis. The planetary wave variability during the transition and its effect on the temperature and winds in the mesosphere are examined. The simulated planetary wave structure agrees with climatological studies, and the fast transition of the planetary waves is captured by the model. The wave variability produces large temperature changes in the upper atmosphere above local stations in middle and high latitudes. The qualitative behavior of the model is in excellent agreement with recent observations of a major perturbation in OH mesospheric temperatures from Ft. Collins (Taylor et al., 2001), although the smaller calculated magnitude suggests that the planetary wave amplitude might be underestimated by the model.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

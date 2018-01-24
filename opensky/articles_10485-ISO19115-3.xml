@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:26.274503</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:57.842199</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This article in Weatherwise magazine explains for a general audience the research results published in a scientific paper: Drews and Han 2010, "Dynamics of Wind Setdown at Suez and the Eastern Nile Delta", PLoS ONE. A wind setdown event was observed at Lake Manzala in the eastern Nile delta in 1882 by Major-General Alexander Tulloch. He made a connection between this event and the parting of the Red Sea described in Exodus 14. The author used a modern ocean model to simulate both events, achieving results that match the descriptions of a temporarily dry lake-bed. The chosen crossing site at the Kedua Gap corresponds to certain archaeological discoveries from Egypt's New Kingdom period. Further research by other disciplines may shed light on the site.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This article in Weatherwise magazine explains for a general audience the research results published in a scientific paper: Drews and Han 2010, "Dynamics of Wind Setdown at Suez and the Eastern Nile Delta", PLoS ONE. A wind setdown event was observed at Lake Manzala in the eastern Nile delta in 1882 by Major-General Alexander Tulloch. He made a connection between this event and the parting of the Red Sea described in Exodus 14. The author used a modern ocean model to simulate both events, achieving results that match the descriptions of a temporarily dry lake-bed. The chosen crossing site at the Kedua Gap corresponds to certain archaeological discoveries from Egypt's New Kingdom period. Further research by other disciplines may shed light on the site.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

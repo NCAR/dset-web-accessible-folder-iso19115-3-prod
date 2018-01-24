@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:49.933529</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:52.210478</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -868,7 +868,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The International Surface Pressure Databank (ISPD) is the world's largest collection of global surface and sea-level pressure observations. It was developed by extracting observations from established international archives, through international cooperation with data recovery facilitated by the Atmospheric Circulation Reconstructions over the Earth (ACRE) initiative, and directly by contributing universities, organizations, and countries. The dataset period is currently 1768-2012 and consists of three data components: observations from land stations, marine observing systems, and tropical cyclone best track pressure reports. Version 2 of the ISPD (ISPDv2) was created to be observational input for the Twentieth Century Reanalysis Project (20CR) and contains the quality control and assimilation feedback metadata from the 20CR. Since then, it has been used for various general climate and weather studies, and an updated version 3 (ISPDv3) has been used in the ERA-20C reanalysis in connection with the European Reanalysis of Global Climate Observations project (ERA-CLIM). The focus of this paper is on the ISPDv2 and the inclusion of the 20CR feedback metadata. The Research Data Archive at the National Center for Atmospheric Research provides data collection and access for the ISPDv2, and will provide access to future versions.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The International Surface Pressure Databank (ISPD) is the world's largest collection of global surface and sea-level pressure observations. It was developed by extracting observations from established international archives, through international cooperation with data recovery facilitated by the Atmospheric Circulation Reconstructions over the Earth (ACRE) initiative, and directly by contributing universities, organizations, and countries. The dataset period is currently 1768-2012 and consists of three data components: observations from land stations, marine observing systems, and tropical cyclone best track pressure reports. Version 2 of the ISPD (ISPDv2) was created to be observational input for the Twentieth Century Reanalysis Project (20CR) and contains the quality control and assimilation feedback metadata from the 20CR. Since then, it has been used for various general climate and weather studies, and an updated version 3 (ISPDv3) has been used in the ERA-20C reanalysis in connection with the European Reanalysis of Global Climate Observations project (ERA-CLIM). The focus of this paper is on the ISPDv2 and the inclusion of the 20CR feedback metadata. The Research Data Archive at the National Center for Atmospheric Research provides data collection and access for the ISPDv2, and will provide access to future versions.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

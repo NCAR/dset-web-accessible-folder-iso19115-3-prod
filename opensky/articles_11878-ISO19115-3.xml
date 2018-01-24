@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:42.940098</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:21.522514</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We analyze the periods 1878-1944 and 1944-2008. The quasi-stationary wave in the North Atlantic region was stronger and the baroclinity steeper in 1878-1944 than in 1944-2008. The North Atlantic Oscillation Index--as defined by the Climate Research Unit, University of East Anglia--was higher in the former period too. We illustrate these statements by maps of sea level pressure and air temperature at the surface. The long-term trends in the North Atlantic Oscillation Index are linked to the trend in sunspot number such that when, in the mean, the sunspot numbers were high (Gleissberg maxima) the trends in the two quantities were parallel; and when the mean sunspot numbers were low (Gleissberg minima) the trends in the North Atlantic Oscillation Index and sunspots were opposite. We find the connections between the trends statistically significant, and we infer that the level of solar activity played a role in the trends of the past two centuries in the North Atlantic region. However, we cannot as yet provide a mechanism linking the solar trends to those in the atmosphere and ocean, but as a step toward an explanation, the equator to pole temperature gradient is steeper in a Gleissberg minimum than in a maximum.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We analyze the periods 1878-1944 and 1944-2008. The quasi-stationary wave in the North Atlantic region was stronger and the baroclinity steeper in 1878-1944 than in 1944-2008. The North Atlantic Oscillation Index--as defined by the Climate Research Unit, University of East Anglia--was higher in the former period too. We illustrate these statements by maps of sea level pressure and air temperature at the surface. The long-term trends in the North Atlantic Oscillation Index are linked to the trend in sunspot number such that when, in the mean, the sunspot numbers were high (Gleissberg maxima) the trends in the two quantities were parallel; and when the mean sunspot numbers were low (Gleissberg minima) the trends in the North Atlantic Oscillation Index and sunspots were opposite. We find the connections between the trends statistically significant, and we infer that the level of solar activity played a role in the trends of the past two centuries in the North Atlantic region. However, we cannot as yet provide a mechanism linking the solar trends to those in the atmosphere and ocean, but as a step toward an explanation, the equator to pole temperature gradient is steeper in a Gleissberg minimum than in a maximum.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

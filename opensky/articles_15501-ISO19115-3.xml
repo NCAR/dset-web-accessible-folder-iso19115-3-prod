@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:41.238513</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:39.123239</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -343,7 +343,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Many soil-derived particles dominated by insoluble material, including Saharan dusts, are known to act as ice nuclei. If, however, dust particles can compete with other atmospheric particle types to form liquid cloud droplets, they have a greater potential to change climate through indirect effects on cloud radiative properties and to affect the hydrological cycle through precipitation changes. By directly collecting and analyzing the residual nuclei of small cloud droplets, we demonstrate that Saharan dust particles do commonly act as cloud condensation nuclei (CCN) in the eastern North Atlantic. Droplet activation calculations support the measurements by showing that due to its slightly hygroscopic nature, even submicron dust can be important as CCN. Given the dual nature of Saharan dust particles as CCN and ice nuclei, this infusion of dust is expected to impact not only droplet size and albedo in small clouds, but ice formation in deep convective clouds.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Many soil-derived particles dominated by insoluble material, including Saharan dusts, are known to act as ice nuclei. If, however, dust particles can compete with other atmospheric particle types to form liquid cloud droplets, they have a greater potential to change climate through indirect effects on cloud radiative properties and to affect the hydrological cycle through precipitation changes. By directly collecting and analyzing the residual nuclei of small cloud droplets, we demonstrate that Saharan dust particles do commonly act as cloud condensation nuclei (CCN) in the eastern North Atlantic. Droplet activation calculations support the measurements by showing that due to its slightly hygroscopic nature, even submicron dust can be important as CCN. Given the dual nature of Saharan dust particles as CCN and ice nuclei, this infusion of dust is expected to impact not only droplet size and albedo in small clouds, but ice formation in deep convective clouds.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

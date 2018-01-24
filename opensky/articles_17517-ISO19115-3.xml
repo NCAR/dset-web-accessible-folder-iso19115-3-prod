@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:07.455888</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:17.545887</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The size distribution of mineral dust aerosols greatly affects their interactions with clouds, radiation, ecosystems, and other components of the Earth system. Several theoretical dust emission models predict that the dust size distribution depends on the wind speed at emission, with larger wind speeds predicted to produce smaller aerosols. The present study investigates this prediction using a compilation of published measurements of the size-resolved vertical dust flux emitted by eroding soils. Surprisingly, these measurements indicate that the size distribution of naturally emitted dust aerosols is independent of the wind speed. This finding is consistent with the recently formulated brittle fragmentation theory of dust emission, but inconsistent with other theoretical dust emission models. The independence of the emitted dust size distribution with wind speed simplifies both the parameterization of dust emission in atmospheric circulation models as well as the interpretation of geological records of dust deposition.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The size distribution of mineral dust aerosols greatly affects their interactions with clouds, radiation, ecosystems, and other components of the Earth system. Several theoretical dust emission models predict that the dust size distribution depends on the wind speed at emission, with larger wind speeds predicted to produce smaller aerosols. The present study investigates this prediction using a compilation of published measurements of the size-resolved vertical dust flux emitted by eroding soils. Surprisingly, these measurements indicate that the size distribution of naturally emitted dust aerosols is independent of the wind speed. This finding is consistent with the recently formulated brittle fragmentation theory of dust emission, but inconsistent with other theoretical dust emission models. The independence of the emitted dust size distribution with wind speed simplifies both the parameterization of dust emission in atmospheric circulation models as well as the interpretation of geological records of dust deposition.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

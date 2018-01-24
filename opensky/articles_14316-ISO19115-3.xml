@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:27.889238</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:19.699604</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Due to limitation of the domain size and limited observations used in regional data assimilation and forecasting systems, regional forecasts suffer a general deficiency in effectively representing large-scale features such as those in global analyses and forecasts. In this paper, a scale-dependent blending scheme using a low-pass Raymond tangent implicit filter was implemented in the Data Assimilation system of the Weather Research and Forecasting model (WRFDA) to reintroduce large-scale weather features from global model analysis into the WRFDA analysis. The impact of the blending method on regional forecasts was assessed by conducting full cycle data assimilation and forecasting experiments for a 2-week-long period in September 2012. It is found that there are obvious large-scale forecast errors in the regional WRFDA system running in full cycle mode without the blending scheme. The scale-dependent blending scheme can efficiently reintroduce the large-scale information from National Centers for Environmental Prediction (NCEP) Global Forecast System (GFS) analyses, and keep small-scale information from WRF analyses. The blending scheme is shown to reduce analysis and forecasting error of wind, temperature and humidity up to 24 h compared to the full cycle experiments without blending. It is also shown to increase precipitation prediction skills in the first 6 h forecasts.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Due to limitation of the domain size and limited observations used in regional data assimilation and forecasting systems, regional forecasts suffer a general deficiency in effectively representing large-scale features such as those in global analyses and forecasts. In this paper, a scale-dependent blending scheme using a low-pass Raymond tangent implicit filter was implemented in the Data Assimilation system of the Weather Research and Forecasting model (WRFDA) to reintroduce large-scale weather features from global model analysis into the WRFDA analysis. The impact of the blending method on regional forecasts was assessed by conducting full cycle data assimilation and forecasting experiments for a 2-week-long period in September 2012. It is found that there are obvious large-scale forecast errors in the regional WRFDA system running in full cycle mode without the blending scheme. The scale-dependent blending scheme can efficiently reintroduce the large-scale information from National Centers for Environmental Prediction (NCEP) Global Forecast System (GFS) analyses, and keep small-scale information from WRF analyses. The blending scheme is shown to reduce analysis and forecasting error of wind, temperature and humidity up to 24 h compared to the full cycle experiments without blending. It is also shown to increase precipitation prediction skills in the first 6 h forecasts.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

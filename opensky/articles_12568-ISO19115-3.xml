@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:58.985281</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:42.452373</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Modern airborne infrared limb sounders are capable of measuring profiles so fast that neighbouring profiles are very similar to one another. This can be exploited by retrieving whole 2-D cross-sections instead of simple 1-D profiles. This paper presents algorithms that are able to perform such a large-scale retrieval and that efficiently produce typical diagnostic quantities. The characteristics and capabilities of the proposed method are analysed and demonstrated in a detailed case study using a series of profiles that were measured by CRISTA-NF (Cryogenic Infrared Spectrometers and Telescope for the Atmosphere-New Frontiers). It is shown that cross-section retrievals can either reduce noise-induced artefacts or produce finer vertical structures while maintaining the same image noise level. Further, it is discussed how the presented methodology can also be applied to improve the retrievals for other instrument types including current satellite-borne nadir-sounders and near-future satellite-borne limb sounders.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Modern airborne infrared limb sounders are capable of measuring profiles so fast that neighbouring profiles are very similar to one another. This can be exploited by retrieving whole 2-D cross-sections instead of simple 1-D profiles. This paper presents algorithms that are able to perform such a large-scale retrieval and that efficiently produce typical diagnostic quantities. The characteristics and capabilities of the proposed method are analysed and demonstrated in a detailed case study using a series of profiles that were measured by CRISTA-NF (Cryogenic Infrared Spectrometers and Telescope for the Atmosphere-New Frontiers). It is shown that cross-section retrievals can either reduce noise-induced artefacts or produce finer vertical structures while maintaining the same image noise level. Further, it is discussed how the presented methodology can also be applied to improve the retrievals for other instrument types including current satellite-borne nadir-sounders and near-future satellite-borne limb sounders.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

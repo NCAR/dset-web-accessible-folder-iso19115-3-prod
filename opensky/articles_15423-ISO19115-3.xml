@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:39.637944</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:36.718524</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A positive-definite transport scheme for moisture is tested in a nonhydrostatic forecast model using convection-permitting resolutions. Use of the positive-definite scheme is found to significantly reduce the large positive bias in surface precipitation forecasts found in the non-positive-definite model forecasts, in particular at high precipitation thresholds. The positive-definite scheme eliminates spurious sources of water arising from the clipping of negative moisture values in the non-positive-definite model formulation, leading to the bias reduction.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A positive-definite transport scheme for moisture is tested in a nonhydrostatic forecast model using convection-permitting resolutions. Use of the positive-definite scheme is found to significantly reduce the large positive bias in surface precipitation forecasts found in the non-positive-definite model forecasts, in particular at high precipitation thresholds. The positive-definite scheme eliminates spurious sources of water arising from the clipping of negative moisture values in the non-positive-definite model formulation, leading to the bias reduction.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

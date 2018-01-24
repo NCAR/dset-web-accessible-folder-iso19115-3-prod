@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:28.988084</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:21.223482</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Measurements of ice number concentration in clouds are important but still pose problems. The pattern of ice development in stratiform mixed-phase clouds (SMCs) offers an opportunity to use cloud radar reflectivity (Ze) measurements and other cloud properties to retrieve ice number concentrations. To quantify the strong temperature dependencies of ice crystal habits and growth rates, a one-dimensional (1D) ice growth model has been developed to calculate ice diffusional growth and riming growth along ice particle fallout trajectories in SMCs. The radar reflectivity and fallout velocity profiles of ice crystals calculated from the 1D ice growth model are evaluated with the Atmospheric Radiation Measurements (ARM) Climate Research Facility (ACRF) ground-based high-vertical-resolution radar measurements. A method has been developed to retrieve ice number concentrations in SMCs at a specific cloud-top temperature (CTT) and liquid water path (LWP) by combining Ze measurements and 1D ice growth model simulations. The retrieved ice number concentrations in SMCs are evaluated using integrated airborne in situ and remote sensing measurements and three-dimensional cloud-resolving model simulations with a bin microphysical scheme. The statistical evaluations show that the retrieved ice number concentrations in the SMCs are within an uncertainty of a factor of 2.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Measurements of ice number concentration in clouds are important but still pose problems. The pattern of ice development in stratiform mixed-phase clouds (SMCs) offers an opportunity to use cloud radar reflectivity (Ze) measurements and other cloud properties to retrieve ice number concentrations. To quantify the strong temperature dependencies of ice crystal habits and growth rates, a one-dimensional (1D) ice growth model has been developed to calculate ice diffusional growth and riming growth along ice particle fallout trajectories in SMCs. The radar reflectivity and fallout velocity profiles of ice crystals calculated from the 1D ice growth model are evaluated with the Atmospheric Radiation Measurements (ARM) Climate Research Facility (ACRF) ground-based high-vertical-resolution radar measurements. A method has been developed to retrieve ice number concentrations in SMCs at a specific cloud-top temperature (CTT) and liquid water path (LWP) by combining Ze measurements and 1D ice growth model simulations. The retrieved ice number concentrations in SMCs are evaluated using integrated airborne in situ and remote sensing measurements and three-dimensional cloud-resolving model simulations with a bin microphysical scheme. The statistical evaluations show that the retrieved ice number concentrations in the SMCs are within an uncertainty of a factor of 2.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

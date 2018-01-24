@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:23.580720</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:14.025261</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Using a fully nonlinear two-dimensional (2-D) numerical model, we simulated gravity waves (GWs) breaking and their contributions to the formation of large winds and wind shears in the mesosphere and lower thermosphere (MLT). An eddy diffusion coefficient is used in the 2-D numerical model to parameterize realistic turbulent mixing. Our study shows that the momentum deposited by breaking GWs accelerates the mean wind. The resultant large background wind increases the GW's apparent horizontal phase velocity and decreases the GW's intrinsic frequency and vertical wavelength. Both the accelerated mean wind and the decreased GW vertical wavelength contribute to the enhancement of wind shears. This, in turn, creates a background condition that favors the occurrence of GW instability, breaking, and momentum deposition, as well as mean wind acceleration, which further enhances the wind shears. We find that GWs with longer vertical wavelengths and faster horizontal phase velocity can induce larger winds, but they may not necessarily induce larger wind shears. In addition, the background temperature can affect the time and height of GW breaking, thus causing accelerated mean winds and wind shears.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Using a fully nonlinear two-dimensional (2-D) numerical model, we simulated gravity waves (GWs) breaking and their contributions to the formation of large winds and wind shears in the mesosphere and lower thermosphere (MLT). An eddy diffusion coefficient is used in the 2-D numerical model to parameterize realistic turbulent mixing. Our study shows that the momentum deposited by breaking GWs accelerates the mean wind. The resultant large background wind increases the GW's apparent horizontal phase velocity and decreases the GW's intrinsic frequency and vertical wavelength. Both the accelerated mean wind and the decreased GW vertical wavelength contribute to the enhancement of wind shears. This, in turn, creates a background condition that favors the occurrence of GW instability, breaking, and momentum deposition, as well as mean wind acceleration, which further enhances the wind shears. We find that GWs with longer vertical wavelengths and faster horizontal phase velocity can induce larger winds, but they may not necessarily induce larger wind shears. In addition, the background temperature can affect the time and height of GW breaking, thus causing accelerated mean winds and wind shears.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

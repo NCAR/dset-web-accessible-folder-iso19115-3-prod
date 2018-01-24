@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:18.146685</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:33.075327</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A semi-parametric discrete choice method is proposed to recover welfare measures from individual choice data. The estimation procedure and properties of the proposed welfare estimator are discussed. The proposed method is compared with the traditional binary choice models. An application that measures benefits of recreation trips is presented. Our results suggest that the proposed semi-parametric method adds flexibility to the discrete choice modeling and provides a more precise benefit measure than the traditional parametric methods.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A semi-parametric discrete choice method is proposed to recover welfare measures from individual choice data. The estimation procedure and properties of the proposed welfare estimator are discussed. The proposed method is compared with the traditional binary choice models. An application that measures benefits of recreation trips is presented. Our results suggest that the proposed semi-parametric method adds flexibility to the discrete choice modeling and provides a more precise benefit measure than the traditional parametric methods.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

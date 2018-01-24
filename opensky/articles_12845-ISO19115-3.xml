@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:05.965561</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:51.302578</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -463,7 +463,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Tropospheric trace gas and aerosol pollutants have adverse effects on health, environment and climate. In order to quantify and mitigate such effects, a wide range of processes leading to the formation and transport of pollutants must be considered, understood and represented in numerical models. Regional scale pollution episodes result from the combination of several factors: high emissions (from anthropogenic or natural sources), stagnant meteorological conditions, kinetics and efficiency of the chemistry and the deposition. All these processes are highly variable in time and space, and their relative contribution to the pollutants budgets can be quantified with chemistry-transport models. The CHIMERE chemistry-transport model is dedicated to regional atmospheric pollution event studies. Since it has now reached a certain level a maturity, the new stable version, CHIMERE 2013, is described to provide a reference model paper. The successive developments of the model are reviewed on the basis of published investigations that are referenced in order to discuss the scientific choices and to provide an overview of the main results.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Tropospheric trace gas and aerosol pollutants have adverse effects on health, environment and climate. In order to quantify and mitigate such effects, a wide range of processes leading to the formation and transport of pollutants must be considered, understood and represented in numerical models. Regional scale pollution episodes result from the combination of several factors: high emissions (from anthropogenic or natural sources), stagnant meteorological conditions, kinetics and efficiency of the chemistry and the deposition. All these processes are highly variable in time and space, and their relative contribution to the pollutants budgets can be quantified with chemistry-transport models. The CHIMERE chemistry-transport model is dedicated to regional atmospheric pollution event studies. Since it has now reached a certain level a maturity, the new stable version, CHIMERE 2013, is described to provide a reference model paper. The successive developments of the model are reviewed on the basis of published investigations that are referenced in order to discuss the scientific choices and to provide an overview of the main results.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

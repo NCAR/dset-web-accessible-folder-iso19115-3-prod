@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:24.132750</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:14.772671</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Temperature inversions are a common feature of the Arctic wintertime boundary layer. They have important impacts on both radiative and turbulent heat fluxes and partly determine local climate-change feedbacks. Understanding the spread in inversion strength modelled by current global climate models is therefore an important step in better understanding Arctic climate and its present and future changes. Here, we show how the formation of Arctic air masses leads to the emergence of a cloudy and a clear state of the Arctic winter boundary layer. In the cloudy state, cloud liquid water is present, little to no surface radiative cooling occurs and inversions are elevated and relatively weak, whereas surface radiative cooling leads to strong surface-based temperature inversions in the clear state. Comparing model output to observations, we find that most climate models lack a realistic representation of the cloudy state. An idealised single-column model experiment of the formation of Arctic air reveals that this bias is linked to inadequate mixed-phase cloud microphysics, whereas turbulent and conductive heat fluxes control the strength of inversions within the clear state.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Temperature inversions are a common feature of the Arctic wintertime boundary layer. They have important impacts on both radiative and turbulent heat fluxes and partly determine local climate-change feedbacks. Understanding the spread in inversion strength modelled by current global climate models is therefore an important step in better understanding Arctic climate and its present and future changes. Here, we show how the formation of Arctic air masses leads to the emergence of a cloudy and a clear state of the Arctic winter boundary layer. In the cloudy state, cloud liquid water is present, little to no surface radiative cooling occurs and inversions are elevated and relatively weak, whereas surface radiative cooling leads to strong surface-based temperature inversions in the clear state. Comparing model output to observations, we find that most climate models lack a realistic representation of the cloudy state. An idealised single-column model experiment of the formation of Arctic air reveals that this bias is linked to inadequate mixed-phase cloud microphysics, whereas turbulent and conductive heat fluxes control the strength of inversions within the clear state.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

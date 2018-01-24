@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:31.926492</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:25.474110</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A newly implemented helium module in the National Center for Atmospheric Research-Thermosphere Ionosphere Electrodynamics general circulation model offers the first opportunity in three decades to describe helium behavior in the context of a first principles, self-consistent model and to test early theories of wintertime helium bulge formation. This study shows general agreement with the findings of Reber and Hays (1973) but articulates the definitive role of vertical advection in the bulge formation. Our findings indicate vertical advection and molecular diffusion are the dominate processes responsible for the solstice helium distribution. Horizontal winds indirectly contribute to the helium bulge formation by their divergent wind field that leads to vertical winds in order to maintain thermosphere mass continuity. As a minor gas, thermospheric helium does not contribute to mass continuity and its distribution is dictated by more local interactions and constraints.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A newly implemented helium module in the National Center for Atmospheric Research-Thermosphere Ionosphere Electrodynamics general circulation model offers the first opportunity in three decades to describe helium behavior in the context of a first principles, self-consistent model and to test early theories of wintertime helium bulge formation. This study shows general agreement with the findings of Reber and Hays (1973) but articulates the definitive role of vertical advection in the bulge formation. Our findings indicate vertical advection and molecular diffusion are the dominate processes responsible for the solstice helium distribution. Horizontal winds indirectly contribute to the helium bulge formation by their divergent wind field that leads to vertical winds in order to maintain thermosphere mass continuity. As a minor gas, thermospheric helium does not contribute to mass continuity and its distribution is dictated by more local interactions and constraints.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

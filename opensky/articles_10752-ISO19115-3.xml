@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:32.285642</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:06.456814</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>With the launch of the Defense Meteorological Satellite Program F-15 spacecraft in late 1999, data for calculating Earth-directed, magnetospheric Poynting flux became available for the 09-21 solar local time sectors. We have assembled a data base for this key element of the upper atmosphere energy budget, for the interval 2000-2005. Here we briefly introduce the data set and show a subset that reveals a pattern of extreme Poynting flux deposition associated with a large east-west interplanetary magnetic field component. At such times the dayside high-latitude Poynting flux may exceed 170 mW/m2--an order of magnitude above typical values. The likely source of these events is merging at the magnetopause flank and lobe. A significant fraction of these events occur with high speed solar wind. This pattern of extreme Poynting flux deposition has, to date, eluded detection. Energy deposition at these high rates is a likely source of previously reported, but poorly understood, near-cusp neutral density enhancements.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[With the launch of the Defense Meteorological Satellite Program F-15 spacecraft in late 1999, data for calculating Earth-directed, magnetospheric Poynting flux became available for the 09-21 solar local time sectors. We have assembled a data base for this key element of the upper atmosphere energy budget, for the interval 2000-2005. Here we briefly introduce the data set and show a subset that reveals a pattern of extreme Poynting flux deposition associated with a large east-west interplanetary magnetic field component. At such times the dayside high-latitude Poynting flux may exceed 170 mW/m2--an order of magnitude above typical values. The likely source of these events is merging at the magnetopause flank and lobe. A significant fraction of these events occur with high speed solar wind. This pattern of extreme Poynting flux deposition has, to date, eluded detection. Energy deposition at these high rates is a likely source of previously reported, but poorly understood, near-cusp neutral density enhancements.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

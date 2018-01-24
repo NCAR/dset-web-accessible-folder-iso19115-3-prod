@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:54.414866</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:28.484805</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -343,7 +343,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Studying the El Nino-Southern Oscillation (ENSO) in the past can help us better understand its dynamics and improve its future projections. However, both paleoclimate reconstructions and model simulations of ENSO strength at the Last Glacial Maximum (LGM; 21 ka B.P.) have led to contradicting results. Here we perform model simulations using the recently developed water isotope-enabled Community Earth System Model (iCESM). For the first time, model-simulated oxygen isotopes are directly compared with those from ENSO reconstructions using the individual foraminifera analysis (IFA). We find that the LGM ENSO is most likely weaker comparing with the preindustrial. The iCESM suggests that total variance of the IFA records may only reflect changes in the annual cycle instead of ENSO variability as previously assumed. Furthermore, the interpretation of subsurface IFA records can be substantially complicated by the habitat depth of thermocline-dwelling foraminifera and their vertical migration with a temporally varying thermocline.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Studying the El Nino-Southern Oscillation (ENSO) in the past can help us better understand its dynamics and improve its future projections. However, both paleoclimate reconstructions and model simulations of ENSO strength at the Last Glacial Maximum (LGM; 21 ka B.P.) have led to contradicting results. Here we perform model simulations using the recently developed water isotope-enabled Community Earth System Model (iCESM). For the first time, model-simulated oxygen isotopes are directly compared with those from ENSO reconstructions using the individual foraminifera analysis (IFA). We find that the LGM ENSO is most likely weaker comparing with the preindustrial. The iCESM suggests that total variance of the IFA records may only reflect changes in the annual cycle instead of ENSO variability as previously assumed. Furthermore, the interpretation of subsurface IFA records can be substantially complicated by the habitat depth of thermocline-dwelling foraminifera and their vertical migration with a temporally varying thermocline.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

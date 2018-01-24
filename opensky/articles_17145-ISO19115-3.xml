@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:58.507247</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:04.940255</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The North American Monsoon (NAM) system is an annual weather pattern that brings summer rains to the dry regions of the United States southwest and northwestern Mexico. Broader effects are that NAM exerts substantial control on the warm-season climate over North America and is responsible for the occurrence of many high-impact weather and climate events such as floods and droughts. The North American Monsoon Experiment (NAME) [Higgins et al., 2005] was developed and implemented in an effort to improve the low prediction skill of intraseasonal and seasonal forecasts of NAM behavior. As a logical follow-on to NAM diagnostic and modeling activities, the NAME research and operational seasonal prediction communities have developed the NAME Forecast Forum (NFF), whose aim is to consolidate and assess, in real time, the performance of intraseasonal and seasonal monsoon forecasts and to make these forecasts available to a range of regional stakeholders. This forum, developed and implemented in the 2008 NAM season, shows that forecasts predict weather patterns moderately well but do not fully capture monsoon extent and magnitude.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The North American Monsoon (NAM) system is an annual weather pattern that brings summer rains to the dry regions of the United States southwest and northwestern Mexico. Broader effects are that NAM exerts substantial control on the warm-season climate over North America and is responsible for the occurrence of many high-impact weather and climate events such as floods and droughts. The North American Monsoon Experiment (NAME) [Higgins et al., 2005] was developed and implemented in an effort to improve the low prediction skill of intraseasonal and seasonal forecasts of NAM behavior. As a logical follow-on to NAM diagnostic and modeling activities, the NAME research and operational seasonal prediction communities have developed the NAME Forecast Forum (NFF), whose aim is to consolidate and assess, in real time, the performance of intraseasonal and seasonal monsoon forecasts and to make these forecasts available to a range of regional stakeholders. This forum, developed and implemented in the 2008 NAM season, shows that forecasts predict weather patterns moderately well but do not fully capture monsoon extent and magnitude.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:14.609288</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:36.859436</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this study, observed precipitation, MODIS data and meteorological sounding data over eastern central China were analyzed. The result shows that the precipitation in this region is significantly reduced during the last 40 years and this reduction of precipitation is strongly correlated to the high concentrations of aerosols. Meteorological sounding data indicates that the atmospheric stability in the troposphere has been increasing during the last 17 years. It is speculated that the aerosol layer in the lower troposphere affects the radiative processes, which lead to changes in atmospheric stability. The enhancement in the atmospheric stability tends to depress upward motion and precipitation in this region. Because precipitation plays a major role for the sink for aerosol particles through washout process, less precipitation will lead to an increase in aerosol particles. This possible positive feed back cycle ( more aerosols ! less precipitation ! more aerosols) will induce an acceleration process for the reduction of precipitation in eastern central China.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

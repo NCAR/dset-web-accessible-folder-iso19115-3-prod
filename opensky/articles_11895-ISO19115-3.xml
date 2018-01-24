@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:43.299645</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:22.033875</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Two parallel experiments were designed to evaluate whether assimilating microwave radiances with a cyclic, limited-area ensemble adjustment Kalman filter (EAKF) could improve track, intensity, and precipitation forecasts of Typhoon Morakot (2009). The experiments were configured identically, except that one assimilated microwave radiances and the other did not. Both experiments produced EAKF analyses every 6 h between 1800 UTC 3 August and 1200 UTC 9 August 2009, and the mean analyses initialized 72-h Weather Research and Forecasting model forecasts. Examination of individual forecasts and average error statistics revealed that assimilating microwave radiances ultimately resulted in better intensity forecasts compared to when radiances were withheld. However, radiance assimilation did not substantially impact track forecasts, and the impact on precipitation forecasts was mixed. Overall, net positive results suggest that assimilating microwave radiances with a limited-area EAKF system is beneficial for tropical cyclone prediction, but additional studies are needed.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Two parallel experiments were designed to evaluate whether assimilating microwave radiances with a cyclic, limited-area ensemble adjustment Kalman filter (EAKF) could improve track, intensity, and precipitation forecasts of Typhoon Morakot (2009). The experiments were configured identically, except that one assimilated microwave radiances and the other did not. Both experiments produced EAKF analyses every 6 h between 1800 UTC 3 August and 1200 UTC 9 August 2009, and the mean analyses initialized 72-h Weather Research and Forecasting model forecasts. Examination of individual forecasts and average error statistics revealed that assimilating microwave radiances ultimately resulted in better intensity forecasts compared to when radiances were withheld. However, radiance assimilation did not substantially impact track forecasts, and the impact on precipitation forecasts was mixed. Overall, net positive results suggest that assimilating microwave radiances with a limited-area EAKF system is beneficial for tropical cyclone prediction, but additional studies are needed.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

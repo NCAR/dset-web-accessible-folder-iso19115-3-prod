@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:49.675412</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:21.144654</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>One-point correlation maps of the subseasonal variability of 200-hPa meridional wind in nature and an atmospheric general circulation model are systematically analyzed to quantify the impact of the climatological-mean jets on tropospheric covariability as a result of the jets acting as waveguides for the propagation of Rossby waves. As anticipated by linear theory, signatures of jet influence are detected in terms of (i) the geographical position of the strongest teleconnections, (ii) the zonal orientation and extent of prominent patterns of variability, and (iii) the scale of the features that make up those patterns. Further evidence of jet waveguide influence comes from examining the seasonality of these teleconnection attributes. During winter, covariability can be essentially circumglobal, while during summer it tends to be confined within two separate sectors of the globe where the jets are especially strong. Experiments with a multilevel linear planetary wave model confirm that the analyzed characteristics of teleconnections in the waveguides can be attributed to the action of the mean state; no organization to the anomalous forcing of the atmosphere is required to produce these properties. Some attributes, however, depend on the presence of zonal variations in the climatological-mean state that are of similar scale to the teleconnection patterns themselves.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[One-point correlation maps of the subseasonal variability of 200-hPa meridional wind in nature and an atmospheric general circulation model are systematically analyzed to quantify the impact of the climatological-mean jets on tropospheric covariability as a result of the jets acting as waveguides for the propagation of Rossby waves. As anticipated by linear theory, signatures of jet influence are detected in terms of (i) the geographical position of the strongest teleconnections, (ii) the zonal orientation and extent of prominent patterns of variability, and (iii) the scale of the features that make up those patterns. Further evidence of jet waveguide influence comes from examining the seasonality of these teleconnection attributes. During winter, covariability can be essentially circumglobal, while during summer it tends to be confined within two separate sectors of the globe where the jets are especially strong. Experiments with a multilevel linear planetary wave model confirm that the analyzed characteristics of teleconnections in the waveguides can be attributed to the action of the mean state; no organization to the anomalous forcing of the atmosphere is required to produce these properties. Some attributes, however, depend on the presence of zonal variations in the climatological-mean state that are of similar scale to the teleconnection patterns themselves.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

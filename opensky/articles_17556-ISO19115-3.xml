@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:08.364232</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:18.758023</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper presents a climatology of the initial eye formations of a broad set of Atlantic tropical cyclones (TCs) during 1989 - 2008. A new dataset of structure and intensity parameters is synthesized from the vortex data messages transmitted by routine aircraft reconnaissance. Using these data together with satellite imagery and other established datasets, the times when each TC achieved various stages of eye development are tabulated to form the basis of the climatology. About 60% of Atlantic TCs form eyes. Most often, aircraft observe the eye structure before it appears in IR satellite imagery. Eyes tend to form in high potential intensity environments characterized by high sea surface temperatures and low-to-moderate environmental vertical wind shear. A notable discovery is that most (67%) TCs that form eyes tend to do so within 48 h of the cyclone's reaching tropical storm strength. This suggests the existence of an opportune time window during which a TC can readily form an eye. From the lengths of time taken to reach various stages of eye development, the characteristic time scale for eye formation is estimated to be about 36 h.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper presents a climatology of the initial eye formations of a broad set of Atlantic tropical cyclones (TCs) during 1989 - 2008. A new dataset of structure and intensity parameters is synthesized from the vortex data messages transmitted by routine aircraft reconnaissance. Using these data together with satellite imagery and other established datasets, the times when each TC achieved various stages of eye development are tabulated to form the basis of the climatology. About 60% of Atlantic TCs form eyes. Most often, aircraft observe the eye structure before it appears in IR satellite imagery. Eyes tend to form in high potential intensity environments characterized by high sea surface temperatures and low-to-moderate environmental vertical wind shear. A notable discovery is that most (67%) TCs that form eyes tend to do so within 48 h of the cyclone's reaching tropical storm strength. This suggests the existence of an opportune time window during which a TC can readily form an eye. From the lengths of time taken to reach various stages of eye development, the characteristic time scale for eye formation is estimated to be about 36 h.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

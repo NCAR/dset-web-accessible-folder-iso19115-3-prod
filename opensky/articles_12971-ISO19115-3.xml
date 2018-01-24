@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:19.785753</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:55.807053</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Data Assimilation Research Testbed (DART) ensemble adjustment Kalman filter (EAKF) is employed to perform data assimilation in the Whole Atmosphere Community Climate Model (WACCM). To demonstrate the potential of the WACCM+DART for studying short-term variability in the mesosphere and lower thermosphere (MLT), results are presented based on the assimilation of synthetic observations that are sampled from a known model truth. We assimilate temperature and wind from radiosondes and aircraft, satellite drift winds, and COSMIC refractivity in the lower atmosphere, and SABER temperature observations in the middle/upper atmosphere. Relative to an unconstrained WACCM simulation, the assimilation of only lower atmosphere observations reduces the global root mean square error (RMSE) in zonal wind by up to 40% at MLT altitudes. Using data assimilation to constrain the lower atmosphere can therefore provide significant insight into MLT variability. The RMSE in the MLT is reduced by an additional 10-15% when SABER observations are also assimilated. The WACCM+DART is shown to be able to reproduce the large-scale features of the day-to-day variability in the zonal mean, migrating, and nonmigrating tides in the MLT. Though our simulation results are based on idealized conditions, they demonstrate that the WACCM+DART can reproduce the day-to-day variability in the MLT. Assimilation of real observations in the WACCM+DART will therefore enable significant insight into the real day-to-day dynamical variability from the surface to the lower thermosphere.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:23.062223</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:53.247071</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Assessing snow stability requires a holistic approach, relying on avalanche, snowpack and weather observations. Part of this assessment utilizes stability tests, but these tests can be unreliable due in part to the spatial variability of test results. Conducting more than one test can help to mitigate this uncertainty, though it is unclear how far apart to space tests to optimize our assessments. To address this issue we analyze the probability of sampling two relatively strong test results over 25 spatial datasets collected using a variety of stability tests. Our results show that the optimal distance for spacing stability tests varies by dataset, even when taking the sampling scheme and stability-test type into account. This suggests that no clear rule currently exists for spacing stability tests. Our work further emphasizes the spatial complexity of snow stability measurements, and the need for holistic stability assessments where stability tests are only one part of a multifaceted puzzle.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Assessing snow stability requires a holistic approach, relying on avalanche, snowpack and weather observations. Part of this assessment utilizes stability tests, but these tests can be unreliable due in part to the spatial variability of test results. Conducting more than one test can help to mitigate this uncertainty, though it is unclear how far apart to space tests to optimize our assessments. To address this issue we analyze the probability of sampling two relatively strong test results over 25 spatial datasets collected using a variety of stability tests. Our results show that the optimal distance for spacing stability tests varies by dataset, even when taking the sampling scheme and stability-test type into account. This suggests that no clear rule currently exists for spacing stability tests. Our work further emphasizes the spatial complexity of snow stability measurements, and the need for holistic stability assessments where stability tests are only one part of a multifaceted puzzle.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

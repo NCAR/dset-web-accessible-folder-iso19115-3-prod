@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:43.880689</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:22.864738</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Analysis is made of the geomagnetic-activity aa index covering solar cycle 11 to the beginning of 24, 1868-2011. Autocorrelation shows 27.0-d recurrent geomagnetic activity that is well-known to be prominent during solar-cycle minima; some minima also exhibit a smaller amount of 13.5-d recurrence. Previous work has shown that the recent solar minimum 23-24 exhibited 9.0 and 6.7-d recurrence in geomagnetic and heliospheric data, but those recurrence intervals were not prominently present during the preceding minima 21-22 and 22-23. Using annual-averages and solar-cycle averages of autocorrelations of the historical aa data, we put these observations into a long-term perspective: none of the 12 minima preceding 23-24 exhibited prominent 9.0 and 6.7-d geomagnetic activity recurrence. We show that the detection of these recurrence intervals can be traced to an unusual combination of sectorial spherical-harmonic structure in the solar magnetic field and anomalously low sunspot number. We speculate that 9.0 and 6.7-d recurrence is related to transient large-scale, low-latitude organization of the solar dynamo, such as seen in some numerical simulations.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Analysis is made of the geomagnetic-activity aa index covering solar cycle 11 to the beginning of 24, 1868-2011. Autocorrelation shows 27.0-d recurrent geomagnetic activity that is well-known to be prominent during solar-cycle minima; some minima also exhibit a smaller amount of 13.5-d recurrence. Previous work has shown that the recent solar minimum 23-24 exhibited 9.0 and 6.7-d recurrence in geomagnetic and heliospheric data, but those recurrence intervals were not prominently present during the preceding minima 21-22 and 22-23. Using annual-averages and solar-cycle averages of autocorrelations of the historical aa data, we put these observations into a long-term perspective: none of the 12 minima preceding 23-24 exhibited prominent 9.0 and 6.7-d geomagnetic activity recurrence. We show that the detection of these recurrence intervals can be traced to an unusual combination of sectorial spherical-harmonic structure in the solar magnetic field and anomalously low sunspot number. We speculate that 9.0 and 6.7-d recurrence is related to transient large-scale, low-latitude organization of the solar dynamo, such as seen in some numerical simulations.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

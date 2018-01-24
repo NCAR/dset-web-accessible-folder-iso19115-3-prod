@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:05.781903</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:51.065463</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -478,7 +478,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In the Pliocene Model Intercomparison Project (PlioMIP), eight state-of-the-art coupled climate models have simulated the mid-Pliocene warm period (mPWP, 3.264 to 3.025 Ma). Here, we compare the Atlantic Meridional Overturning Circulation (AMOC), northward ocean heat transport and ocean stratification simulated with these models. None of the models participating in PlioMIP simulates a strong mid-Pliocene AMOC as suggested by earlier proxy studies. Rather, there is no consistent increase in AMOC maximum among the PlioMIP models. The only consistent change in AMOC is a shoaling of the overturning cell in the Atlantic, and a reduced influence of North Atlantic Deep Water (NADW) at depth in the basin. Furthermore, the simulated mid-Pliocene Atlantic northward heat transport is similar to the pre-industrial. These simulations demonstrate that the reconstructed high-latitude mid-Pliocene warming can not be explained as a direct response to an intensification of AMOC and concomitant increase in northward ocean heat transport by the Atlantic.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In the Pliocene Model Intercomparison Project (PlioMIP), eight state-of-the-art coupled climate models have simulated the mid-Pliocene warm period (mPWP, 3.264 to 3.025 Ma). Here, we compare the Atlantic Meridional Overturning Circulation (AMOC), northward ocean heat transport and ocean stratification simulated with these models. None of the models participating in PlioMIP simulates a strong mid-Pliocene AMOC as suggested by earlier proxy studies. Rather, there is no consistent increase in AMOC maximum among the PlioMIP models. The only consistent change in AMOC is a shoaling of the overturning cell in the Atlantic, and a reduced influence of North Atlantic Deep Water (NADW) at depth in the basin. Furthermore, the simulated mid-Pliocene Atlantic northward heat transport is similar to the pre-industrial. These simulations demonstrate that the reconstructed high-latitude mid-Pliocene warming can not be explained as a direct response to an intensification of AMOC and concomitant increase in northward ocean heat transport by the Atlantic.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

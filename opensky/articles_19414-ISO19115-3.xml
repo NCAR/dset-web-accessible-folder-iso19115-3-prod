@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:40.866374</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:08.265457</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A detailed observational and Weather Research and Forecasting (WRF) model analysis utilizing Weather Surveillance Radar-1988 Doppler (WSR-88D), surface, and upper-air observations, as well as Geostationary Operational Environmental Satellite (GOES) images, shows a chain of events that leads to the formation of two prefrontal squall lines along the western Gulf coast on 29-30 April 2005. An approaching surface cold front (CF) generated an atmospheric bore that propagated along an inversion layer and excited high-frequency, low-level tropospheric gravity waves, initiating a squall line 60 km east of the cold front. This sequence of events manifested itself as low-level convergence ahead of the CF, which was detected by nearby WSR-88D radars. Two WRF model experiments were conducted in which one assimilated conventional observations (CTRL), and another included radar radial winds from nine WSR-88D locations (denoted as RADAR). Better representation of the low-level kinematics in RADAR yielded a distinct convergence line associated with the primary squall line.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A detailed observational and Weather Research and Forecasting (WRF) model analysis utilizing Weather Surveillance Radar-1988 Doppler (WSR-88D), surface, and upper-air observations, as well as Geostationary Operational Environmental Satellite (GOES) images, shows a chain of events that leads to the formation of two prefrontal squall lines along the western Gulf coast on 29-30 April 2005. An approaching surface cold front (CF) generated an atmospheric bore that propagated along an inversion layer and excited high-frequency, low-level tropospheric gravity waves, initiating a squall line 60 km east of the cold front. This sequence of events manifested itself as low-level convergence ahead of the CF, which was detected by nearby WSR-88D radars. Two WRF model experiments were conducted in which one assimilated conventional observations (CTRL), and another included radar radial winds from nine WSR-88D locations (denoted as RADAR). Better representation of the low-level kinematics in RADAR yielded a distinct convergence line associated with the primary squall line.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

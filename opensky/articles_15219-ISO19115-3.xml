@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:35.312895</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:30.246066</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Hinode mission has provided us with a new, quantitative view of the magnetism of the quiet Sun. It has revealed that the quiet internetwork areas are blanketed by horizontal fields that appear at first sight to have more flux than the vertical fields resolved on the same 0.3" size scale. These measurements point to the possibility that the horizontal fields might be the primary source of the "hidden turbulent flux" of the quiet Sun anticipated from Hanle effect depolarization. In this paper, evidence is presented suggesting that the "seething" horizontal fields observed by Harvey in 2007 and the horizontal fields revealed by Hinode are the same phenomenon. Because the seething fields appear to be of uniform fluctuation over the whole disk, the phenomenon is most likely not associated with the dynamo source of solar activity. Thus, the small-scale "hidden turbulent flux" lends support to the notion of a local solar dynamo acting on granular sizes and time scales.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Hinode mission has provided us with a new, quantitative view of the magnetism of the quiet Sun. It has revealed that the quiet internetwork areas are blanketed by horizontal fields that appear at first sight to have more flux than the vertical fields resolved on the same 0.3" size scale. These measurements point to the possibility that the horizontal fields might be the primary source of the "hidden turbulent flux" of the quiet Sun anticipated from Hanle effect depolarization. In this paper, evidence is presented suggesting that the "seething" horizontal fields observed by Harvey in 2007 and the horizontal fields revealed by Hinode are the same phenomenon. Because the seething fields appear to be of uniform fluctuation over the whole disk, the phenomenon is most likely not associated with the dynamo source of solar activity. Thus, the small-scale "hidden turbulent flux" lends support to the notion of a local solar dynamo acting on granular sizes and time scales.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

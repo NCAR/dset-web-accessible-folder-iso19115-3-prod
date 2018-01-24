@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:31.124232</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:04.792298</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Retrospective predictions of seasonal hurricane activity in the Atlantic and east Pacific are generated using an atmospheric model with 50-km horizontal resolution by simply persisting sea surface temperature (SST) anomalies from June through the hurricane season. Using an ensemble of 5 realizations for each year between 1982 and 2008, the correlations of the model mean predictions with observations of basin-wide hurricane frequency are 0.69 in the North Atlantic and 0.58 in the east Pacific. In the North Atlantic, a significant part of the degradation in skill as compared to a model forced with observed SSTs during the hurricane season (correlation of 0.78) can be explained by the change from June through the hurricane season in one parameter, the difference between the SST in the main development region and the tropical mean SST. In fact, simple linear regression models with this one predictor perform nearly as well as the full dynamical model for basin-wide hurricane frequency in both the east Pacific and the North Atlantic. The implication is that the quality of seasonal forecasts based on a coupled atmosphere-ocean model will depend in large part on the model's ability to predict the evolution of this difference between main development region SST and tropical mean SST.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Retrospective predictions of seasonal hurricane activity in the Atlantic and east Pacific are generated using an atmospheric model with 50-km horizontal resolution by simply persisting sea surface temperature (SST) anomalies from June through the hurricane season. Using an ensemble of 5 realizations for each year between 1982 and 2008, the correlations of the model mean predictions with observations of basin-wide hurricane frequency are 0.69 in the North Atlantic and 0.58 in the east Pacific. In the North Atlantic, a significant part of the degradation in skill as compared to a model forced with observed SSTs during the hurricane season (correlation of 0.78) can be explained by the change from June through the hurricane season in one parameter, the difference between the SST in the main development region and the tropical mean SST. In fact, simple linear regression models with this one predictor perform nearly as well as the full dynamical model for basin-wide hurricane frequency in both the east Pacific and the North Atlantic. The implication is that the quality of seasonal forecasts based on a coupled atmosphere-ocean model will depend in large part on the model's ability to predict the evolution of this difference between main development region SST and tropical mean SST.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

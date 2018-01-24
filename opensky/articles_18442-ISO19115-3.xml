@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:23.362954</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:41.009450</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Tropical cyclone (TC)-permitting general circulation model simulations are performed with spherical geometry and uniform thermal forcing, including uniform sea surface temperature (SST) and insolation. The dependence of the TC number and TC intensity on SST is examined in a series of simulations with varied SST. The results are compared to corresponding simulations with doubly periodic f-plane geometry, rotating radiative convective equilibrium. The turbulent equilibria in simulations with spherical geometry have an inhomogenous distribution of TCs with the density of TCs increasing from low to high latitudes. The preferred region of TC genesis is the subtropics, but genesis shifts poleward and becomes less frequent with increasing SST. Both rotating radiative convective equilibrium and spherical geometry simulations have decreasing TC number and increasing TC intensity as SST is increased.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Tropical cyclone (TC)-permitting general circulation model simulations are performed with spherical geometry and uniform thermal forcing, including uniform sea surface temperature (SST) and insolation. The dependence of the TC number and TC intensity on SST is examined in a series of simulations with varied SST. The results are compared to corresponding simulations with doubly periodic f-plane geometry, rotating radiative convective equilibrium. The turbulent equilibria in simulations with spherical geometry have an inhomogenous distribution of TCs with the density of TCs increasing from low to high latitudes. The preferred region of TC genesis is the subtropics, but genesis shifts poleward and becomes less frequent with increasing SST. Both rotating radiative convective equilibrium and spherical geometry simulations have decreasing TC number and increasing TC intensity as SST is increased.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

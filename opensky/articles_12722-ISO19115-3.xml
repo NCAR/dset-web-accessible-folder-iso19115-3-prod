@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:02.638798</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:47.147999</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A recently developed object identification algorithm is applied to multisensor precipitation estimates from the Tropical Rainfall Measuring Mission (TRMM 3B42) to detect and quantify the contribution of tropical cyclone precipitation (TCP) to total precipitation between 1998 and 2008. The study period includes 1144 storms. Estimates of TCP derived here are similar in pattern and seasonal variation to earlier estimates but are somewhat higher in magnitude. Annual-mean TCP fractions of over 20% are diagnosed over large swaths of tropical ocean, with seasonal means in some regions of more than 50%. Interannual variability of TCP is examined, and a small but significant downward trend in global TCP from 1998 to 2008 is found, consistent with results from independent studies examining accumulated cyclone energy (ACE). Relationships between annual-mean ACE and TCP in each major tropical cyclone basin are examined. High correlations are found in almost every basin, although different linear relationships exist in each. The highest ACE/TCP ratios are obtained in the North Atlantic and northeast Pacific basins, with lower ratios present in the northwest Pacific and South Pacific basins.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A recently developed object identification algorithm is applied to multisensor precipitation estimates from the Tropical Rainfall Measuring Mission (TRMM 3B42) to detect and quantify the contribution of tropical cyclone precipitation (TCP) to total precipitation between 1998 and 2008. The study period includes 1144 storms. Estimates of TCP derived here are similar in pattern and seasonal variation to earlier estimates but are somewhat higher in magnitude. Annual-mean TCP fractions of over 20% are diagnosed over large swaths of tropical ocean, with seasonal means in some regions of more than 50%. Interannual variability of TCP is examined, and a small but significant downward trend in global TCP from 1998 to 2008 is found, consistent with results from independent studies examining accumulated cyclone energy (ACE). Relationships between annual-mean ACE and TCP in each major tropical cyclone basin are examined. High correlations are found in almost every basin, although different linear relationships exist in each. The highest ACE/TCP ratios are obtained in the North Atlantic and northeast Pacific basins, with lower ratios present in the northwest Pacific and South Pacific basins.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

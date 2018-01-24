@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:23.109593</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:13.360371</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This article presents, for physics-oriented readers, some recent mathematical results that establish the uniqueness of solutions for moist advection problems in climate models. The presentation is made for a simplified model, which is nevertheless typical and significant.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This article presents, for physics-oriented readers, some recent mathematical results that establish the uniqueness of solutions for moist advection problems in climate models. The presentation is made for a simplified model, which is nevertheless typical and significant.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

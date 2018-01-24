@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:33.647215</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:08.448808</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study examines the prediction and predictability of the recent catastrophic rainfall and flooding event over Taiwan induced by Typhoon Morakot (2009) with a state-of-the-art numerical weather prediction model. A high-resolution convection-permitting mesoscale ensemble, initialized with analysis and flow-dependent perturbations obtained from a real-time global ensemble data assimilation system, is found to be able to predict this record-breaking rainfall event, producing probability forecasts potentially valuable to the emergency management decision makers and the general public. Since all the advanced modeling and data assimilation techniques used here are readily available for real-time operational implementation provided sufficient computing resources are made available, this study demonstrates the potential and need of using ensemble-based analysis and forecasting, along with enhanced computing, in predicting extreme weather events like Typhoon Morakot at operational centers.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study examines the prediction and predictability of the recent catastrophic rainfall and flooding event over Taiwan induced by Typhoon Morakot (2009) with a state-of-the-art numerical weather prediction model. A high-resolution convection-permitting mesoscale ensemble, initialized with analysis and flow-dependent perturbations obtained from a real-time global ensemble data assimilation system, is found to be able to predict this record-breaking rainfall event, producing probability forecasts potentially valuable to the emergency management decision makers and the general public. Since all the advanced modeling and data assimilation techniques used here are readily available for real-time operational implementation provided sufficient computing resources are made available, this study demonstrates the potential and need of using ensemble-based analysis and forecasting, along with enhanced computing, in predicting extreme weather events like Typhoon Morakot at operational centers.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

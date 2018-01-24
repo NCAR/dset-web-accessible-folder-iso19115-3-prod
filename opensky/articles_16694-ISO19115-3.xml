@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:48.260118</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:49.617081</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The sensitivity of global tropical cyclone (TC) activity to changes in a zonally symmetric sea surface temperature (SST) distribution and the associated large-scale atmospheric circulation are investigated. High-resolution (~50-km horizontal grid spacing) atmospheric general circulation model simulations with maximum SST away from the equator are presented. Simulations with both fixed-SST and slab ocean lower boundary conditions are compared. The simulated TCs that form on the poleward flank of the intertropical convergence zone (ITCZ) are tracked and changes in the frequency and intensity of those storms are analyzed between the different experiments. The total accumulated cyclone energy (ACE) increases as the location of the maximum SST shifts farther away from the equator. The location of the ITCZ also shifts in conjunction with changes to the SST profile, and this plays an important role in mediating the frequency and intensity of the TCs that form within this modeling framework.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The sensitivity of global tropical cyclone (TC) activity to changes in a zonally symmetric sea surface temperature (SST) distribution and the associated large-scale atmospheric circulation are investigated. High-resolution (~50-km horizontal grid spacing) atmospheric general circulation model simulations with maximum SST away from the equator are presented. Simulations with both fixed-SST and slab ocean lower boundary conditions are compared. The simulated TCs that form on the poleward flank of the intertropical convergence zone (ITCZ) are tracked and changes in the frequency and intensity of those storms are analyzed between the different experiments. The total accumulated cyclone energy (ACE) increases as the location of the maximum SST shifts farther away from the equator. The location of the ITCZ also shifts in conjunction with changes to the SST profile, and this plays an important role in mediating the frequency and intensity of the TCs that form within this modeling framework.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

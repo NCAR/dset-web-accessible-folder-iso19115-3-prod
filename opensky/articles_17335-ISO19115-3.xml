@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:03.026760</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:11.308824</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Atmospheric data from National Centers for Environmental Prediction (NCEP) analyses and orbital parameters from 133 real Global Positioning System (GPS) meteorological data soundings are used to compute the "true" bending angle profiles using an accurate 3D ray-tracing procedure. They are then compared with approximate profiles obtained using the spherical symmetry assumption and an efficient 2D ray-tracing model. The average fractional error of the bending angles due to the spherical symmetry assumption is less than 0.15%. The average fractional error due to the use of the 2D ray-tracing model is slightly greater than that due to the spherical symmetry assumption. The vertical error correlations due to the spherical symmetry assumption are sharp between 6 and 8 km and broader above and below this layer. The vertical error correlations associated with the 2D forward model show a nearly diagonal structure below 15 km with high correlation confined to a 2-km layer centered at the observation level.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Atmospheric data from National Centers for Environmental Prediction (NCEP) analyses and orbital parameters from 133 real Global Positioning System (GPS) meteorological data soundings are used to compute the "true" bending angle profiles using an accurate 3D ray-tracing procedure. They are then compared with approximate profiles obtained using the spherical symmetry assumption and an efficient 2D ray-tracing model. The average fractional error of the bending angles due to the spherical symmetry assumption is less than 0.15%. The average fractional error due to the use of the 2D ray-tracing model is slightly greater than that due to the spherical symmetry assumption. The vertical error correlations due to the spherical symmetry assumption are sharp between 6 and 8 km and broader above and below this layer. The vertical error correlations associated with the 2D forward model show a nearly diagonal structure below 15 km with high correlation confined to a 2-km layer centered at the observation level.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:42.254613</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:20.549653</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>When the interplanetary magnetic field (IMF) is northward, dawnward, or duskward, magnetic merging between the IMF and the geomagnetic field occurs near the cusp of the magnetosphere. While these periods are usually considered "quiet," they can lead to intense, but highly localized, energy deposition into the dayside ionosphere. We identify such an occurrence during a series of two geomagnetic storms on 5 April 2010. Using data from the Active Magnetosphere and Planetary Electrodynamics Response Experiment (AMPERE) for the first time as an input to the Assimilative Mapping of Ionospheric Electrodynamics (AMIE) algorithm, we show that during the recovery phase of the first storm there is intense ionospheric Joule heating in the dayside polar regions. This is associated with an intense field-aligned current pair near the noon meridian that is associated with northward IMF and a strong IMF By component. AMIE outputs are used to drive the thermosphere-ionosphere-mesosphere electrodynamics general circulation model to demonstrate that the intense levels of Joule heating can lead to anomalous thermospheric density enhancements and traveling disturbances.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[When the interplanetary magnetic field (IMF) is northward, dawnward, or duskward, magnetic merging between the IMF and the geomagnetic field occurs near the cusp of the magnetosphere. While these periods are usually considered "quiet," they can lead to intense, but highly localized, energy deposition into the dayside ionosphere. We identify such an occurrence during a series of two geomagnetic storms on 5 April 2010. Using data from the Active Magnetosphere and Planetary Electrodynamics Response Experiment (AMPERE) for the first time as an input to the Assimilative Mapping of Ionospheric Electrodynamics (AMIE) algorithm, we show that during the recovery phase of the first storm there is intense ionospheric Joule heating in the dayside polar regions. This is associated with an intense field-aligned current pair near the noon meridian that is associated with northward IMF and a strong IMF By component. AMIE outputs are used to drive the thermosphere-ionosphere-mesosphere electrodynamics general circulation model to demonstrate that the intense levels of Joule heating can lead to anomalous thermospheric density enhancements and traveling disturbances.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:55.172848</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:29.602201</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Thermospheric gravity waves (GWs) in the bottomside F region have been proposed to play a key role in the generation of equatorial plasma bubbles (EPBs). However, direct observations of such waves are scarce. This study provides a systematic survey of medium-scale (&lt;620 km) neutral atmosphere perturbations at this critical altitude in the tropics, using 4 years of in situ Gravity Field and Steady-State Ocean Circulation Explorer satellite measurements of thermospheric density and zonal wind. The analysis reveals pronounced features on their global distribution and seasonal variability: (1) A prominent three-peak longitudinal structure exists in all seasons, with stronger perturbations over continents than over oceans. (2) Their seasonal variation consists of a primary semiannual oscillations (SAO) and a secondary annual oscillation (AO). The SAO component maximizes around solstices and minimizes around equinoxes, while the AO component maximizes around June solstice. These GW features resemble those of EPBs in spatial distribution but show opposite trend in climatological variations. This may imply that stronger medium-scale GW activity does not always lead to more EPBs. Possible origins of the bottomside GWs are discussed, among which tropical deep convection appears to be most plausible.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Thermospheric gravity waves (GWs) in the bottomside F region have been proposed to play a key role in the generation of equatorial plasma bubbles (EPBs). However, direct observations of such waves are scarce. This study provides a systematic survey of medium-scale (&lt;620 km) neutral atmosphere perturbations at this critical altitude in the tropics, using 4 years of in situ Gravity Field and Steady-State Ocean Circulation Explorer satellite measurements of thermospheric density and zonal wind. The analysis reveals pronounced features on their global distribution and seasonal variability: (1) A prominent three-peak longitudinal structure exists in all seasons, with stronger perturbations over continents than over oceans. (2) Their seasonal variation consists of a primary semiannual oscillations (SAO) and a secondary annual oscillation (AO). The SAO component maximizes around solstices and minimizes around equinoxes, while the AO component maximizes around June solstice. These GW features resemble those of EPBs in spatial distribution but show opposite trend in climatological variations. This may imply that stronger medium-scale GW activity does not always lead to more EPBs. Possible origins of the bottomside GWs are discussed, among which tropical deep convection appears to be most plausible.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

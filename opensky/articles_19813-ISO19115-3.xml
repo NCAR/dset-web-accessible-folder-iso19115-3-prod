@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:50.554394</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:22.519725</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Part I of this study examines the relationship among winter cold anomalies over Eurasia, Ural blocking (UB), and the background conditions associated with Arctic warming over the Barents and Kara Seas (BKS) using reanalysis data. It is found that the intensity, persistence, and occurrence region of UB-related Eurasian cold anomalies depend strongly on the strength and vertical shear (VS) of the mean westerly wind (MWW) over mid-high-latitude Eurasia related to BKS warming.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Part I of this study examines the relationship among winter cold anomalies over Eurasia, Ural blocking (UB), and the background conditions associated with Arctic warming over the Barents and Kara Seas (BKS) using reanalysis data. It is found that the intensity, persistence, and occurrence region of UB-related Eurasian cold anomalies depend strongly on the strength and vertical shear (VS) of the mean westerly wind (MWW) over mid-high-latitude Eurasia related to BKS warming.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:08.656435</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:32.153643</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -553,7 +553,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Solar Optical Telescope (SOT) aboard the Hinode satellite (formerly called Solar-B) consists of the Optical Telescope Assembly (OTA) and the Focal Plane Package (FPP). The OTA is a 50-cm diffraction-limited Gregorian telescope, and the FPP includes the narrowband filtergraph (NFI) and the broadband filtergraph (BFI), plus the Stokes Spectro-Polarimeter (SP). The SOT provides unprecedented high-resolution photometric and vector magnetic images of the photosphere and chromosphere with a very stable point spread function and is equipped with an image-stabilization system with performance better than 0.01 arcsec rms. Together with the other two instruments on Hinode (the X-Ray Telescope (XRT) and the EUV Imaging Spectrometer (EIS)), the SOT is poised to address many fundamental questions about solar magnetohydrodynamics. This paper provides an overview; the details of the instrument are presented in a series of companion papers.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Solar Optical Telescope (SOT) aboard the Hinode satellite (formerly called Solar-B) consists of the Optical Telescope Assembly (OTA) and the Focal Plane Package (FPP). The OTA is a 50-cm diffraction-limited Gregorian telescope, and the FPP includes the narrowband filtergraph (NFI) and the broadband filtergraph (BFI), plus the Stokes Spectro-Polarimeter (SP). The SOT provides unprecedented high-resolution photometric and vector magnetic images of the photosphere and chromosphere with a very stable point spread function and is equipped with an image-stabilization system with performance better than 0.01 arcsec rms. Together with the other two instruments on Hinode (the X-Ray Telescope (XRT) and the EUV Imaging Spectrometer (EIS)), the SOT is poised to address many fundamental questions about solar magnetohydrodynamics. This paper provides an overview; the details of the instrument are presented in a series of companion papers.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:23.576249</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:54.015335</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Coronal emission-line intensities are commonly used to measure electron temperatures using emission measure and/or line ratio methods. In the presence of systematic errors in atomic excitation calculations and data noise, the information on underlying temperature distributions is fundamentally limited. Increasing the number of emission lines used does not necessarily improve the ability to discriminate between different kinds of temperature distributions.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Coronal emission-line intensities are commonly used to measure electron temperatures using emission measure and/or line ratio methods. In the presence of systematic errors in atomic excitation calculations and data noise, the information on underlying temperature distributions is fundamentally limited. Increasing the number of emission lines used does not necessarily improve the ability to discriminate between different kinds of temperature distributions.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

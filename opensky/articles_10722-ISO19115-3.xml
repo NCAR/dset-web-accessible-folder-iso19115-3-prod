@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:31.636077</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:05.562790</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>As part of the overall ground-based calibration of the Helioseismic and Magnetic Imager (HMI) instrument an extensive set of polarimetric calibrations were performed. This paper describes the polarimetric design of the instrument, the test setup, the polarimetric model, the tests performed, and some results. It is demonstrated that HMI achieves an accuracy of 1% or better on the crosstalks between Q, U, and V and that our model can reproduce the intensities in our calibration sequences to about 0.4%. The amount of depolarization is negligible when the instrument is operated as intended which, combined with the flexibility of the polarimeter design, means that the polarimetric efficiency is excellent.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[As part of the overall ground-based calibration of the Helioseismic and Magnetic Imager (HMI) instrument an extensive set of polarimetric calibrations were performed. This paper describes the polarimetric design of the instrument, the test setup, the polarimetric model, the tests performed, and some results. It is demonstrated that HMI achieves an accuracy of 1% or better on the crosstalks between Q, U, and V and that our model can reproduce the intensities in our calibration sequences to about 0.4%. The amount of depolarization is negligible when the instrument is operated as intended which, combined with the flexibility of the polarimeter design, means that the polarimetric efficiency is excellent.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

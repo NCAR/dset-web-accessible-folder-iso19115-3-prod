@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:06.021390</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:51.351040</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We present a Bayesian model for estimating the parameters of the VS-Lite forward model of tree-ring width for a particular chronology and its local climatology. The scheme also provides information about the uncertainty of the parameter estimates, as well as the model error in representing the observed proxy time series. By inferring VS-Lite's parameters independently for synthetically generated ring-width series at several hundred sites across the United States, we show that the algorithm is skillful. We also infer optimal parameter values for modeling observed ring-width data at the same network of sites. The estimated parameter values covary in physical space, and their locations in multidimensional parameter space provide insight into the dominant climatic controls on modeled tree-ring growth at each site as well as the stability of those controls. The estimation procedure is useful for forward and inverse modeling studies using VS-Lite to quantify the full range of model uncertainty stemming from its parameterization.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We present a Bayesian model for estimating the parameters of the VS-Lite forward model of tree-ring width for a particular chronology and its local climatology. The scheme also provides information about the uncertainty of the parameter estimates, as well as the model error in representing the observed proxy time series. By inferring VS-Lite's parameters independently for synthetically generated ring-width series at several hundred sites across the United States, we show that the algorithm is skillful. We also infer optimal parameter values for modeling observed ring-width data at the same network of sites. The estimated parameter values covary in physical space, and their locations in multidimensional parameter space provide insight into the dominant climatic controls on modeled tree-ring growth at each site as well as the stability of those controls. The estimation procedure is useful for forward and inverse modeling studies using VS-Lite to quantify the full range of model uncertainty stemming from its parameterization.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

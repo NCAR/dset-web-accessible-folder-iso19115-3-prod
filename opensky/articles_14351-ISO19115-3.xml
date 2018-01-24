@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:28.654367</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:20.782175</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>All global circulation models (GCMs) suffer from some form of bias, which when used as boundary conditions for regional climate models may impact the simulations, perhaps severely. Here we present a bias correction method that corrects the mean error in the GCM, but retains the six-hourly weather, longer-period climate-variability and climate change from the GCM. We utilize six different bias correction experiments; each correcting different bias components. The impact of the full bias correction and the individual components are examined in relation to tropical cyclones, precipitation and temperature. We show that correcting of all boundary data provides the greatest improvement.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[All global circulation models (GCMs) suffer from some form of bias, which when used as boundary conditions for regional climate models may impact the simulations, perhaps severely. Here we present a bias correction method that corrects the mean error in the GCM, but retains the six-hourly weather, longer-period climate-variability and climate change from the GCM. We utilize six different bias correction experiments; each correcting different bias components. The impact of the full bias correction and the individual components are examined in relation to tropical cyclones, precipitation and temperature. We show that correcting of all boundary data provides the greatest improvement.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:22.379177</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:51.501234</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[Isoprene, a volatile organic compound that is mainly emitted from trees, rapidly reacts with hydroxyl radical (OH) during daytime and subsequently forms ozone and aerosols in the troposphere. The isoprene-OH reaction can be affected by the interplay between chemistry and mixing because the two processes occur at a similar time scale. We investigate the impact of turbulent mixing on isoprene-OH reactivity with large eddy simulations (LES) coupled with comprehensive chemistry. Our results show that the covariance of isoprene and OH causes similar to 20% decrease to similar to 10% increase of the horizontal average reaction rate, depending on nitrogen oxides (NOx=NO+NO2) abundances, compared to the rate that neglects the covariance. This wide range of effects on reaction rates is caused by the primary production and loss reactions of OH in each NOx regime. Our research promotes the use of LES for better understanding the role of turbulence in isoprene-OH reaction and parameterizations in large-scale models.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

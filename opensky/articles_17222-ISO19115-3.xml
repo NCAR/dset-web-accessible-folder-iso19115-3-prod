@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:00.065769</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:07.277486</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>One of the goals of the Warning Project is to understand how people receive warnings of hazardous weather and subsequently use this information to make decisions. As part of the project, 519 surveys from Austin, Texas, floodplain residents were collected and analyzed. About 90% of respondents understood that a tornado warning represented a more serious and more likely threat than a tornado watch. Most respondents (86%) were not concerned about a limited number of false alarms or close calls reducing their confidence in future warnings, suggesting no cry-wolf effect. Most respondents reported safe decisions in two hypothetical scenarios: a tornado warning issued while the respondent was home and a tornado visible by the respondent while driving. However, nearly half the respondents indicated that they would seek shelter from a tornado under a highway overpass if they were driving. Despite the limitations of this study, these results suggest that more education is needed on the dangers of highway overpasses as shelter from severe weather.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[One of the goals of the Warning Project is to understand how people receive warnings of hazardous weather and subsequently use this information to make decisions. As part of the project, 519 surveys from Austin, Texas, floodplain residents were collected and analyzed. About 90% of respondents understood that a tornado warning represented a more serious and more likely threat than a tornado watch. Most respondents (86%) were not concerned about a limited number of false alarms or close calls reducing their confidence in future warnings, suggesting no cry-wolf effect. Most respondents reported safe decisions in two hypothetical scenarios: a tornado warning issued while the respondent was home and a tornado visible by the respondent while driving. However, nearly half the respondents indicated that they would seek shelter from a tornado under a highway overpass if they were driving. Despite the limitations of this study, these results suggest that more education is needed on the dangers of highway overpasses as shelter from severe weather.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

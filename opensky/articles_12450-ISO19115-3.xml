@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:56.738116</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:39.551493</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Convective systems and associated cloudiness directly influence regional and local atmospheric radiation budgets, as well as dynamics and thermodynamics, through feedbacks. However, most subgrid-scale convective parameterizations in regional weather and climate models do not consider cumulus cloud feedbacks to radiation, resulting in biases in several meteorological parameters. We have incorporated this key feedback process into a convective parameterization and a radiation scheme in the Weather Research and Forecasting model, and evaluated the impacts of including this process in short-term weather and multiyear climate simulations. Introducing subgrid-scale convective cloud-radiation feedbacks leads to a more realistic simulation of attenuation of downward surface shortwave radiation. Reduced surface shortwave radiation moderates the surface forcing for convection and results in a notable reduction in precipitation biases. Our research reveals a need for more in-depth consideration of the effects of subgrid-scale clouds in regional meteorology/climate and air quality models on radiation, photolysis, cloud mixing, and aerosol indirect effects.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Convective systems and associated cloudiness directly influence regional and local atmospheric radiation budgets, as well as dynamics and thermodynamics, through feedbacks. However, most subgrid-scale convective parameterizations in regional weather and climate models do not consider cumulus cloud feedbacks to radiation, resulting in biases in several meteorological parameters. We have incorporated this key feedback process into a convective parameterization and a radiation scheme in the Weather Research and Forecasting model, and evaluated the impacts of including this process in short-term weather and multiyear climate simulations. Introducing subgrid-scale convective cloud-radiation feedbacks leads to a more realistic simulation of attenuation of downward surface shortwave radiation. Reduced surface shortwave radiation moderates the surface forcing for convection and results in a notable reduction in precipitation biases. Our research reveals a need for more in-depth consideration of the effects of subgrid-scale clouds in regional meteorology/climate and air quality models on radiation, photolysis, cloud mixing, and aerosol indirect effects.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

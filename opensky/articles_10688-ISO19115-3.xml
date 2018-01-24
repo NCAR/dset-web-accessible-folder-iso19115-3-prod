@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:30.830587</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:04.400136</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study presents the impact of solar spectral irradiance (SSI) variability on middle atmospheric ozone over the declining phase of solar cycle 23. Two different types of spectral forcing are applied to the Whole Atmosphere Community Climate Model (WACCM) to simulate the ozone response between periods of quiet and high solar activity. One scenario uses the solar proxy reconstructions model from the Naval Research Laboratory (NRLSSI), and the other is based on SSI observations from the Solar Radiation and Climate Experiment (SORCE). The SORCE observations show 35 times more variability in ultraviolet (UV) radiation than predicted by the proxy model. The NRLSSI forcing had minimal impact on ozone, however, the higher UV variability from SORCE induced a 4% reduction in ozone concentration above 40 km at solar active conditions. The model result is supported by 8 years (2002-2010) of ozone observations from the Sounding of the Atmosphere using Broadband Emission Radiometry (SABER) instrument. The SABER ozone variations have greater similarity with the SORCE SSI model simulations. The model and satellite data suggests that the ozone response is due to enhanced photochemical activity associated with larger UV variability.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study presents the impact of solar spectral irradiance (SSI) variability on middle atmospheric ozone over the declining phase of solar cycle 23. Two different types of spectral forcing are applied to the Whole Atmosphere Community Climate Model (WACCM) to simulate the ozone response between periods of quiet and high solar activity. One scenario uses the solar proxy reconstructions model from the Naval Research Laboratory (NRLSSI), and the other is based on SSI observations from the Solar Radiation and Climate Experiment (SORCE). The SORCE observations show 35 times more variability in ultraviolet (UV) radiation than predicted by the proxy model. The NRLSSI forcing had minimal impact on ozone, however, the higher UV variability from SORCE induced a 4% reduction in ozone concentration above 40 km at solar active conditions. The model result is supported by 8 years (2002-2010) of ozone observations from the Sounding of the Atmosphere using Broadband Emission Radiometry (SABER) instrument. The SABER ozone variations have greater similarity with the SORCE SSI model simulations. The model and satellite data suggests that the ozone response is due to enhanced photochemical activity associated with larger UV variability.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

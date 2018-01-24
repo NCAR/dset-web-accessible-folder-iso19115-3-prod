@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:45.537842</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:15.197040</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The evolution of the whistler anisotropy instability relevant to whistler-mode chorus waves in the Earth's inner magnetosphere is studied using kinetic simulations and is compared with satellite observations. The electron distribution is constrained by the whistler anisotropy instability to a marginal stability state and presents an upper bound of electron anisotropy, which agrees with satellite observations. The electron beta beta(vertical bar vertical bar e) separates whistler waves into two groups: (i) quasi-parallel whistler waves for beta(vertical bar vertical bar e) greater than or similar to 0.02 and (ii) oblique whistler waves close to the resonance cone for beta(vertical bar vertical bar e) less than or similar to 0.02. Landau damping is important in the saturation and relaxation stage of the oblique whistler wave growth. The saturated magnetic field energy of whistler waves roughly scales with the electron beta beta(2)(vertical bar vertical bar e), shown in both simulations and satellite observations. These results suggest the critical role of electron beta vertical bar vertical bar e in determining the whistler wave properties in the inner magnetosphere.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The evolution of the whistler anisotropy instability relevant to whistler-mode chorus waves in the Earth's inner magnetosphere is studied using kinetic simulations and is compared with satellite observations. The electron distribution is constrained by the whistler anisotropy instability to a marginal stability state and presents an upper bound of electron anisotropy, which agrees with satellite observations. The electron beta beta(vertical bar vertical bar e) separates whistler waves into two groups: (i) quasi-parallel whistler waves for beta(vertical bar vertical bar e) greater than or similar to 0.02 and (ii) oblique whistler waves close to the resonance cone for beta(vertical bar vertical bar e) less than or similar to 0.02. Landau damping is important in the saturation and relaxation stage of the oblique whistler wave growth. The saturated magnetic field energy of whistler waves roughly scales with the electron beta beta(2)(vertical bar vertical bar e), shown in both simulations and satellite observations. These results suggest the critical role of electron beta vertical bar vertical bar e in determining the whistler wave properties in the inner magnetosphere.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

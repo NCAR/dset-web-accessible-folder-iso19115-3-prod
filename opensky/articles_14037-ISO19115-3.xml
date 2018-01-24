@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:20.665216</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:10.186367</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this paper, an analysis of the global AAM conservation properties of NCAR's Community Atmosphere Model Spectral Element (CAM-SE) dynamical core under Held-Suarez forcing is presented. It is shown that the spurious sources/sinks of AAM in CAM-SE are 3 orders of magnitude smaller than the parameterized (physical) sources/sinks. The effect on AAM conservation by changing various numerical aspects of the dynamical core (e.g., different vertical coordinates, reduced formal order of accuracy, increased dissipation, and decreased divergence damping) is investigated. In particular, it is noted that changing from Eulerian (hybrid-sigma) to floating Lagrangian vertical coordinates does not alter the global AAM conservation properties of CAM-SE.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this paper, an analysis of the global AAM conservation properties of NCAR's Community Atmosphere Model Spectral Element (CAM-SE) dynamical core under Held-Suarez forcing is presented. It is shown that the spurious sources/sinks of AAM in CAM-SE are 3 orders of magnitude smaller than the parameterized (physical) sources/sinks. The effect on AAM conservation by changing various numerical aspects of the dynamical core (e.g., different vertical coordinates, reduced formal order of accuracy, increased dissipation, and decreased divergence damping) is investigated. In particular, it is noted that changing from Eulerian (hybrid-sigma) to floating Lagrangian vertical coordinates does not alter the global AAM conservation properties of CAM-SE.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

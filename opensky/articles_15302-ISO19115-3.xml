@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:36.998093</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:32.826210</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>An "additive noise" method for initializing ensemble forecasts of convective storms and maintaining ensemble spread during data assimilation is developed and tested for a simplified numerical cloud model (no radiation, terrain, or surface fluxes) and radar observations of the 8 May 2003 Oklahoma City supercell. Every 5 min during a 90-min data-assimilation window, local perturbations in the wind, temperature, and water-vapor fields are added to each ensemble member where the reflectivity observations indicate precipitation. These perturbations are random but have been smoothed so that they have correlation length scales of a few kilometers. An ensemble Kalman filter technique is used to assimilate Doppler velocity observations into the cloud model. The supercell and other nearby cells that develop in the model are qualitatively similar to those that were observed. Relative to previous storm-scale ensemble methods, the additive-noise technique reduces the number of spurious cells and their negative consequences during the data assimilation. The additive-noise method is designed to maintain ensemble spread within convective storms during long periods of data assimilation, and it adapts to changing storm configurations. It would be straightforward to use this method in a mesoscale model with explicit convection and inhomogeneous storm environments.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[An "additive noise" method for initializing ensemble forecasts of convective storms and maintaining ensemble spread during data assimilation is developed and tested for a simplified numerical cloud model (no radiation, terrain, or surface fluxes) and radar observations of the 8 May 2003 Oklahoma City supercell. Every 5 min during a 90-min data-assimilation window, local perturbations in the wind, temperature, and water-vapor fields are added to each ensemble member where the reflectivity observations indicate precipitation. These perturbations are random but have been smoothed so that they have correlation length scales of a few kilometers. An ensemble Kalman filter technique is used to assimilate Doppler velocity observations into the cloud model. The supercell and other nearby cells that develop in the model are qualitatively similar to those that were observed. Relative to previous storm-scale ensemble methods, the additive-noise technique reduces the number of spurious cells and their negative consequences during the data assimilation. The additive-noise method is designed to maintain ensemble spread within convective storms during long periods of data assimilation, and it adapts to changing storm configurations. It would be straightforward to use this method in a mesoscale model with explicit convection and inhomogeneous storm environments.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

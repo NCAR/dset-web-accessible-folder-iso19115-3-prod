@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:37.681709</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:33.833449</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Analyses of a whole atmosphere chemistry-climate model simulation forced by historical sea-surface temperature variations show that tropospheric El Nino ? Southern Oscillation (ENSO) events are linked to coherent variations of zonal mean temperature and ozone in the tropical lower stratosphere, tied to fluctuations in tropical upwelling. ENSO temperature variations in the lower stratosphere are out of phase with tropospheric variations, and stratospheric ozone and temperatures are in phase. These model results motivated revisiting observational data sets for both temperature and ozone, and the observational data reveal coherent signals in the tropical stratosphere, very similar to the model results. The stratospheric ENSO variability has been masked in the observational data to some degree by the volcanic eruptions of El Chichon (1982) and Pinatubo (1991), which both occurred during ENSO warm events. The coherent temperature and ozone signals are evidence that ENSO modulates upwelling in the tropical lower stratosphere.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Analyses of a whole atmosphere chemistry-climate model simulation forced by historical sea-surface temperature variations show that tropospheric El Nino ? Southern Oscillation (ENSO) events are linked to coherent variations of zonal mean temperature and ozone in the tropical lower stratosphere, tied to fluctuations in tropical upwelling. ENSO temperature variations in the lower stratosphere are out of phase with tropospheric variations, and stratospheric ozone and temperatures are in phase. These model results motivated revisiting observational data sets for both temperature and ozone, and the observational data reveal coherent signals in the tropical stratosphere, very similar to the model results. The stratospheric ENSO variability has been masked in the observational data to some degree by the volcanic eruptions of El Chichon (1982) and Pinatubo (1991), which both occurred during ENSO warm events. The coherent temperature and ozone signals are evidence that ENSO modulates upwelling in the tropical lower stratosphere.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

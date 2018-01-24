@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:53.284377</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:35.110717</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The air-land-sea interaction in the vicinity of Monterey Bay, California, is simulated and investigated using a new Integrated Regional Model System (I-RMS). This new model realistically resolves coastal processes and submesoscale features that are poorly represented in atmosphere-ocean general circulation models where systematic biases are seen in the long-term model integration. The current I-RMS integrates version 3.1 of the Weather Research and Forecasting Model and version 3.0 of the Community Land Model with an advanced coastal ocean model, based on the nonhydrostatic Monterey Bay Area Regional Ocean Model. The daily land-sea-breeze circulations and the Santa Cruz eddy are fully resolved using high-resolution grids in the coastal margin. In the ocean, coastal upwelling and submesoscale gyres are also well simulated with this version of the coupled I-RMS. Comparison with observations indicates that the high-resolution, improved representation of ocean dynamics in the I-RMS increases the surface moisture flux and the resulting lower-atmospheric water vapor, a primary controlling mechanism for the enhancement of regional coastal fog formation, particularly along the West Coast of the conterminous United States. The I-RMS results show the importance of detailed ocean feedbacks due to coastal upwelling in the marine atmospheric boundary layer.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The air-land-sea interaction in the vicinity of Monterey Bay, California, is simulated and investigated using a new Integrated Regional Model System (I-RMS). This new model realistically resolves coastal processes and submesoscale features that are poorly represented in atmosphere-ocean general circulation models where systematic biases are seen in the long-term model integration. The current I-RMS integrates version 3.1 of the Weather Research and Forecasting Model and version 3.0 of the Community Land Model with an advanced coastal ocean model, based on the nonhydrostatic Monterey Bay Area Regional Ocean Model. The daily land-sea-breeze circulations and the Santa Cruz eddy are fully resolved using high-resolution grids in the coastal margin. In the ocean, coastal upwelling and submesoscale gyres are also well simulated with this version of the coupled I-RMS. Comparison with observations indicates that the high-resolution, improved representation of ocean dynamics in the I-RMS increases the surface moisture flux and the resulting lower-atmospheric water vapor, a primary controlling mechanism for the enhancement of regional coastal fog formation, particularly along the West Coast of the conterminous United States. The I-RMS results show the importance of detailed ocean feedbacks due to coastal upwelling in the marine atmospheric boundary layer.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

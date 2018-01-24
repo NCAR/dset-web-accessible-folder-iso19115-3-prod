@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:34.861328</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:29.530174</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Seasonal variations of geomagnetic activity during the declining phase of solar cycle 23 (SC23-D, 2002-2007) have been studied using auroral hemispheric power (HP), solar wind and interplanetary magnetic field (IMF) data and the Kp index. The well known semi-annual variations of geomagnetic activity, with peaks occurring during equinoxes, were virtually absent during SC23-D. This makes SC23-D markedly different from previous solar cycles which had clear semi-annual variations. In SC23-D, both Kp and HP had unusual peaks around the December solstice (in years 2003, 2004 and 2006) and August (in years 2004 and 2005), instead of at the equinoxes. These peaks appeared to be associated with solar wind/IMF and the consequent merging electric field peaks in the same periods. Furthermore, the absolute values and relative changes of the Kp index were much smaller in SC23-D than in other solar cycles. The very weak dynamic pressure and southward IMF in SC23-D might also limit the regular modulation effects that contribute to the occurrence of peaks in equinoxes.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Seasonal variations of geomagnetic activity during the declining phase of solar cycle 23 (SC23-D, 2002-2007) have been studied using auroral hemispheric power (HP), solar wind and interplanetary magnetic field (IMF) data and the Kp index. The well known semi-annual variations of geomagnetic activity, with peaks occurring during equinoxes, were virtually absent during SC23-D. This makes SC23-D markedly different from previous solar cycles which had clear semi-annual variations. In SC23-D, both Kp and HP had unusual peaks around the December solstice (in years 2003, 2004 and 2006) and August (in years 2004 and 2005), instead of at the equinoxes. These peaks appeared to be associated with solar wind/IMF and the consequent merging electric field peaks in the same periods. Furthermore, the absolute values and relative changes of the Kp index were much smaller in SC23-D than in other solar cycles. The very weak dynamic pressure and southward IMF in SC23-D might also limit the regular modulation effects that contribute to the occurrence of peaks in equinoxes.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

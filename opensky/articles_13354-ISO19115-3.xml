@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:18.622859</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:07.335236</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>When observations are assimilated into a high-resolution coupled model, a traditional scheme that preferably projects observations to correct large-scale background tends to filter out small-scale cyclones. Here we separately process the large-scale background and the small-scale perturbations with low-resolution observations for reconstructing historical cyclone statistics in a cyclone-permitting model. We show that by maintaining the interactions between small-scale perturbations and successively corrected large-scale background, a model can successfully retrieve the observed cyclone statistics that in return improve estimated ocean states. The improved ocean initial conditions together with the continuous interactions of cyclones and background flows are expected to reduce model forecast errors. Combined with convection-permitting cyclone initialization, the new high-resolution model initialization along with the progressively advanced coupled models should contribute significantly to the ongoing research on seamless weather-climate predictions.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[When observations are assimilated into a high-resolution coupled model, a traditional scheme that preferably projects observations to correct large-scale background tends to filter out small-scale cyclones. Here we separately process the large-scale background and the small-scale perturbations with low-resolution observations for reconstructing historical cyclone statistics in a cyclone-permitting model. We show that by maintaining the interactions between small-scale perturbations and successively corrected large-scale background, a model can successfully retrieve the observed cyclone statistics that in return improve estimated ocean states. The improved ocean initial conditions together with the continuous interactions of cyclones and background flows are expected to reduce model forecast errors. Combined with convection-permitting cyclone initialization, the new high-resolution model initialization along with the progressively advanced coupled models should contribute significantly to the ongoing research on seamless weather-climate predictions.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

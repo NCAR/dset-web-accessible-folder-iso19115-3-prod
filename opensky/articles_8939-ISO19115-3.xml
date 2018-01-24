@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:17.478267</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:44.941244</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -538,7 +538,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Bow Echo and Mesoscale Convective Vortex Experiment (BAMEX) is a research investigation using highly mobile platforms to examine the life cycles of mesoscale convective systems. It represents a combination of two related investigations to study (a) bow echoes, principally those that produce damaging surface winds and last at least 4 h, and (b) larger convective systems that produce long-lived mesoscale convective vortices (MCVs). The field phase of BAMEX utilized three instrumented research aircraft and an array of mobile ground-based instruments. Two long-range turbo-prop aircraft were equipped with pseudodual-Doppler radar capability, the third aircraft was a jet equipped with dropsondes. The aircraft documented the environmental structure of mesoscale convective systems (MCSs), observed the kinematic and thermodynamic structure of the convective line and stratiform regions (where rear-inflow jets and MCVs reside), and captured the structure of mature MCVs. The ground-based instruments augmented sounding coverage and documented the thermodynamic structure of the PBL, both within MCSs and in their environment. The present article reviews the scientific goals of the study and the facility deployment strategy, summarizes the cases observed, and highlights the forthcoming significant research directions and opportunities.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Bow Echo and Mesoscale Convective Vortex Experiment (BAMEX) is a research investigation using highly mobile platforms to examine the life cycles of mesoscale convective systems. It represents a combination of two related investigations to study (a) bow echoes, principally those that produce damaging surface winds and last at least 4 h, and (b) larger convective systems that produce long-lived mesoscale convective vortices (MCVs). The field phase of BAMEX utilized three instrumented research aircraft and an array of mobile ground-based instruments. Two long-range turbo-prop aircraft were equipped with pseudodual-Doppler radar capability, the third aircraft was a jet equipped with dropsondes. The aircraft documented the environmental structure of mesoscale convective systems (MCSs), observed the kinematic and thermodynamic structure of the convective line and stratiform regions (where rear-inflow jets and MCVs reside), and captured the structure of mature MCVs. The ground-based instruments augmented sounding coverage and documented the thermodynamic structure of the PBL, both within MCSs and in their environment. The present article reviews the scientific goals of the study and the facility deployment strategy, summarizes the cases observed, and highlights the forthcoming significant research directions and opportunities.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

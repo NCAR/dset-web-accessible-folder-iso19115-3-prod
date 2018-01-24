@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:36.440043</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:01.384021</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Substantial changes in population size, age structure, and urbanization are expected in many parts of the world this century. Although such changes can affect energy use and greenhouse gas emissions, emissions scenario analyses have either left them out or treated them in a fragmentary or overly simplified manner. We carry out a comprehensive assessment of the implications of demographic change for global emissions of carbon dioxide. Using an energy-economic growth model that accounts for a range of demographic dynamics, we show that slowing population growth could provide 16-29% of the emissions reductions suggested to be necessary by 2050 to avoid dangerous climate change. We also find that aging and urbanization can substantially influence emissions in particular world regions.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Substantial changes in population size, age structure, and urbanization are expected in many parts of the world this century. Although such changes can affect energy use and greenhouse gas emissions, emissions scenario analyses have either left them out or treated them in a fragmentary or overly simplified manner. We carry out a comprehensive assessment of the implications of demographic change for global emissions of carbon dioxide. Using an energy-economic growth model that accounts for a range of demographic dynamics, we show that slowing population growth could provide 16-29% of the emissions reductions suggested to be necessary by 2050 to avoid dangerous climate change. We also find that aging and urbanization can substantially influence emissions in particular world regions.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

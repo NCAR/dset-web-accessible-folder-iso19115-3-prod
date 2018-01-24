@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:41.998043</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:40.194276</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Rises in surface and lower troposphere air temperatures through the 21st century are projected to be especially pronounced over the Arctic Ocean during the cold season. This Arctic amplification is largely driven by loss of the sea ice cover, allowing for strong heat transfers from the ocean to the atmosphere. Consistent with observed reductions in sea ice extent, fields from both the NCEP/NCAR and JRA-25 reanalyses point to emergence of surface-based Arctic amplification in the last decade.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Rises in surface and lower troposphere air temperatures through the 21st century are projected to be especially pronounced over the Arctic Ocean during the cold season. This Arctic amplification is largely driven by loss of the sea ice cover, allowing for strong heat transfers from the ocean to the atmosphere. Consistent with observed reductions in sea ice extent, fields from both the NCEP/NCAR and JRA-25 reanalyses point to emergence of surface-based Arctic amplification in the last decade.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

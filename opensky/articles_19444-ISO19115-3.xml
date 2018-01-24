@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:41.572693</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:09.292376</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Vortices in the atmospheric surface layer are characterized using observations at unprecedented resolution from a fixed array of 31 turbulence sensors. During the day, these vortices likely are dust devils, though no visual observations are available for confirmation. At night, hairpin vortices appear to have been observed. The structure and dynamics of several types of vortices are described and related to other vortex investigations, including tornadoes and hurricanes.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Vortices in the atmospheric surface layer are characterized using observations at unprecedented resolution from a fixed array of 31 turbulence sensors. During the day, these vortices likely are dust devils, though no visual observations are available for confirmation. At night, hairpin vortices appear to have been observed. The structure and dynamics of several types of vortices are described and related to other vortex investigations, including tornadoes and hurricanes.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

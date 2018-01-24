@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:08.256820</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:31.531037</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Daily precipitation data from worldwide stations and gridded analyses and from 18 coupled global climate models are used to evaluate the models' performance in simulating the precipitation frequency, intensity, and the number of rainy days contributing to most (i.e., 67%) of the annual precipitation total. Although the models examined here are able to simulate the land precipitation amount well, most of them are unable to reproduce the spatial patterns of the precipitation frequency and intensity. For light precipitation (1-10 mm day-1), most models overestimate the frequency but produce patterns of the intensity that are in broad agreement with observations. In contrast, for heavy precipitation (&gt;10 mm day-1), most models considerably underestimate the intensity but simulate the frequency relatively well. The average number of rainy days contributing to most of the annual precipitation is a simple index that captures the combined effects of precipitation frequency and intensity on the water supply. The different measures of precipitation characteristics examined in this paper reveal region-to-region differences in the observations and models of relevance for climate variability, water resources, and climate change.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Daily precipitation data from worldwide stations and gridded analyses and from 18 coupled global climate models are used to evaluate the models' performance in simulating the precipitation frequency, intensity, and the number of rainy days contributing to most (i.e., 67%) of the annual precipitation total. Although the models examined here are able to simulate the land precipitation amount well, most of them are unable to reproduce the spatial patterns of the precipitation frequency and intensity. For light precipitation (1-10 mm day-1), most models overestimate the frequency but produce patterns of the intensity that are in broad agreement with observations. In contrast, for heavy precipitation (&gt;10 mm day-1), most models considerably underestimate the intensity but simulate the frequency relatively well. The average number of rainy days contributing to most of the annual precipitation is a simple index that captures the combined effects of precipitation frequency and intensity on the water supply. The different measures of precipitation characteristics examined in this paper reveal region-to-region differences in the observations and models of relevance for climate variability, water resources, and climate change.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

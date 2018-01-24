@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:12.022300</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:24.003406</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We assess the use of the output of the North American Regional Climate Change Assessment Program's (NARCCAP) regional climate model simulations for future climate impacts and adaptation studies. Over 30 publications have appeared across a wide range of impacts areas, such as hydrology, human health, wild fire risk, and species distributions. The main value of NARCCAP for the impacts researchers was allowing them to explore the effect of the uncertainty of spatial scale of scenarios on their impacts calculations. For example, several studies found that the variability across the higher resolution simulations had as much effect as using output from different global climate models, when applied to their impacts models. We determined the three main reasons the authors used the NARCCAP datasets: the higher spatial resolution (and the assumption of the attendant added value), the availability of many (53) variables at high temporal resolution (3 hourly), and the fact that the dataset was developed for use in impacts studies. This last refers to the issue of confidence in the information being provided based on the motivations and expertise of the providers.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We assess the use of the output of the North American Regional Climate Change Assessment Program's (NARCCAP) regional climate model simulations for future climate impacts and adaptation studies. Over 30 publications have appeared across a wide range of impacts areas, such as hydrology, human health, wild fire risk, and species distributions. The main value of NARCCAP for the impacts researchers was allowing them to explore the effect of the uncertainty of spatial scale of scenarios on their impacts calculations. For example, several studies found that the variability across the higher resolution simulations had as much effect as using output from different global climate models, when applied to their impacts models. We determined the three main reasons the authors used the NARCCAP datasets: the higher spatial resolution (and the assumption of the attendant added value), the availability of many (53) variables at high temporal resolution (3 hourly), and the fact that the dataset was developed for use in impacts studies. This last refers to the issue of confidence in the information being provided based on the motivations and expertise of the providers.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

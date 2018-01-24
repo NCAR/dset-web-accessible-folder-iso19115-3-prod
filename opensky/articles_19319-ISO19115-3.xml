@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:38.513290</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:04.595045</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We quantify and isolate the sources of projection uncertainty in annual-mean sea-air CO2 flux over the period 2006-2080 on global and regional scales using output from two sets of ensembles with the Community Earth System Model (CESM) and models participating in the 5th Coupled Model Intercomparison Project (CMIP5). For annual-mean, globally-integrated sea-air CO2 flux, uncertainty grows with prediction lead time and is primarily attributed to uncertainty in emission scenario. At the regional scale of the California Current System, we observe relatively high uncertainty that is nearly constant for all prediction lead times, and is dominated by internal climate variability and model structure, respectively in the CESM and CMIP5 model suites. Analysis of CO2 flux projections over 17 biogeographical biomes reveals a spatially heterogenous pattern of projection uncertainty. On the biome scale, uncertainty is driven by a combination of internal climate variability and model structure, with emission scenario emerging as the dominant source for long projection lead times in both modeling suites.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We quantify and isolate the sources of projection uncertainty in annual-mean sea-air CO2 flux over the period 2006-2080 on global and regional scales using output from two sets of ensembles with the Community Earth System Model (CESM) and models participating in the 5th Coupled Model Intercomparison Project (CMIP5). For annual-mean, globally-integrated sea-air CO2 flux, uncertainty grows with prediction lead time and is primarily attributed to uncertainty in emission scenario. At the regional scale of the California Current System, we observe relatively high uncertainty that is nearly constant for all prediction lead times, and is dominated by internal climate variability and model structure, respectively in the CESM and CMIP5 model suites. Analysis of CO2 flux projections over 17 biogeographical biomes reveals a spatially heterogenous pattern of projection uncertainty. On the biome scale, uncertainty is driven by a combination of internal climate variability and model structure, with emission scenario emerging as the dominant source for long projection lead times in both modeling suites.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

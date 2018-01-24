@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:15.930678</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:42.625182</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A semi-implicit edge-based unstructured-mesh model is developed that integrates nonhydrostatic soundproof equations, inclusive of anelastic and pseudo-incompressible systems of partial differential equations. The model builds on nonoscillatory forward-in-time MPDATA approach using finite-volume discretization and unstructured meshes with arbitrarily shaped cells. Implicit treatment of gravity waves benefits both accuracy and stability of the model. The unstructured-mesh solutions are compared to equivalent structured-grid results for intricate, multiscale internal-wave phenomenon of a non-Boussinesq amplification and breaking of deep stratospheric gravity waves. The departures of the anelastic and pseudoincompressible results are quantified in reference to a recent asymptotic theory</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A semi-implicit edge-based unstructured-mesh model is developed that integrates nonhydrostatic soundproof equations, inclusive of anelastic and pseudo-incompressible systems of partial differential equations. The model builds on nonoscillatory forward-in-time MPDATA approach using finite-volume discretization and unstructured meshes with arbitrarily shaped cells. Implicit treatment of gravity waves benefits both accuracy and stability of the model. The unstructured-mesh solutions are compared to equivalent structured-grid results for intricate, multiscale internal-wave phenomenon of a non-Boussinesq amplification and breaking of deep stratospheric gravity waves. The departures of the anelastic and pseudoincompressible results are quantified in reference to a recent asymptotic theory]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

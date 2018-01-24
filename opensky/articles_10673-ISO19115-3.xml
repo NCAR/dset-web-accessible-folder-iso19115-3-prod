@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:30.412052</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:03.826327</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>An assessment of a recently developed (by Miura) second-order numerical advection scheme for icosahedral-hexagonal grids on the sphere is presented, and the effects of monotonic limiters that can be used with the scheme are examined. The cases address both deformational and nondeformational flow and continuous and discontinuous advected quantities; they include solid-body rotation of a cosine bell and slotted cylinder, and moving dynamic vortices. The limiters of Zalesak, Dukowicz and Kodis, and Thuburn are tested within this numerical scheme. The Zalesak and Thuburn limiters produce solutions with similar accuracy, and the Thuburn limiter, while computationally less expensive per time step, results in more stringent stability conditions for the overall scheme. The Dukowicz limiter is slightly more diffusive than the other two, but it costs the least.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[An assessment of a recently developed (by Miura) second-order numerical advection scheme for icosahedral-hexagonal grids on the sphere is presented, and the effects of monotonic limiters that can be used with the scheme are examined. The cases address both deformational and nondeformational flow and continuous and discontinuous advected quantities; they include solid-body rotation of a cosine bell and slotted cylinder, and moving dynamic vortices. The limiters of Zalesak, Dukowicz and Kodis, and Thuburn are tested within this numerical scheme. The Zalesak and Thuburn limiters produce solutions with similar accuracy, and the Thuburn limiter, while computationally less expensive per time step, results in more stringent stability conditions for the overall scheme. The Dukowicz limiter is slightly more diffusive than the other two, but it costs the least.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

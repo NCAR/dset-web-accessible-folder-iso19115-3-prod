@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:03.658794</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:48.398223</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Sea level rise (SLR) is an inescapable consequence of increasing greenhouse gas concentrations, with potentially harmful effects on human populations in coastal and island regions. Observational evidence indicates that global sea level has risen in the 20th century, and climate models project an acceleration of this trend in the coming decades. Here we analyze rates of future SLR on regional scales in a 40-member ensemble of climate change projections with the Community Climate System Model Version 3. This unique ensemble allows us to assess uncertainty in the magnitude of 21st century SLR due to internal climate variability alone. We find that simulated regional SLR at mid-century can vary by a factor of 2 depending on location, with the North Atlantic and Pacific showing the greatest range. This uncertainty in regional SLR results primarily from internal variations in the wind-driven and buoyancy-driven ocean circulations.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Sea level rise (SLR) is an inescapable consequence of increasing greenhouse gas concentrations, with potentially harmful effects on human populations in coastal and island regions. Observational evidence indicates that global sea level has risen in the 20th century, and climate models project an acceleration of this trend in the coming decades. Here we analyze rates of future SLR on regional scales in a 40-member ensemble of climate change projections with the Community Climate System Model Version 3. This unique ensemble allows us to assess uncertainty in the magnitude of 21st century SLR due to internal climate variability alone. We find that simulated regional SLR at mid-century can vary by a factor of 2 depending on location, with the North Atlantic and Pacific showing the greatest range. This uncertainty in regional SLR results primarily from internal variations in the wind-driven and buoyancy-driven ocean circulations.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

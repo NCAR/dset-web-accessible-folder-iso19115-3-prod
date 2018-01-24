@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:00.212726</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:44.013334</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -733,7 +733,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The scientific understanding of the Earth's climate system, including the central question of how the climate system is likely to respond to human-induced perturbations, is comprehensively captured in GCMs and Earth System Models (ESM). Diagnosing the simulated climate response, and comparing responses across different models, is crucially dependent on transparent assumptions of how the GCM/ESM has been driven - especially because the implementation can involve subjective decisions and may differ between modelling groups performing the same experiment. This paper outlines the climate forcings and setup of the Met Office Hadley Centre ESM, HadGEM2-ES for the CMIP5 set of centennial experiments. We document the prescribed greenhouse gas concentrations, aerosol precursors, stratospheric and tropospheric ozone assumptions, as well as implementation of land-use change and natural forcings for the HadGEM2-ES historical and future experiments following the Representative Concentration Pathways. In addition, we provide details of how HadGEM2-ES ensemble members were initialised from the control run and how the palaeoclimate and AMIP experiments, as well as the "emission-driven" RCP experiments were performed.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The scientific understanding of the Earth's climate system, including the central question of how the climate system is likely to respond to human-induced perturbations, is comprehensively captured in GCMs and Earth System Models (ESM). Diagnosing the simulated climate response, and comparing responses across different models, is crucially dependent on transparent assumptions of how the GCM/ESM has been driven - especially because the implementation can involve subjective decisions and may differ between modelling groups performing the same experiment. This paper outlines the climate forcings and setup of the Met Office Hadley Centre ESM, HadGEM2-ES for the CMIP5 set of centennial experiments. We document the prescribed greenhouse gas concentrations, aerosol precursors, stratospheric and tropospheric ozone assumptions, as well as implementation of land-use change and natural forcings for the HadGEM2-ES historical and future experiments following the Representative Concentration Pathways. In addition, we provide details of how HadGEM2-ES ensemble members were initialised from the control run and how the palaeoclimate and AMIP experiments, as well as the "emission-driven" RCP experiments were performed.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

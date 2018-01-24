@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:36.259958</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:11.985156</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Well informed decisions on climate policy necessitate simulation of the climate system for a sufficiently wide range of emissions scenarios. While recent literature has been devoted to low emissions futures, the potential for very high emissions has not been thoroughly explored. We specify two illustrative emissions scenarios that are significantly higher than the A1FI scenario, the highest scenario considered in past IPCC reports, and simulate them in a global climate model to investigate their climate change implications. Relative to the A1FI scenario, our highest scenario results in an additional 2 K of global mean warming above A1FI levels by 2100, a complete loss of arctic summer sea-ice by 2070 and an additional 43% sea level rise due to thermal expansion above A1FI levels by 2100. Regional maximum temperature increases from late 20th century values are 50-100% greater than A1FI increases, with some regions such as the Central US, the Tibetan plateau and Alaska showing a 300-400% increase above A1FI levels.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Well informed decisions on climate policy necessitate simulation of the climate system for a sufficiently wide range of emissions scenarios. While recent literature has been devoted to low emissions futures, the potential for very high emissions has not been thoroughly explored. We specify two illustrative emissions scenarios that are significantly higher than the A1FI scenario, the highest scenario considered in past IPCC reports, and simulate them in a global climate model to investigate their climate change implications. Relative to the A1FI scenario, our highest scenario results in an additional 2 K of global mean warming above A1FI levels by 2100, a complete loss of arctic summer sea-ice by 2070 and an additional 43% sea level rise due to thermal expansion above A1FI levels by 2100. Regional maximum temperature increases from late 20th century values are 50-100% greater than A1FI increases, with some regions such as the Central US, the Tibetan plateau and Alaska showing a 300-400% increase above A1FI levels.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:05.084528</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:27.022079</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Particle filters are ensemble-based assimilation schemes that, unlike the ensemble Kalman filter, employ a fully nonlinear and non-Gaussian analysis step to compute the probability distribution function (pdf) of a system's state conditioned on a set of observations. Evidence is provided that the ensemble size required for a successful particle filter scales exponentially with the problem size. For the simple example in which each component of the state vector is independent, Gaussian, and of unit variance and the observations are of each state component separately with independent, Gaussian errors, simulations indicate that the required ensemble size scales exponentially with the state dimension. In this example, the particle filter requires at least 10?? members when applied to a 200-dimensional state. Asymptotic results, following the work of Bengtsson, Bickel, and collaborators, are provided for two cases: one in which each prior state component is independent and identically distributed, and one in which both the prior pdf and the observation errors are Gaussian. The asymptotic theory reveals that, in both cases, the required ensemble size scales exponentially with the variance of the observation log likelihood rather than with the state dimension per se.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Particle filters are ensemble-based assimilation schemes that, unlike the ensemble Kalman filter, employ a fully nonlinear and non-Gaussian analysis step to compute the probability distribution function (pdf) of a system's state conditioned on a set of observations. Evidence is provided that the ensemble size required for a successful particle filter scales exponentially with the problem size. For the simple example in which each component of the state vector is independent, Gaussian, and of unit variance and the observations are of each state component separately with independent, Gaussian errors, simulations indicate that the required ensemble size scales exponentially with the state dimension. In this example, the particle filter requires at least 10?? members when applied to a 200-dimensional state. Asymptotic results, following the work of Bengtsson, Bickel, and collaborators, are provided for two cases: one in which each prior state component is independent and identically distributed, and one in which both the prior pdf and the observation errors are Gaussian. The asymptotic theory reveals that, in both cases, the required ensemble size scales exponentially with the variance of the observation log likelihood rather than with the state dimension per se.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

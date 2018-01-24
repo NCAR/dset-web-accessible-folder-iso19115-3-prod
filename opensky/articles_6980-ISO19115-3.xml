@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:11.124630</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:35.750561</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The climatology of the Tropical Tropopause Layer (TTL) in two state-of-the-art general circulation models is compared with observations. Results indicate that global models are able to resolve key features of the TTL, including the mean state and the variability of temperature, ozone, clouds, and thermal structure. The agreement indicates that large-scale processes, and the large-scale effects of small-scale processes, such as convection, are likely the dominant contributors to the observed climatological structure of the TTL and to the observed annual cycle and variability at scales larger than several hundred kilometers. Cloud processes are still uncertain due to their heavily parameterized treatment in models, and limited observations of clouds in the TTL. The bulk treatment of clouds appears sufficient to properly resolve the large-scale structure of the TTL.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The climatology of the Tropical Tropopause Layer (TTL) in two state-of-the-art general circulation models is compared with observations. Results indicate that global models are able to resolve key features of the TTL, including the mean state and the variability of temperature, ozone, clouds, and thermal structure. The agreement indicates that large-scale processes, and the large-scale effects of small-scale processes, such as convection, are likely the dominant contributors to the observed climatological structure of the TTL and to the observed annual cycle and variability at scales larger than several hundred kilometers. Cloud processes are still uncertain due to their heavily parameterized treatment in models, and limited observations of clouds in the TTL. The bulk treatment of clouds appears sufficient to properly resolve the large-scale structure of the TTL.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

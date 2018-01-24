@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:26.305305</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:57.882209</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The launch of the proof-of-concept mission GPS/MET in 1995 began a revolution in profiling earth's atmosphere through radio occultation (RO). GPS/MET; subsequent single-satellite missions CHAMP, SAC-C, GRACE, METOP-A, and TerraSAR-X; and the six-satellite constellation, FORMOSAT-3/COSMIC, have proven the theoretical capabilities of RO to provide accurate and precise profiles of electron density in the ionosphere and refractivity, containing information on temperature and water vapor, in the stratosphere and troposphere. This paper summarizes results from these RO missions and the applications of RO observations to atmospheric research and operational weather analysis and prediction.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The launch of the proof-of-concept mission GPS/MET in 1995 began a revolution in profiling earth's atmosphere through radio occultation (RO). GPS/MET; subsequent single-satellite missions CHAMP, SAC-C, GRACE, METOP-A, and TerraSAR-X; and the six-satellite constellation, FORMOSAT-3/COSMIC, have proven the theoretical capabilities of RO to provide accurate and precise profiles of electron density in the ionosphere and refractivity, containing information on temperature and water vapor, in the stratosphere and troposphere. This paper summarizes results from these RO missions and the applications of RO observations to atmospheric research and operational weather analysis and prediction.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

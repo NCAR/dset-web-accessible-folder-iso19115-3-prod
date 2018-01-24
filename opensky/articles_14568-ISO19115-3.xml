@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:33.976630</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:28.325077</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -313,7 +313,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper investigates the physical mechanism of an unusual equatorial electron density structure, plasma cave, located underneath the equatorial ionization anomaly by using theoretical simulations. The simulation results provide important new understanding of the dynamics of the equatorial ionosphere. It has been suggested previously that unusual inline image drifts might be responsible for the observed plasma cave structure, but model simulations in this paper suggest that the more likely cause is latitudinal meridional neutral wind variations. The neutral winds are featured by two divergent wind regions at off-equator latitudes and a convergent wind region around the magnetic equator, resulting in plasma divergences and convergence, respectively, to form the plasma caves structure. The tidal-decomposition analysis further suggests that the cave related meridional neutral winds and the intensity of plasma cave are highly associated with the migrating terdiurnal tidal component of the neutral winds.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper investigates the physical mechanism of an unusual equatorial electron density structure, plasma cave, located underneath the equatorial ionization anomaly by using theoretical simulations. The simulation results provide important new understanding of the dynamics of the equatorial ionosphere. It has been suggested previously that unusual inline image drifts might be responsible for the observed plasma cave structure, but model simulations in this paper suggest that the more likely cause is latitudinal meridional neutral wind variations. The neutral winds are featured by two divergent wind regions at off-equator latitudes and a convergent wind region around the magnetic equator, resulting in plasma divergences and convergence, respectively, to form the plasma caves structure. The tidal-decomposition analysis further suggests that the cave related meridional neutral winds and the intensity of plasma cave are highly associated with the migrating terdiurnal tidal component of the neutral winds.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

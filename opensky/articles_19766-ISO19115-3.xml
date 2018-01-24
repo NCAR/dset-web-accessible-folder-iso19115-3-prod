@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:49.380991</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:20.724225</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The latest version of the Whole Atmosphere Community Climate Model (WACCM), which includes a new chemistry scheme and an updated parameterization of orographic gravity waves, produces temperature trends in the Antarctic lower stratosphere in excellent agreement with radiosonde observations for 1969-1998 as regards magnitude, location, timing, and persistence. The maximum trend, reached in November at 100hPa, is -4.42.8Kdecade(-1), which is a third smaller than the largest trend in the previous version of WACCM. Comparison with a simulation without the updated orographic gravity wave parameterization, together with analysis of the model's thermodynamic budget, reveals that the reduced trend is due to the effects of a stronger Brewer-Dobson circulation in the new simulations, which warms the polar cap. The effects are both direct (a trend in adiabatic warming in late spring) and indirect (a smaller trend in ozone, hence a smaller reduction in shortwave heating, due to the warmer environment).</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The latest version of the Whole Atmosphere Community Climate Model (WACCM), which includes a new chemistry scheme and an updated parameterization of orographic gravity waves, produces temperature trends in the Antarctic lower stratosphere in excellent agreement with radiosonde observations for 1969-1998 as regards magnitude, location, timing, and persistence. The maximum trend, reached in November at 100hPa, is -4.42.8Kdecade(-1), which is a third smaller than the largest trend in the previous version of WACCM. Comparison with a simulation without the updated orographic gravity wave parameterization, together with analysis of the model's thermodynamic budget, reveals that the reduced trend is due to the effects of a stronger Brewer-Dobson circulation in the new simulations, which warms the polar cap. The effects are both direct (a trend in adiabatic warming in late spring) and indirect (a smaller trend in ozone, hence a smaller reduction in shortwave heating, due to the warmer environment).]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:11.385781</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:57.882656</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A systematic study is presented of decadal climate variability in the North Pacific. In particular, the hypothesis is addressed that oceanic Rossby basin modes are responsible for enhanced energy at decadal and bidecadal time scales. To this end, a series of statistical analyses are performed on a 500-yr control integration of the Community Climate System Model, version 3 (CCSM3). In particular, a principal oscillation pattern (POP) analysis is performed to identify modal behavior in the subsurface pressure field. It is found that the dominant energy of sea surface temperature (SST) variability at 25 yr (the model equivalent of the Pacific decadal oscillation) cannot be explained by the resonant excitation of an oceanic basin mode. However, significant energy in the subsurface pressure field at time scales of 17 and 10 yr appears to be related to internal ocean oscillations. However, these oscillations lack the characteristics of the classical basin modes, and must either be deformed beyond recognition by the background circulation and inhomogeneous stratification or have another dynamical origin altogether. The 17-yr oscillation projects onto the Pacific decadal oscillation and, if present in the real ocean, has the potential to enhance the predictability of low-frequency climate variability in the North Pacific.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A systematic study is presented of decadal climate variability in the North Pacific. In particular, the hypothesis is addressed that oceanic Rossby basin modes are responsible for enhanced energy at decadal and bidecadal time scales. To this end, a series of statistical analyses are performed on a 500-yr control integration of the Community Climate System Model, version 3 (CCSM3). In particular, a principal oscillation pattern (POP) analysis is performed to identify modal behavior in the subsurface pressure field. It is found that the dominant energy of sea surface temperature (SST) variability at 25 yr (the model equivalent of the Pacific decadal oscillation) cannot be explained by the resonant excitation of an oceanic basin mode. However, significant energy in the subsurface pressure field at time scales of 17 and 10 yr appears to be related to internal ocean oscillations. However, these oscillations lack the characteristics of the classical basin modes, and must either be deformed beyond recognition by the background circulation and inhomogeneous stratification or have another dynamical origin altogether. The 17-yr oscillation projects onto the Pacific decadal oscillation and, if present in the real ocean, has the potential to enhance the predictability of low-frequency climate variability in the North Pacific.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:38.332804</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:34.778143</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this paper we present Odin submillimeter radiometer (Odin/SMR) water vapor measurements in the upper mesosphere and lower thermosphere with focus on the polar latitudes in winter. Measurements since 2003 have been compiled to provide a first overview of the water vapor distribution in this altitude range. Our observations show a distinct seasonal increase of the water vapor concentration during winter at a given altitude above 90 km. Above 95 km the observations exhibit the annual water vapor maximum during wintertime. Model simulations from the Hamburg Model of the Neutral and Ionized Atmosphere (HAMMONIA) and the Whole Atmosphere Community Climate Model version 3 (WACCM3) show results that are very similar to the observations. We suggest that the observed increase in water vapor during winter is mainly caused by a combination of upwelling of moister air from lower altitudes and diffusion processes. Distinct interhemispheric differences in the winter water vapor distribution in the upper mesosphere and lower thermosphere can be observed, both in the observations and the model results. The seasonal water vapor increase in the polar regions is much more pronounced in the Southern Hemisphere winter where higher concentrations can be observed. This observation is most likely due to interhemispheric differences in the underlying dynamics and diffusion processes.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this paper we present Odin submillimeter radiometer (Odin/SMR) water vapor measurements in the upper mesosphere and lower thermosphere with focus on the polar latitudes in winter. Measurements since 2003 have been compiled to provide a first overview of the water vapor distribution in this altitude range. Our observations show a distinct seasonal increase of the water vapor concentration during winter at a given altitude above 90 km. Above 95 km the observations exhibit the annual water vapor maximum during wintertime. Model simulations from the Hamburg Model of the Neutral and Ionized Atmosphere (HAMMONIA) and the Whole Atmosphere Community Climate Model version 3 (WACCM3) show results that are very similar to the observations. We suggest that the observed increase in water vapor during winter is mainly caused by a combination of upwelling of moister air from lower altitudes and diffusion processes. Distinct interhemispheric differences in the winter water vapor distribution in the upper mesosphere and lower thermosphere can be observed, both in the observations and the model results. The seasonal water vapor increase in the polar regions is much more pronounced in the Southern Hemisphere winter where higher concentrations can be observed. This observation is most likely due to interhemispheric differences in the underlying dynamics and diffusion processes.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

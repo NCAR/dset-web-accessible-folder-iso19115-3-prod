@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:49.806705</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:52.024136</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The collection of Earth system models available in the archive of phase 5 of CMIP (CMIP5) represents, at least to some degree, a sample of uncertainty of future climate evolution. The presence of duplicated code as well as shared forcing and validation data in the multiple models in the archive raises at least three potential problems: biases in the mean and variance, the overestimation of sample size, and the potential for spurious correlations to emerge in the archive because of model replication. Analytical evidence is presented to demonstrate that the distribution of models in the CMIP5 archive is not consistent with a random sample, and a weighting scheme is proposed to reduce some aspects of model codependency in the ensemble. A method is proposed for selecting diverse and skillful subsets of models in the archive, which could be used for impact studies in cases where physically consistent joint projections of multiple variables (and their temporal and spatial characteristics) are required.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The collection of Earth system models available in the archive of phase 5 of CMIP (CMIP5) represents, at least to some degree, a sample of uncertainty of future climate evolution. The presence of duplicated code as well as shared forcing and validation data in the multiple models in the archive raises at least three potential problems: biases in the mean and variance, the overestimation of sample size, and the potential for spurious correlations to emerge in the archive because of model replication. Analytical evidence is presented to demonstrate that the distribution of models in the CMIP5 archive is not consistent with a random sample, and a weighting scheme is proposed to reduce some aspects of model codependency in the ensemble. A method is proposed for selecting diverse and skillful subsets of models in the archive, which could be used for impact studies in cases where physically consistent joint projections of multiple variables (and their temporal and spatial characteristics) are required.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

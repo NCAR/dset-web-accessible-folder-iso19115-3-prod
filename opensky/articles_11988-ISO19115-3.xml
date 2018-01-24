@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:45.197960</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:24.736571</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The impact of airborne Doppler radar data assimilation on improving numerical simulations of tropical cyclones (TCs) has been well recognized. However, the influence of radar data quality on the numerical simulation of tropical cyclones has not been given much attention. It is commonly assumed that higher quality radar data would be more beneficial to numerical simulations of TCs. This study examines the impact of the radar data quality control on assimilation of the airborne Doppler radar reflectivity and radial velocity observations in a numerical simulation of Typhoon Jangmi (2008). It is found that the quality of radar data has a strong influence on the numerical simulation of Typhoon Jangmi in terms of its track, intensity, and precipitation structures. Specifically, results suggest that a trade-off between the data quality and data coverage is necessary for different purposes in practical applications, as the higher quality data contribute to intensity forecast improvements, whereas data of lower quality but having better coverage are more beneficial to accurate track forecasting.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The impact of airborne Doppler radar data assimilation on improving numerical simulations of tropical cyclones (TCs) has been well recognized. However, the influence of radar data quality on the numerical simulation of tropical cyclones has not been given much attention. It is commonly assumed that higher quality radar data would be more beneficial to numerical simulations of TCs. This study examines the impact of the radar data quality control on assimilation of the airborne Doppler radar reflectivity and radial velocity observations in a numerical simulation of Typhoon Jangmi (2008). It is found that the quality of radar data has a strong influence on the numerical simulation of Typhoon Jangmi in terms of its track, intensity, and precipitation structures. Specifically, results suggest that a trade-off between the data quality and data coverage is necessary for different purposes in practical applications, as the higher quality data contribute to intensity forecast improvements, whereas data of lower quality but having better coverage are more beneficial to accurate track forecasting.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:45.353944</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:24.947910</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A daily stochastic spatiotemporal precipitation generator that yields spatially consistent gridded quantitative precipitation realizations is described. The methodology relies on a latent Gaussian process to drive precipitation occurrence and a probability integral transformed Gaussian process for intensity. At individual locations, the model reduces to a Markov chain for precipitation occurrence and a gamma distribution for precipitation intensity, allowing statistical parameters to be included in a generalized linear model framework. Statistical parameters are modeled as spatial Gaussian processes, which allows for interpolation to locations where there are no direct observations via kriging. One advantage of such a model for the statistical parameters is that stochastic generator parameters are immediately available at any location, with the ability to adapt to spatially varying precipitation characteristics. A second advantage is that parameter uncertainty, generally unavailable with deterministic interpolators, can be immediately quantified at all locations. The methodology is illustrated on two data sets, the first in Iowa and the second over the Pampas region of Argentina. In both examples, the method is able to capture the local and domain aggregated precipitation behavior fairly well at a wide range of time scales, including daily, monthly, and annually.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A daily stochastic spatiotemporal precipitation generator that yields spatially consistent gridded quantitative precipitation realizations is described. The methodology relies on a latent Gaussian process to drive precipitation occurrence and a probability integral transformed Gaussian process for intensity. At individual locations, the model reduces to a Markov chain for precipitation occurrence and a gamma distribution for precipitation intensity, allowing statistical parameters to be included in a generalized linear model framework. Statistical parameters are modeled as spatial Gaussian processes, which allows for interpolation to locations where there are no direct observations via kriging. One advantage of such a model for the statistical parameters is that stochastic generator parameters are immediately available at any location, with the ability to adapt to spatially varying precipitation characteristics. A second advantage is that parameter uncertainty, generally unavailable with deterministic interpolators, can be immediately quantified at all locations. The methodology is illustrated on two data sets, the first in Iowa and the second over the Pampas region of Argentina. In both examples, the method is able to capture the local and domain aggregated precipitation behavior fairly well at a wide range of time scales, including daily, monthly, and annually.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

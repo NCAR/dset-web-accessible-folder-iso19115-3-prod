@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:16.715629</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:45.365089</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[Aims. We model a hydrogen-helium solar wind originating in funnels, regions of rapid flux tube expansion at the base of the solar corona.', Methods. The time-dependent model describes the particle density, flow speed, temperature parallel and perpendicular to the magnetic field, and the heat flow for each ionization state of hydrogen and helium, and for electrons.', Results. For a large range of heating parameters, the funnel has two co-existing solutions: both a slow and a fast solar wind solution result from the same heating parameters, depending on the initial state from which the model was started. Though the fast and the slow solar wind can co-exist it is difficult to change from a fast solar wind to a slow solar wind or vice versa. A significant change in the heating parameters is required to  flip the solution, and it takes a long time, about one month, to reach the other steady state solution. When either the funnel or helium is removed from the model, we no longer have two co-existing states.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:54.309798</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:36.485758</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A high-resolution ocean model forced with an annually repeating atmosphere is used to examine variability of the Kuroshio, the western boundary current in the North Pacific Ocean. A large meander (LM) in the path of the Kuroshio south of Japan develops and disappears in a highly bimodal fashion on decadal timescales. The modeled meander is comparable in timing and spatial extent to an observed feature in the region. Various characteristics of the LM are examined, including relative vorticity, transport, and velocity shear. The many similarities between the model and observations indicate that the meander results from intrinsic oceanic variability, which is represented in this climatologically forced model. Each LM is preceded by a smaller "trigger" meander that originates at the south end of Kyushu, moves up the coast, and develops into the LM. However, there are also many meanders very similar in character to the trigger meander that do not develop into LMs. Formation of an LM only occurs when a deep anticyclone associated with the trigger meander forms near Koshu Seamount. Furthermore, the major axis of that deep anticyclone must be oriented away from the coast, rather than alongshore. In the specific case of interaction of a trigger meander with a deep anticyclone with major axis oriented away from the coastline, LM formation occurs</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A high-resolution ocean model forced with an annually repeating atmosphere is used to examine variability of the Kuroshio, the western boundary current in the North Pacific Ocean. A large meander (LM) in the path of the Kuroshio south of Japan develops and disappears in a highly bimodal fashion on decadal timescales. The modeled meander is comparable in timing and spatial extent to an observed feature in the region. Various characteristics of the LM are examined, including relative vorticity, transport, and velocity shear. The many similarities between the model and observations indicate that the meander results from intrinsic oceanic variability, which is represented in this climatologically forced model. Each LM is preceded by a smaller "trigger" meander that originates at the south end of Kyushu, moves up the coast, and develops into the LM. However, there are also many meanders very similar in character to the trigger meander that do not develop into LMs. Formation of an LM only occurs when a deep anticyclone associated with the trigger meander forms near Koshu Seamount. Furthermore, the major axis of that deep anticyclone must be oriented away from the coast, rather than alongshore. In the specific case of interaction of a trigger meander with a deep anticyclone with major axis oriented away from the coastline, LM formation occurs]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

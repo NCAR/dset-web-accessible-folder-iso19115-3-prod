@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:39.161317</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:05.641765</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -313,7 +313,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>An updated version of the Heated Condensation Framework (HCF) is implemented as a convective triggering criterion into the National Centers for Environmental Prediction (NCEP) Climate Forecast System version 2 (CFSv2). The new trigger replaces the original criteria in both the deep (Simplified Arakawa-Schubert - SAS) and shallow (SAS based) convective schemes. The performance of the original and new triggering criteria is first compared against radiosonde observations. Then, a series of hindcasts are performed to evaluate the influence of the triggering criterion in the CFSv2 representation of summer precipitation, the diurnal cycle of precipitation, and hurricanes that made landfall. The observational analysis shows that the HCF trigger better captures the frequency of convection, where the original SAS trigger initiates convection too often. When implemented in CFSv2, the HCF trigger improves the seasonal forecast of the Indian summer monsoon rainfall, including the representation of the onset dates of the rainy season over India. On the other hand, the HCF trigger increases error in the seasonal forecast of precipitation over the eastern United States. The HCF trigger also improves the representation of the intensity of hurricanes. Moreover, the simulation of hurricanes provides insights on the mechanism whereby the HCF trigger impacts the representation of convection.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[An updated version of the Heated Condensation Framework (HCF) is implemented as a convective triggering criterion into the National Centers for Environmental Prediction (NCEP) Climate Forecast System version 2 (CFSv2). The new trigger replaces the original criteria in both the deep (Simplified Arakawa-Schubert - SAS) and shallow (SAS based) convective schemes. The performance of the original and new triggering criteria is first compared against radiosonde observations. Then, a series of hindcasts are performed to evaluate the influence of the triggering criterion in the CFSv2 representation of summer precipitation, the diurnal cycle of precipitation, and hurricanes that made landfall. The observational analysis shows that the HCF trigger better captures the frequency of convection, where the original SAS trigger initiates convection too often. When implemented in CFSv2, the HCF trigger improves the seasonal forecast of the Indian summer monsoon rainfall, including the representation of the onset dates of the rainy season over India. On the other hand, the HCF trigger increases error in the seasonal forecast of precipitation over the eastern United States. The HCF trigger also improves the representation of the intensity of hurricanes. Moreover, the simulation of hurricanes provides insights on the mechanism whereby the HCF trigger impacts the representation of convection.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

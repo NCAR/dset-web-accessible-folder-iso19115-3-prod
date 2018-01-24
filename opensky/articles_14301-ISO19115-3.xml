@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:27.579582</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:19.282822</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Recent advances in seasonal to interannual hydroclimate predictions provide an opportunity for developing a proactive approach toward water management. This motivated a recent AGU Chapman Conference. Approximately 85 participants from the United States, Oceania, Asia, Europe, and South America presented and discussed the current state of successes, challenges, and opportunities in seasonal to interannual hydroclimate forecasts and water management, and a number of key messages emerged.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Recent advances in seasonal to interannual hydroclimate predictions provide an opportunity for developing a proactive approach toward water management. This motivated a recent AGU Chapman Conference. Approximately 85 participants from the United States, Oceania, Asia, Europe, and South America presented and discussed the current state of successes, challenges, and opportunities in seasonal to interannual hydroclimate forecasts and water management, and a number of key messages emerged.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

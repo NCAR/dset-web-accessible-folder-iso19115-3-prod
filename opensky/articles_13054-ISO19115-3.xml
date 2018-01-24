@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:11.505496</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:58.047111</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A Cartesian semi-implicit solver using the Conservative Semi-Lagrangian Multitracer (CSLAM) transport scheme is constructed and tested for shallow-water (SW) flows. The SW equations solver (CSLAM-SW) uses a discrete semi-implicit continuity equation specifically designed to ensure a conservative and consistent transport of constituents by avoiding the use of a constant mean reference state. The algorithm is constructed to be similar to typical conservative semi-Lagrangian semi-implicit schemes, requiring at each time step a single linear Helmholtz equation solution and a single application of CSLAM. The accuracy and stability of the solver is tested using four test cases for a radially propagating gravity wave and two barotropically unstable jets. In a consistency test using the new solver, the specific concentration constancy is preserved up to machine roundoff, whereas a typical formulation can have errors many orders of magnitude larger. In addition to mass conservation and consistency, CSLAM-SW also ensures shape preservation by combining the new scheme with existing shape-preserving filters. With promising SW test results, CSLAM-SW shows potential for extension to a nonhydrostatic, fully compressible system solver for numerical weather prediction and climate models.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A Cartesian semi-implicit solver using the Conservative Semi-Lagrangian Multitracer (CSLAM) transport scheme is constructed and tested for shallow-water (SW) flows. The SW equations solver (CSLAM-SW) uses a discrete semi-implicit continuity equation specifically designed to ensure a conservative and consistent transport of constituents by avoiding the use of a constant mean reference state. The algorithm is constructed to be similar to typical conservative semi-Lagrangian semi-implicit schemes, requiring at each time step a single linear Helmholtz equation solution and a single application of CSLAM. The accuracy and stability of the solver is tested using four test cases for a radially propagating gravity wave and two barotropically unstable jets. In a consistency test using the new solver, the specific concentration constancy is preserved up to machine roundoff, whereas a typical formulation can have errors many orders of magnitude larger. In addition to mass conservation and consistency, CSLAM-SW also ensures shape preservation by combining the new scheme with existing shape-preserving filters. With promising SW test results, CSLAM-SW shows potential for extension to a nonhydrostatic, fully compressible system solver for numerical weather prediction and climate models.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

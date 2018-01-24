@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:33.942959</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:57.294642</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this short note, on the basis of a brief introduction on radio occultation (RO) observations and their applications, a detailed derivation of the radio occultation processing package (ROPP) 1D bending angle operator is presented. The main objective is to help RO data users to understand the innovation, advancement, and accuracy of this operator. This note is expected to be a reference for efficient and optimal use of RO data for improving the numerical weather prediction (NWP).</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this short note, on the basis of a brief introduction on radio occultation (RO) observations and their applications, a detailed derivation of the radio occultation processing package (ROPP) 1D bending angle operator is presented. The main objective is to help RO data users to understand the innovation, advancement, and accuracy of this operator. This note is expected to be a reference for efficient and optimal use of RO data for improving the numerical weather prediction (NWP).]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

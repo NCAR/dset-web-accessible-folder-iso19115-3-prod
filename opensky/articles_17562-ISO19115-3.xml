@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:08.535246</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:18.973011</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -358,7 +358,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Caribbean is a region of lush vegetation, beaches, active volcanoes, and significant mountain ranges, all of which create a natural aesthetic that is recognized globally. Yet these very same features, molded through geological, oceanic, and atmospheric processes, also pose natural hazards for the developing countries in the Caribbean. The rise in population density, migration to coastal areas, and substandard building practices, combined with the threat of natural hazards, put the region's human population at risk for particularly devastating disasters. These demographic and social characteristics exist against a backdrop of the threat of an evolving climate, which produces a more vigorous hurricane environment and a rising average sea level.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Caribbean is a region of lush vegetation, beaches, active volcanoes, and significant mountain ranges, all of which create a natural aesthetic that is recognized globally. Yet these very same features, molded through geological, oceanic, and atmospheric processes, also pose natural hazards for the developing countries in the Caribbean. The rise in population density, migration to coastal areas, and substandard building practices, combined with the threat of natural hazards, put the region's human population at risk for particularly devastating disasters. These demographic and social characteristics exist against a backdrop of the threat of an evolving climate, which produces a more vigorous hurricane environment and a rising average sea level.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:34.440324</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:28.966163</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Several spatial forecast verification methods have been developed that are suited for high-resolution precipitation forecasts. They can account for the spatial coherence of precipitation and give credit to a forecast that does not necessarily match the observation at any particular grid point. The methods were grouped into four broad categories (neighborhood, scale separation, features based, and field deformation) for the Spatial Forecast Verification Methods Intercomparison Project (ICP). Participants were asked to apply their new methods to a set of artificial geometric and perturbed forecasts with prescribed errors, and a set of real forecasts of convective precipitation on a 4-km grid. This paper describes the intercomparison test cases, summarizes results from the geometric cases, and presents subjective scores and traditional scores from the real cases. All the new methods could detect bias error, and the features-based and field deformation methods were also able to diagnose displacement errors of precipitation features. The best approach for capturing errors in aspect ratio was field deformation. When comparing model forecasts with real cases, the traditional verification scores did not agree with the subjective assessment of the forecasts.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Several spatial forecast verification methods have been developed that are suited for high-resolution precipitation forecasts. They can account for the spatial coherence of precipitation and give credit to a forecast that does not necessarily match the observation at any particular grid point. The methods were grouped into four broad categories (neighborhood, scale separation, features based, and field deformation) for the Spatial Forecast Verification Methods Intercomparison Project (ICP). Participants were asked to apply their new methods to a set of artificial geometric and perturbed forecasts with prescribed errors, and a set of real forecasts of convective precipitation on a 4-km grid. This paper describes the intercomparison test cases, summarizes results from the geometric cases, and presents subjective scores and traditional scores from the real cases. All the new methods could detect bias error, and the features-based and field deformation methods were also able to diagnose displacement errors of precipitation features. The best approach for capturing errors in aspect ratio was field deformation. When comparing model forecasts with real cases, the traditional verification scores did not agree with the subjective assessment of the forecasts.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

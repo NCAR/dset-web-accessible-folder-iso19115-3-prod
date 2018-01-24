@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:11.094275</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:35.708229</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>An international team of scientists from the United States, Mexico, and Central America carried out a major field campaign during the summer of 2004 to develop an improved understanding of the North American monsoon system leading to improved precipitation forecasts. Results from this campaign, which is the centerpiece of the North American Monsoon Experiment (NAME) Process Study, are reported in this issue of the Journal of Climate. In addition to a synthesis of key findings, this brief overview article also raises some important unresolved issues that require further attention. More detailed background information on NAME, including motivating science questions, where NAME 2004 was conducted, when, and the experimental design, was published previously by Higgins et al.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[An international team of scientists from the United States, Mexico, and Central America carried out a major field campaign during the summer of 2004 to develop an improved understanding of the North American monsoon system leading to improved precipitation forecasts. Results from this campaign, which is the centerpiece of the North American Monsoon Experiment (NAME) Process Study, are reported in this issue of the Journal of Climate. In addition to a synthesis of key findings, this brief overview article also raises some important unresolved issues that require further attention. More detailed background information on NAME, including motivating science questions, where NAME 2004 was conducted, when, and the experimental design, was published previously by Higgins et al.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

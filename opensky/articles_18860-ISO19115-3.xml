@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:33.777669</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:57.044672</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper introduces an engineering approach to develop autonomous unmanned aircraft systems technology for integration in future weather modification (cloud seeding) programs with the goal to improve operational efficiency and evaluation accuracy. It builds upon the process already established in a previous paper by Axisa and DeFelice who constructed a framework underlying the development of new technologies for use in cloud seeding activities, identifying their potential benefits and limitations and providing initial guidance.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper introduces an engineering approach to develop autonomous unmanned aircraft systems technology for integration in future weather modification (cloud seeding) programs with the goal to improve operational efficiency and evaluation accuracy. It builds upon the process already established in a previous paper by Axisa and DeFelice who constructed a framework underlying the development of new technologies for use in cloud seeding activities, identifying their potential benefits and limitations and providing initial guidance.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

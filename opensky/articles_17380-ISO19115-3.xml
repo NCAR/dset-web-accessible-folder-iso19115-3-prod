@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:04.031248</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:12.663710</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -189,7 +189,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Average behavior is often studied, with well-developed techniques from the field of statistics allowing for inferences to be readily made. However, in many atmospheric, hydrologic, and other geophysical problems, extremes are of the greatest interest. The usual statistical methods for averages do not correctly inform scientists about extremes, but a more specialized area of statistical research focused on extremes can be applied instead. Where the normal distribution has theoretical support for use with averages, other forms of distribution have similar theoretical support for the extremes: the generalized extreme value (GEV) distribution for analyzing extreme statistics like annual maxima or minima, and the generalized Pareto (GP) distribution for excesses over a high threshold (or deficits below a low threshold) [e.g., Coles, 2001]. For more background on the statistics of geophysical extremes, especially those for weather and climate, see http://www.isse.ucar.edu/extremevalues/extreme.html.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Average behavior is often studied, with well-developed techniques from the field of statistics allowing for inferences to be readily made. However, in many atmospheric, hydrologic, and other geophysical problems, extremes are of the greatest interest. The usual statistical methods for averages do not correctly inform scientists about extremes, but a more specialized area of statistical research focused on extremes can be applied instead. Where the normal distribution has theoretical support for use with averages, other forms of distribution have similar theoretical support for the extremes: the generalized extreme value (GEV) distribution for analyzing extreme statistics like annual maxima or minima, and the generalized Pareto (GP) distribution for excesses over a high threshold (or deficits below a low threshold) [e.g., Coles, 2001]. For more background on the statistics of geophysical extremes, especially those for weather and climate, see http://www.isse.ucar.edu/extremevalues/extreme.html.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

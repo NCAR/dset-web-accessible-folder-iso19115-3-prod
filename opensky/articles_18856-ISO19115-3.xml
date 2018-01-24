@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:33.676947</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:56.891117</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Total lightning observations that will be available from the GOES-R Geostationary Lightning Mapper (GLM) have the potential to be useful in the initialization of convection-resolving numerical weather models, particularly in areas where other types of convective-scale observations are sparse or nonexistent. This study used the ensemble Kalman filter (EnKF) to assimilate real-data pseudo-GLM flash extent density (FED) observations at convection-resolving scale for a nonsevere multicell storm case (6 June 2000) and a tomadic supercell case (8 May 2003).</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Total lightning observations that will be available from the GOES-R Geostationary Lightning Mapper (GLM) have the potential to be useful in the initialization of convection-resolving numerical weather models, particularly in areas where other types of convective-scale observations are sparse or nonexistent. This study used the ensemble Kalman filter (EnKF) to assimilate real-data pseudo-GLM flash extent density (FED) observations at convection-resolving scale for a nonsevere multicell storm case (6 June 2000) and a tomadic supercell case (8 May 2003).]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

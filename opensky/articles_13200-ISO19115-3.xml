@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:14.657847</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:02.428667</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>An assimilative mapping procedure is developed to optimally combine information from Super Dual Auroral Radar Network (SuperDARN) plasma drift observations and a background statistical convection model to derive global distributions of electrostatic potential. This procedure takes into account statistical properties of the background model errors, obtained through the empirical orthogonal function analysis technique described in a companion paper. The assimilative mapping procedure is evaluated quantitatively using cross-validation and is found to reduce median prediction errors by up to 43% as compared to the existing linear regression-based SuperDARN mapping procedure. Furthermore, the mapped results from the assimilative procedure show a greater dynamic range in convection strength than do those of the regression-based procedure (i.e., the cross-polar cap potential is smaller for weak driving conditions and larger for strong driving conditions). The application of the assimilative procedure is demonstrated for a case study containing a geomagnetic storm. It is shown that, qualitatively, the results of the assimilative procedure appear more smooth and consistent across both data-dense and data-sparse regions than do those of the regression-based procedure.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[An assimilative mapping procedure is developed to optimally combine information from Super Dual Auroral Radar Network (SuperDARN) plasma drift observations and a background statistical convection model to derive global distributions of electrostatic potential. This procedure takes into account statistical properties of the background model errors, obtained through the empirical orthogonal function analysis technique described in a companion paper. The assimilative mapping procedure is evaluated quantitatively using cross-validation and is found to reduce median prediction errors by up to 43% as compared to the existing linear regression-based SuperDARN mapping procedure. Furthermore, the mapped results from the assimilative procedure show a greater dynamic range in convection strength than do those of the regression-based procedure (i.e., the cross-polar cap potential is smaller for weak driving conditions and larger for strong driving conditions). The application of the assimilative procedure is demonstrated for a case study containing a geomagnetic storm. It is shown that, qualitatively, the results of the assimilative procedure appear more smooth and consistent across both data-dense and data-sparse regions than do those of the regression-based procedure.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:31.673548</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:05.604080</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We have analyzed measurements of vertical velocity w statistics with the NOAA high resolution Doppler lidar (HRDL) from about 390 m above the surface to the top of the convective boundary layer (CBL) over a relatively flat and uniform agricultural surface during the Lidars-in-Flat-Terrain (LIFT) experiment in 1996. The temporal resolution of the zenith-pointing lidar was about 1 s, and the range-gate resolution about 30 m. Vertical cross-sections of w were used to calculate second- to fourth-moment statistics of w as a function of height throughout most of the CBL. We compare the results with large-eddy simulations (LES) of the CBL and with in situ aircraft measurements. A major cause of the observed case-to-case variability in the vertical profiles of the higher moments is differences in stability. For example, for the most convective cases, the skewness from both LES and observations changes more with height than for cases with more shear, with the observations changing more with stability than the LES. We also found a decrease in skewness, particularly in the upper part of the CBL, with an increase in LES grid resolution.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We have analyzed measurements of vertical velocity w statistics with the NOAA high resolution Doppler lidar (HRDL) from about 390 m above the surface to the top of the convective boundary layer (CBL) over a relatively flat and uniform agricultural surface during the Lidars-in-Flat-Terrain (LIFT) experiment in 1996. The temporal resolution of the zenith-pointing lidar was about 1 s, and the range-gate resolution about 30 m. Vertical cross-sections of w were used to calculate second- to fourth-moment statistics of w as a function of height throughout most of the CBL. We compare the results with large-eddy simulations (LES) of the CBL and with in situ aircraft measurements. A major cause of the observed case-to-case variability in the vertical profiles of the higher moments is differences in stability. For example, for the most convective cases, the skewness from both LES and observations changes more with height than for cases with more shear, with the observations changing more with stability than the LES. We also found a decrease in skewness, particularly in the upper part of the CBL, with an increase in LES grid resolution.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

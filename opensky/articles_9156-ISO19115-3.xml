@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:17.953108</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:45.635201</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>It is generally accepted that the energy that drives coronal mass ejections (CMEs) is magnetic in origin. Sheared and twisted coronal fields can store free magnetic energy which ultimately is released in the CME. We explore the possibility of the specific magnetic configuration of a magnetic flux rope of field lines that twist about an axial field line. The flux rope model predicts coronal observables, including heating along forward or inverse S-shaped, or sigmoid, topological surfaces. Therefore, studying the observed evolution of such sigmoids prior to, during, and after the CME gives us crucial insight into the physics of coronal storage and release of magnetic energy. In particular, we consider (1) soft-X-ray sigmoids, both transient and persistent; (2) The formation of a current sheet and cusp-shaped post-flare loops below the CME; (3) Reappearance of sigmoids after CMEs; (4) Partially erupting filaments; (5) Magnetic cloud observations of filament material.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[It is generally accepted that the energy that drives coronal mass ejections (CMEs) is magnetic in origin. Sheared and twisted coronal fields can store free magnetic energy which ultimately is released in the CME. We explore the possibility of the specific magnetic configuration of a magnetic flux rope of field lines that twist about an axial field line. The flux rope model predicts coronal observables, including heating along forward or inverse S-shaped, or sigmoid, topological surfaces. Therefore, studying the observed evolution of such sigmoids prior to, during, and after the CME gives us crucial insight into the physics of coronal storage and release of magnetic energy. In particular, we consider (1) soft-X-ray sigmoids, both transient and persistent; (2) The formation of a current sheet and cusp-shaped post-flare loops below the CME; (3) Reappearance of sigmoids after CMEs; (4) Partially erupting filaments; (5) Magnetic cloud observations of filament material.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

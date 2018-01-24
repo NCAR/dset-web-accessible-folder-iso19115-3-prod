@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:03.042459</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:47.676135</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Biomass burning is one of the largest sources of trace gases and aerosols to the atmosphere and has profound influence on tropospheric oxidants and radiative forcing. Using a fully coupled chemistry-climate model (GFDL AM3), we find that co-emission of trace gases and aerosol from present-day biomass burning increases the global tropospheric ozone burden by 5.1% and decreases global mean OH by 6.3%. Gas and aerosol emissions combine to increase CH4 lifetime nonlinearly. Heterogeneous processes are shown to contribute partly to the observed lower deltaO3/deltaCO ratios in northern high latitudes versus tropical regions. The radiative forcing from biomass burning is shown to vary nonlinearly with biomass burning strength. At present-day emission levels, biomass burning produces a net radiative forcing of -0.19 W/m2 (-0.29 from short-lived species, mostly aerosol direct and indirect effects, +0.10 from CH4- and CH4-induced changes in O3 and stratospheric H2O) but increases emissions to over 5 times present levels would result in a positive net forcing.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Biomass burning is one of the largest sources of trace gases and aerosols to the atmosphere and has profound influence on tropospheric oxidants and radiative forcing. Using a fully coupled chemistry-climate model (GFDL AM3), we find that co-emission of trace gases and aerosol from present-day biomass burning increases the global tropospheric ozone burden by 5.1% and decreases global mean OH by 6.3%. Gas and aerosol emissions combine to increase CH4 lifetime nonlinearly. Heterogeneous processes are shown to contribute partly to the observed lower deltaO3/deltaCO ratios in northern high latitudes versus tropical regions. The radiative forcing from biomass burning is shown to vary nonlinearly with biomass burning strength. At present-day emission levels, biomass burning produces a net radiative forcing of -0.19 W/m2 (-0.29 from short-lived species, mostly aerosol direct and indirect effects, +0.10 from CH4- and CH4-induced changes in O3 and stratospheric H2O) but increases emissions to over 5 times present levels would result in a positive net forcing.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

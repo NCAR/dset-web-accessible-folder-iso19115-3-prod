@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:00.470295</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:44.340275</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Using CCSM4 climate simulations for 1850-2300 with four different future forcing scenarios, we show that the maximum strength of the Atlantic meridional overturning circulation (MOC) decreases proportionally to the applied CO2 forcing. This weakening of the overturning is caused by a reduction or shut down of North Atlantic (NA) deep convection due to a surface freshening. In the Labrador Sea, the surface freshening is caused by strongly increased liquid freshwater exports from the Arctic, which are largely due to the decrease in the Arctic sea ice cover. In the strongest forcing scenario (RCP8.5), the Arctic becomes summer ice-free by the end of the 21st century and year-round ice-free by the end of the 23rd century. As a result of the associated freshening, all NA deep convection ceases by 2145, which leads to a 72% (18-Sv) decrease of the MOC strength by the end of the simulation in 2300.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Using CCSM4 climate simulations for 1850-2300 with four different future forcing scenarios, we show that the maximum strength of the Atlantic meridional overturning circulation (MOC) decreases proportionally to the applied CO2 forcing. This weakening of the overturning is caused by a reduction or shut down of North Atlantic (NA) deep convection due to a surface freshening. In the Labrador Sea, the surface freshening is caused by strongly increased liquid freshwater exports from the Arctic, which are largely due to the decrease in the Arctic sea ice cover. In the strongest forcing scenario (RCP8.5), the Arctic becomes summer ice-free by the end of the 21st century and year-round ice-free by the end of the 23rd century. As a result of the associated freshening, all NA deep convection ceases by 2145, which leads to a 72% (18-Sv) decrease of the MOC strength by the end of the simulation in 2300.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

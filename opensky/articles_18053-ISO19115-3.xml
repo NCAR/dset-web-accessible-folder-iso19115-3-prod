@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:17.125433</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:31.477120</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -174,7 +174,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>There are similarities between the physical details described in the Exodus 14 narrative of the parting of the Red Sea, and a wind setdown event in the eastern Nile delta. This publication takes the ocean model results reported by Drews and Han in 2010 and places them in a biblical, archaeological, and historical context. Certain biblical and archaeological research also supports a crossing at the Kedua Gap or possibly at Tell Abu Sefeh. The proposed locations are within 10 km of a place identified as Migdol by several biblical scholars. Four possible crossing sites are evaluated with respect to the biblical text, and what they might imply for the route of a Hebrew exodus from Egypt during the New Kingdom period. The scientific plausibility of the ancient account suggests that Exodus 14 preserves the memory of an actual historical event.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[There are similarities between the physical details described in the Exodus 14 narrative of the parting of the Red Sea, and a wind setdown event in the eastern Nile delta. This publication takes the ocean model results reported by Drews and Han in 2010 and places them in a biblical, archaeological, and historical context. Certain biblical and archaeological research also supports a crossing at the Kedua Gap or possibly at Tell Abu Sefeh. The proposed locations are within 10 km of a place identified as Migdol by several biblical scholars. Four possible crossing sites are evaluated with respect to the biblical text, and what they might imply for the route of a Hebrew exodus from Egypt during the New Kingdom period. The scientific plausibility of the ancient account suggests that Exodus 14 preserves the memory of an actual historical event.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

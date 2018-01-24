@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:02.533963</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:47.004965</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We show evidence that solar wind density enhancements and pressure pulses can lead to intense low-energy particle precipitation and an associated, but unexpected, damping of thermospheric density response. Ground-based indices, used as proxies for thermospheric energy deposition, fail to capture these interactions in forecasting algorithms. Superposed epoch comparison of a group of poorly specified neutral density storms suggests an event-chain of multi-hour, pre-storm solar wind density enhancement, followed by solar wind dynamic pressure pulses that trigger excess low-energy particle flux to the upper atmosphere; enhanced production of thermospheric Nitric Oxide (NO) by precipitating particles and storm heating; NO infrared cooling and damping of the thermosphere; and mis-forecast of neutral density. In the control storms, these features are absent or muted. We discuss the roles of solar wind pre-conditioning and solar cycle dependency in the problem storms. These problem neutral-density storms reveal an element of "geo-effectiveness" that highlights competition between hydrodynamic aspects of the solar wind and other interplanetary drivers.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We show evidence that solar wind density enhancements and pressure pulses can lead to intense low-energy particle precipitation and an associated, but unexpected, damping of thermospheric density response. Ground-based indices, used as proxies for thermospheric energy deposition, fail to capture these interactions in forecasting algorithms. Superposed epoch comparison of a group of poorly specified neutral density storms suggests an event-chain of multi-hour, pre-storm solar wind density enhancement, followed by solar wind dynamic pressure pulses that trigger excess low-energy particle flux to the upper atmosphere; enhanced production of thermospheric Nitric Oxide (NO) by precipitating particles and storm heating; NO infrared cooling and damping of the thermosphere; and mis-forecast of neutral density. In the control storms, these features are absent or muted. We discuss the roles of solar wind pre-conditioning and solar cycle dependency in the problem storms. These problem neutral-density storms reveal an element of "geo-effectiveness" that highlights competition between hydrodynamic aspects of the solar wind and other interplanetary drivers.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

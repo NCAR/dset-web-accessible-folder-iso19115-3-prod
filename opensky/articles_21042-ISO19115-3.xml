@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:56.489606</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:31.524553</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Cloud-top generating cells (GCs) are a common feature atop stratiform clouds within the comma head of winter cyclones. The dynamics of cloud-top GCs are investigated using very high-resolution idealized WRF Model simulations to examine the role of shear in modulating the structure and intensity of GCs. Simulations were run for the same combinations of radiative forcing and instability as in Part II of this series, but with six different shear profiles ranging from 0 to 10 ms(-1) km(-1) within the layer encompassing the GCs.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Cloud-top generating cells (GCs) are a common feature atop stratiform clouds within the comma head of winter cyclones. The dynamics of cloud-top GCs are investigated using very high-resolution idealized WRF Model simulations to examine the role of shear in modulating the structure and intensity of GCs. Simulations were run for the same combinations of radiative forcing and instability as in Part II of this series, but with six different shear profiles ranging from 0 to 10 ms(-1) km(-1) within the layer encompassing the GCs.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:21.393270</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:11.216721</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We report the results of a magnetohydrodynamic (MHD) simulation of a convective dynamo in a model solar convective envelope driven by the solar radiative diffusive heat flux. The convective dynamo produces a large-scale mean magnetic field that exhibits irregular cyclic behavior with oscillation time scales ranging from about 5 to 15 yr and undergoes irregular polarity reversals. The mean axisymmetric toroidal magnetic field is of opposite signs in the two hemispheres and is concentrated at the bottom of the convection zone. The presence of the magnetic fields is found to play an important role in the self-consistent maintenance of a solar-like differential rotation in the convective dynamo model. Without the magnetic fields, the convective flows drive a differential rotation with a faster rotating polar region. In the midst of magneto-convection, we found the emergence of strong super-equipartition flux bundles at the surface, exhibiting properties that are similar to emerging solar active regions.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We report the results of a magnetohydrodynamic (MHD) simulation of a convective dynamo in a model solar convective envelope driven by the solar radiative diffusive heat flux. The convective dynamo produces a large-scale mean magnetic field that exhibits irregular cyclic behavior with oscillation time scales ranging from about 5 to 15 yr and undergoes irregular polarity reversals. The mean axisymmetric toroidal magnetic field is of opposite signs in the two hemispheres and is concentrated at the bottom of the convection zone. The presence of the magnetic fields is found to play an important role in the self-consistent maintenance of a solar-like differential rotation in the convective dynamo model. Without the magnetic fields, the convective flows drive a differential rotation with a faster rotating polar region. In the midst of magneto-convection, we found the emergence of strong super-equipartition flux bundles at the surface, exhibiting properties that are similar to emerging solar active regions.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

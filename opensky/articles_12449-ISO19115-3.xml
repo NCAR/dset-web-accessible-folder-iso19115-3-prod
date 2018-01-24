@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:56.686584</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:39.506603</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>To help understand the large disparity in the results of circulation modeling for the atmospheres of Titan and Venus, where the whole atmosphere rotates faster than the surface (superrotation), the atmospheric angular momentum budget is detailed for two General Circulation Models (GCMs). The LMD GCM is tested for both Venus (with simplified and with more realistic physical forcings) and Titan (realistic physical forcings). The Community Atmosphere Model is tested for both Earth and Venus with simplified physical forcings. These analyses demonstrate that errors related to atmospheric angular momentum conservation are significant, especially for Venus when the physical forcings are simplified. Unphysical residuals that have to be balanced by surface friction and mountain torques therefore affect the overall circulation. The presence of topography increases exchanges of angular momentum between surface and atmosphere, reducing the impact of these numerical errors. The behavior of GCM dynamical cores with regard to angular momentum conservation under Venus conditions provides an explanation of why recent GCMs predict dissimilar results despite identical thermal forcing. The present study illustrates the need for careful and detailed analysis of the angular momentum budget for any GCM used to simulate superrotating atmospheres.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[To help understand the large disparity in the results of circulation modeling for the atmospheres of Titan and Venus, where the whole atmosphere rotates faster than the surface (superrotation), the atmospheric angular momentum budget is detailed for two General Circulation Models (GCMs). The LMD GCM is tested for both Venus (with simplified and with more realistic physical forcings) and Titan (realistic physical forcings). The Community Atmosphere Model is tested for both Earth and Venus with simplified physical forcings. These analyses demonstrate that errors related to atmospheric angular momentum conservation are significant, especially for Venus when the physical forcings are simplified. Unphysical residuals that have to be balanced by surface friction and mountain torques therefore affect the overall circulation. The presence of topography increases exchanges of angular momentum between surface and atmosphere, reducing the impact of these numerical errors. The behavior of GCM dynamical cores with regard to angular momentum conservation under Venus conditions provides an explanation of why recent GCMs predict dissimilar results despite identical thermal forcing. The present study illustrates the need for careful and detailed analysis of the angular momentum budget for any GCM used to simulate superrotating atmospheres.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:23.228534</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:53.493906</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Temperature profiles in polar latitudes during summer reveal a strong and persistent inversion layer associated with the polar summer tropopause. This inversion layer is characterized by a temperature increase of ~8 K in the first 2-3 km above the tropopause and is observed throughout summer polar latitudes in both hemispheres. Radiosonde and GPS radio occultation temperature observations are used to document characteristics of the inversion layer, including its seasonal variability and modulation by synoptic meteorological systems (cyclones and anticyclones). Previous analyses have suggested a radiative mechanism for formation and maintenance of tropopause inversions, related to water vapor and ozone near the tropopause. Fixed dynamical heating (FDH) calculations are used herein to investigate this behavior in polar regions, based on observed seasonally varying profiles of water vapor (from satellite measurements) and ozone (from ozonesondes). Water vapor exhibits a strong seasonal cycle throughout the troposphere and lowest stratosphere, with a pronounced summer maximum, which is primarily a result of the seasonally varying tropospheric temperatures. The FDH calculations suggest that enhanced summer water vapor leads to strong radiative cooling in a narrow layer near the tropopause, so that the radiative influence of water vapor provides a primary mechanism for the summer inversion layer.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Temperature profiles in polar latitudes during summer reveal a strong and persistent inversion layer associated with the polar summer tropopause. This inversion layer is characterized by a temperature increase of ~8 K in the first 2-3 km above the tropopause and is observed throughout summer polar latitudes in both hemispheres. Radiosonde and GPS radio occultation temperature observations are used to document characteristics of the inversion layer, including its seasonal variability and modulation by synoptic meteorological systems (cyclones and anticyclones). Previous analyses have suggested a radiative mechanism for formation and maintenance of tropopause inversions, related to water vapor and ozone near the tropopause. Fixed dynamical heating (FDH) calculations are used herein to investigate this behavior in polar regions, based on observed seasonally varying profiles of water vapor (from satellite measurements) and ozone (from ozonesondes). Water vapor exhibits a strong seasonal cycle throughout the troposphere and lowest stratosphere, with a pronounced summer maximum, which is primarily a result of the seasonally varying tropospheric temperatures. The FDH calculations suggest that enhanced summer water vapor leads to strong radiative cooling in a narrow layer near the tropopause, so that the radiative influence of water vapor provides a primary mechanism for the summer inversion layer.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

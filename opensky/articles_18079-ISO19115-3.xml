@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:17.832752</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:32.546306</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -313,7 +313,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Amundsen Sea low (ASL) is a climatological low pressure center that exerts considerable influence on the climate of West Antarctica. Its potential to explain important recent changes in Antarctic climate, for example, in temperature and sea ice extent, means that it has become the focus of an increasing number of studies. Here, the authors summarize the current understanding of the ASL, using reanalysis datasets to analyze recent variability and trends, as well as ice-core chemistry and climate model projections, to examine past and future changes in the ASL, respectively. The ASL has deepened in recent decades, affecting the climate through its influence on the regional meridional wind field, which controls the advection of moisture and heat into the continent. Deepening of the ASL in spring is consistent with observed West Antarctic warming and greater sea ice extent in the Ross Sea. Climate model simulations for recent decades indicate that this deepening is mediated by tropical variability while climate model projections through the twenty-first century suggest that the ASL will deepen in some seasons in response to greenhouse gas concentration increases.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Amundsen Sea low (ASL) is a climatological low pressure center that exerts considerable influence on the climate of West Antarctica. Its potential to explain important recent changes in Antarctic climate, for example, in temperature and sea ice extent, means that it has become the focus of an increasing number of studies. Here, the authors summarize the current understanding of the ASL, using reanalysis datasets to analyze recent variability and trends, as well as ice-core chemistry and climate model projections, to examine past and future changes in the ASL, respectively. The ASL has deepened in recent decades, affecting the climate through its influence on the regional meridional wind field, which controls the advection of moisture and heat into the continent. Deepening of the ASL in spring is consistent with observed West Antarctic warming and greater sea ice extent in the Ross Sea. Climate model simulations for recent decades indicate that this deepening is mediated by tropical variability while climate model projections through the twenty-first century suggest that the ASL will deepen in some seasons in response to greenhouse gas concentration increases.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

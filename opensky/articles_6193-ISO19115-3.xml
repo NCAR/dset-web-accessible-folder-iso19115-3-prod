@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:08.068137</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:31.266244</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The global performance of a new two-moment cloud microphysics scheme for a general circulation model (GCM) is presented and evaluated relative to observations. The scheme produces reasonable representations of cloud particle size and number concentration when compared to observations, and it represents expected and observed spatial variations in cloud microphysical quantities. The scheme has smaller particles and higher number concentrations over land than the standard bulk microphysics in the GCM and is able to balance the top-of-atmosphere radiation budget with 60% the liquid water of the standard scheme, in better agreement with retrieved values. The new scheme diagnostically treats both the mixing ratio and number concentration of rain and snow, and it is therefore able to differentiate the two key regimes, consisting of drizzle in shallow, warm clouds and larger rain drops in deeper cloud systems. The modeled rain and snow size distributions are consistent with observations.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The global performance of a new two-moment cloud microphysics scheme for a general circulation model (GCM) is presented and evaluated relative to observations. The scheme produces reasonable representations of cloud particle size and number concentration when compared to observations, and it represents expected and observed spatial variations in cloud microphysical quantities. The scheme has smaller particles and higher number concentrations over land than the standard bulk microphysics in the GCM and is able to balance the top-of-atmosphere radiation budget with 60% the liquid water of the standard scheme, in better agreement with retrieved values. The new scheme diagnostically treats both the mixing ratio and number concentration of rain and snow, and it is therefore able to differentiate the two key regimes, consisting of drizzle in shallow, warm clouds and larger rain drops in deeper cloud systems. The modeled rain and snow size distributions are consistent with observations.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

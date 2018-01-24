@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:42.193196</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:20.460130</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>It has already been shown that the Thermosphere-Ionosphere-Electrodynamics General Circulation Model (TIE-GCM) is capable of reproducing the pre-reversal enhancement (PRE) of the equatorial zonal electric field. However, the ability of TIE-GCM to reproduce the post-sunset plasma vortex, an important feature of the evening equatorial ionosphere closely related to the PRE, has been overlooked and had yet to be addressed. In order to address the ability of TIE-GCM to reproduce the vortex, we examined model simulations of the plasma flow pattern in the geomagnetic equatorial plane and compared the simulations with ground-based radar observations. We found that TIE-GCM is indeed capable of reproducing the overall features of the post-sunset equatorial plasma vortex pattern. We also found that both E and F region dynamos in TIE-GCM dictate the main features of the vertical shear in the zonal plasma drifts that is part of the evening vortex. The contribution of vertical currents to the shear, however, is not negligible. Comparison of simulation results with radar measurements of the vortex indicates that the model can still be improved to better match the observations.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[It has already been shown that the Thermosphere-Ionosphere-Electrodynamics General Circulation Model (TIE-GCM) is capable of reproducing the pre-reversal enhancement (PRE) of the equatorial zonal electric field. However, the ability of TIE-GCM to reproduce the post-sunset plasma vortex, an important feature of the evening equatorial ionosphere closely related to the PRE, has been overlooked and had yet to be addressed. In order to address the ability of TIE-GCM to reproduce the vortex, we examined model simulations of the plasma flow pattern in the geomagnetic equatorial plane and compared the simulations with ground-based radar observations. We found that TIE-GCM is indeed capable of reproducing the overall features of the post-sunset equatorial plasma vortex pattern. We also found that both E and F region dynamos in TIE-GCM dictate the main features of the vertical shear in the zonal plasma drifts that is part of the evening vortex. The contribution of vertical currents to the shear, however, is not negligible. Comparison of simulation results with radar measurements of the vortex indicates that the model can still be improved to better match the observations.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:17.212827</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:31.616038</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study examines gravity waves that develop at the boundary-layer capping inversion in the lee of a mountain ridge. By comparing different linear wave theories, we show that lee waves that form under these conditions are most accurately described as forced interfacial waves. Perturbations in this type of flow can be studied with a linear two-dimensional model with constant wind speed and a sharp density discontinuity separating two layers, a neutral one below and a stable one above. Defining the model parameters on the basis of observations taken in the Madeira archipelago, we highlight the impact of upper-level stability on interfacial waves. We demonstrate that stable stratification aloft limits the possible range of lee wavelengths and modulates the length of the stationary wave mode. Finally, we show that the stable stratification aloft strongly constrains the validity of the shallow-water (or long-wave) approximation by permitting only short-wave modes to be trapped at the interface.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study examines gravity waves that develop at the boundary-layer capping inversion in the lee of a mountain ridge. By comparing different linear wave theories, we show that lee waves that form under these conditions are most accurately described as forced interfacial waves. Perturbations in this type of flow can be studied with a linear two-dimensional model with constant wind speed and a sharp density discontinuity separating two layers, a neutral one below and a stable one above. Defining the model parameters on the basis of observations taken in the Madeira archipelago, we highlight the impact of upper-level stability on interfacial waves. We demonstrate that stable stratification aloft limits the possible range of lee wavelengths and modulates the length of the stationary wave mode. Finally, we show that the stable stratification aloft strongly constrains the validity of the shallow-water (or long-wave) approximation by permitting only short-wave modes to be trapped at the interface.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

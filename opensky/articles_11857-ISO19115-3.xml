@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:42.562442</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:20.978645</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this paper we explore the use of time-variable tracer data as a complementary tool for model structure evaluation. We augment the modular rainfall-runoff modeling framework FUSE (Framework for Understanding Structural Errors) with the ability to track the age distribution of water in all model stores and fluxes. We therefore gain the novel ability to compare tracer/water age signatures measured in a catchment with those predicted using hydrological models built from components based on four existing popular models. Key modeling decisions available in FUSE are evaluated against streamflow tracer dynamics using weekly observations of tracer concentration which reflect the tracer transit time distribution (TTD). Model structure choice is shown to have a significant effect on simulated water age characteristics, even when simulated flow series are very similar. We show that for a Scottish case study catchment, careful selection of model structure enables good predictions of both streamflow and tracer dynamics. We then use FUSE as a hypothesis testing tool to understand how different model characterization of TTDs and mean transit times affect multicriteria model performance. We demonstrate the importance of time variation in TTDs in simulating water movement along fast flow pathways, and investigate sensitivity of the models to assumptions about our ability to sample fast, near-surface flow.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this paper we explore the use of time-variable tracer data as a complementary tool for model structure evaluation. We augment the modular rainfall-runoff modeling framework FUSE (Framework for Understanding Structural Errors) with the ability to track the age distribution of water in all model stores and fluxes. We therefore gain the novel ability to compare tracer/water age signatures measured in a catchment with those predicted using hydrological models built from components based on four existing popular models. Key modeling decisions available in FUSE are evaluated against streamflow tracer dynamics using weekly observations of tracer concentration which reflect the tracer transit time distribution (TTD). Model structure choice is shown to have a significant effect on simulated water age characteristics, even when simulated flow series are very similar. We show that for a Scottish case study catchment, careful selection of model structure enables good predictions of both streamflow and tracer dynamics. We then use FUSE as a hypothesis testing tool to understand how different model characterization of TTDs and mean transit times affect multicriteria model performance. We demonstrate the importance of time variation in TTDs in simulating water movement along fast flow pathways, and investigate sensitivity of the models to assumptions about our ability to sample fast, near-surface flow.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

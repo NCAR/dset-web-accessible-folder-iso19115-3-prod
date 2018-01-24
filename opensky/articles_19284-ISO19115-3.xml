@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:37.511096</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:03.085019</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>From large-eddy simulations of atmospheric turbulence, a representation of Gaussian turbulence is constructed by randomizing the phases of the individual modes of variability. Time series of Gaussian turbulence are constructed and compared with its non-Gaussian counterpart. Time series from the two types of turbulence are then used as input to wind turbine load simulations under normal operations with the HAWC2 software package. A slight increase in the extreme loads of the tower base fore-aft moment is observed for high wind speeds when using non-Gaussian turbulence but is insignificant when taking into account the safety factor for extreme moments. Other extreme load moments as well as the fatigue loads are not affected because of the use of non-Gaussian turbulent inflow. It is suggested that the turbine thus acts like a low-pass filter that averages out the non-Gaussian behaviour, which is mainly associated with the fastest and smallest scales.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[From large-eddy simulations of atmospheric turbulence, a representation of Gaussian turbulence is constructed by randomizing the phases of the individual modes of variability. Time series of Gaussian turbulence are constructed and compared with its non-Gaussian counterpart. Time series from the two types of turbulence are then used as input to wind turbine load simulations under normal operations with the HAWC2 software package. A slight increase in the extreme loads of the tower base fore-aft moment is observed for high wind speeds when using non-Gaussian turbulence but is insignificant when taking into account the safety factor for extreme moments. Other extreme load moments as well as the fatigue loads are not affected because of the use of non-Gaussian turbulent inflow. It is suggested that the turbine thus acts like a low-pass filter that averages out the non-Gaussian behaviour, which is mainly associated with the fastest and smallest scales.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

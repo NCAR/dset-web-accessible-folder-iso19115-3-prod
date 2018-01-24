@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:32.026820</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:54.274172</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The 17-18 March 2015 storm is the largest geomagnetic storm in the Van Allen Probes era to date. The Lyon-Fedder-Mobarry global MHD model has been run for this event using ARTEMIS data as solar wind input. The ULF wave power spectral density of the azimuthal electric field and compressional magnetic field is analyzed in the 0.5-8.3mHz range. The lowest three azimuthal modes account for 70% of the total power during quiet times. However, during high activity, they are not exclusively dominant. The calculation of the radial diffusion coefficient is presented. We conclude that the electric field radial diffusion coefficient is dominant over the magnetic field coefficient by one to two orders of magnitude. This result contrasts with the dominant magnetic field diffusion coefficient used in most 3-D diffusion models.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The 17-18 March 2015 storm is the largest geomagnetic storm in the Van Allen Probes era to date. The Lyon-Fedder-Mobarry global MHD model has been run for this event using ARTEMIS data as solar wind input. The ULF wave power spectral density of the azimuthal electric field and compressional magnetic field is analyzed in the 0.5-8.3mHz range. The lowest three azimuthal modes account for 70% of the total power during quiet times. However, during high activity, they are not exclusively dominant. The calculation of the radial diffusion coefficient is presented. We conclude that the electric field radial diffusion coefficient is dominant over the magnetic field coefficient by one to two orders of magnitude. This result contrasts with the dominant magnetic field diffusion coefficient used in most 3-D diffusion models.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

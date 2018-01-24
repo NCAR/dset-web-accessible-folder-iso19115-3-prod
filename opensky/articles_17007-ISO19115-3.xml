@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:55.182702</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:00.150570</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Hyperspectral infrared sounders such as the AIRS and IASI provide unprecedented global atmospheric temperature and moisture soundings with high vertical resolution and accuracy. The AIRS and IASI data have been used in global numerical weather prediction models with positive impact on weather forecasts. The high spatial resolution single field-of-view soundings retrieved from AIRS have been applied to hurricane track and intensity assimilations and forecasts. The newly developed NCAR WRF/DART ensemble data assimilation is performed at 36 km resolution. Studies show that the track error for Hurricane Ike (2008) is reduced greatly when AIRS soundings are used compared with the control run which includes other observations such as radiosonde, satellite cloud winds, aircraft data, ship data, and land surface data, etc. The hurricane intensity forecast is also substantially improved when AIRS data are assimilated. This study demonstrates the importance of high spatial and hyperspectral IR sounding data in forecasting hurricanes.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Hyperspectral infrared sounders such as the AIRS and IASI provide unprecedented global atmospheric temperature and moisture soundings with high vertical resolution and accuracy. The AIRS and IASI data have been used in global numerical weather prediction models with positive impact on weather forecasts. The high spatial resolution single field-of-view soundings retrieved from AIRS have been applied to hurricane track and intensity assimilations and forecasts. The newly developed NCAR WRF/DART ensemble data assimilation is performed at 36 km resolution. Studies show that the track error for Hurricane Ike (2008) is reduced greatly when AIRS soundings are used compared with the control run which includes other observations such as radiosonde, satellite cloud winds, aircraft data, ship data, and land surface data, etc. The hurricane intensity forecast is also substantially improved when AIRS data are assimilated. This study demonstrates the importance of high spatial and hyperspectral IR sounding data in forecasting hurricanes.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

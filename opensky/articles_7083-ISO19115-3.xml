@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:12.613060</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:37.922495</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Estimates of CO sources derived from inversions using satellite observations still exhibit discrepancies. Here, we conduct controlled inverse analyses to elucidate the influence of model transport on the robustness of regional CO source estimates. We utilized Model of Ozone and Related chemical Tracers global chemical transport models (GCTM) driven by National Centers for Environmental Prediction and European Centre for Medium-Range Weather Forecast reanalyses, and GEOS-Chem GCTM driven by Global Modeling and Assimilation Office assimilated meteorology to generate response functions for prescribed regional CO sources. We find that inter-model differences in CO due to differences in transport are within 10-30% of inter-model mean CO concentration. However, these differences can translate to regionally significant spread in source estimates. While we find that CO source estimates for East Asia and North Africa are reasonably robust, we find inconsistencies and inter-model spread of greater than 40% in our source estimates for Indonesia, South America, Europe and Russia. This indicates the need for rigorous assessment on uncertainties in top-down source estimates through model inter-comparisons and ensemble approaches.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Estimates of CO sources derived from inversions using satellite observations still exhibit discrepancies. Here, we conduct controlled inverse analyses to elucidate the influence of model transport on the robustness of regional CO source estimates. We utilized Model of Ozone and Related chemical Tracers global chemical transport models (GCTM) driven by National Centers for Environmental Prediction and European Centre for Medium-Range Weather Forecast reanalyses, and GEOS-Chem GCTM driven by Global Modeling and Assimilation Office assimilated meteorology to generate response functions for prescribed regional CO sources. We find that inter-model differences in CO due to differences in transport are within 10-30% of inter-model mean CO concentration. However, these differences can translate to regionally significant spread in source estimates. While we find that CO source estimates for East Asia and North Africa are reasonably robust, we find inconsistencies and inter-model spread of greater than 40% in our source estimates for Indonesia, South America, Europe and Russia. This indicates the need for rigorous assessment on uncertainties in top-down source estimates through model inter-comparisons and ensemble approaches.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

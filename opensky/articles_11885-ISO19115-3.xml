@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:43.108914</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:21.775249</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The evolution of bubbles in a turbulent oceanic boundary layer is simulated using a multi-size multi-gas bubble model coupled with a Large Eddy Simulation model. Bubbles injected by breaking waves are brought into the boundary layer by episodic bubble plumes, and they form near-surface streaks in the convergence zone of Langmuir circulations. The equilibrium bubble distribution decays exponentially with depth and is a manifestation of intermittent bubble plumes whose bubble number density is at least one order of magnitude higher than the mean bubble number density. Bubble distribution in the injection zone is influenced by injection, turbulent transport, and dissolution. Bubble distribution below the injection zone is determined by the strength of turbulence and dissolution. For a given sea state, bubble e-folding depth increases linearly with friction velocity. Wave age is an additional governing parameter for bubble e-folding depth. The buoyancy of bubbles weakens both Langmuir circulations and near-surface turbulent kinetic energy dissipation. The buoyancy effect increases with wind speed. Gas flux through bubbles depends on both wind speed and wave age. For a given sea state, the bubble flux increases with wind speed to the fifth power.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The evolution of bubbles in a turbulent oceanic boundary layer is simulated using a multi-size multi-gas bubble model coupled with a Large Eddy Simulation model. Bubbles injected by breaking waves are brought into the boundary layer by episodic bubble plumes, and they form near-surface streaks in the convergence zone of Langmuir circulations. The equilibrium bubble distribution decays exponentially with depth and is a manifestation of intermittent bubble plumes whose bubble number density is at least one order of magnitude higher than the mean bubble number density. Bubble distribution in the injection zone is influenced by injection, turbulent transport, and dissolution. Bubble distribution below the injection zone is determined by the strength of turbulence and dissolution. For a given sea state, bubble e-folding depth increases linearly with friction velocity. Wave age is an additional governing parameter for bubble e-folding depth. The buoyancy of bubbles weakens both Langmuir circulations and near-surface turbulent kinetic energy dissipation. The buoyancy effect increases with wind speed. Gas flux through bubbles depends on both wind speed and wave age. For a given sea state, the bubble flux increases with wind speed to the fifth power.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

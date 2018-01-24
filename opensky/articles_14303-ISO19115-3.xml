@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:27.643803</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:19.362797</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -388,7 +388,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Suppose you are a city planner, regional water manager, or wildlife conservation specialist who is asked to include the potential impacts of climate variability and change in your risk management and planning efforts. What climate information would you use? The choice is often regional or local climate projections downscaled from global climate models (GCMs; also known as general circulation models) to include detail at spatial and temporal scales that align with those of the decision problem. A few years ago this information was hard to come by. Now there is Web-based access to a proliferation of high-resolution climate projections derived with differing downscaling methods.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Suppose you are a city planner, regional water manager, or wildlife conservation specialist who is asked to include the potential impacts of climate variability and change in your risk management and planning efforts. What climate information would you use? The choice is often regional or local climate projections downscaled from global climate models (GCMs; also known as general circulation models) to include detail at spatial and temporal scales that align with those of the decision problem. A few years ago this information was hard to come by. Now there is Web-based access to a proliferation of high-resolution climate projections derived with differing downscaling methods.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

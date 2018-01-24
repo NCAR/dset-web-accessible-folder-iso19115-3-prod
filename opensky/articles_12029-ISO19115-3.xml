@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:46.309924</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:26.228853</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -174,7 +174,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The importance of formally citing scientific research data has been recognized for decades but is only recently gaining momentum. Several federal government agencies urge data citation by researchers, DataCite and its digital object identifier registration services promote the practice of citing data, international citation guidelines are in development and a panel at the 2012 ASIS&amp;T Research Data Access and Preservation Summit focused on data citation. Despite strong reasons to support data citation, the lack of individual user incentives and a pervasive cultural inertia in research communities slow progress toward broad acceptance. But the growing demand for data transparency and linked data along with pressure from a variety of stakeholders combine to fuel effective data citation. Efforts promoting data citation must come from recognized institutions, appreciate the special characteristics of data sets and initially emphasize simplicity and manageability.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The importance of formally citing scientific research data has been recognized for decades but is only recently gaining momentum. Several federal government agencies urge data citation by researchers, DataCite and its digital object identifier registration services promote the practice of citing data, international citation guidelines are in development and a panel at the 2012 ASIS&T Research Data Access and Preservation Summit focused on data citation. Despite strong reasons to support data citation, the lack of individual user incentives and a pervasive cultural inertia in research communities slow progress toward broad acceptance. But the growing demand for data transparency and linked data along with pressure from a variety of stakeholders combine to fuel effective data citation. Efforts promoting data citation must come from recognized institutions, appreciate the special characteristics of data sets and initially emphasize simplicity and manageability.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

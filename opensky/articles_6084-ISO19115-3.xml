@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:06.009340</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:28.372704</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We analyze and compare two approaches to processing radio occultation data: (1) canonical transform method and (2) full spectrum inversion method. We show that these methods are closely related and can be explained from two view points: (1) both methods apply a Fourier transform like operator to the entire radio occultation signal, and the derivative of the phase of the transformed signal is used for the computation of bending angles, and (2) they can be explained from a signal processing view point as the location of multiple tones constituting the complete signal. The full spectrum inversion method is a composition of phase correction and Fourier transform, which makes the numerical algorithm computationally more efficient as compared to the canonical transform method. We investigate the relative performance of the two methods in simulations using a wave optics propagator. We use simple analytical models of the atmospheric refractivity as well as radiosonde data in order to reproduce complex multipath situations. The numerical simulations as well as the analytical estimations indicate that a resolution of 60 m (or even higher) can be achieved.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We analyze and compare two approaches to processing radio occultation data: (1) canonical transform method and (2) full spectrum inversion method. We show that these methods are closely related and can be explained from two view points: (1) both methods apply a Fourier transform like operator to the entire radio occultation signal, and the derivative of the phase of the transformed signal is used for the computation of bending angles, and (2) they can be explained from a signal processing view point as the location of multiple tones constituting the complete signal. The full spectrum inversion method is a composition of phase correction and Fourier transform, which makes the numerical algorithm computationally more efficient as compared to the canonical transform method. We investigate the relative performance of the two methods in simulations using a wave optics propagator. We use simple analytical models of the atmospheric refractivity as well as radiosonde data in order to reproduce complex multipath situations. The numerical simulations as well as the analytical estimations indicate that a resolution of 60 m (or even higher) can be achieved.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

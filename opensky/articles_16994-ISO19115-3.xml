@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:54.923777</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:59.789616</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Localization and hybridization are two methods used in ensemble data assimilation to improve the accuracy of sample covariances. It is shown in this paper that it is beneficial to consider them jointly in the framework of linear filtering of sample covariances. Following previous work on localization, an objective method is provided to optimize both localization and hybridization coefficients simultaneously. Theoretical and experimental evidence shows that if optimal weights are used, localized-hybridized sample covariances are always more accurate than their localized-only counterparts, whatever the static covariance matrix specified for the hybridization. Experimental results obtained using a 1000-member ensemble as a reference show that the method developed in this paper can efficiently provide localization and hybridization coefficients consistent with the variable, vertical level, and ensemble size. Spatially heterogeneous optimization is shown to improve the accuracy of the filtered covariances, and consideration of both vertical and horizontal covariances is proven to have an impact on the hybridization coefficients.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Localization and hybridization are two methods used in ensemble data assimilation to improve the accuracy of sample covariances. It is shown in this paper that it is beneficial to consider them jointly in the framework of linear filtering of sample covariances. Following previous work on localization, an objective method is provided to optimize both localization and hybridization coefficients simultaneously. Theoretical and experimental evidence shows that if optimal weights are used, localized-hybridized sample covariances are always more accurate than their localized-only counterparts, whatever the static covariance matrix specified for the hybridization. Experimental results obtained using a 1000-member ensemble as a reference show that the method developed in this paper can efficiently provide localization and hybridization coefficients consistent with the variable, vertical level, and ensemble size. Spatially heterogeneous optimization is shown to improve the accuracy of the filtered covariances, and consideration of both vertical and horizontal covariances is proven to have an impact on the hybridization coefficients.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

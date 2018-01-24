@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:38.677913</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:15.420666</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>First order phase transitions involve nucleation, formation of nanoscale regions of a new phase within a metastable parent phase. Using the heterogeneous nucleation theorem we show how clusters formed by nucleation on single molecules evolve from the gas phase and determine the critical size beyond which condensation starts to form aerosol particles. Our experiments reveal the activation of molecules into droplets to happen via formation of critical clusters substantially larger than the seed molecule. The nanosized critical clusters were found to be well predicted by the Kelvin-Thomson relation pointing directly to the key step in the phase transition.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[First order phase transitions involve nucleation, formation of nanoscale regions of a new phase within a metastable parent phase. Using the heterogeneous nucleation theorem we show how clusters formed by nucleation on single molecules evolve from the gas phase and determine the critical size beyond which condensation starts to form aerosol particles. Our experiments reveal the activation of molecules into droplets to happen via formation of critical clusters substantially larger than the seed molecule. The nanosized critical clusters were found to be well predicted by the Kelvin-Thomson relation pointing directly to the key step in the phase transition.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

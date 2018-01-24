@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:13.037289</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:00.063453</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -418,7 +418,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Most scientific assessments for climate change adaptation and risk reduction are based on scenarios for climatic change. Scenarios for socio-economic development, particularly in terms of vulnerability and adaptive capacity, are largely lacking. This paper focuses on the utility of socio-economic scenarios for vulnerability, risk and adaptation research. The paper introduces the goals and functions of scenarios in general and reflects on the current global debate around shared socio-economic pathways (SSPs). It examines the options and constraints of scenario methods for risk and vulnerability assessments in the context of climate change and natural hazards. Two case studies are used to contrast the opportunities and current constraints in scenario methods at different scales: the global WorldRiskIndex, based on quantitative data and indicators; and a local participatory scenario development process in Jakarta, showing a qualitative approach. The juxtaposition of a quantitative approach with global data and a qualitative-participatory local approach provides new insights on how different methods and scenario techniques can be applied in vulnerability and risk research.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Most scientific assessments for climate change adaptation and risk reduction are based on scenarios for climatic change. Scenarios for socio-economic development, particularly in terms of vulnerability and adaptive capacity, are largely lacking. This paper focuses on the utility of socio-economic scenarios for vulnerability, risk and adaptation research. The paper introduces the goals and functions of scenarios in general and reflects on the current global debate around shared socio-economic pathways (SSPs). It examines the options and constraints of scenario methods for risk and vulnerability assessments in the context of climate change and natural hazards. Two case studies are used to contrast the opportunities and current constraints in scenario methods at different scales: the global WorldRiskIndex, based on quantitative data and indicators; and a local participatory scenario development process in Jakarta, showing a qualitative approach. The juxtaposition of a quantitative approach with global data and a qualitative-participatory local approach provides new insights on how different methods and scenario techniques can be applied in vulnerability and risk research.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

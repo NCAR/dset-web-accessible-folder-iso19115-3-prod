@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:14.999431</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:28.307243</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>An important source of heating in the mesosphere is the exothermic reaction of ozone with atomic hydrogen, which generates hydroxyl in a vibrationally excited state. Some of the energy from the excited states is lost through emissions in the Meinel bands. The heating efficiency of the exothermic reaction is therefore less than one. In this study, we incorporate a model of the vibrationally excited OH into the Whole Atmosphere Community Climate Model in order to calculate the heating efficiency of this reaction interactively with the model chemistry and dynamics. The global annual mean efficiency is near 60%, but the value can differ by 20% or more depending on altitude and season. A formula for accurately including the dependence of efficiency on atomic oxygen, temperature, and pressure is given.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[An important source of heating in the mesosphere is the exothermic reaction of ozone with atomic hydrogen, which generates hydroxyl in a vibrationally excited state. Some of the energy from the excited states is lost through emissions in the Meinel bands. The heating efficiency of the exothermic reaction is therefore less than one. In this study, we incorporate a model of the vibrationally excited OH into the Whole Atmosphere Community Climate Model in order to calculate the heating efficiency of this reaction interactively with the model chemistry and dynamics. The global annual mean efficiency is near 60%, but the value can differ by 20% or more depending on altitude and season. A formula for accurately including the dependence of efficiency on atomic oxygen, temperature, and pressure is given.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

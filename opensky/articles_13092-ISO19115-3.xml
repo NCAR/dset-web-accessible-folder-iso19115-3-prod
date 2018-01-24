@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:12.513782</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:59.380402</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Marine cloud brightening (MCB) is one of several proposed solar radiation management (SRM) geoengineering schemes designed to ameliorate some of the undesirable effects of climate change, for example polar ice loss and associated increased sea levels. Satellite measurements over the last 40 years show a general reduction in polar sea ice area and thickness which is attributed to climate change. In our studies, HadGEM1, a fully coupled climate model, is used to predict changes in surface temperatures and ice cover as a result of implementing MCB in a double carbon dioxide concentration atmosphere. The meridional heat flux (MHF) is the mechanism within the earth system for the transport of energy from tropical to polar regions. This poleward transport of heat in a double carbon dioxide atmosphere amplifies the effects in polar regions, where it has a significant impact on both temperatures and ice cover. The results from this work show that MCB is capable of roughly restoring control temperatures and ice cover (where control is defined as 440 ppm carbon dioxide, a predicted 2020 level) in a double carbon dioxide atmosphere scenario. This work presents the first results on the impact of MCB on the MHF and the ability of the MCB scheme to restore the MHF to a control level.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Marine cloud brightening (MCB) is one of several proposed solar radiation management (SRM) geoengineering schemes designed to ameliorate some of the undesirable effects of climate change, for example polar ice loss and associated increased sea levels. Satellite measurements over the last 40 years show a general reduction in polar sea ice area and thickness which is attributed to climate change. In our studies, HadGEM1, a fully coupled climate model, is used to predict changes in surface temperatures and ice cover as a result of implementing MCB in a double carbon dioxide concentration atmosphere. The meridional heat flux (MHF) is the mechanism within the earth system for the transport of energy from tropical to polar regions. This poleward transport of heat in a double carbon dioxide atmosphere amplifies the effects in polar regions, where it has a significant impact on both temperatures and ice cover. The results from this work show that MCB is capable of roughly restoring control temperatures and ice cover (where control is defined as 440 ppm carbon dioxide, a predicted 2020 level) in a double carbon dioxide atmosphere scenario. This work presents the first results on the impact of MCB on the MHF and the ability of the MCB scheme to restore the MHF to a control level.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

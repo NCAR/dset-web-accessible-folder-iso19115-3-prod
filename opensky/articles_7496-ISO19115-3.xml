@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:14.666166</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:40.812234</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study addresses the question of whether persistent events of the North Atlantic Oscillation (NAO) and the Northern Annular Mode (NAM) teleconnection patterns are distinguishable from each other. Standard daily index time series are used to specify the amplitude of the NAO and NAM patterns. The above question is examined with composites of sea level pressure, and 300- and 40-hPa streamfunction, along with tests of field significance. A null hypothesis is specified that the NAO and NAM persistent events are indistinguishable. This null hypothesis is evaluated by calculating the difference between time-averaged NAO and NAM composites. It is found that the null hypothesis cannot be rejected even at the 80% confidence level. The wave-breaking characteristics during the NAM life cycle are also examined. Both the positive and negative NAM phases yield the same wave-breaking properties as those for the NAO. The results suggest that not only are the NAO and NAM persistent events indistinguishable, but that the NAO/NAM events are neither confined to the North Atlantic, nor are they annular.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study addresses the question of whether persistent events of the North Atlantic Oscillation (NAO) and the Northern Annular Mode (NAM) teleconnection patterns are distinguishable from each other. Standard daily index time series are used to specify the amplitude of the NAO and NAM patterns. The above question is examined with composites of sea level pressure, and 300- and 40-hPa streamfunction, along with tests of field significance. A null hypothesis is specified that the NAO and NAM persistent events are indistinguishable. This null hypothesis is evaluated by calculating the difference between time-averaged NAO and NAM composites. It is found that the null hypothesis cannot be rejected even at the 80% confidence level. The wave-breaking characteristics during the NAM life cycle are also examined. Both the positive and negative NAM phases yield the same wave-breaking properties as those for the NAO. The results suggest that not only are the NAO and NAM persistent events indistinguishable, but that the NAO/NAM events are neither confined to the North Atlantic, nor are they annular.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

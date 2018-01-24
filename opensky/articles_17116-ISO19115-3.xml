@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:57.774081</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:03.883578</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The structure of the analysis increments in a variational data assimilation scheme is strongly driven by the formulation of the background error covariance matrix, especially in data-sparse areas such as the Antarctic region. The gridpoint background error modeling in this study makes use of regression-based balance operators between variables, empirical orthogonal function decomposition to define the vertical correlations, gridpoint variances, and high-order efficient recursive filters to impose horizontal correlations. A particularity is that the regression operators and the recursive filters have been made spatially inhomogeneous. The computation of the background error statistics is performed with the Weather Research and Forecast (WRF) model from a set of forecast differences. The mesoscale limited-area domains of interest cover Antarctica. Inhomogeneities of background errors are shown to be related to the particular orography and physics of the area. Differences seem particularly pronounced between ocean and land boundary layers.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The structure of the analysis increments in a variational data assimilation scheme is strongly driven by the formulation of the background error covariance matrix, especially in data-sparse areas such as the Antarctic region. The gridpoint background error modeling in this study makes use of regression-based balance operators between variables, empirical orthogonal function decomposition to define the vertical correlations, gridpoint variances, and high-order efficient recursive filters to impose horizontal correlations. A particularity is that the regression operators and the recursive filters have been made spatially inhomogeneous. The computation of the background error statistics is performed with the Weather Research and Forecast (WRF) model from a set of forecast differences. The mesoscale limited-area domains of interest cover Antarctica. Inhomogeneities of background errors are shown to be related to the particular orography and physics of the area. Differences seem particularly pronounced between ocean and land boundary layers.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

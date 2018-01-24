@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:39.094626</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:35.961340</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -358,7 +358,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Observations during the 2006 dry season of highly elevated concentrations of cyanides in the atmosphere above Mexico City (MC) and the surrounding plains demonstrate that biomass burning (BB) significantly impacted air quality in the region. We find that during the period of our measurements, fires contribute more than half of the organic aerosol mass and submicron aerosol scattering, and one third of the enhancement in benzene, reactive nitrogen, and carbon monoxide in the outflow from the plateau. The combination of biomass burning and anthropogenic emissions will affect ozone chemistry in the MC outflow.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Observations during the 2006 dry season of highly elevated concentrations of cyanides in the atmosphere above Mexico City (MC) and the surrounding plains demonstrate that biomass burning (BB) significantly impacted air quality in the region. We find that during the period of our measurements, fires contribute more than half of the organic aerosol mass and submicron aerosol scattering, and one third of the enhancement in benzene, reactive nitrogen, and carbon monoxide in the outflow from the plateau. The combination of biomass burning and anthropogenic emissions will affect ozone chemistry in the MC outflow.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

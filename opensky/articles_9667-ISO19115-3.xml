@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:17.830087</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:47.270637</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[One of the rainiest areas on earth, the Panama Bight and Pacific (western) littoral of Colombia, is the focal point for a regional modeling study utilizing the fifth-generation Pennsylvania State University-NCAR Mesoscale Model (MM5) with nested grids. In this first of three parts, the observed climatology of the region is presented. The seasonal march of rainfall has a northwest-southeast axis, with western Colombia near the center, receiving rain throughout the year. This study focuses on the August-September season. The diurnal cycle of rainfall over land exhibits an afternoon maximum over most of South and Central America, typically composed of relatively small convective cloud systems. Over some large valleys in the Andes, and over Lake Maracaibo, a nocturnal maximum of rainfall is observed. A strong night/morning maximum of rainfall prevails over the coastal ocean, propagating offshore and westward with time. This offshore convection often takes the form of mesoscale convective systems with sizes comparable to the region's coastal concavities and other geographical features. The 10-day period of these model studies (28 August-7 September 1998) is shown to be a period of unusually active weather, but with a time-mean rainfall pattern similar to longer-term climatology. It is concluded that the rain-producing processes during this time period are likely to be typical of those that shape the seasonal climatology.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

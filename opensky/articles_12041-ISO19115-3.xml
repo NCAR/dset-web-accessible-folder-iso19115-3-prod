@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:46.668736</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:26.641838</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -373,7 +373,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Helioseismic and Magnetic Imager (HMI) instrument and investigation as a part of the NASA Solar Dynamics Observatory (SDO) is designed to study convection-zone dynamics and the solar dynamo, the origin and evolution of sunspots, active regions, and complexes of activity, the sources and drivers of solar magnetic activity and disturbances, links between the internal processes and dynamics of the corona and heliosphere, and precursors of solar disturbances for space-weather forecasts. A brief overview of the instrument, investigation objectives, and standard data products is presented.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Helioseismic and Magnetic Imager (HMI) instrument and investigation as a part of the NASA Solar Dynamics Observatory (SDO) is designed to study convection-zone dynamics and the solar dynamo, the origin and evolution of sunspots, active regions, and complexes of activity, the sources and drivers of solar magnetic activity and disturbances, links between the internal processes and dynamics of the corona and heliosphere, and precursors of solar disturbances for space-weather forecasts. A brief overview of the instrument, investigation objectives, and standard data products is presented.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:40.635840</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:38.194540</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Traditional a posteriori tests of subgrid-scale (SGS) models often compare large eddy simulation (LES) profiles of various statistics with measurements. In this study we propose and employ a new a posteriori test to study SGS model performance. We compare the conditional means of the LES-generated SGS stress and stress production rate conditional on the resolvable-scale velocity with measurements. These statistics must be reproduced by the SGS model for LES to correctly predict the one-point resolvable-scale velocity joint probability density function. Our tests using data obtained in convective atmospheric boundary layers show that the a posteriori results are consistent with our a priori tests based on the same conditional statistics. The strengths and deficiencies of the models observed here were also identified in our a priori tests. The remarkable consistency between the two types of tests suggests that statistical model tests based on the conditional SGS stress and its production rate are a highly capable approach for identifying specific model deficiencies and for evaluating SGS model performance in simulations.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Traditional a posteriori tests of subgrid-scale (SGS) models often compare large eddy simulation (LES) profiles of various statistics with measurements. In this study we propose and employ a new a posteriori test to study SGS model performance. We compare the conditional means of the LES-generated SGS stress and stress production rate conditional on the resolvable-scale velocity with measurements. These statistics must be reproduced by the SGS model for LES to correctly predict the one-point resolvable-scale velocity joint probability density function. Our tests using data obtained in convective atmospheric boundary layers show that the a posteriori results are consistent with our a priori tests based on the same conditional statistics. The strengths and deficiencies of the models observed here were also identified in our a priori tests. The remarkable consistency between the two types of tests suggests that statistical model tests based on the conditional SGS stress and its production rate are a highly capable approach for identifying specific model deficiencies and for evaluating SGS model performance in simulations.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

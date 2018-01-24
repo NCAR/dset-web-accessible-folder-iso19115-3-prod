@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:17.857452</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:06.486090</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The atmospheric circulation response to the global warming-like tropical upper tropospheric heating is revisited using a dry atmospheric general circulation model (AGCM) in light of new diagnostics based on the concept of finite-amplitude wave activity (FAWA) on equivalent latitude. For a given tropical heating profile, the linear Wentzel-Kramers-Brillouin (WKB) wave refraction analysis sometimes gives a very different and even opposite prediction of the eddy momentum flux response to that of the actual full model simulation, exposing the limitation of the traditional linear approach in understanding the full dynamics of the atmospheric response under global warming. The implementation of the FAWA diagnostics reveals that in response to the upper tropospheric heating, effective diffusivity--a measure of the mixing efficiency--increases and advances upward and poleward in the subtropics and the resultant enhancement and the poleward encroachment of eddy potential vorticity mixing leads to a poleward displaced potential vorticity (PV) gradient peak in the upper troposphere. The anomalous eddy PV flux, in balance with the PV dissipation, gives rise to a poleward shift in the eddy-driven jet and eddy-driven mean meridional circulation. Sensitivity experiments show that these irreversible dissipation processes in the upper troposphere are robust, regardless of the width of the tropical heating.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The atmospheric circulation response to the global warming-like tropical upper tropospheric heating is revisited using a dry atmospheric general circulation model (AGCM) in light of new diagnostics based on the concept of finite-amplitude wave activity (FAWA) on equivalent latitude. For a given tropical heating profile, the linear Wentzel-Kramers-Brillouin (WKB) wave refraction analysis sometimes gives a very different and even opposite prediction of the eddy momentum flux response to that of the actual full model simulation, exposing the limitation of the traditional linear approach in understanding the full dynamics of the atmospheric response under global warming. The implementation of the FAWA diagnostics reveals that in response to the upper tropospheric heating, effective diffusivity--a measure of the mixing efficiency--increases and advances upward and poleward in the subtropics and the resultant enhancement and the poleward encroachment of eddy potential vorticity mixing leads to a poleward displaced potential vorticity (PV) gradient peak in the upper troposphere. The anomalous eddy PV flux, in balance with the PV dissipation, gives rise to a poleward shift in the eddy-driven jet and eddy-driven mean meridional circulation. Sensitivity experiments show that these irreversible dissipation processes in the upper troposphere are robust, regardless of the width of the tropical heating.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

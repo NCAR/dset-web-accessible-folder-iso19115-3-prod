@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:45.898532</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:15.739175</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Active bromine released from the photochemical decomposition of biogenic very short-lived bromocarbons (VSLBr) enhances stratospheric ozone depletion. Based on a dual set of 1960-2100 coupled chemistry-climate simulations (i.e. with and without VSLBr), we show that the maximum Antarctic ozone hole depletion increases by up to 14% when natural VSLBr are considered, which is in better agreement with ozone observations. The impact of the additional 5 pptv VSLBr on Antarctic ozone is most evident in the periphery of the ozone hole, producing an expansion of the ozone hole area of similar to 5 million km(2), which is equivalent in magnitude to the recently estimated Antarctic ozone healing due to the implementation of the Montreal Protocol. We find that the inclusion of VSLBr in CAM-Chem (Community Atmosphere Model with Chemistry, version 4.0) does not introduce a significant delay of the modelled ozone return date to 1980 October levels, but instead affects the depth and duration of the simulated ozone hole. Our analysis further shows that total bromine-catalysed ozone destruction in the lower stratosphere surpasses that of chlorine by the year 2070 and indicates that natural VSLBr chemistry would dominate Antarctic ozone seasonality before the end of the 21st century. This work suggests a large influence of biogenic bromine on the future Antarctic ozone layer.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Active bromine released from the photochemical decomposition of biogenic very short-lived bromocarbons (VSLBr) enhances stratospheric ozone depletion. Based on a dual set of 1960-2100 coupled chemistry-climate simulations (i.e. with and without VSLBr), we show that the maximum Antarctic ozone hole depletion increases by up to 14% when natural VSLBr are considered, which is in better agreement with ozone observations. The impact of the additional 5 pptv VSLBr on Antarctic ozone is most evident in the periphery of the ozone hole, producing an expansion of the ozone hole area of similar to 5 million km(2), which is equivalent in magnitude to the recently estimated Antarctic ozone healing due to the implementation of the Montreal Protocol. We find that the inclusion of VSLBr in CAM-Chem (Community Atmosphere Model with Chemistry, version 4.0) does not introduce a significant delay of the modelled ozone return date to 1980 October levels, but instead affects the depth and duration of the simulated ozone hole. Our analysis further shows that total bromine-catalysed ozone destruction in the lower stratosphere surpasses that of chlorine by the year 2070 and indicates that natural VSLBr chemistry would dominate Antarctic ozone seasonality before the end of the 21st century. This work suggests a large influence of biogenic bromine on the future Antarctic ozone layer.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

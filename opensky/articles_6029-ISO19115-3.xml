@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:14.168567</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:26.979332</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[The scaling of CO2 and water vapour transfer from leaf to canopy dimensions was achieved by integrating mechanistic models for physiological (photosynthesis, stomatal conductance and soil/root and bole respiration) and micrometeorological (radiative transfer, turbulent transfer and surface energy exchanges) processes, The main objectives of this paper are to describe a canopy photosynthesis and evaporation model for a temperate broadleaf forest and to test it against field measurements, The other goal of this paper is to use the validated model to address some contemporary ecological and physiological questions concerning the transfer of carbon and water between forest canopies and the atmosphere, In particular, we examine the role of simple versus complex radiative transfer models and the effect of environmental (solar radiation and CO2) and ecophysiological (photosynthetic capacity) variables on canopy-scale carbon and water vapour fluxes.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

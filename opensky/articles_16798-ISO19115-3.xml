@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:50.424970</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:52.882731</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -373,7 +373,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Climate model results suggest that future climate change in Antarctica will be accompanied by continued strengthening and poleward contraction of the Southern Ocean westerly wind belt. Paleoclimate records suggest past changes in the westerly winds can be abrupt and that healing of the Antarctic ozone hole could lead to poleward contraction of the westerlies and increased meridional atmospheric transport of warm air regionally into Antarctica. An abrupt shift to more meridional circulation could lead to notable changes in moisture availability for extra-Antarctic regions, increased Antarctic ice sheet disintegration and more rapid sea-level rise.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Climate model results suggest that future climate change in Antarctica will be accompanied by continued strengthening and poleward contraction of the Southern Ocean westerly wind belt. Paleoclimate records suggest past changes in the westerly winds can be abrupt and that healing of the Antarctic ozone hole could lead to poleward contraction of the westerlies and increased meridional atmospheric transport of warm air regionally into Antarctica. An abrupt shift to more meridional circulation could lead to notable changes in moisture availability for extra-Antarctic regions, increased Antarctic ice sheet disintegration and more rapid sea-level rise.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

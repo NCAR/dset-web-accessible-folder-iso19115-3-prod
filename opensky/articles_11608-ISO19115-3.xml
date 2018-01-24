@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:37.167033</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:13.217608</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Whole Atmosphere Community Climate Model (WACCM) is used to study the influence of gravity waves on the generation and evolution of an elevated stratopause following a sudden stratospheric warming (SSW). By comparing WACCM simulations of two Arctic winters, where one is dynamically undisturbed and one is disturbed, we find that intense planetary wave activity during a SSW drives the reversal of the zonal mean wind in the stratosphere. This alters the penetration of eastward propagating, non-orographic gravity waves into the mesosphere, which determine the extent of cooling in the lower mesosphere and upper stratosphere through the adiabatic effects of the gravity wave-driven residual circulation, and play a crucial role in the reformation of the elevated stratopause in the lower mesosphere. Eventually, the forcing due to gravity waves returns to normal wintertime values as the stratospheric zonal wind recovers, and is then associated with the warming and lowering of the elevated stratopause, by wave induced diabatic descent. We find that SSW followed by an elevated stratopause is a climatologically robust phenomenon in free running WACCM with characteristics closely resembling recently observed events in the Arctic.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Whole Atmosphere Community Climate Model (WACCM) is used to study the influence of gravity waves on the generation and evolution of an elevated stratopause following a sudden stratospheric warming (SSW). By comparing WACCM simulations of two Arctic winters, where one is dynamically undisturbed and one is disturbed, we find that intense planetary wave activity during a SSW drives the reversal of the zonal mean wind in the stratosphere. This alters the penetration of eastward propagating, non-orographic gravity waves into the mesosphere, which determine the extent of cooling in the lower mesosphere and upper stratosphere through the adiabatic effects of the gravity wave-driven residual circulation, and play a crucial role in the reformation of the elevated stratopause in the lower mesosphere. Eventually, the forcing due to gravity waves returns to normal wintertime values as the stratospheric zonal wind recovers, and is then associated with the warming and lowering of the elevated stratopause, by wave induced diabatic descent. We find that SSW followed by an elevated stratopause is a climatologically robust phenomenon in free running WACCM with characteristics closely resembling recently observed events in the Arctic.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

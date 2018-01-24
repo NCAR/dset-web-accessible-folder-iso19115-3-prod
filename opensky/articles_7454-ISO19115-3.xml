@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:15.250056</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:40.428739</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[The general circulation of the subtropical western North Atlantic is described using hydrography and subsurface velocity measured simultaneously by 71 profiling floats during the period July 1997 to December 2002. Subsurface trajectories of the floats revealed a strong topographic influence and depth-dependence of the Gulf Stream, its recirculation gyres, and the North Atlantic Current. We discuss eddy-like and nonsteady flows in several subregions, especially near the major topographic features. The seasonal cycle of volume transport, estimated using the absolute geostrophic velocity in the upper 900 m, was shown to be a maximum in winter and minimum in summer. The eddy kinetic energy and eddy diffusivity, derived from the float data and mapped over the subtopical gyre, show seasonal variability in the vicinity of the Gulf Stream with a maximum in spring and minimum in winter for both quantities.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

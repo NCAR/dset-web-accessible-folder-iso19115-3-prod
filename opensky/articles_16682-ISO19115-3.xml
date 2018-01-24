@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:47.972477</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:49.170016</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Recent studies revealed layers of enhanced aerosol scattering in the upper troposphere and lower stratosphere over Asia (Asian Tropopause Aerosol Layer (ATAL)) and North America (North American Tropospheric Aerosol Layer (NATAL)). We use a sectional aerosol model (Community Aerosol and Radiation Model for Atmospheres (CARMA)) coupled with the Community Earth System Model version 1 (CESM1) to explore the composition and optical properties of these aerosol layers. The observed aerosol extinction enhancement is reproduced by CESM1/CARMA. Both model and observations indicate a strong gradient of the sulfur-to-carbon ratio from Europe to the Asia on constant pressure surfaces. We found that the ATAL is mostly composed of sulfates, surface-emitted organics, and secondary organics; the NATAL is mostly composed of sulfates and secondary organics. The model also suggests that emission increases in Asia between 2000 and 2010 led to an increase of aerosol optical depth of the ATAL by 0.002 on average which is consistent with observations.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Recent studies revealed layers of enhanced aerosol scattering in the upper troposphere and lower stratosphere over Asia (Asian Tropopause Aerosol Layer (ATAL)) and North America (North American Tropospheric Aerosol Layer (NATAL)). We use a sectional aerosol model (Community Aerosol and Radiation Model for Atmospheres (CARMA)) coupled with the Community Earth System Model version 1 (CESM1) to explore the composition and optical properties of these aerosol layers. The observed aerosol extinction enhancement is reproduced by CESM1/CARMA. Both model and observations indicate a strong gradient of the sulfur-to-carbon ratio from Europe to the Asia on constant pressure surfaces. We found that the ATAL is mostly composed of sulfates, surface-emitted organics, and secondary organics; the NATAL is mostly composed of sulfates and secondary organics. The model also suggests that emission increases in Asia between 2000 and 2010 led to an increase of aerosol optical depth of the ATAL by 0.002 on average which is consistent with observations.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

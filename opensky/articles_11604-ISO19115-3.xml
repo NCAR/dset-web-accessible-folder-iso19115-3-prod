@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:37.039407</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:13.030633</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Analysis of a pair of three-dimensional simulations of mesoscale convective systems (MCSs) reveals a significant sensitivity of convective momentum transport (CMT), MCS motion, and the generation of severe surface winds to ambient moisture. The Weather Research and Forecasting model is used to simulate an idealized MCS, which is compared with an MCS in a drier midlevel environment. The MCS in the drier environment is smaller, moves slightly faster, and exhibits increased descent and more strongly focused areas of enhanced CMT near the surface in the trailing stratiform region relative to that in the control simulation. A marked increase in the occurrence of severe surface winds is observed between the dry midlevel simulation and the control. It is shown that the enhanced downward motion associated with decreased midlevel relative humidity affects CMT fields and contributes to an increase in the number of grid-cell occurrences of severe surface winds. The role of a descending rear-inflow jet in producing strong surface winds at locations trailing the gust front is also analyzed, and is found to be associated with low-level CMT maxima, particularly in the drier midlevel simulation.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Analysis of a pair of three-dimensional simulations of mesoscale convective systems (MCSs) reveals a significant sensitivity of convective momentum transport (CMT), MCS motion, and the generation of severe surface winds to ambient moisture. The Weather Research and Forecasting model is used to simulate an idealized MCS, which is compared with an MCS in a drier midlevel environment. The MCS in the drier environment is smaller, moves slightly faster, and exhibits increased descent and more strongly focused areas of enhanced CMT near the surface in the trailing stratiform region relative to that in the control simulation. A marked increase in the occurrence of severe surface winds is observed between the dry midlevel simulation and the control. It is shown that the enhanced downward motion associated with decreased midlevel relative humidity affects CMT fields and contributes to an increase in the number of grid-cell occurrences of severe surface winds. The role of a descending rear-inflow jet in producing strong surface winds at locations trailing the gust front is also analyzed, and is found to be associated with low-level CMT maxima, particularly in the drier midlevel simulation.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:34.100656</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:28.494033</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Catastrophic failures in the built and natural environment resulting from climate extremes such as flooding have become all too familiar. Limit state design under changing climate conditions may no longer be appropriate and may lead to more frequent and unplanned failures. Developing optimal design responses by rethinking the target 'failure rate' to reduce our increasing vulnerability to extremes is essential. Addressing this requires strong communication links between the civil engineering community and climate scientists. These communication links, however, have often lacked the essential component of an ongoing two-way interaction promoting clear communication of the core issues. This paper discusses the need for improved dialogue to understand where the built and natural environment is most vulnerable to today's climate extremes and how this vulnerability may develop in the future, and gives examples of successful communication strategies and collaborations between scientists and engineers.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Catastrophic failures in the built and natural environment resulting from climate extremes such as flooding have become all too familiar. Limit state design under changing climate conditions may no longer be appropriate and may lead to more frequent and unplanned failures. Developing optimal design responses by rethinking the target 'failure rate' to reduce our increasing vulnerability to extremes is essential. Addressing this requires strong communication links between the civil engineering community and climate scientists. These communication links, however, have often lacked the essential component of an ongoing two-way interaction promoting clear communication of the core issues. This paper discusses the need for improved dialogue to understand where the built and natural environment is most vulnerable to today's climate extremes and how this vulnerability may develop in the future, and gives examples of successful communication strategies and collaborations between scientists and engineers.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

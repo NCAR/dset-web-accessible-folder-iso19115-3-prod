@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:57.488705</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:03.484423</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A set of new parameterizations for the friction velocity and temperature scale over gently sloped terrain and in calm synoptic conditions are theoretically derived. The friction velocity is found to be proportional to the product of the square root of the total accumulated heating in the boundary layer and the sinusoidal function of the slope angle, while the temperature scale is proportional to the product of the boundary layer depth, the sinusoidal function of the slope angle and the potential temperature gradient in the free atmosphere. Using the new friction velocity parameterization, together with a parameterization of eddy diffusivity and an initial potential temperature profile around sunrise, an improved parameterization for the thermally induced upslope flow profile is derived by solving the Prandtl equations. The upslope flow profile is found to be simply proportional to the friction velocity.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A set of new parameterizations for the friction velocity and temperature scale over gently sloped terrain and in calm synoptic conditions are theoretically derived. The friction velocity is found to be proportional to the product of the square root of the total accumulated heating in the boundary layer and the sinusoidal function of the slope angle, while the temperature scale is proportional to the product of the boundary layer depth, the sinusoidal function of the slope angle and the potential temperature gradient in the free atmosphere. Using the new friction velocity parameterization, together with a parameterization of eddy diffusivity and an initial potential temperature profile around sunrise, an improved parameterization for the thermally induced upslope flow profile is derived by solving the Prandtl equations. The upslope flow profile is found to be simply proportional to the friction velocity.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

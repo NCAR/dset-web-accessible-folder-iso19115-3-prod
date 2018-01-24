@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:35.565897</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:59.865593</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -204,7 +204,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Solar coronal polarization observations are an underused data product because of the difficulties in interpreting the data and in calculating an inversion. The physics of the polarization is well understood and documented in the literature. The purpose of this paper is to present a general overview on how to interpret polarization signals without calculating an inversion. This is intended to introduce the data to those who are unfamiliar to polarization, and in so doing, make the data more accessible.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Solar coronal polarization observations are an underused data product because of the difficulties in interpreting the data and in calculating an inversion. The physics of the polarization is well understood and documented in the literature. The purpose of this paper is to present a general overview on how to interpret polarization signals without calculating an inversion. This is intended to introduce the data to those who are unfamiliar to polarization, and in so doing, make the data more accessible.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

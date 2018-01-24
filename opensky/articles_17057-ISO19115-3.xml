@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:56.237101</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:01.684497</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>An arbitrary finite-volume approach is developed for discretising partial differential equations governing fluid flows on the sphere. Unconventionally for unstructured-mesh global models, the governing equations are cast in the anholonomic geospherical framework established in computational meteorology. The resulting discretisation retains proven properties of the geospherical formulation, while it offers the flexibility of unstructured meshes in enabling irregular spatial resolution. The latter allows for a global enhancement of the spatial resolution away from the polar regions as well as for a local mesh refinement. A class of non-oscillatory forward-in-time edge-based solvers is developed and applied to numerical examples of three-dimensional hydrostatic flows, including shallow-water benchmarks, on a rotating sphere.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[An arbitrary finite-volume approach is developed for discretising partial differential equations governing fluid flows on the sphere. Unconventionally for unstructured-mesh global models, the governing equations are cast in the anholonomic geospherical framework established in computational meteorology. The resulting discretisation retains proven properties of the geospherical formulation, while it offers the flexibility of unstructured meshes in enabling irregular spatial resolution. The latter allows for a global enhancement of the spatial resolution away from the polar regions as well as for a local mesh refinement. A class of non-oscillatory forward-in-time edge-based solvers is developed and applied to numerical examples of three-dimensional hydrostatic flows, including shallow-water benchmarks, on a rotating sphere.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

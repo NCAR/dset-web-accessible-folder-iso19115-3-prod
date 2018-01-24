@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:33.033795</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:27.016243</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The quasi-biennial oscillation (QBO) is the dominant mode of variability in the tropical stratosphere, which is in large part driven by upward propagating atmospheric waves. For over three decades researchers have investigated an extratropical impact due to the vacillation of the tropical winds. The choice of a single altitude to define the QBO introduces an ambiguity into the analysis of correlations between the tropical and extratropical manifestations of this wave-driven phenomenon. It has been previously demonstrated that using empirical orthogonal functions, this ambiguity can be resolved, by calculating the phase of the QBO from the first two principal components of the stratospheric zonal mean wind. As general circulation models begin to simulate the QBO, a standard and objective means of comparing simulations with observations should be adopted. This objective analysis of the extratropical QBO is presented for the ERA-Interim reanalysis and a version of the Community Atmosphere Model, version 5, which exhibits a spontaneously generated QBO.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The quasi-biennial oscillation (QBO) is the dominant mode of variability in the tropical stratosphere, which is in large part driven by upward propagating atmospheric waves. For over three decades researchers have investigated an extratropical impact due to the vacillation of the tropical winds. The choice of a single altitude to define the QBO introduces an ambiguity into the analysis of correlations between the tropical and extratropical manifestations of this wave-driven phenomenon. It has been previously demonstrated that using empirical orthogonal functions, this ambiguity can be resolved, by calculating the phase of the QBO from the first two principal components of the stratospheric zonal mean wind. As general circulation models begin to simulate the QBO, a standard and objective means of comparing simulations with observations should be adopted. This objective analysis of the extratropical QBO is presented for the ERA-Interim reanalysis and a version of the Community Atmosphere Model, version 5, which exhibits a spontaneously generated QBO.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

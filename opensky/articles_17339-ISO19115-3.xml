@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:03.141646</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:11.437546</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>With a ray-tracing procedure and variational data assimilation techniques, it is now possible to make direct use of radio occultation bending angles, rather than their derived temperature and moisture retrievals, in atmospheric data analysis and assimilation. This paper describes results obtained from including more than 800 GPS/MET bending angle profiles, available over an 11-day period, 20 - 30 June 1995, into the National Centers for Environmental Prediction spectral statistical interpolation analyses. The methodology for assimilating the bending angles (including an impact parameter offset correction) is briefly summarized. Verified with 56 collocated radiosonde profiles, the assimilation of only GPS/MET bending angles improves the temperature and specific humidity analysis above 850 mbar. Even though the number of GPS/MET soundings is still far less than conventional data and operational satellite soundings, our results from two continuous 11-day data assimilation cycles demonstrate a closer fit of both GPS/MET and conventional observations to the analyses between 850 and 200 hPa when the bending angles are incorporated. Including the bending angles also results in a small but consistent improvement in the short-range (6 hours) and medium-range (1 - 5 days) forecast skills, especially in the Southern Hemisphere.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[With a ray-tracing procedure and variational data assimilation techniques, it is now possible to make direct use of radio occultation bending angles, rather than their derived temperature and moisture retrievals, in atmospheric data analysis and assimilation. This paper describes results obtained from including more than 800 GPS/MET bending angle profiles, available over an 11-day period, 20 - 30 June 1995, into the National Centers for Environmental Prediction spectral statistical interpolation analyses. The methodology for assimilating the bending angles (including an impact parameter offset correction) is briefly summarized. Verified with 56 collocated radiosonde profiles, the assimilation of only GPS/MET bending angles improves the temperature and specific humidity analysis above 850 mbar. Even though the number of GPS/MET soundings is still far less than conventional data and operational satellite soundings, our results from two continuous 11-day data assimilation cycles demonstrate a closer fit of both GPS/MET and conventional observations to the analyses between 850 and 200 hPa when the bending angles are incorporated. Including the bending angles also results in a small but consistent improvement in the short-range (6 hours) and medium-range (1 - 5 days) forecast skills, especially in the Southern Hemisphere.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

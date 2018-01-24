@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:21.840376</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:13.119707</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[We compare new observationally-based data sets of Antarctic near-surface air temperature and snowfall accumulation with 20th century simulations from global climate models (GCMs) that support the Intergovernmental Panel on Climate Change Fourth Assessment Report. Annual Antarctic snowfall accumulation trends in the GCMs agree with observations during 1960-1999, and the sensitivity of snowfall accumulation to near-surface air temperature fluctuations is approximately the same as observed, about 5% K-1. Thus if Antarctic temperatures rise as projected, snowfall increases may partially offset ice sheet mass loss by mitigating an additional 1 mm y(-1) of global sea level rise by 2100. However, 20th century (1880-1999) annual Antarctic near-surface air temperature trends in the GCMs are about 2.5-to-5 times larger-than-observed, possibly due to the radiative impact of unrealistic increases in water vapor. Resolving the relative contributions of dynamic and radiative forcing on Antarctic temperature variability in GCMs will lead to more robust 21st century projections.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

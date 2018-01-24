@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:40.930656</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:38.628894</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Asian summer monsoon (ASM) and its variability were investigated over the past millennium through the analysis of a long-term simulation of the NCAR Climate System Model, version 1.4 (CSM 1.4) coupled model driven with estimated natural and anthropogenic radiative forcing during the period 850-1999. Analysis of the simulation results indicates that certain previously proposed mechanisms, such as warmer large-scale temperatures favoring a stronger monsoon through their effect on Eurasian snow cover, appear inconsistent with the mechanisms active in the simulation. Forced changes in tropical Pacific sea surface temperatures play an apparent role in the long-term changes in the ASM. Analyses of the simulation results suggest that the direct radiative effect of solar forcing variations on the ASM is quite weak and that dynamical responses may be far more important. Volcanic radiative forcing leads to a clearly detectable short-term reduction in the strength of the ASM. Comparisons with long-term proxy reconstructions of the ASM are attempted but are limited by the divergent behavior among different reconstructions as well as the limitations in the model's coupled dynamics.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Asian summer monsoon (ASM) and its variability were investigated over the past millennium through the analysis of a long-term simulation of the NCAR Climate System Model, version 1.4 (CSM 1.4) coupled model driven with estimated natural and anthropogenic radiative forcing during the period 850-1999. Analysis of the simulation results indicates that certain previously proposed mechanisms, such as warmer large-scale temperatures favoring a stronger monsoon through their effect on Eurasian snow cover, appear inconsistent with the mechanisms active in the simulation. Forced changes in tropical Pacific sea surface temperatures play an apparent role in the long-term changes in the ASM. Analyses of the simulation results suggest that the direct radiative effect of solar forcing variations on the ASM is quite weak and that dynamical responses may be far more important. Volcanic radiative forcing leads to a clearly detectable short-term reduction in the strength of the ASM. Comparisons with long-term proxy reconstructions of the ASM are attempted but are limited by the divergent behavior among different reconstructions as well as the limitations in the model's coupled dynamics.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:32.352297</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:06.538804</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The relationship between poleward energy transport and Arctic amplification is examined using climate models and an energy balance model. In 21st century projections, models with large Arctic amplification have strong surface albedo and longwave cloud feedbacks, but only weak increases (or even decreases) in total energy transport into the Arctic. Enhanced Arctic warming weakens the equator-to-pole temperature gradient and decreases atmospheric dry static energy transport, a decrease that often outweighs increases from atmospheric moisture transport and ocean heat transport. Model spread in atmospheric energy transport cannot explain model spread in polar amplification; models with greater polar amplification must instead have stronger local feedbacks. Because local feedbacks affect temperature gradients, coupling between energy transports and Arctic feedbacks cannot be neglected when studying Arctic amplification.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The relationship between poleward energy transport and Arctic amplification is examined using climate models and an energy balance model. In 21st century projections, models with large Arctic amplification have strong surface albedo and longwave cloud feedbacks, but only weak increases (or even decreases) in total energy transport into the Arctic. Enhanced Arctic warming weakens the equator-to-pole temperature gradient and decreases atmospheric dry static energy transport, a decrease that often outweighs increases from atmospheric moisture transport and ocean heat transport. Model spread in atmospheric energy transport cannot explain model spread in polar amplification; models with greater polar amplification must instead have stronger local feedbacks. Because local feedbacks affect temperature gradients, coupling between energy transports and Arctic feedbacks cannot be neglected when studying Arctic amplification.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

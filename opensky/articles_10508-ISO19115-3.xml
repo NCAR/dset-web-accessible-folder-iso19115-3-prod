@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:26.954184</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:58.778895</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Mexico City Metropolitan Area (MCMA) experiences high loadings of atmospheric aerosols from anthropogenic sources, biomass burning and wind-blown dust. This paper uses a combination of measurements and numerical simulations to identify different plumes affecting the basin and to characterize transformation inside the plumes. The High Spectral Resolution Lidar on board the NASA LaRC B-200 King Air aircraft measured extinction coefficients and extinction to backscatter ratio at 532 nm, and backscatter coefficients and depolarization ratios at 532 and 1064 nm. These can be used to identify aerosol types. The measurement curtains are compared with particle trajectory simulations using WRF-Flexpart for different source groups. The good correspondence between measurements and simulations suggests that the aerosol transport is sufficiently well characterized by the models to estimate aerosol types and ages. Plumes in the basin undergo complex transport, and are frequently mixed together. Urban aerosols are readily identifiable by their low depolarization ratios and high lidar ratios, and dust by the opposite properties. Fresh biomass burning plumes have very low depolarization ratios which increase rapidly with age. This rapid transformation is consistent with the presence of atmospheric tar balls in the fresh plumes.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Mexico City Metropolitan Area (MCMA) experiences high loadings of atmospheric aerosols from anthropogenic sources, biomass burning and wind-blown dust. This paper uses a combination of measurements and numerical simulations to identify different plumes affecting the basin and to characterize transformation inside the plumes. The High Spectral Resolution Lidar on board the NASA LaRC B-200 King Air aircraft measured extinction coefficients and extinction to backscatter ratio at 532 nm, and backscatter coefficients and depolarization ratios at 532 and 1064 nm. These can be used to identify aerosol types. The measurement curtains are compared with particle trajectory simulations using WRF-Flexpart for different source groups. The good correspondence between measurements and simulations suggests that the aerosol transport is sufficiently well characterized by the models to estimate aerosol types and ages. Plumes in the basin undergo complex transport, and are frequently mixed together. Urban aerosols are readily identifiable by their low depolarization ratios and high lidar ratios, and dust by the opposite properties. Fresh biomass burning plumes have very low depolarization ratios which increase rapidly with age. This rapid transformation is consistent with the presence of atmospheric tar balls in the fresh plumes.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

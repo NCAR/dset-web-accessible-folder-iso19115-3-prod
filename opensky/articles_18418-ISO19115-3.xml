@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:22.890985</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:40.254682</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>During the development of the Third U.S. National Climate Assessment, an indicators system was recommended as a foundational product to support a sustained assessment process (Buizer et al. 2013). The development of this system, which we call the National Climate Indicators System (NCIS), has been an important early product of a sustained assessment process. In this paper, we describe the scoping and development of recommendations and prototypes for the NCIS, with the expectation that the process and lessons learned will be useful to others developing suites of indicators. Key factors of initial success are detailed, as well as a robust vision and decision criteria for future development; we also provide suggestions for voluntary support of the broader scientific community, and for funding priorities, including a research team to coordinate and prototype the indicators, system, and process. Moving forward, sufficient coordination and scientific expertise to implement and maintain the NCIS, as well as creation of a structure for scientific input from the broader community, will be crucial to its success.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[During the development of the Third U.S. National Climate Assessment, an indicators system was recommended as a foundational product to support a sustained assessment process (Buizer et al. 2013). The development of this system, which we call the National Climate Indicators System (NCIS), has been an important early product of a sustained assessment process. In this paper, we describe the scoping and development of recommendations and prototypes for the NCIS, with the expectation that the process and lessons learned will be useful to others developing suites of indicators. Key factors of initial success are detailed, as well as a robust vision and decision criteria for future development; we also provide suggestions for voluntary support of the broader scientific community, and for funding priorities, including a research team to coordinate and prototype the indicators, system, and process. Moving forward, sufficient coordination and scientific expertise to implement and maintain the NCIS, as well as creation of a structure for scientific input from the broader community, will be crucial to its success.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

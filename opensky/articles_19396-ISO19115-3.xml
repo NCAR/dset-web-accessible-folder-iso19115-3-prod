@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:40.485116</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:07.681097</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Global Global environmental changes, such as climate change, result from the interaction of human and natural systems. Understanding these changes and options for addressing them requires research in the physical, environmental, and social sciences, as well as engineering and other applied fields. In this essay, the authors provide their personal perspective on the role of the Aspen Global Change Institute (AGCI) in global change science over the past 25 years in particular, how it has contributed to the integration of the natural and social sciences needed to research the drivers of change, the Earth system response, natural and human system impacts, and options for risk management. Drawing on inputs from other AGCI participants, we illustrate how, in our view, the history of AGCI is intertwined with the evolution of global change science as it has become an increasingly interdisciplinary endeavor.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Global Global environmental changes, such as climate change, result from the interaction of human and natural systems. Understanding these changes and options for addressing them requires research in the physical, environmental, and social sciences, as well as engineering and other applied fields. In this essay, the authors provide their personal perspective on the role of the Aspen Global Change Institute (AGCI) in global change science over the past 25 years in particular, how it has contributed to the integration of the natural and social sciences needed to research the drivers of change, the Earth system response, natural and human system impacts, and options for risk management. Drawing on inputs from other AGCI participants, we illustrate how, in our view, the history of AGCI is intertwined with the evolution of global change science as it has become an increasingly interdisciplinary endeavor.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

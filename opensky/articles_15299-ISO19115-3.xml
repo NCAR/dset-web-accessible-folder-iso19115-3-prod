@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:36.939667</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:32.726920</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Numerical experiments that explore the effects of tides of tropospheric origin on the upper and middle atmosphere reveal strong signatures of an eastward propagating zonal wave number 3 diurnal tide (DE3), which peaks near 110 km and penetrates into the upper thermosphere. We demonstrate that nonmigrating tidal dissipation dominated by DE3 effects in the upper mesosphere and lower thermosphere (MLT) strongly accelerates the zonal mean wind field, affecting both the altitude and magnitude of the low-latitude jets. We also quantify, for the first time, a stationary planetary wave 4 oscillation (sPW4) in the MLT, which is excited by nonlinear interaction between the DE3 and the migrating diurnal tide (DW1). Our results suggest that the sPW4 modulates the DE3 MLT response and may impact the E region dynamo as well as ionospheric and thermospheric signatures at much higher altitudes.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Numerical experiments that explore the effects of tides of tropospheric origin on the upper and middle atmosphere reveal strong signatures of an eastward propagating zonal wave number 3 diurnal tide (DE3), which peaks near 110 km and penetrates into the upper thermosphere. We demonstrate that nonmigrating tidal dissipation dominated by DE3 effects in the upper mesosphere and lower thermosphere (MLT) strongly accelerates the zonal mean wind field, affecting both the altitude and magnitude of the low-latitude jets. We also quantify, for the first time, a stationary planetary wave 4 oscillation (sPW4) in the MLT, which is excited by nonlinear interaction between the DE3 and the migrating diurnal tide (DW1). Our results suggest that the sPW4 modulates the DE3 MLT response and may impact the E region dynamo as well as ionospheric and thermospheric signatures at much higher altitudes.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

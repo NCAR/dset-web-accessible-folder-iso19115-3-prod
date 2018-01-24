@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:16.676491</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:04.909947</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -343,7 +343,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper describes the scenario matrix architecture that underlies a framework for developing new scenarios for climate change research. The matrix architecture facilitates addressing key questions related to current climate research and policy-making: identifying the effectiveness of different adaptation and mitigation strategies (in terms of their costs, risks and other consequences) and the possible trade-offs and synergies. The two main axes of the matrix are: 1) the level of radiative forcing of the climate system (as characterised by the representative concentration pathways) and 2) a set of alternative plausible trajectories of future global development (described as shared socio-economic pathways). The matrix can be used to guide scenario development at different scales. It can also be used as a heuristic tool for classifying new and existing scenarios for assessment. Key elements of the architecture, in particular the shared socio-economic pathways and shared policy assumptions (devices for incorporating explicit mitigation and adaptation policies), are elaborated in other papers in this special issue.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper describes the scenario matrix architecture that underlies a framework for developing new scenarios for climate change research. The matrix architecture facilitates addressing key questions related to current climate research and policy-making: identifying the effectiveness of different adaptation and mitigation strategies (in terms of their costs, risks and other consequences) and the possible trade-offs and synergies. The two main axes of the matrix are: 1) the level of radiative forcing of the climate system (as characterised by the representative concentration pathways) and 2) a set of alternative plausible trajectories of future global development (described as shared socio-economic pathways). The matrix can be used to guide scenario development at different scales. It can also be used as a heuristic tool for classifying new and existing scenarios for assessment. Key elements of the architecture, in particular the shared socio-economic pathways and shared policy assumptions (devices for incorporating explicit mitigation and adaptation policies), are elaborated in other papers in this special issue.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

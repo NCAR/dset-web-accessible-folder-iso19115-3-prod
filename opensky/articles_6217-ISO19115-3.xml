@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:08.624098</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:32.105291</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>For many years it has been recognized that some aircraft cloud microphysical measurements may be contaminated by ice hydrometeors shattering on probe inlets. Small ice particle concentrations measured by the forward scattering spectrometer probe (FSSP) have been commonly accepted but are especially liable to overestimates. This study investigates this result for two additional airborne microphysical sensors, the cloud and aerosol spectrometer (CAS) and the cloud integrating nephelometer (CIN). The results indicate that conclusions from previous studies of the radiative effects of small ice particles need to be reevaluated. A model has been developed describing probe responses to different combinations of ice water content (IWC) and large ice particle concentrations that may be useful in identifying areas where contributions from small particles are significant.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[For many years it has been recognized that some aircraft cloud microphysical measurements may be contaminated by ice hydrometeors shattering on probe inlets. Small ice particle concentrations measured by the forward scattering spectrometer probe (FSSP) have been commonly accepted but are especially liable to overestimates. This study investigates this result for two additional airborne microphysical sensors, the cloud and aerosol spectrometer (CAS) and the cloud integrating nephelometer (CIN). The results indicate that conclusions from previous studies of the radiative effects of small ice particles need to be reevaluated. A model has been developed describing probe responses to different combinations of ice water content (IWC) and large ice particle concentrations that may be useful in identifying areas where contributions from small particles are significant.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

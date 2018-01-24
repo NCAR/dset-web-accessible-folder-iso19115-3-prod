@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:39.035313</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:05.442100</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper proposes new diagnostic plots that take advantage of the lack of symmetry in the mean-error distance measure (MED) for binary images to yield a new concept of false alarms and misses appropriate to the spatial setting where the measure does not require perfect matching to be a hit or correct negative. Additionally, three previously proposed geometric indices that provide complementary information about forecast performance are used to produce useful diagnostic plots for forecast performance. The diagnostics are applied to previously analyzed case studies from the spatial forecast verification Intercomparison Project (ICP) to facilitate a comparison with more complicated methods. Relatively new test cases from the Mesoscale Verification Intercomparison over Complex Terrain (MesoVICT) project are also employed for future comparisons. It is found that the proposed techniques provide useful information about forecast model behavior by way of a succinct, easy-to-implement method that can be complementary to other measures of forecast performance.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper proposes new diagnostic plots that take advantage of the lack of symmetry in the mean-error distance measure (MED) for binary images to yield a new concept of false alarms and misses appropriate to the spatial setting where the measure does not require perfect matching to be a hit or correct negative. Additionally, three previously proposed geometric indices that provide complementary information about forecast performance are used to produce useful diagnostic plots for forecast performance. The diagnostics are applied to previously analyzed case studies from the spatial forecast verification Intercomparison Project (ICP) to facilitate a comparison with more complicated methods. Relatively new test cases from the Mesoscale Verification Intercomparison over Complex Terrain (MesoVICT) project are also employed for future comparisons. It is found that the proposed techniques provide useful information about forecast model behavior by way of a succinct, easy-to-implement method that can be complementary to other measures of forecast performance.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

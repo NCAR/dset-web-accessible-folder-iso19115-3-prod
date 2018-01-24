@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:25.663999</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:57.010162</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -658,7 +658,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We describe the design of the Sunrise Filter Imager (SuFI) and the Image Stabilization and Light Distribution (ISLiD) unit onboard the Sunrise balloon borne solar observatory. This contribution provides the necessary information which is relevant to understand the instruments working principles, the relevant technical data, and the necessary information about calibration issues directly related to the science data.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We describe the design of the Sunrise Filter Imager (SuFI) and the Image Stabilization and Light Distribution (ISLiD) unit onboard the Sunrise balloon borne solar observatory. This contribution provides the necessary information which is relevant to understand the instruments working principles, the relevant technical data, and the necessary information about calibration issues directly related to the science data.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

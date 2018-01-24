@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:38.674811</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:04.870993</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We use aircraft observations combined with the reanalysis data to investigate the radiative effects of ice supersaturation (ISS). Our results show that although the excess water vapor over ice saturation itself has relatively small radiative effects, mistaking it as ice crystals in climate models would lead to considerable impacts: on average, +2.49W/m(2) change in the top of the atmosphere (TOA) radiation, -2.7W/m(2) change in surface radiation, and 1.47K/d change in heating rates. The radiative effects of ISS generally increase with the magnitudes of supersaturation. However, there is a strong dependence on the preexisting ice water path, which can even change the sign of the TOA radiative effect. It is therefore important to consider coexistence between ISS and ice clouds and to validate their relationship in the parameterizations of ISS in climate models.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We use aircraft observations combined with the reanalysis data to investigate the radiative effects of ice supersaturation (ISS). Our results show that although the excess water vapor over ice saturation itself has relatively small radiative effects, mistaking it as ice crystals in climate models would lead to considerable impacts: on average, +2.49W/m(2) change in the top of the atmosphere (TOA) radiation, -2.7W/m(2) change in surface radiation, and 1.47K/d change in heating rates. The radiative effects of ISS generally increase with the magnitudes of supersaturation. However, there is a strong dependence on the preexisting ice water path, which can even change the sign of the TOA radiative effect. It is therefore important to consider coexistence between ISS and ice clouds and to validate their relationship in the parameterizations of ISS in climate models.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

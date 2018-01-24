@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:12.903739</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:38.337407</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -553,7 +553,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The ITCT-Lagrangian-2K4 (Intercontinental Transport and Chemical Transformation) experiment was conceived with an aim to quantify the effects of photochemistry and mixing on the transformation of air masses in the free troposphere away from emissions. To this end, attempts were made to intercept and sample air masses several times during their journey across the North Atlantic using four aircraft based in New Hampshire (USA), Faial (Azores) and Creil (France). This article begins by describing forecasts from two Lagrangian models that were used to direct the aircraft into target air masses. A novel technique then identifies Lagrangian matches between flight segments. Two independent searches are conducted: for Lagrangian model matches and for pairs of whole air samples with matching hydrocarbon fingerprints. The information is filtered further by searching for matching hydrocarbon samples that are linked by matching trajectories. The quality of these "coincident matches" is assessed using temperature, humidity and tracer observations. The technique pulls out five clear Lagrangian cases covering a variety of situations and these are examined in detail. The matching trajectories and hydrocarbon fingerprints are shown, and the downwind minus upwind differences in tracers are discussed.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The ITCT-Lagrangian-2K4 (Intercontinental Transport and Chemical Transformation) experiment was conceived with an aim to quantify the effects of photochemistry and mixing on the transformation of air masses in the free troposphere away from emissions. To this end, attempts were made to intercept and sample air masses several times during their journey across the North Atlantic using four aircraft based in New Hampshire (USA), Faial (Azores) and Creil (France). This article begins by describing forecasts from two Lagrangian models that were used to direct the aircraft into target air masses. A novel technique then identifies Lagrangian matches between flight segments. Two independent searches are conducted: for Lagrangian model matches and for pairs of whole air samples with matching hydrocarbon fingerprints. The information is filtered further by searching for matching hydrocarbon samples that are linked by matching trajectories. The quality of these "coincident matches" is assessed using temperature, humidity and tracer observations. The technique pulls out five clear Lagrangian cases covering a variety of situations and these are examined in detail. The matching trajectories and hydrocarbon fingerprints are shown, and the downwind minus upwind differences in tracers are discussed.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

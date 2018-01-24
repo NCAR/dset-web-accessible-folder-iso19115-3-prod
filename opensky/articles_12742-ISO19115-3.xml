@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:03.213593</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:47.901861</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Advances to space-based observing systems and data processing techniques have made precipitation datasets quickly and easily available via various data portals and widely used in Earth sciences. The increasingly lengthy time span of space-based precipitation data records has enabled cross-discipline investigations and applications that would otherwise not be possible, revealing discoveries related to hydrological and land processes, climate, atmospheric composition, and ocean freshwater budget and proving a vital element in addressing societal issues. The purpose of this article is to demonstrate how the availability and continuity of precipitation data records from recent and upcoming space missions is transforming the ways that scientific and societal issues are addressed, in ways that would not be otherwise possible.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Advances to space-based observing systems and data processing techniques have made precipitation datasets quickly and easily available via various data portals and widely used in Earth sciences. The increasingly lengthy time span of space-based precipitation data records has enabled cross-discipline investigations and applications that would otherwise not be possible, revealing discoveries related to hydrological and land processes, climate, atmospheric composition, and ocean freshwater budget and proving a vital element in addressing societal issues. The purpose of this article is to demonstrate how the availability and continuity of precipitation data records from recent and upcoming space missions is transforming the ways that scientific and societal issues are addressed, in ways that would not be otherwise possible.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

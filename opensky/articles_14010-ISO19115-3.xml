@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:20.006636</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:09.255337</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Four convection-permitting Weather Research and Forecasting Model (WRF) forecasts were produced in an attempt to replicate the record-breaking rainfall across the Colorado Front Range between 1200 UTC 11 September and 1200 UTC 13 September 2013. A nested WRF domain with 4- and 1-km horizontal grid spacings was employed, and sensitivity to initial conditions (ICs) and microphysics (MP) parameterizations was examined. Rainfall forecasts were compared to gridded observations produced by National Weather Service River Forecast Centers and gauge measurements from the Community Collaborative Rain, Hail and Snow Network (CoCoRaHS). All 1-km forecasts produced 48-h rainfall exceeding 250 mm over portions of the Colorado Front Range and were more consistent with observations than the 4-km forecasts. While localized sensitivities to both ICs and MP were noted, systematic differences were not attributable to the varied ICs or MP schemes. At times, the 1-km forecasts produced precipitation structures similar to those observed, but none of the forecasts successfully captured the observed mesoscale evolution of the entire rainfall event. Nonetheless, as all 1-km forecasts produced torrential rainfall over the Colorado Front Range, these forecasts could have been useful guidance for this event.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Four convection-permitting Weather Research and Forecasting Model (WRF) forecasts were produced in an attempt to replicate the record-breaking rainfall across the Colorado Front Range between 1200 UTC 11 September and 1200 UTC 13 September 2013. A nested WRF domain with 4- and 1-km horizontal grid spacings was employed, and sensitivity to initial conditions (ICs) and microphysics (MP) parameterizations was examined. Rainfall forecasts were compared to gridded observations produced by National Weather Service River Forecast Centers and gauge measurements from the Community Collaborative Rain, Hail and Snow Network (CoCoRaHS). All 1-km forecasts produced 48-h rainfall exceeding 250 mm over portions of the Colorado Front Range and were more consistent with observations than the 4-km forecasts. While localized sensitivities to both ICs and MP were noted, systematic differences were not attributable to the varied ICs or MP schemes. At times, the 1-km forecasts produced precipitation structures similar to those observed, but none of the forecasts successfully captured the observed mesoscale evolution of the entire rainfall event. Nonetheless, as all 1-km forecasts produced torrential rainfall over the Colorado Front Range, these forecasts could have been useful guidance for this event.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

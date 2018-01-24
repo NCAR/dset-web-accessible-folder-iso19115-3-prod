@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:29.596906</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:22.065173</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Among the key services that institutional data management infrastructures must provide are provenance and lineage tracking and the ability to associate data with contextual information needed for understanding and use. These functionalities are critical for addressing a number of key issues faced by data collectors and users, including trust in data, results traceability, data transparency, and data citation support. In this paper, we describe the support for these services within the Data Conservancy Service (DCS) software. The DCS provenance, context, and lineage services cross the four layers in the DCS data curation stack model: storage, archiving, preservation, and curation.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Among the key services that institutional data management infrastructures must provide are provenance and lineage tracking and the ability to associate data with contextual information needed for understanding and use. These functionalities are critical for addressing a number of key issues faced by data collectors and users, including trust in data, results traceability, data transparency, and data citation support. In this paper, we describe the support for these services within the Data Conservancy Service (DCS) software. The DCS provenance, context, and lineage services cross the four layers in the DCS data curation stack model: storage, archiving, preservation, and curation.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:55.377931</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:29.894901</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>At the National Center for Atmospheric Research (NCAR), being able to enable and facilitate scientific progress by providing advanced computing capabilities has been a key focus for multiple decades. Additional developments of dedicated technical infrastructures for supporting data-related activities, such as visualization, analysis, processing, and transformation, have also been prioritized. However, in order to meet the diverse existing and emerging data needs from the scientific community, data services must couple technical development with human and organizational services. Data services have a better chance to be accepted and used by the target community if the community members are represented and consulted during the design and implementation process. This paper discusses NCAR's Data Stewardship Engineering Team (DSET), which was created to facilitate cross-organizational participation and communication. The NCAR DSET includes representatives and stakeholders from the NCAR science and technical divisions to leverage the expertise of both groups, and ensures that feedback from users is built into the process. The goal of the DSET is to enable data services, including the technical infrastructures, to be developed in alignment with the community's research and data needs.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[At the National Center for Atmospheric Research (NCAR), being able to enable and facilitate scientific progress by providing advanced computing capabilities has been a key focus for multiple decades. Additional developments of dedicated technical infrastructures for supporting data-related activities, such as visualization, analysis, processing, and transformation, have also been prioritized. However, in order to meet the diverse existing and emerging data needs from the scientific community, data services must couple technical development with human and organizational services. Data services have a better chance to be accepted and used by the target community if the community members are represented and consulted during the design and implementation process. This paper discusses NCAR's Data Stewardship Engineering Team (DSET), which was created to facilitate cross-organizational participation and communication. The NCAR DSET includes representatives and stakeholders from the NCAR science and technical divisions to leverage the expertise of both groups, and ensures that feedback from users is built into the process. The goal of the DSET is to enable data services, including the technical infrastructures, to be developed in alignment with the community's research and data needs.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

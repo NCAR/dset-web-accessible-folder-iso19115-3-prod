@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:59.935738</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:07.100267</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Arctic climate encompasses multiple feedbacks, the most important of which is the ice-albedo feedback. Enhanced Arctic changes, first recognized in the nineteenth century, increasingly are being observed across terrestrial, oceanic, atmospheric, and human systems, inspiring interdisciplinary research efforts, including the Study of Environmental Arctic Change (SEARCH) program, to understand the nature and future development of the Arctic system. In response to the need for enhanced understanding outlined in the 2005 SEARCH Implementation Plan [Arctic Research Consortium of the United States, 2005], an ongoing Arctic System Reanalysis (ASR) project builds on previous programs to observe the Arctic climate. The ASR is a multi-institutional, interdisciplinary collaboration that optimally merges measurements and modeling to provide a high-resolution description of the region's atmosphere/sea ice/land system by assimilating a diverse suite of observations into a regional model. The project builds upon lessons learned from past reanalyses by optimizing model physics parameterizations and methods of data assimilation for Arctic conditions. The ASR, which is a partnership with the broader Arctic research community, represents a synthesis tool for assessing and monitoring variability and change in the Arctic system.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Arctic climate encompasses multiple feedbacks, the most important of which is the ice-albedo feedback. Enhanced Arctic changes, first recognized in the nineteenth century, increasingly are being observed across terrestrial, oceanic, atmospheric, and human systems, inspiring interdisciplinary research efforts, including the Study of Environmental Arctic Change (SEARCH) program, to understand the nature and future development of the Arctic system. In response to the need for enhanced understanding outlined in the 2005 SEARCH Implementation Plan [Arctic Research Consortium of the United States, 2005], an ongoing Arctic System Reanalysis (ASR) project builds on previous programs to observe the Arctic climate. The ASR is a multi-institutional, interdisciplinary collaboration that optimally merges measurements and modeling to provide a high-resolution description of the region's atmosphere/sea ice/land system by assimilating a diverse suite of observations into a regional model. The project builds upon lessons learned from past reanalyses by optimizing model physics parameterizations and methods of data assimilation for Arctic conditions. The ASR, which is a partnership with the broader Arctic research community, represents a synthesis tool for assessing and monitoring variability and change in the Arctic system.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

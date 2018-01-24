@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:48.881398</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:29.396832</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper highlights progress with the development of a petascale implementation of general-purpose high-resolution (nonoscillatory) hydrodynamical simulation code EULAG [Prusa et al. 2008, Comput. Fluids 37, 1193]. The applications addressed are anelastic atmospheric flows in the range of scales from micro to planetary. The new modeldomain decomposition into a three dimensional processor array has been implemented to increase model performance and scalability. The performance of the new code is demonstrated on the IBM BlueGene/L and Cray XT4/XT5 supercomputers. The results show significant improvement of the model efficacy compared to the original decomposition into a two-dimensional processor array in the horizontal--a standard in meteorological models.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper highlights progress with the development of a petascale implementation of general-purpose high-resolution (nonoscillatory) hydrodynamical simulation code EULAG [Prusa et al. 2008, Comput. Fluids 37, 1193]. The applications addressed are anelastic atmospheric flows in the range of scales from micro to planetary. The new modeldomain decomposition into a three dimensional processor array has been implemented to increase model performance and scalability. The performance of the new code is demonstrated on the IBM BlueGene/L and Cray XT4/XT5 supercomputers. The results show significant improvement of the model efficacy compared to the original decomposition into a two-dimensional processor array in the horizontal--a standard in meteorological models.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

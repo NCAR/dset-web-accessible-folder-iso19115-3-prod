@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:12.716565</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:25.019845</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The rate of increase of global-mean precipitation per degree global-mean surface temperature increase differs for greenhouse gas and aerosol forcings and across emissions scenarios with differing composition of change in forcing. We investigate whether or not the rate of change of extreme precipitation also varies across the four emissions scenarios that force the Coupled Model Intercomparison Project, version 5 multimodel ensemble. In most models, the rate of increase of maximum annual daily precipitation per degree global warming in the multimodel ensemble is statistically indistinguishable across the four scenarios, whether this extreme precipitation is calculated globally, over all land, or over extratropical land. These results indicate that in contrast to mean precipitation, extreme precipitation depends on the total amount of warming and does not depend on emissions scenario in most models.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The rate of increase of global-mean precipitation per degree global-mean surface temperature increase differs for greenhouse gas and aerosol forcings and across emissions scenarios with differing composition of change in forcing. We investigate whether or not the rate of change of extreme precipitation also varies across the four emissions scenarios that force the Coupled Model Intercomparison Project, version 5 multimodel ensemble. In most models, the rate of increase of maximum annual daily precipitation per degree global warming in the multimodel ensemble is statistically indistinguishable across the four scenarios, whether this extreme precipitation is calculated globally, over all land, or over extratropical land. These results indicate that in contrast to mean precipitation, extreme precipitation depends on the total amount of warming and does not depend on emissions scenario in most models.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

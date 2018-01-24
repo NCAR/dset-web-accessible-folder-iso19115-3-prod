@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:11.571231</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:36.417875</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Climate models used for climate change projections are on the threshold of including much greater biological and chemical detail than previous models. Today, standard climate models (referred to generically as atmosphere-ocean general circulation models, or AOGCMs) include components that simulate the coupled atmosphere, ocean, land, and sea ice. Some modeling centers are now incorporating carbon cycle models into AOGCMs in a move toward an Earth system model (ESM) capability. Additional candidate components to include in ESMs are aerosols, chemistry, ice sheets, and dynamic vegetation [e.g., Cox et al., 2000; Friedlingstein et al., 2006].</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Climate models used for climate change projections are on the threshold of including much greater biological and chemical detail than previous models. Today, standard climate models (referred to generically as atmosphere-ocean general circulation models, or AOGCMs) include components that simulate the coupled atmosphere, ocean, land, and sea ice. Some modeling centers are now incorporating carbon cycle models into AOGCMs in a move toward an Earth system model (ESM) capability. Additional candidate components to include in ESMs are aerosols, chemistry, ice sheets, and dynamic vegetation [e.g., Cox et al., 2000; Friedlingstein et al., 2006].]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

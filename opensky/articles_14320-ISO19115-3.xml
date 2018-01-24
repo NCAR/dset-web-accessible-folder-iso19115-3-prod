@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:28.012062</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:19.883316</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Climate change, land use practices, and other consequences of a growing human population affect soil sustainability. Unfortunately, scientists studying belowground processes have traditionally been limited to data and models that capture intermediate spatial and temporal scales, failing to accurately characterize soil phenomena at societally relevant scales, including the larger spatial scales at which many policy decisions are made.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Climate change, land use practices, and other consequences of a growing human population affect soil sustainability. Unfortunately, scientists studying belowground processes have traditionally been limited to data and models that capture intermediate spatial and temporal scales, failing to accurately characterize soil phenomena at societally relevant scales, including the larger spatial scales at which many policy decisions are made.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

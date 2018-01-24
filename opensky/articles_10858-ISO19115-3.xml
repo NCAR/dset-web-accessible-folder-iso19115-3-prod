@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:34.596398</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:09.749406</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>An alternative form for a height-based terrain-following coordinate is presented here that progressively smoothes the coordinate surfaces with height to remove smaller scale (steeper) terrain structure from the surfaces. Testing this approach in comparison with traditional and hybrid terrain-following formulations in resting-atmosphere simulations demonstrates that it can significantly reduce artificial circulations caused by inaccuracies in the horizontal pressure gradient term. The simulations also suggest that some further improvement in the accuracy of the horizontal pressure gradient terms can be achieved using a simplified version of Mahrer's approach, which can be implemented with little increase in computational cost or complexity.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[An alternative form for a height-based terrain-following coordinate is presented here that progressively smoothes the coordinate surfaces with height to remove smaller scale (steeper) terrain structure from the surfaces. Testing this approach in comparison with traditional and hybrid terrain-following formulations in resting-atmosphere simulations demonstrates that it can significantly reduce artificial circulations caused by inaccuracies in the horizontal pressure gradient term. The simulations also suggest that some further improvement in the accuracy of the horizontal pressure gradient terms can be achieved using a simplified version of Mahrer's approach, which can be implemented with little increase in computational cost or complexity.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

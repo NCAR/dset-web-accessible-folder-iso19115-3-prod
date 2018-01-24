@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:33.650096</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:27.881739</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -433,7 +433,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The global characteristics of tropical cyclones (TCs) simulated by several climate models are analyzed and compared with observations. The global climate models were forced by the same sea surface temperature (SST) fields in two types of experiments, using climatological SST and interannually varying SST. TC tracks and intensities are derived from each model's output fields by the group who ran that model, using their own preferred tracking scheme; the study considers the combination of model and tracking scheme as a single modeling system, and compares the properties derived from the different systems. Overall, the observed geographic distribution of global TC frequency was reasonably well reproduced. As expected, with the exception of one model, intensities of the simulated TC were lower than in observations, to a degree that varies considerably across models.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The global characteristics of tropical cyclones (TCs) simulated by several climate models are analyzed and compared with observations. The global climate models were forced by the same sea surface temperature (SST) fields in two types of experiments, using climatological SST and interannually varying SST. TC tracks and intensities are derived from each model's output fields by the group who ran that model, using their own preferred tracking scheme; the study considers the combination of model and tracking scheme as a single modeling system, and compares the properties derived from the different systems. Overall, the observed geographic distribution of global TC frequency was reasonably well reproduced. As expected, with the exception of one model, intensities of the simulated TC were lower than in observations, to a degree that varies considerably across models.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

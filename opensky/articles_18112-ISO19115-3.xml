@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:18.531691</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:33.617352</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A class of new benchmark deformational flow test cases for the two-dimensional horizontal linear transport problems on the sphere is proposed. The scalar field follows complex trajectories and undergoes severe deformation during the simulation; however, the flow reverses its course at half-time and the scalar field returns to its initial position and shape. This process makes the exact solution available at the end of the simulation, and facilitates assessment of the accuracy of the underlying transport scheme. A procedure to eliminate possible cancellations of errors when the flow reverses is proposed. The test suite consists of four cases. Three are based on non-divergent flow fields and one on a divergent flow. The initial conditions are prescribed in terms of regular latitude-longitude spherical coordinates and are easy to implement. The divergent flow is specifically aimed for conservative global transport schemes to test for conservation, consistency and monotonicity (or positivity) of limiters/filters in a challenging flow environment. In the context of semi-Lagrangian schemes, the time-varying flow fields can be used to test trajectory algorithms where the exact trajectories do not follow great-circle arcs. The characteristics of the test cases are demonstrated with two different transport schemes.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A class of new benchmark deformational flow test cases for the two-dimensional horizontal linear transport problems on the sphere is proposed. The scalar field follows complex trajectories and undergoes severe deformation during the simulation; however, the flow reverses its course at half-time and the scalar field returns to its initial position and shape. This process makes the exact solution available at the end of the simulation, and facilitates assessment of the accuracy of the underlying transport scheme. A procedure to eliminate possible cancellations of errors when the flow reverses is proposed. The test suite consists of four cases. Three are based on non-divergent flow fields and one on a divergent flow. The initial conditions are prescribed in terms of regular latitude-longitude spherical coordinates and are easy to implement. The divergent flow is specifically aimed for conservative global transport schemes to test for conservation, consistency and monotonicity (or positivity) of limiters/filters in a challenging flow environment. In the context of semi-Lagrangian schemes, the time-varying flow fields can be used to test trajectory algorithms where the exact trajectories do not follow great-circle arcs. The characteristics of the test cases are demonstrated with two different transport schemes.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

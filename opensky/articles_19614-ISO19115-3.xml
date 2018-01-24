@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:45.466054</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:15.091636</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>I hope you will join me in welcoming Dr. Daniel Welling of University of Michigan and Dr. T. Paul O'Brien of the Aerospace Corporation to the Space Weather (SWE) editorial team. Dan and Paul have answered the call to fill the shoes of two departing editors: Dr. Howard Singer and Dr. Barbara Giles. Dan brings insight related to space weather model development, while Paul brings expertise in the geospace radiation environment.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[I hope you will join me in welcoming Dr. Daniel Welling of University of Michigan and Dr. T. Paul O'Brien of the Aerospace Corporation to the Space Weather (SWE) editorial team. Dan and Paul have answered the call to fill the shoes of two departing editors: Dr. Howard Singer and Dr. Barbara Giles. Dan brings insight related to space weather model development, while Paul brings expertise in the geospace radiation environment.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

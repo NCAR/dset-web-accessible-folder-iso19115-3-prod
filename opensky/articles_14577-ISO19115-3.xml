@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:34.133152</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:28.534092</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>How does our built environment make society vulnerable to climate extremes such as flooding? What knowledge is required by engineering designers and risk managers to address the associated risks? How can engineering/scientific approaches be adapted to reduce vulnerability to weather and climate extremes? These were some of the key questions posed during a recent workshop at the National Center for Atmospheric Research (NCAR), which was attended by climate scientists, civil engineering practitioners, and governmental departments. Engineering design encompasses a broad range of applications; to focus discussions, this workshop targeted the specific theme of water resources.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[How does our built environment make society vulnerable to climate extremes such as flooding? What knowledge is required by engineering designers and risk managers to address the associated risks? How can engineering/scientific approaches be adapted to reduce vulnerability to weather and climate extremes? These were some of the key questions posed during a recent workshop at the National Center for Atmospheric Research (NCAR), which was attended by climate scientists, civil engineering practitioners, and governmental departments. Engineering design encompasses a broad range of applications; to focus discussions, this workshop targeted the specific theme of water resources.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

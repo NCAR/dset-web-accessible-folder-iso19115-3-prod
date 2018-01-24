@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:02.158154</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:10.175417</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Temperature profiles derived from Global Positioning System (GPS) Radio Occultation (RO) data from the Constellation Observing System for Meteorology, Ionosphere, and Climate (COSMIC) mission are compared with those from four types of radiosonde systems from 12 to 25 km to assess the performance of these radiosonde systems in the upper troposphere and lower stratosphere. Results show that temperature measurements from the Vaisala-RS92 and Shanghai radiosonde systems agree well with those of COSMIC with a close-to-zero mean difference. Large temperature biases are shown for the MRZ and VIZ-B2 radiosonde systems relative to COSMIC, which are probably caused by diurnal radiative effects. In addition, we show that the temperature measurements from a new Chinese radiosonde system are improved compared to those of an older system through a comparison with COSMIC measurements.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Temperature profiles derived from Global Positioning System (GPS) Radio Occultation (RO) data from the Constellation Observing System for Meteorology, Ionosphere, and Climate (COSMIC) mission are compared with those from four types of radiosonde systems from 12 to 25 km to assess the performance of these radiosonde systems in the upper troposphere and lower stratosphere. Results show that temperature measurements from the Vaisala-RS92 and Shanghai radiosonde systems agree well with those of COSMIC with a close-to-zero mean difference. Large temperature biases are shown for the MRZ and VIZ-B2 radiosonde systems relative to COSMIC, which are probably caused by diurnal radiative effects. In addition, we show that the temperature measurements from a new Chinese radiosonde system are improved compared to those of an older system through a comparison with COSMIC measurements.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

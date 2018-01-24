@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:29.948552</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:22.543628</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Absolute values of gravity wave momentum flux (GWMF) deduced from satellite measurements by the Sounding of the Atmosphere using Broadband Emission Radiometry (SABER) instrument and the High Resolution Dynamics Limb Sounder (HIRDLS) are correlated with sea surface temperature (SST) with the aim of identifying those oceanic regions for which convection is a major source of gravity waves (GWs). Our study identifies those latitude bands where high correlation coefficients indicate convective excitation with confidence. This is based on a global ray-tracing simulation, which is used to delineate the source and wind-filtering effects. Convective GWs are identified at the eastern coasts of the continents and over the warm water regions formed by the warm ocean currents, in particular the Gulf Stream and the Kuroshio. Potential contributions of tropical cyclones to the excitation of the GWs are discussed. Convective excitation can be identified well into the mid-mesosphere. In propagating upward, the centers of GWMF formed by convection shift poleward. Some indications of the main forcing regions are even shown for the upper mesosphere/lower thermosphere (MLT).</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Absolute values of gravity wave momentum flux (GWMF) deduced from satellite measurements by the Sounding of the Atmosphere using Broadband Emission Radiometry (SABER) instrument and the High Resolution Dynamics Limb Sounder (HIRDLS) are correlated with sea surface temperature (SST) with the aim of identifying those oceanic regions for which convection is a major source of gravity waves (GWs). Our study identifies those latitude bands where high correlation coefficients indicate convective excitation with confidence. This is based on a global ray-tracing simulation, which is used to delineate the source and wind-filtering effects. Convective GWs are identified at the eastern coasts of the continents and over the warm water regions formed by the warm ocean currents, in particular the Gulf Stream and the Kuroshio. Potential contributions of tropical cyclones to the excitation of the GWs are discussed. Convective excitation can be identified well into the mid-mesosphere. In propagating upward, the centers of GWMF formed by convection shift poleward. Some indications of the main forcing regions are even shown for the upper mesosphere/lower thermosphere (MLT).]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

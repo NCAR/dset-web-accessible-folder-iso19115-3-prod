@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:15.431529</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:41.957776</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The performance of a two-dimensional (2D) numerical model in representing three-dimensional (3D) planetary boundary layer (PBL) convection is investigated by comparing the 2D model solution to that of a 3D large- eddy simulation. The free convective PBL has no external forcing that would lead to any realizable 2D motion, and hence the 2D model represents a parameterization (not a simulation) of such a convective system. The present solutions show that the fluxes of conserved scalars, such as the potential temperature, are somewhat constrained and hence are not very sensitive to the model dimensionality. Turbulent kinetic energy (TKE), surface friction velocity, and velocity variances are sensitive to the subgrid-scale eddy viscosity and thermal diffusivity in the 2D model; these statistics result mostly from model-generated hypothetical 2D plumes that can be tuned to behave similarly to their 3D counterparts. These 2D plumes are comparable in scale with the PBL height due to the capping inversion. In the presence of shear, orienting the 2D model perpendicular to the mean shear is essential to generate a reasonable momentum flux profile, and hence mean wind profile and wind- related statistics such as the TKE and velocity variances.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The performance of a two-dimensional (2D) numerical model in representing three-dimensional (3D) planetary boundary layer (PBL) convection is investigated by comparing the 2D model solution to that of a 3D large- eddy simulation. The free convective PBL has no external forcing that would lead to any realizable 2D motion, and hence the 2D model represents a parameterization (not a simulation) of such a convective system. The present solutions show that the fluxes of conserved scalars, such as the potential temperature, are somewhat constrained and hence are not very sensitive to the model dimensionality. Turbulent kinetic energy (TKE), surface friction velocity, and velocity variances are sensitive to the subgrid-scale eddy viscosity and thermal diffusivity in the 2D model; these statistics result mostly from model-generated hypothetical 2D plumes that can be tuned to behave similarly to their 3D counterparts. These 2D plumes are comparable in scale with the PBL height due to the capping inversion. In the presence of shear, orienting the 2D model perpendicular to the mean shear is essential to generate a reasonable momentum flux profile, and hence mean wind profile and wind- related statistics such as the TKE and velocity variances.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

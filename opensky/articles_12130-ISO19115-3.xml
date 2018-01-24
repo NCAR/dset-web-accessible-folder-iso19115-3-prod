@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:49.004712</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:29.575300</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study demonstrates a method of temporally and spatially scaling precipitation rates at low probability of precipitation-rate exceedance levels (e.g., 0.1%) from coarser-resolution global datasets to near-instantaneous localized rain gauge precipitation rates. In particular, the 8-km-, 1-h-resolution Climate Prediction Center Morphing (CMORPH) dataset was scaled to 1-min localized rates using the Automated Surface Observing Station (ASOS) rain gauge data. Maps of these scaled precipitation rates show overall patterns and magnitudes that are nearly identical to the lower-spatial-resolution rain gauge maps yet retain the much higher resolution of the original remotely sensed global dataset, which is particularly important over regions of complex geography and sparse surface observing stations. To scale the CMORPH data, temporal and spatial conversion factor arrays were calculated by comparing precipitation rates at different temporal (ASOS 1-min and 1-h) and spatial (ASOS 1-h and CMORPH 1-h) resolutions. These temporal and spatial conversion factors were found to vary by probability level, season, and climatological region. Meteorological implications of these variations are discussed.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study demonstrates a method of temporally and spatially scaling precipitation rates at low probability of precipitation-rate exceedance levels (e.g., 0.1%) from coarser-resolution global datasets to near-instantaneous localized rain gauge precipitation rates. In particular, the 8-km-, 1-h-resolution Climate Prediction Center Morphing (CMORPH) dataset was scaled to 1-min localized rates using the Automated Surface Observing Station (ASOS) rain gauge data. Maps of these scaled precipitation rates show overall patterns and magnitudes that are nearly identical to the lower-spatial-resolution rain gauge maps yet retain the much higher resolution of the original remotely sensed global dataset, which is particularly important over regions of complex geography and sparse surface observing stations. To scale the CMORPH data, temporal and spatial conversion factor arrays were calculated by comparing precipitation rates at different temporal (ASOS 1-min and 1-h) and spatial (ASOS 1-h and CMORPH 1-h) resolutions. These temporal and spatial conversion factors were found to vary by probability level, season, and climatological region. Meteorological implications of these variations are discussed.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

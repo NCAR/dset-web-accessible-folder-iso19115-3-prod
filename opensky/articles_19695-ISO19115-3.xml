@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:47.551245</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:18.150435</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Results from a recent field campaign are used to assess the accuracy of wind speed and direction precision estimates produced by a Doppler lidar wind retrieval algorithm. The algorithm, which is based on the traditional velocity-azimuth- display (VAD) technique, estimates the wind speed and direction measurement precision using standard error propagation techniques, assuming the input data (i.e., radial velocities) to be contaminated by random, zero-mean, errors. For this study, the lidar was configured to execute an 8-beam plan-position-indicator (PPI) scan once every 12 min during the 6-week deployment period. Several wind retrieval trials were conducted using different schemes for estimating the precision in the radial velocity measurements. The resulting wind speed and direction precision estimates were compared to differences in wind speed and direction between the VAD algorithm and sonic anemometer measurements taken on a nearby 300 m tower.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Results from a recent field campaign are used to assess the accuracy of wind speed and direction precision estimates produced by a Doppler lidar wind retrieval algorithm. The algorithm, which is based on the traditional velocity-azimuth- display (VAD) technique, estimates the wind speed and direction measurement precision using standard error propagation techniques, assuming the input data (i.e., radial velocities) to be contaminated by random, zero-mean, errors. For this study, the lidar was configured to execute an 8-beam plan-position-indicator (PPI) scan once every 12 min during the 6-week deployment period. Several wind retrieval trials were conducted using different schemes for estimating the precision in the radial velocity measurements. The resulting wind speed and direction precision estimates were compared to differences in wind speed and direction between the VAD algorithm and sonic anemometer measurements taken on a nearby 300 m tower.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

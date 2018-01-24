@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:52.886247</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:26.086800</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Large-eddy simulations are used to produce realistic, high-resolution depictions of near-surface winds in translating tornadoes. The translation speed, swirl ratio, and vertical forcing are varied to provide a range of vortex intensities and structural types. Observation experiments are then performed in which the tornadoes are passed over groups of simulated sensors. Some of the experiments use indestructible, error-free anemometers while others limit the range of observable wind speeds to mimic the characteristics of damage indicators specified in the enhanced Fujita (EF) scale. Also, in some of the experiments the sensors are randomly placed while in others they are positioned in regularly spaced columns perpendicular to the vortex tracks to mimic field project deployments.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Large-eddy simulations are used to produce realistic, high-resolution depictions of near-surface winds in translating tornadoes. The translation speed, swirl ratio, and vertical forcing are varied to provide a range of vortex intensities and structural types. Observation experiments are then performed in which the tornadoes are passed over groups of simulated sensors. Some of the experiments use indestructible, error-free anemometers while others limit the range of observable wind speeds to mimic the characteristics of damage indicators specified in the enhanced Fujita (EF) scale. Also, in some of the experiments the sensors are randomly placed while in others they are positioned in regularly spaced columns perpendicular to the vortex tracks to mimic field project deployments.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

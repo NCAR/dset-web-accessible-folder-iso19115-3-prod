@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:35.531914</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:59.812577</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Understanding how households, ranging from poor to wealthy differ in levels of vulnerability to hazards, such as floods and heat waves and knowledge of the mechanisms creating this difference is fundamental to enhancing resilience, fairly, across urban populations. A complex problem exists, however, in determining the relative influences of various attributes of wealth and vulnerability. In this paper we apply a livelihoods framework to characterize urban households by the resources or assets that comprise their livelihoods. We then combine a fuzzy logic approach with an analytic hierarchy process (ANH), to examine the relative influence of wealth (poverty), exposure, sensitivity and capacity on vulnerability to climate hazards in Mumbai, India. While research on urban resilience has grown considerably in recent years, this paper belongs to the few studies that have examined the relative influence of wealth and capacity on differences in vulnerability within and across household classes in cities. We find that under current climate change conditions, differences in wealth and capacity largely account for the high household vulnerability levels in Mumbai. While this pattern might change in a future (warmer) world, without a profound transformation, it is hard to imagine that the change would be for the better.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Understanding how households, ranging from poor to wealthy differ in levels of vulnerability to hazards, such as floods and heat waves and knowledge of the mechanisms creating this difference is fundamental to enhancing resilience, fairly, across urban populations. A complex problem exists, however, in determining the relative influences of various attributes of wealth and vulnerability. In this paper we apply a livelihoods framework to characterize urban households by the resources or assets that comprise their livelihoods. We then combine a fuzzy logic approach with an analytic hierarchy process (ANH), to examine the relative influence of wealth (poverty), exposure, sensitivity and capacity on vulnerability to climate hazards in Mumbai, India. While research on urban resilience has grown considerably in recent years, this paper belongs to the few studies that have examined the relative influence of wealth and capacity on differences in vulnerability within and across household classes in cities. We find that under current climate change conditions, differences in wealth and capacity largely account for the high household vulnerability levels in Mumbai. While this pattern might change in a future (warmer) world, without a profound transformation, it is hard to imagine that the change would be for the better.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

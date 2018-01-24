@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:31.992871</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:54.015808</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The causes of the ionospheric annual asymmetry, which refers to a larger averaged electron density at geomagnetic conjugate latitudes in December than in June, remain an unresolved problem that still generates considerable interest. The ionospheric annual asymmetry in the peak electron density of the F-2 layer (NmF2) is typically 20-40%, which cannot be explained by the 7% annual asymmetry in photoionization caused by the shorter Sun-Earth distance in December. Mikhailov and Perrone (2011, 2015) suggested that the annual asymmetry in atomic oxygen production due to O-2 dissociation is sufficient to explain the ionospheric annual asymmetry at middle latitudes. In our study, a series of the Global Mean Model (GMM) simulations have been conducted to test this hypothesis. Although O-2 dissociation and eddy diffusion processes are included in the GMM, the simulated annual asymmetry of NmF2 is only 13%. Furthermore, the annual asymmetry increase in neutral composition in our GMM simulations can only explain about one fifth of the ionospheric annual asymmetry. Therefore, the atomic oxygen production mechanism is unlikely to be a major contributor to the ionospheric annual asymmetry.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The causes of the ionospheric annual asymmetry, which refers to a larger averaged electron density at geomagnetic conjugate latitudes in December than in June, remain an unresolved problem that still generates considerable interest. The ionospheric annual asymmetry in the peak electron density of the F-2 layer (NmF2) is typically 20-40%, which cannot be explained by the 7% annual asymmetry in photoionization caused by the shorter Sun-Earth distance in December. Mikhailov and Perrone (2011, 2015) suggested that the annual asymmetry in atomic oxygen production due to O-2 dissociation is sufficient to explain the ionospheric annual asymmetry at middle latitudes. In our study, a series of the Global Mean Model (GMM) simulations have been conducted to test this hypothesis. Although O-2 dissociation and eddy diffusion processes are included in the GMM, the simulated annual asymmetry of NmF2 is only 13%. Furthermore, the annual asymmetry increase in neutral composition in our GMM simulations can only explain about one fifth of the ionospheric annual asymmetry. Therefore, the atomic oxygen production mechanism is unlikely to be a major contributor to the ionospheric annual asymmetry.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

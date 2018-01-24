@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:45.026246</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:44.649765</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Hurricane Sandy in late October 2012 drove before it a storm surge that rose to 4.28 meters above mean lower low water at The Battery in lower Manhattan, and flooded the Hugh L. Carey automobile tunnel between Brooklyn and The Battery. This study examines the surge event in New York Harbor using the Weather Research and Forecasting (WRF) atmospheric model and the Coupled-Ocean-Atmosphere-Wave- Sediment Transport / Regional Ocean Modeling System (COAWST/ROMS). We present a new technique using directional analysis to calculate and display maps of a coastline's potential for storm surge; these maps are constructed from wind fields blowing from eight fixed compass directions. This analysis approximates the surge observed during Hurricane Sandy. The directional analysis is then applied to surge events at Charleston, South Carolina, New Orleans, Louisiana, and Tacloban City, the Philippines. Emergency managers could use these directional maps to prepare their cities for an approaching storm, on planning horizons from days to years.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Hurricane Sandy in late October 2012 drove before it a storm surge that rose to 4.28 meters above mean lower low water at The Battery in lower Manhattan, and flooded the Hugh L. Carey automobile tunnel between Brooklyn and The Battery. This study examines the surge event in New York Harbor using the Weather Research and Forecasting (WRF) atmospheric model and the Coupled-Ocean-Atmosphere-Wave- Sediment Transport / Regional Ocean Modeling System (COAWST/ROMS). We present a new technique using directional analysis to calculate and display maps of a coastline's potential for storm surge; these maps are constructed from wind fields blowing from eight fixed compass directions. This analysis approximates the surge observed during Hurricane Sandy. The directional analysis is then applied to surge events at Charleston, South Carolina, New Orleans, Louisiana, and Tacloban City, the Philippines. Emergency managers could use these directional maps to prepare their cities for an approaching storm, on planning horizons from days to years.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

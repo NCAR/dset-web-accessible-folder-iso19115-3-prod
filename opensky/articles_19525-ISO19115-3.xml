@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:43.543068</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:12.187981</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study applies a sensitivity analysis (SA) technique (the Morris method, MM) to an automated Lagrangian tropical cyclone (TC) tracking algorithm used on gridded climate data. MM demonstrates the ability to screen for input parameters defining TCs (such as minimum intensity and lifetime) that contribute significantly to sensitivity in output metrics (such as storm count). The SA is performed by tracking TCs in four different reanalyses. Tracked TC trajectories are compared to a pointwise observational record. Results show that using thermally integrated metrics for isolating TC warm cores is superior to single-temperature levels. Input thresholds defining TC vortex strength during tracking contribute the most variance in all output metrics. Integrated output metrics (such as accumulated cyclone energy) are less variable than counting metrics such as TC frequency. MM greatly reduces the computational requirements for tracker optimization, with tracked TCs demonstrating better hit and false alarm rates than previous studies.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study applies a sensitivity analysis (SA) technique (the Morris method, MM) to an automated Lagrangian tropical cyclone (TC) tracking algorithm used on gridded climate data. MM demonstrates the ability to screen for input parameters defining TCs (such as minimum intensity and lifetime) that contribute significantly to sensitivity in output metrics (such as storm count). The SA is performed by tracking TCs in four different reanalyses. Tracked TC trajectories are compared to a pointwise observational record. Results show that using thermally integrated metrics for isolating TC warm cores is superior to single-temperature levels. Input thresholds defining TC vortex strength during tracking contribute the most variance in all output metrics. Integrated output metrics (such as accumulated cyclone energy) are less variable than counting metrics such as TC frequency. MM greatly reduces the computational requirements for tracker optimization, with tracked TCs demonstrating better hit and false alarm rates than previous studies.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:45.722002</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:25.451024</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The increased availability of radio occultation (RO) data offers the ability to detect and study turbulence in the Earth's atmosphere. An analysis of how RO data can be used to determine the strength and location of turbulent regions is presented. This includes the derivation of a model for the power spectrum of the log-amplitude and phase fluctuations of the permittivity (or index of refraction) field. The bulk of the paper is then concerned with the estimation of the model parameters. Parameter estimators are introduced and some of their statistical properties are studied. These estimators are then applied to simulated log-amplitude RO signals. This includes the analysis of global statistics derived from a large number of realizations, as well as case studies that illustrate various specific aspects of the problem. Improvements to the basic estimation methods are discussed, and their beneficial properties are illustrated. The estimation techniques are then applied to real occultation data. Only two cases are presented, but they illustrate some of the salient features inherent in real data.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The increased availability of radio occultation (RO) data offers the ability to detect and study turbulence in the Earth's atmosphere. An analysis of how RO data can be used to determine the strength and location of turbulent regions is presented. This includes the derivation of a model for the power spectrum of the log-amplitude and phase fluctuations of the permittivity (or index of refraction) field. The bulk of the paper is then concerned with the estimation of the model parameters. Parameter estimators are introduced and some of their statistical properties are studied. These estimators are then applied to simulated log-amplitude RO signals. This includes the analysis of global statistics derived from a large number of realizations, as well as case studies that illustrate various specific aspects of the problem. Improvements to the basic estimation methods are discussed, and their beneficial properties are illustrated. The estimation techniques are then applied to real occultation data. Only two cases are presented, but they illustrate some of the salient features inherent in real data.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

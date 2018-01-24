@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:59.105143</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:42.624569</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper describes the design and use of a recursive ensemble Kalman filter (REnKF) to assimilate streamflow data in an operational flow forecasting system of seven catchments in New Zealand. The REnKF iteratively updates past and present model states (soil water, aquifer and surface storages), with lags up to the concentration time of the catchment, to improve model initial conditions and hence flow forecasts. We found the REnKF overcame instabilities in the standard EnKF, which were associated with the natural lag time between upstream catchment wetness and flow at the gauging locations. The forecast system performance was correspondingly improved in terms of Nash-Sutcliffe score, persistence index and bounding of the measured flow by the model ensemble. We present descriptions of filter design parameters and explanations and examples of filter behaviour, as an information source for other groups wishing to assimilate discharge observations for operational forecasting.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper describes the design and use of a recursive ensemble Kalman filter (REnKF) to assimilate streamflow data in an operational flow forecasting system of seven catchments in New Zealand. The REnKF iteratively updates past and present model states (soil water, aquifer and surface storages), with lags up to the concentration time of the catchment, to improve model initial conditions and hence flow forecasts. We found the REnKF overcame instabilities in the standard EnKF, which were associated with the natural lag time between upstream catchment wetness and flow at the gauging locations. The forecast system performance was correspondingly improved in terms of Nash-Sutcliffe score, persistence index and bounding of the measured flow by the model ensemble. We present descriptions of filter design parameters and explanations and examples of filter behaviour, as an information source for other groups wishing to assimilate discharge observations for operational forecasting.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

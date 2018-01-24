@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:38.492108</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:15.131818</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper presents the design of a 449 MHz radar for wind profiling, with a focus on modularity and solid-state transmitter design. It is one of the first wind profiler radars to use low-cost LDMOS power amplifiers combined with spaced antennas. The system is portable and designed for 2-3 month deployments. The transmitter power amplifier consists of three 1-kW peak power modules which feed 54 antenna elements arranged in a hexagonal array, scalable directly to 126 elements. The power amplifier is operated in pulsed mode with a 10% duty cycle at 54% power added efficiency (PAE). The antenna array is designed to have low sidelobes, confirmed by measurements. The radar was operated in Boulder, Colorado and Salt Lake City, Utah. Atmospheric wind vertical and horizontal components at altitudes between 200m and 4km were calculated from the collected atmospheric return signals.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper presents the design of a 449 MHz radar for wind profiling, with a focus on modularity and solid-state transmitter design. It is one of the first wind profiler radars to use low-cost LDMOS power amplifiers combined with spaced antennas. The system is portable and designed for 2-3 month deployments. The transmitter power amplifier consists of three 1-kW peak power modules which feed 54 antenna elements arranged in a hexagonal array, scalable directly to 126 elements. The power amplifier is operated in pulsed mode with a 10% duty cycle at 54% power added efficiency (PAE). The antenna array is designed to have low sidelobes, confirmed by measurements. The radar was operated in Boulder, Colorado and Salt Lake City, Utah. Atmospheric wind vertical and horizontal components at altitudes between 200m and 4km were calculated from the collected atmospheric return signals.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

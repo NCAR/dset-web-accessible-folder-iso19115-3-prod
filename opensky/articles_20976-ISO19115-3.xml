@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:54.999829</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:29.352540</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -313,7 +313,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Measurements of turbulence are essential to understand and quantify the transport and dispersal of heat, moisture, momentum, and trace gases within the planetary boundary layer (PBL). Through the years, various techniques to measure turbulence using Doppler lidar observations have been proposed. However, the accuracy of these measurements has rarely been validated against trusted in situ instrumentation. Herein, data from the eXperimental Planetary boundary layer Instrumentation Assessment (XPIA) are used to verify Doppler lidar turbulence profiles through comparison with sonic anemometer measurements. For 17 days at the end of the experiment, a single scanning Doppler lidar continuously cycled through different turbulence measurement strategies: velocity-azimuth display (VAD), six-beam scans, and range-height indicators (RHIs) with a vertical stare.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Measurements of turbulence are essential to understand and quantify the transport and dispersal of heat, moisture, momentum, and trace gases within the planetary boundary layer (PBL). Through the years, various techniques to measure turbulence using Doppler lidar observations have been proposed. However, the accuracy of these measurements has rarely been validated against trusted in situ instrumentation. Herein, data from the eXperimental Planetary boundary layer Instrumentation Assessment (XPIA) are used to verify Doppler lidar turbulence profiles through comparison with sonic anemometer measurements. For 17 days at the end of the experiment, a single scanning Doppler lidar continuously cycled through different turbulence measurement strategies: velocity-azimuth display (VAD), six-beam scans, and range-height indicators (RHIs) with a vertical stare.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

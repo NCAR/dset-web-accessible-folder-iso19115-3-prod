@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:43.360335</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:11.916835</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -403,7 +403,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Accurate three-dimensional information of wind flow fields can be an important tool in not only visualizing complex flow but also understanding the underlying physical processes and improving flow modeling. However, a thorough analysis of the measurement uncertainties is required to properly interpret results. The XPIA (eXperimental Planetary boundary layer Instrumentation Assessment) field campaign conducted at the Boulder Atmospheric Observatory (BAO) in Erie, CO, from 2 March to 31 May 2015 brought together a large suite of in situ and remote sensing measurement platforms to evaluate complex flow measurement strategies.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Accurate three-dimensional information of wind flow fields can be an important tool in not only visualizing complex flow but also understanding the underlying physical processes and improving flow modeling. However, a thorough analysis of the measurement uncertainties is required to properly interpret results. The XPIA (eXperimental Planetary boundary layer Instrumentation Assessment) field campaign conducted at the Boulder Atmospheric Observatory (BAO) in Erie, CO, from 2 March to 31 May 2015 brought together a large suite of in situ and remote sensing measurement platforms to evaluate complex flow measurement strategies.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

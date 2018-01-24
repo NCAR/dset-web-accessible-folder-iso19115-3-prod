@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:39.364733</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:05.984044</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The 2012 drought was the most severe and extensive summertime U.S. drought in half a century with substantial economic loss and impacts on food security and commodity prices. A unique aspect of the 2012 drought was its rapid onset and intensification over the Southern Rockies, extending to the Great Plains during late spring and early summer, and the absence of known precursor large-scale patterns. Drought prediction therefore remains a major challenge. This study evaluates relationships among snow, soil moisture, and precipitation to identify sources of potential predictability of the 2012 summer drought using observations and a Weather Research and Forecasting model multiphysics ensemble experiment. Although underestimated in intensity, the drought signal is robust to the way atmospheric physical processes are represented in the model. For the Southern Rockies, soil moisture exhibits stronger persistence than precipitation in observations and the ensemble experiment. Correlations between winter/spring snowmelt and concurrent and following season soil moisture, and between soil moisture and concurrent and following season precipitation, in both observations and the model ensemble, suggest potential predictability beyond 1 and 2 month lead-time reside in the land surface conditions for apparent flash droughts such as the 2012 drought.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The 2012 drought was the most severe and extensive summertime U.S. drought in half a century with substantial economic loss and impacts on food security and commodity prices. A unique aspect of the 2012 drought was its rapid onset and intensification over the Southern Rockies, extending to the Great Plains during late spring and early summer, and the absence of known precursor large-scale patterns. Drought prediction therefore remains a major challenge. This study evaluates relationships among snow, soil moisture, and precipitation to identify sources of potential predictability of the 2012 summer drought using observations and a Weather Research and Forecasting model multiphysics ensemble experiment. Although underestimated in intensity, the drought signal is robust to the way atmospheric physical processes are represented in the model. For the Southern Rockies, soil moisture exhibits stronger persistence than precipitation in observations and the ensemble experiment. Correlations between winter/spring snowmelt and concurrent and following season soil moisture, and between soil moisture and concurrent and following season precipitation, in both observations and the model ensemble, suggest potential predictability beyond 1 and 2 month lead-time reside in the land surface conditions for apparent flash droughts such as the 2012 drought.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

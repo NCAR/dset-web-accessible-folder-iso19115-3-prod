@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:44.063377</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:43.230016</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Previous studies have suggested that Southern Hemisphere (SH) summertime trends in the atmospheric circulation in the second half of the twentieth century are mainly driven by stratospheric ozone depletion in spring. Here, the authors show that the pattern and timing of observed trends, characterized by downward propagation of signals, can be approximately captured in an idealized atmospheric global circulation model (AGCM) by imposing ozone depletion-like radiative cooling. It is further shown that the synoptic eddies dominantly contribute to the transient tropospheric response to polar stratospheric cooling. The authors examine three possible mechanisms on the downward influence of polar stratospheric cooling. The polar stratospheric cooling affects tropospheric synoptic eddies via (i) the direct influences on the lower-stratospheric synoptic eddies, (ii) the planetary wave-induced residual circulation, and (iii) the planetary eddy-synoptic eddy nonlinear interaction. It is argued that the planetary wave-induced residual circulation is not the dominant mechanism and that the planetary eddies and further nonlinear interaction with synoptic eddies are more likely the key to the downward influence of the ozone depletion-like cooling.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Previous studies have suggested that Southern Hemisphere (SH) summertime trends in the atmospheric circulation in the second half of the twentieth century are mainly driven by stratospheric ozone depletion in spring. Here, the authors show that the pattern and timing of observed trends, characterized by downward propagation of signals, can be approximately captured in an idealized atmospheric global circulation model (AGCM) by imposing ozone depletion-like radiative cooling. It is further shown that the synoptic eddies dominantly contribute to the transient tropospheric response to polar stratospheric cooling. The authors examine three possible mechanisms on the downward influence of polar stratospheric cooling. The polar stratospheric cooling affects tropospheric synoptic eddies via (i) the direct influences on the lower-stratospheric synoptic eddies, (ii) the planetary wave-induced residual circulation, and (iii) the planetary eddy-synoptic eddy nonlinear interaction. It is argued that the planetary wave-induced residual circulation is not the dominant mechanism and that the planetary eddies and further nonlinear interaction with synoptic eddies are more likely the key to the downward influence of the ozone depletion-like cooling.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

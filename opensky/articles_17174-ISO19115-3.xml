@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:59.006051</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:05.699498</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Because of position errors traditional methods of data assimilation can broaden and weaken jets or other flow structures leading to reduced forecast skill. Here a technique to assimilate properties of coherent structures is developed and tested. Focusing on jets, the technique identifies jets in both the modeled and observed fields and warps the model grid so that the jet positions are better aligned prior to further assimilation of observations. The technique is tested using optimal interpolation on the flow in a two-layer quasigeostrophic channel. The results show that a simple and fast jet position correction algorithm can significantly improve the skill of a 12-h forecast. Furthermore, the results indicate that this method of position correction maintains its utility when observations become sparse.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Because of position errors traditional methods of data assimilation can broaden and weaken jets or other flow structures leading to reduced forecast skill. Here a technique to assimilate properties of coherent structures is developed and tested. Focusing on jets, the technique identifies jets in both the modeled and observed fields and warps the model grid so that the jet positions are better aligned prior to further assimilation of observations. The technique is tested using optimal interpolation on the flow in a two-layer quasigeostrophic channel. The results show that a simple and fast jet position correction algorithm can significantly improve the skill of a 12-h forecast. Furthermore, the results indicate that this method of position correction maintains its utility when observations become sparse.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

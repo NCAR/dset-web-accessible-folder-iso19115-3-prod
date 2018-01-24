@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:39.429726</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:06.079212</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Recent advances in tropospheric remote sensing have opened the way for measuring, monitoring, and understanding processes that lead to atmospheric pollution. As part of an integrated observing strategy, satellite measurements provide a context for localized observations and help to extend these observations to continental and global scales. The challenge for future space-borne missions will be directly accessing the local scale and facilitating the use of remotely sensed information for improving local- and regional-scale air quality (AQ) forecasts. Achieving this goal could provide important societal dividends for public health, for policy applications related to managing national AQ, and for assessing the impact of daily human activity on the distributions of important trace gases and aerosols and their short-timescale variability--known as 'chemical weather'--as well as on climate.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Recent advances in tropospheric remote sensing have opened the way for measuring, monitoring, and understanding processes that lead to atmospheric pollution. As part of an integrated observing strategy, satellite measurements provide a context for localized observations and help to extend these observations to continental and global scales. The challenge for future space-borne missions will be directly accessing the local scale and facilitating the use of remotely sensed information for improving local- and regional-scale air quality (AQ) forecasts. Achieving this goal could provide important societal dividends for public health, for policy applications related to managing national AQ, and for assessing the impact of daily human activity on the distributions of important trace gases and aerosols and their short-timescale variability--known as 'chemical weather'--as well as on climate.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

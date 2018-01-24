@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:05.216730</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:14.362408</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study describes a freezing drizzle detection algorithm based on the Weather Surveillance Radar-1988 Doppler (WSR-88D) measured radar reflectivity. Although radar returns from freezing drizzle and light snow are similar-&lt;5 dBZ and spatially uniform-freezing drizzle can be identified using feature parameters computed from radar reflectivity, such as local and global standard deviations and reflectivity texture weighted with a fuzzy-logic scheme. Algorithm results agree well with surface precipitation reports. The proposed algorithm can serve as one component of automated decision-support schemes for icing hazard detection and/or hydrometeor identification.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study describes a freezing drizzle detection algorithm based on the Weather Surveillance Radar-1988 Doppler (WSR-88D) measured radar reflectivity. Although radar returns from freezing drizzle and light snow are similar-&lt;5 dBZ and spatially uniform-freezing drizzle can be identified using feature parameters computed from radar reflectivity, such as local and global standard deviations and reflectivity texture weighted with a fuzzy-logic scheme. Algorithm results agree well with surface precipitation reports. The proposed algorithm can serve as one component of automated decision-support schemes for icing hazard detection and/or hydrometeor identification.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:40.789992</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:38.428630</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -508,7 +508,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Temperature results from multi-decadal simulations of coupled chemistry climate models for the recent past are analyzed using multi-linear regression including a trend, solar cycle, lower stratospheric tropical wind, and volcanic aerosol terms. The climatology of the models for recent years is in good agreement with observations for the troposphere but the model results diverge from each other and from observations in the stratosphere. Overall, the models agree better with observations than in previous assessments, primarily because of corrections in the observed temperatures. The annually averaged global and polar temperature trends simulated by the models are generally in agreement with revised satellite observations and radiosonde data over much of their altitude range. In the global average, the model trends underpredict the radiosonde data slightly at the top of the observed range. Over the Antarctic some models underpredict the temperature trend in the lower stratosphere, while others overpredict the trends.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Temperature results from multi-decadal simulations of coupled chemistry climate models for the recent past are analyzed using multi-linear regression including a trend, solar cycle, lower stratospheric tropical wind, and volcanic aerosol terms. The climatology of the models for recent years is in good agreement with observations for the troposphere but the model results diverge from each other and from observations in the stratosphere. Overall, the models agree better with observations than in previous assessments, primarily because of corrections in the observed temperatures. The annually averaged global and polar temperature trends simulated by the models are generally in agreement with revised satellite observations and radiosonde data over much of their altitude range. In the global average, the model trends underpredict the radiosonde data slightly at the top of the observed range. Over the Antarctic some models underpredict the temperature trend in the lower stratosphere, while others overpredict the trends.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

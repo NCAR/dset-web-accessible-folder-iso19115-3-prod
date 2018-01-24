@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:16.890145</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:44.034398</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Radial wind is routinely measured by Doppler method, whereas winds transverse to the radar beam are measured using an interferometric technique in which three or more spaced antennas are used (i.e., the Spaced Antenna (SA) technique). In this paper, an interferometric technique is examined whereby a single antenna is used to measure both radial and transverse winds. Angular Interferometry (AI) determines transverse wind, and Range Interferometry (RI) determines radial wind. The cross-correlation of signals, received from different angles and from different ranges by a single antenna, is derived based on wave scattering from random fluctuations of refractive index. The radial and transverse wind components are estimated from the cross-correlation of signals received from different ranges and different directions. The theoretical standard deviation of the estimated wind is derived, and its dependence on spatial resolution, observation time, and turbulence is presented. The theory shows that AI requires small beam size to measure transverse wind accurately, contrary to the SA technique, whereas RI requires fine range resolution to perform well.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Radial wind is routinely measured by Doppler method, whereas winds transverse to the radar beam are measured using an interferometric technique in which three or more spaced antennas are used (i.e., the Spaced Antenna (SA) technique). In this paper, an interferometric technique is examined whereby a single antenna is used to measure both radial and transverse winds. Angular Interferometry (AI) determines transverse wind, and Range Interferometry (RI) determines radial wind. The cross-correlation of signals, received from different angles and from different ranges by a single antenna, is derived based on wave scattering from random fluctuations of refractive index. The radial and transverse wind components are estimated from the cross-correlation of signals received from different ranges and different directions. The theoretical standard deviation of the estimated wind is derived, and its dependence on spatial resolution, observation time, and turbulence is presented. The theory shows that AI requires small beam size to measure transverse wind accurately, contrary to the SA technique, whereas RI requires fine range resolution to perform well.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

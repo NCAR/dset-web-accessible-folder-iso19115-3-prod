@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:47.452957</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:18.017936</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper describes a new open-source software framework for automated pointwise feature tracking that is applicable to a wide array of climate datasets using either structured or unstructured grids. Common climatological pointwise features include tropical cyclones, extratropical cyclones and tropical easterly waves. To enable support for a wide array of detection schemes, a suite of algorithmic kernels have been developed that capture the core functionality of algorithmic tracking routines throughout the literature. A review of efforts related to pointwise feature tracking from the past 3 decades is included. Selected results using both reanalysis datasets and unstructured grid simulations are provided.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper describes a new open-source software framework for automated pointwise feature tracking that is applicable to a wide array of climate datasets using either structured or unstructured grids. Common climatological pointwise features include tropical cyclones, extratropical cyclones and tropical easterly waves. To enable support for a wide array of detection schemes, a suite of algorithmic kernels have been developed that capture the core functionality of algorithmic tracking routines throughout the literature. A review of efforts related to pointwise feature tracking from the past 3 decades is included. Selected results using both reanalysis datasets and unstructured grid simulations are provided.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

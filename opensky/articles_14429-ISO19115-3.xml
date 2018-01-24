@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:30.522223</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:23.413288</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Nearly all previous numerical simulations of supercell thunderstorms have neglected surface fluxes of heat, moisture, and momentum. This choice precludes horizontal inhomogeneities associated with dry boundary layer convection in the near-storm environment. As part of a broader study on how mature supercell thunderstorms are affected by a convective boundary layer (CBL) with quasi-two-dimensional features (i.e., boundary layer rolls), this paper documents the methods used to develop a realistic CBL in an idealized environment supportive of supercells. The evolution and characteristics of the modeled CBL, including the horizontal variability of thermodynamic and kinematic quantities known to affect supercell evolution, are presented. The simulated rolls result in periodic bands of perturbations in temperature, moisture, convective available potential energy (CAPE), vertical wind shear, and storm-relative helicity (SRH). Vertical vorticity is shown to arise within the boundary layer through the tilting of ambient horizontal vorticity associated with the background shear by vertical velocity perturbations in the turbulent CBL. Sensitivity tests suggest that 200-m horizontal grid spacing is adequate to represent rolls using a large-eddy simulation (LES) approach.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Nearly all previous numerical simulations of supercell thunderstorms have neglected surface fluxes of heat, moisture, and momentum. This choice precludes horizontal inhomogeneities associated with dry boundary layer convection in the near-storm environment. As part of a broader study on how mature supercell thunderstorms are affected by a convective boundary layer (CBL) with quasi-two-dimensional features (i.e., boundary layer rolls), this paper documents the methods used to develop a realistic CBL in an idealized environment supportive of supercells. The evolution and characteristics of the modeled CBL, including the horizontal variability of thermodynamic and kinematic quantities known to affect supercell evolution, are presented. The simulated rolls result in periodic bands of perturbations in temperature, moisture, convective available potential energy (CAPE), vertical wind shear, and storm-relative helicity (SRH). Vertical vorticity is shown to arise within the boundary layer through the tilting of ambient horizontal vorticity associated with the background shear by vertical velocity perturbations in the turbulent CBL. Sensitivity tests suggest that 200-m horizontal grid spacing is adequate to represent rolls using a large-eddy simulation (LES) approach.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

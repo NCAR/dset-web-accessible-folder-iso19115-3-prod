@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:15.965753</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:42.000008</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[Domain-average momentum budgets are examined in several multiday cloud-resolving model simulations of deep tropical convection in realistic shears. The convective eddy momentum tendency F, neglected in many global circulation models, looks broadly similar in two- and three-dimensional simulations. It has a large component in quadrature with the mean wind profile, tending to cause momentum profile features to descend. This component opposes, and exceeds in magnitude, the corresponding large-scale vertical advective tendency, which would tend to make features ascend in convecting regions. The portion of F in phase with the mean wind is isolated by vertically integrating F . u, yielding a kinetic energy tendency that is overwhelmingly negative. The variation of this energy damping with shear flow kinetic energy and convection intensity (measured by rain rate) gives a cumulus friction'' coefficient around -40% to -80% per centimeter of rain in 3D runs. Large scatter reflects the effects of varying convective organization. Two-dimensional runs overestimate this friction coefficient for the upsilon (out of plane) wind component and underestimate it for the u (in plane) component. Another 2D artifact is that 460-hPa-wavelength shear is essentially undamped, consistent with the descending jets reported by Held et al. in a free-running 2D cloud model.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

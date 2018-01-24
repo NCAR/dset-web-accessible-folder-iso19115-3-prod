@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:47.486763</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:18.062166</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Significant progress has been made in the past few years in the development of recommendations, policies, and procedures for creating and promoting citations to data sets, software, and other research infrastructures like computing facilities. Open questions remain, however, about the extent to which referencing practices of authors of scholarly publications are changing in ways desired by these initiatives. This paper uses four focused case studies to evaluate whether research infrastructures are being increasingly identified and referenced in the research literature via persistent citable identifiers. The findings of the case studies show that references to such resources are increasing, but that the patterns of these increases are variable. In addition, the study suggests that citation practices for data sets may change more slowly than citation practices for software and research facilities, due to the inertia of existing practices for referencing the use of data. Similarly, existing practices for acknowledging computing support may slow the adoption of formal citations for computing resources.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Significant progress has been made in the past few years in the development of recommendations, policies, and procedures for creating and promoting citations to data sets, software, and other research infrastructures like computing facilities. Open questions remain, however, about the extent to which referencing practices of authors of scholarly publications are changing in ways desired by these initiatives. This paper uses four focused case studies to evaluate whether research infrastructures are being increasingly identified and referenced in the research literature via persistent citable identifiers. The findings of the case studies show that references to such resources are increasing, but that the patterns of these increases are variable. In addition, the study suggests that citation practices for data sets may change more slowly than citation practices for software and research facilities, due to the inertia of existing practices for referencing the use of data. Similarly, existing practices for acknowledging computing support may slow the adoption of formal citations for computing resources.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

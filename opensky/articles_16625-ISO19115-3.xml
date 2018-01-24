@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:46.704705</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:47.310893</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this study, we compare gridded snow depth estimates from the Snow Data Assimilation System (SNODAS) with snow depth observations derived from GPS interferometric reflectometry (GPS-IR) from roughly 100 Plate Boundary Observatory sites in the Western United States spanning four water-years (2010-2013). Data from these sites are not assimilated by SNODAS; thus, GPS-IR measurements provide an independent data set to evaluate SNODAS. Our results indicate that at 80% of the sites, SNODAS and GPS-IR snow depth agree to better than 15-cm root mean square error, with correlation coefficients greater than 0.6. Significant differences are found between GPS-IR and SNODAS for sites that are distant from other point measurements, are located in complex terrain or are in areas with strong vegetation heterogeneities. GPS-IR estimates of snow depth are shown to provide useful error characterization of SNODAS products across much of the Western United States and may have potential as an additional data assimilation source that could help improve SNODAS estimates</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this study, we compare gridded snow depth estimates from the Snow Data Assimilation System (SNODAS) with snow depth observations derived from GPS interferometric reflectometry (GPS-IR) from roughly 100 Plate Boundary Observatory sites in the Western United States spanning four water-years (2010-2013). Data from these sites are not assimilated by SNODAS; thus, GPS-IR measurements provide an independent data set to evaluate SNODAS. Our results indicate that at 80% of the sites, SNODAS and GPS-IR snow depth agree to better than 15-cm root mean square error, with correlation coefficients greater than 0.6. Significant differences are found between GPS-IR and SNODAS for sites that are distant from other point measurements, are located in complex terrain or are in areas with strong vegetation heterogeneities. GPS-IR estimates of snow depth are shown to provide useful error characterization of SNODAS products across much of the Western United States and may have potential as an additional data assimilation source that could help improve SNODAS estimates]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

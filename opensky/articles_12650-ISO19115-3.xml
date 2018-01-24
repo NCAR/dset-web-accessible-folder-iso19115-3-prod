@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:01.156591</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:45.226856</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Applications for space-based GPS technology have extended to the atmospheric field during the last two decades. More recently, numerical weather prediction (NWP) centers started incorporating global positioning system (GPS) radio occultation (RO) soundings into their operational assimilation algorithms, resulting in a significant improvement in weather forecasting skill. The main reasons for such benefits are the unbiased nature of the GPS RO measurements, high accuracy and precision, all-weather capability, and equal accuracy over either land or ocean. Profiles of refractivity or bending angle are typically used, owing to the relative simplicity of their forward operators and the computational economy this implies. Although the NOAA National Centers for Environmental Prediction (NCEP) are using refractivities in their operational configuration, a bending angle forward operator has been developed, tested, and implemented and was scheduled to replace the assimilation of refractivities operationally in May, 2012. Results from the NCEP's bending angle method (NBAM) show improvement over the assimilation of refractivities in all atmospheric fields being evaluated. A detailed description and evaluation of NBAM is presented in this article, as well as the advantages this code offers over the assimilation of refractivities and other existing algorithms that assimilate GPS RO bending angles.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Applications for space-based GPS technology have extended to the atmospheric field during the last two decades. More recently, numerical weather prediction (NWP) centers started incorporating global positioning system (GPS) radio occultation (RO) soundings into their operational assimilation algorithms, resulting in a significant improvement in weather forecasting skill. The main reasons for such benefits are the unbiased nature of the GPS RO measurements, high accuracy and precision, all-weather capability, and equal accuracy over either land or ocean. Profiles of refractivity or bending angle are typically used, owing to the relative simplicity of their forward operators and the computational economy this implies. Although the NOAA National Centers for Environmental Prediction (NCEP) are using refractivities in their operational configuration, a bending angle forward operator has been developed, tested, and implemented and was scheduled to replace the assimilation of refractivities operationally in May, 2012. Results from the NCEP's bending angle method (NBAM) show improvement over the assimilation of refractivities in all atmospheric fields being evaluated. A detailed description and evaluation of NBAM is presented in this article, as well as the advantages this code offers over the assimilation of refractivities and other existing algorithms that assimilate GPS RO bending angles.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

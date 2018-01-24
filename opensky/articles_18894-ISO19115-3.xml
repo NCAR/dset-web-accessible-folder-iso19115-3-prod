@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:34.531787</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:58.168847</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study is the first in a series that investigates the effects of turbulence in the boundary layer of a tornado vortex. In this part, axisymmetric simulations with constant viscosity are used to explore the relationships between vortex structure, intensity, and unsteadiness as functions of diffusion (measured by a Reynolds number Re-r) and rotation (measured by a swirl ratio S-r). A deep upper-level damping zone is used to prevent upper-level disturbances from affecting the low-level vortex. The damping zone is most effective when it overlaps with the specified convective forcing, causing a reduction to the effective convective velocity scale W-e. With this damping in place, the tornado-vortex boundary layer shows no sign of unsteadiness for a wide range of parameters, suggesting that turbulence in the tornado boundary layer is inherently a three-dimensional phenomenon. For high Re-r, the most intense vortices have maximum mean tangential winds well in excess of W-e, and maximum mean vertical velocity exceeds 3 times W-e. In parameter space, the most intense vortices fall along a line that follows S-r similar to Re-r(-1/3), in agreement with previous analytical predictions by Fiedler and Rotunno. These results are used to inform the design of three-dimensional large-eddy simulations in subsequent papers.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study is the first in a series that investigates the effects of turbulence in the boundary layer of a tornado vortex. In this part, axisymmetric simulations with constant viscosity are used to explore the relationships between vortex structure, intensity, and unsteadiness as functions of diffusion (measured by a Reynolds number Re-r) and rotation (measured by a swirl ratio S-r). A deep upper-level damping zone is used to prevent upper-level disturbances from affecting the low-level vortex. The damping zone is most effective when it overlaps with the specified convective forcing, causing a reduction to the effective convective velocity scale W-e. With this damping in place, the tornado-vortex boundary layer shows no sign of unsteadiness for a wide range of parameters, suggesting that turbulence in the tornado boundary layer is inherently a three-dimensional phenomenon. For high Re-r, the most intense vortices have maximum mean tangential winds well in excess of W-e, and maximum mean vertical velocity exceeds 3 times W-e. In parameter space, the most intense vortices fall along a line that follows S-r similar to Re-r(-1/3), in agreement with previous analytical predictions by Fiedler and Rotunno. These results are used to inform the design of three-dimensional large-eddy simulations in subsequent papers.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

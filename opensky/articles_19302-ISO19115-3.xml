@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:37.971914</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:03.771471</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The ionospheric response to corotating interaction region (CIR)-induced geomagnetic activity on 4 April 2005 has been studied using in situ electron density measurements, ground GPS-total electron content (TEC) observations, and numerical simulations of the National Center for Atmospheric Research Thermosphere-Ionosphere-Electrodynamics General Circulation Model (TIE-GCM). The case study resulted that the ionospheric positive response occurred from high to low latitudes. The positive effect at low latitudes could continue for 4 days, whereas at middle to high latitudes the disturbance mainly lasted only for 1 day. The modeled Ne and TEC from TIE-GCM had a good agreement with those from observations. The simulation results showed that penetration electric fields were responsible for the daytime positive response during the initial and main phases of the geomagnetic storm, while neutral winds were responsible for the presunset positive effects. The long-lasting positive storm effect during the storm recovery time at low latitudes was related to the thermospheric composition (O/N-2) changes during the storm event.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The ionospheric response to corotating interaction region (CIR)-induced geomagnetic activity on 4 April 2005 has been studied using in situ electron density measurements, ground GPS-total electron content (TEC) observations, and numerical simulations of the National Center for Atmospheric Research Thermosphere-Ionosphere-Electrodynamics General Circulation Model (TIE-GCM). The case study resulted that the ionospheric positive response occurred from high to low latitudes. The positive effect at low latitudes could continue for 4 days, whereas at middle to high latitudes the disturbance mainly lasted only for 1 day. The modeled Ne and TEC from TIE-GCM had a good agreement with those from observations. The simulation results showed that penetration electric fields were responsible for the daytime positive response during the initial and main phases of the geomagnetic storm, while neutral winds were responsible for the presunset positive effects. The long-lasting positive storm effect during the storm recovery time at low latitudes was related to the thermospheric composition (O/N-2) changes during the storm event.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

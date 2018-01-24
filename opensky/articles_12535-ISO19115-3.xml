@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:58.324099</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:41.525293</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Hydrology/water management and electricity generation projections have been modeled separately, but there has been little effort in intentionally and explicitly linking the two sides of the water-energy nexus. This paper describes a platform for assessing power plant cooling water withdrawals and consumption under different electricity pathways at geographic and time scales appropriate for both electricity and hydrology/water management. This platform uses estimates of regional electricity generation by the Regional Energy Deployment System (ReEDS) as input to a hydrologic and water management model -- the Water Evaluation and Planning (WEAP) system. In WEAP, this electricity use represents thermoelectric cooling water withdrawals and consumption within the broader, regional water resource context. Here we describe linking the electricity and water models, including translating electricity generation results from ReEDS-relevant geographies to the water-relevant geographies of WEAP. The result of this analysis is water use by the electric sector at the regional watershed level, which is used to examine the water resource implications of these electricity pathways.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Hydrology/water management and electricity generation projections have been modeled separately, but there has been little effort in intentionally and explicitly linking the two sides of the water-energy nexus. This paper describes a platform for assessing power plant cooling water withdrawals and consumption under different electricity pathways at geographic and time scales appropriate for both electricity and hydrology/water management. This platform uses estimates of regional electricity generation by the Regional Energy Deployment System (ReEDS) as input to a hydrologic and water management model -- the Water Evaluation and Planning (WEAP) system. In WEAP, this electricity use represents thermoelectric cooling water withdrawals and consumption within the broader, regional water resource context. Here we describe linking the electricity and water models, including translating electricity generation results from ReEDS-relevant geographies to the water-relevant geographies of WEAP. The result of this analysis is water use by the electric sector at the regional watershed level, which is used to examine the water resource implications of these electricity pathways.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:24.532758</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:42.769312</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper shows that clouds near Barbados exhibit similar properties to those over much of the tropical oceans. This finding allows observations taken at Barbados to be generalized to the broader tropics. The same approach is applied to climate models to show that errors in simulated clouds near Barbados are similar to errors across the tropical oceans. The errors are related to the representation of the vertical structure of clouds and the boundary layer and the underlying turbulent and convective mixing that create the clouds. Because trade wind clouds are a key contribution to the spread in climate model estimates of climate sensitivity, improvements in these clouds could reduce uncertainty in climate projections.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper shows that clouds near Barbados exhibit similar properties to those over much of the tropical oceans. This finding allows observations taken at Barbados to be generalized to the broader tropics. The same approach is applied to climate models to show that errors in simulated clouds near Barbados are similar to errors across the tropical oceans. The errors are related to the representation of the vertical structure of clouds and the boundary layer and the underlying turbulent and convective mixing that create the clouds. Because trade wind clouds are a key contribution to the spread in climate model estimates of climate sensitivity, improvements in these clouds could reduce uncertainty in climate projections.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

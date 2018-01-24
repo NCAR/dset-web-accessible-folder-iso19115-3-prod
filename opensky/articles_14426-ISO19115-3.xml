@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:30.393190</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:23.235607</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -403,7 +403,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A significant source of ozone in the troposphere is transport from the stratosphere. The stratospheric contribution has been estimated mainly using global models that attribute the transport process largely to the global-scale Brewer-Dobson circulation and synoptic-scale dynamics associated with upper tropospheric jet streams. We report observations from research aircraft that reveal additional transport of ozone-rich stratospheric air downward into the upper troposphere by a leading-line-trailing-stratiform mesoscale convective system with convection overshooting the tropopause altitude. The fine-scale transport demonstrated by these observations poses a significant challenge to global models that currently do not resolve storm-scale dynamics. Thus, the upper tropospheric ozone budget simulated by global chemistry-climate models where large-scale dynamics and photochemical production from lightning-produced NO are the controlling factors may require modification.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A significant source of ozone in the troposphere is transport from the stratosphere. The stratospheric contribution has been estimated mainly using global models that attribute the transport process largely to the global-scale Brewer-Dobson circulation and synoptic-scale dynamics associated with upper tropospheric jet streams. We report observations from research aircraft that reveal additional transport of ozone-rich stratospheric air downward into the upper troposphere by a leading-line-trailing-stratiform mesoscale convective system with convection overshooting the tropopause altitude. The fine-scale transport demonstrated by these observations poses a significant challenge to global models that currently do not resolve storm-scale dynamics. Thus, the upper tropospheric ozone budget simulated by global chemistry-climate models where large-scale dynamics and photochemical production from lightning-produced NO are the controlling factors may require modification.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

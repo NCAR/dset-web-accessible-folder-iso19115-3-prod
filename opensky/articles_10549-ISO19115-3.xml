@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:27.891471</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:00.149030</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -403,7 +403,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Climate change is expected to increase winter rainfall and flooding in many extratropical regions as evaporation and precipitation rates increase, storms become more intense and storm tracks move polewards. Here, we show how changes in stratospheric circulation could play a significant role in future climate change in the extratropics through an additional shift in the tropospheric circulation. This shift in the circulation alters climate change in regional winter rainfall by an amount large enough to significantly alter regional climate change projections. The changes are consistent with changes in stratospheric winds inducing a change in the baroclinic eddy growth rate across the depth of the troposphere. A change in mean wind structure and an equatorward shift of the tropospheric storm tracks relative to models with poor stratospheric resolution allows coupling with surface climate. Using the Atlantic storm track as an example, we show how this can double the predicted increase in extreme winter rainfall over Western and Central Europe compared to other current climate projections.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Climate change is expected to increase winter rainfall and flooding in many extratropical regions as evaporation and precipitation rates increase, storms become more intense and storm tracks move polewards. Here, we show how changes in stratospheric circulation could play a significant role in future climate change in the extratropics through an additional shift in the tropospheric circulation. This shift in the circulation alters climate change in regional winter rainfall by an amount large enough to significantly alter regional climate change projections. The changes are consistent with changes in stratospheric winds inducing a change in the baroclinic eddy growth rate across the depth of the troposphere. A change in mean wind structure and an equatorward shift of the tropospheric storm tracks relative to models with poor stratospheric resolution allows coupling with surface climate. Using the Atlantic storm track as an example, we show how this can double the predicted increase in extreme winter rainfall over Western and Central Europe compared to other current climate projections.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

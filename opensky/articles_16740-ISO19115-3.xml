@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:49.239171</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:51.063181</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Pattern scaling is a simple way to produce climate projections beyond the scenarios run with expensive global climate models (GCMs). The simplest technique has known limitations and assumes that a spatial climate anomaly pattern obtained from a GCM can be scaled by the global mean temperature (GMT) anomaly. We propose alternatives and assess their skills and limitations. One approach which avoids scaling is to consider a period in a different scenario with the same GMT change. It is attractive as it provides patterns of any temporal resolution that are consistent across variables, and it does not distort variability. Second, we extend the traditional approach with a land-sea contrast term, which provides the largest improvements over the traditional technique. When interpolating between known bounding scenarios, the proposed methods significantly improve the accuracy of the pattern scaled scenario with little computational cost. The remaining errors are much smaller than the Coupled Model Intercomparison Project Phase 5 model spread.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Pattern scaling is a simple way to produce climate projections beyond the scenarios run with expensive global climate models (GCMs). The simplest technique has known limitations and assumes that a spatial climate anomaly pattern obtained from a GCM can be scaled by the global mean temperature (GMT) anomaly. We propose alternatives and assess their skills and limitations. One approach which avoids scaling is to consider a period in a different scenario with the same GMT change. It is attractive as it provides patterns of any temporal resolution that are consistent across variables, and it does not distort variability. Second, we extend the traditional approach with a land-sea contrast term, which provides the largest improvements over the traditional technique. When interpolating between known bounding scenarios, the proposed methods significantly improve the accuracy of the pattern scaled scenario with little computational cost. The remaining errors are much smaller than the Coupled Model Intercomparison Project Phase 5 model spread.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:04.063928</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:12.711063</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -553,7 +553,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>By leveraging current technologies to manage distributed climate data in a unified virtual environment, the Earth System Grid (ESG) project is promoting data sharing between international research centers and diverse users. In transforming these data into a collaborative community resource, ESG is changing the way global climate research is conducted. Since ESG's production beginnings in 2004, its most notable accomplishment was to efficiently store and distribute climate simulation data of some 20 global coupled ocean - atmosphere models to the scores of scientific contributors to the Fourth Assessment Report (AR4) of the Intergovernmental Panel on Climate Change (IPCC); the IPCC collective scientific achievement was recognized by the award of a 2007 Nobel Peace Prize. Other international climate stakeholders such as the North American Regional Climate Change Assessment Program (NARCCAP) and the developers of the Community Climate System Model (CCSM) and of the Climate Science Computational End Station (CCES) also have endorsed ESG technologies for disseminating data to their respective user communities. In coming years, the recently created Earth System Grid Center for Enabling Technology (ESG-CET) will extend these methods to assist the international climate community in its efforts to better understand the global climate system.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[By leveraging current technologies to manage distributed climate data in a unified virtual environment, the Earth System Grid (ESG) project is promoting data sharing between international research centers and diverse users. In transforming these data into a collaborative community resource, ESG is changing the way global climate research is conducted. Since ESG's production beginnings in 2004, its most notable accomplishment was to efficiently store and distribute climate simulation data of some 20 global coupled ocean - atmosphere models to the scores of scientific contributors to the Fourth Assessment Report (AR4) of the Intergovernmental Panel on Climate Change (IPCC); the IPCC collective scientific achievement was recognized by the award of a 2007 Nobel Peace Prize. Other international climate stakeholders such as the North American Regional Climate Change Assessment Program (NARCCAP) and the developers of the Community Climate System Model (CCSM) and of the Climate Science Computational End Station (CCES) also have endorsed ESG technologies for disseminating data to their respective user communities. In coming years, the recently created Earth System Grid Center for Enabling Technology (ESG-CET) will extend these methods to assist the international climate community in its efforts to better understand the global climate system.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

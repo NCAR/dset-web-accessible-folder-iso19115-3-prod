@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:39.640127</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:06.401678</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A water vapor micropulse differential absorption lidar (DIAL) instrument was developed collaboratively by the National Center for Atmospheric Research (NCAR) and Montana State University (MSU). This innovative, eye-safe, low-power, diode-laser-based system has demonstrated the ability to obtain unattended continuous observations in both day and night. Data comparisons with well-established water vapor observing systems, including radiosondes, Atmospheric Emitted Radiance Interferometers (AERIs), microwave radiometer profilers (MWRPs), and ground-based global positioning system (GPS) receivers, show excellent agreement. The Pearson's correlation coefficient for the DIAL and radiosondes is consistently greater than 0.6 from 300m up to 4.5 km AGL at night and up to 3.5 km AGL during the day. The Pearson's correlation coefficient for the DIAL and AERI is greater than 0.6 from 300mup to 2.25 km at night and from 300mup to 2.0 km during the day. Further comparison with the continuously operating GPS instrumentation illustrates consistent temporal trends when integrating the DIAL measurements up to 6 km AGL.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A water vapor micropulse differential absorption lidar (DIAL) instrument was developed collaboratively by the National Center for Atmospheric Research (NCAR) and Montana State University (MSU). This innovative, eye-safe, low-power, diode-laser-based system has demonstrated the ability to obtain unattended continuous observations in both day and night. Data comparisons with well-established water vapor observing systems, including radiosondes, Atmospheric Emitted Radiance Interferometers (AERIs), microwave radiometer profilers (MWRPs), and ground-based global positioning system (GPS) receivers, show excellent agreement. The Pearson's correlation coefficient for the DIAL and radiosondes is consistently greater than 0.6 from 300m up to 4.5 km AGL at night and up to 3.5 km AGL during the day. The Pearson's correlation coefficient for the DIAL and AERI is greater than 0.6 from 300mup to 2.25 km at night and from 300mup to 2.0 km during the day. Further comparison with the continuously operating GPS instrumentation illustrates consistent temporal trends when integrating the DIAL measurements up to 6 km AGL.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

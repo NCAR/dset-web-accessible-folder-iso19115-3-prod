@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:34.193766</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:09.265280</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper for the first time reports global three-dimensional (3-D) structures of the ionospheric midlatitude trough using electron density profiles derived from the GPS radio occultation experiment on board FORMOSAT-3/COSMIC (F3/C) satellites during the solar minimum period, February 2008 to January 2009. Results show that the midlatitude trough extends from dusk to dawn in all four seasons and is most pronounced in the winter hemisphere. The troughs in the two hemispheres are asymmetric, where the trough in the Northern Hemisphere is more evident and stronger than that in the Southern Hemisphere during the equinoctial seasons. In general, the trough minimum position shows a high-low-high latitudinal variation with magnetic local time and occurs at lower latitudes under higher magnetic activity. On the other hand, the midlatitude trough structures become more complex in the Southern Hemisphere because of the nighttime plasma density enhancement of the Weddell Sea Anomaly. Our results demonstrate that the new data set of GPS radio occultation by F3/C is useful to probe the global 3-D electron density structures of the midlatitude trough.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper for the first time reports global three-dimensional (3-D) structures of the ionospheric midlatitude trough using electron density profiles derived from the GPS radio occultation experiment on board FORMOSAT-3/COSMIC (F3/C) satellites during the solar minimum period, February 2008 to January 2009. Results show that the midlatitude trough extends from dusk to dawn in all four seasons and is most pronounced in the winter hemisphere. The troughs in the two hemispheres are asymmetric, where the trough in the Northern Hemisphere is more evident and stronger than that in the Southern Hemisphere during the equinoctial seasons. In general, the trough minimum position shows a high-low-high latitudinal variation with magnetic local time and occurs at lower latitudes under higher magnetic activity. On the other hand, the midlatitude trough structures become more complex in the Southern Hemisphere because of the nighttime plasma density enhancement of the Weddell Sea Anomaly. Our results demonstrate that the new data set of GPS radio occultation by F3/C is useful to probe the global 3-D electron density structures of the midlatitude trough.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

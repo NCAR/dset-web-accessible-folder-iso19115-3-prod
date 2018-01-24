@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:52.136034</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:24.911441</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>On 28 November 2012, a multivortex EF3 tornado occurred in southeastern Italy causing one fatality and estimated damage of 60 million euros. At approximately 1050 LT (0950 UTC), this tornado, which initially formed in association with a supercell thunderstorm over the Ionian Sea, moved inland. The environment where the tornadic supercell developed was characterized by large vertical wind shear in the lowest 1 km of the atmosphere and moderate conditional instability. Mesoscale-model numerical simulations show that it is possible to produce a simulated supercell thunderstorm with a track, change in intensity, and evolution similar to the actual one that spawned the tornado in Taranto, southern Italy. The genesis of the simulated supercell is due to a combination of mesoscale meteorological features: warm low-level air advected toward the Ionian Sea, combined with midlevel cooling due to an approaching trough, increased the potential instability; the intense vertical shear favored the possibility of supercell development; and boundary layer rolls over the Ionian Sea moved in phase with the cells produced by the orography of Calabria to supply ascent, moisture, and heat to the convection. An unusual feature of the present case is the central role of the orography, which was verified in a sensitivity experiment where it was reduced by 80%.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[On 28 November 2012, a multivortex EF3 tornado occurred in southeastern Italy causing one fatality and estimated damage of 60 million euros. At approximately 1050 LT (0950 UTC), this tornado, which initially formed in association with a supercell thunderstorm over the Ionian Sea, moved inland. The environment where the tornadic supercell developed was characterized by large vertical wind shear in the lowest 1 km of the atmosphere and moderate conditional instability. Mesoscale-model numerical simulations show that it is possible to produce a simulated supercell thunderstorm with a track, change in intensity, and evolution similar to the actual one that spawned the tornado in Taranto, southern Italy. The genesis of the simulated supercell is due to a combination of mesoscale meteorological features: warm low-level air advected toward the Ionian Sea, combined with midlevel cooling due to an approaching trough, increased the potential instability; the intense vertical shear favored the possibility of supercell development; and boundary layer rolls over the Ionian Sea moved in phase with the cells produced by the orography of Calabria to supply ascent, moisture, and heat to the convection. An unusual feature of the present case is the central role of the orography, which was verified in a sensitivity experiment where it was reduced by 80%.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

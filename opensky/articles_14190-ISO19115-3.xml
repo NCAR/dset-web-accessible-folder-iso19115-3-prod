@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:24.883960</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:15.863176</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The water solubility of oxidation intermediates of volatile organic compounds that can condense to form secondary organic aerosol (SOA) is largely unconstrained in current chemistry-climate models. We apply the Generator of Explicit Chemistry and Kinetics of Organics in the Atmosphere to calculate Henry's law constants for these intermediate species. Results show a strong negative correlation between Henry's law constants and saturation vapor pressures. Details depend on precursor species, extent of photochemical processing, and NOx levels. Henry's law constants as a function of volatility are made available over a wide range of vapor pressures for use in 3-D models. In an application using the Weather Research and Forecasting model coupled with Chemistry (WRF-Chem) over the U.S. in summer, we find that dry (and wet) deposition of condensable organic vapors leads to major reductions in SOA, decreasing surface concentrations by ~50% (10%) for biogenic and ~40% (6%) for short chain anthropogenic precursors under the considered volatility conditions.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The water solubility of oxidation intermediates of volatile organic compounds that can condense to form secondary organic aerosol (SOA) is largely unconstrained in current chemistry-climate models. We apply the Generator of Explicit Chemistry and Kinetics of Organics in the Atmosphere to calculate Henry's law constants for these intermediate species. Results show a strong negative correlation between Henry's law constants and saturation vapor pressures. Details depend on precursor species, extent of photochemical processing, and NOx levels. Henry's law constants as a function of volatility are made available over a wide range of vapor pressures for use in 3-D models. In an application using the Weather Research and Forecasting model coupled with Chemistry (WRF-Chem) over the U.S. in summer, we find that dry (and wet) deposition of condensable organic vapors leads to major reductions in SOA, decreasing surface concentrations by ~50% (10%) for biogenic and ~40% (6%) for short chain anthropogenic precursors under the considered volatility conditions.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:34.266017</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:28.719866</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -219,7 +219,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This article considers the important problem of tracking multiple moving targets captured in image sequences. It has two primary objectives. The first is to serve as an introduction of the target tracking problem to the statistical community. It achieves this by providing a common definition of the tracking problem, a survey of important existing work, and a discussion of the relative advantages and shortcomings of such work. The second objective is to propose a statistical method for solving a wide class of tracking problems, namely, when the system of interest contains birth, death, merging and splitting of targets. The stochastic model behind this method is continuous time in nature and is equipped with a realistic mechanism for handling merging and splitting. Its finite sample properties are assessed via numerical experiments. Finally, the method is applied to two scientific problems for which it was originally designed: the tracking of (i) storms captured in radar reflectivity image data, and (ii) vortexes from a high-resolution simulated vorticity field.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This article considers the important problem of tracking multiple moving targets captured in image sequences. It has two primary objectives. The first is to serve as an introduction of the target tracking problem to the statistical community. It achieves this by providing a common definition of the tracking problem, a survey of important existing work, and a discussion of the relative advantages and shortcomings of such work. The second objective is to propose a statistical method for solving a wide class of tracking problems, namely, when the system of interest contains birth, death, merging and splitting of targets. The stochastic model behind this method is continuous time in nature and is equipped with a realistic mechanism for handling merging and splitting. Its finite sample properties are assessed via numerical experiments. Finally, the method is applied to two scientific problems for which it was originally designed: the tracking of (i) storms captured in radar reflectivity image data, and (ii) vortexes from a high-resolution simulated vorticity field.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

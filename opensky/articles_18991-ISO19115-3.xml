@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:36.004432</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:00.703965</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -384,7 +384,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Climatological products are required for monitoring and studying global climate change and accurately identifying secular trends over the past two centuries. These products require consistent and well-characterised observational data and metadata from the earliest ship observations and from the modern ocean observing system. Maintaining and developing long-term surface marine climatological datasets requires a different approach to data management than for operational applications. The current management of climatological datasets is discussed and specific modernization steps recommended. The status of relevant in situ observing systems is reviewed in the context of available satellite data. The extent to which requirements for maintaining sampling, redundancy, and consistency are met by existing data delivery mechanisms is considered. Recommendations include: data and metadata rescue; maintaining consistency with the historical record; modernization of data flow and climatological products; for observations with added-value through improved metadata, quality control and uncertainty characterization; and improved dataset construction methods.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Climatological products are required for monitoring and studying global climate change and accurately identifying secular trends over the past two centuries. These products require consistent and well-characterised observational data and metadata from the earliest ship observations and from the modern ocean observing system. Maintaining and developing long-term surface marine climatological datasets requires a different approach to data management than for operational applications. The current management of climatological datasets is discussed and specific modernization steps recommended. The status of relevant in situ observing systems is reviewed in the context of available satellite data. The extent to which requirements for maintaining sampling, redundancy, and consistency are met by existing data delivery mechanisms is considered. Recommendations include: data and metadata rescue; maintaining consistency with the historical record; modernization of data flow and climatological products; for observations with added-value through improved metadata, quality control and uncertainty characterization; and improved dataset construction methods.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

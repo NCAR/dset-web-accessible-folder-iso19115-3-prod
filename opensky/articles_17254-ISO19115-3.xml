@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:00.932490</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:08.464780</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Data from an airborne vertically pointing millimeter-wave Doppler radar are used to study the cloud microphysical effect of glaciogenic seeding of cold-season orographic clouds. Fixed flight tracks were flown downstream of ground-based silver iodide (AgI) generators in the Medicine Bow Mountains of Wyoming. Composite data from seven flights, each with a no-seeding period followed by a seeding period, indicate that radar reflectivity was higher near the ground during the seeding periods. Several physical considerations argue in favor of the hypothesis that the increase in near-surface reflectivity is attributed to AgI seeding. While the increase in near-surface reflectivity and thus snowfall rate are statistically significant, caution is warranted in view of the large natural variability of weather conditions and the small size of the dataset.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Data from an airborne vertically pointing millimeter-wave Doppler radar are used to study the cloud microphysical effect of glaciogenic seeding of cold-season orographic clouds. Fixed flight tracks were flown downstream of ground-based silver iodide (AgI) generators in the Medicine Bow Mountains of Wyoming. Composite data from seven flights, each with a no-seeding period followed by a seeding period, indicate that radar reflectivity was higher near the ground during the seeding periods. Several physical considerations argue in favor of the hypothesis that the increase in near-surface reflectivity is attributed to AgI seeding. While the increase in near-surface reflectivity and thus snowfall rate are statistically significant, caution is warranted in view of the large natural variability of weather conditions and the small size of the dataset.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

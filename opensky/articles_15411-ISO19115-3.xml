@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:39.357366</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:36.311883</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A significant shift from cooler to warmer tropical Pacific sea surface temperatures (SSTs), part of a pattern of basinwide SST anomalies involved with a transition to the positive phase of the Interdecadal Pacific Oscillation (IPO), occurred in the mid-1970s with effects that extended globally. One view is that this change was entirely natural and was a product of internally generated decadal variability of the Pacific climate system. However, during the mid-1970s there was also a significant increase of global temperature and changes to a number of other quantities that have been associated with changes in external forcings, particularly increases of greenhouse gases from the burning of fossil fuels. Analysis of observations, an unforced control run from a global coupled climate model, and twentieth-century simulations with changes in external forcings show that the observed 1970s climate shift had a contribution from changes in external forcing superimposed on what was likely an inherent decadal fluctuation of the Pacific climate system. Thus, this inherent decadal variability associated with the IPO delayed until the 1970s what likely would have been a forced climate shift in the 1960s from a negative to positive phase of the IPO.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A significant shift from cooler to warmer tropical Pacific sea surface temperatures (SSTs), part of a pattern of basinwide SST anomalies involved with a transition to the positive phase of the Interdecadal Pacific Oscillation (IPO), occurred in the mid-1970s with effects that extended globally. One view is that this change was entirely natural and was a product of internally generated decadal variability of the Pacific climate system. However, during the mid-1970s there was also a significant increase of global temperature and changes to a number of other quantities that have been associated with changes in external forcings, particularly increases of greenhouse gases from the burning of fossil fuels. Analysis of observations, an unforced control run from a global coupled climate model, and twentieth-century simulations with changes in external forcings show that the observed 1970s climate shift had a contribution from changes in external forcing superimposed on what was likely an inherent decadal fluctuation of the Pacific climate system. Thus, this inherent decadal variability associated with the IPO delayed until the 1970s what likely would have been a forced climate shift in the 1960s from a negative to positive phase of the IPO.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

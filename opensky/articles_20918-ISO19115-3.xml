@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:53.844095</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:27.634765</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -313,7 +313,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this synthesis paper addressing hydrologic scaling and similarity, we posit that roadblocks in the search for universal laws of hydrology are hindered by our focus on computational simulation (the third paradigm) and assert that it is time for hydrology to embrace a fourth paradigm of data-intensive science. Advances in information-based hydrologic science, coupled with an explosion of hydrologic data and advances in parameter estimation and modeling, have laid the foundation for a data-driven framework for scrutinizing hydrological scaling and similarity hypotheses. We summarize important scaling and similarity concepts (hypotheses) that require testing; describe a mutual information framework for testing these hypotheses; describe boundary condition, state, flux, and parameter data requirements across scales to support testing these hypotheses; and discuss some challenges to overcome while pursuing the fourth hydrological paradigm. We call upon the hydrologic sciences community to develop a focused effort towards adopting the fourth paradigm and apply this to outstanding challenges in scaling and similarity.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this synthesis paper addressing hydrologic scaling and similarity, we posit that roadblocks in the search for universal laws of hydrology are hindered by our focus on computational simulation (the third paradigm) and assert that it is time for hydrology to embrace a fourth paradigm of data-intensive science. Advances in information-based hydrologic science, coupled with an explosion of hydrologic data and advances in parameter estimation and modeling, have laid the foundation for a data-driven framework for scrutinizing hydrological scaling and similarity hypotheses. We summarize important scaling and similarity concepts (hypotheses) that require testing; describe a mutual information framework for testing these hypotheses; describe boundary condition, state, flux, and parameter data requirements across scales to support testing these hypotheses; and discuss some challenges to overcome while pursuing the fourth hydrological paradigm. We call upon the hydrologic sciences community to develop a focused effort towards adopting the fourth paradigm and apply this to outstanding challenges in scaling and similarity.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

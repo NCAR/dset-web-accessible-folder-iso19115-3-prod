@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:05.144972</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:27.105673</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A new two-dimensional advection test on the surface of the sphere is proposed. The test combines a solid-body rotation and a deformational flow field to form moving vortices over the surface of the sphere. The resulting time-dependent deforming vortex centers are located on diametrically opposite sides of the sphere and move along a predetermined great circle trajectory. The horizontal wind field is deformational and nondivergent, and the analytic solution is known at any time. During one revolution around the sphere the initially smooth transported scalar develops strong gradients. Such an approach is therefore more challenging than existing advection test cases on the sphere. To demonstrate the effectiveness and versatility of the proposed test, three different advection schemes are employed, such as a discontinuous Galerkin method on a cubed-sphere mesh, a classical semi-Lagrangian method, and a finite-volume algorithm with adaptive mesh refinement (AMR) on a regular latitude-longitude grid. The numerical results are compared with the analytic solution for different flow orientation angles on the sphere.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A new two-dimensional advection test on the surface of the sphere is proposed. The test combines a solid-body rotation and a deformational flow field to form moving vortices over the surface of the sphere. The resulting time-dependent deforming vortex centers are located on diametrically opposite sides of the sphere and move along a predetermined great circle trajectory. The horizontal wind field is deformational and nondivergent, and the analytic solution is known at any time. During one revolution around the sphere the initially smooth transported scalar develops strong gradients. Such an approach is therefore more challenging than existing advection test cases on the sphere. To demonstrate the effectiveness and versatility of the proposed test, three different advection schemes are employed, such as a discontinuous Galerkin method on a cubed-sphere mesh, a classical semi-Lagrangian method, and a finite-volume algorithm with adaptive mesh refinement (AMR) on a regular latitude-longitude grid. The numerical results are compared with the analytic solution for different flow orientation angles on the sphere.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

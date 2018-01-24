@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:32.539921</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:55.004302</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Glaciers in Alaska are currently losing mass at a rate of similar to-50 Gt a(-1), one of the largest ice loss rates of any regional collection of mountain glaciers on Earth. Existing projections of Alaska's future sea-level contributions tend to be divergent and are not tied directly to regional observations. Here we develop a simple, regional observation-based projection of Alaska's future sea-level contribution. We compute a time series of recent Alaska glacier mass variability using monthly GRACE gravity fields from August 2002 through December 2014. We also construct a three-parameter model of Alaska glacier mass variability based on monthly ERA-Interim snowfall and temperature fields. When these three model parameters are fitted to the GRACE time series, the model explains 94% of the variance of the GRACE data. Using these parameter values, we then apply the model to simulated fields of monthly temperature and snowfall from the Community Earth System Model, to obtain predictions of mass variations through 2100. We conclude that mass loss rates may increase between -80 and -110 Gt a(-1) by 2100, with a total sea-level rise contribution of 19 +/- 4 mm during the 21st century.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Glaciers in Alaska are currently losing mass at a rate of similar to-50 Gt a(-1), one of the largest ice loss rates of any regional collection of mountain glaciers on Earth. Existing projections of Alaska's future sea-level contributions tend to be divergent and are not tied directly to regional observations. Here we develop a simple, regional observation-based projection of Alaska's future sea-level contribution. We compute a time series of recent Alaska glacier mass variability using monthly GRACE gravity fields from August 2002 through December 2014. We also construct a three-parameter model of Alaska glacier mass variability based on monthly ERA-Interim snowfall and temperature fields. When these three model parameters are fitted to the GRACE time series, the model explains 94% of the variance of the GRACE data. Using these parameter values, we then apply the model to simulated fields of monthly temperature and snowfall from the Community Earth System Model, to obtain predictions of mass variations through 2100. We conclude that mass loss rates may increase between -80 and -110 Gt a(-1) by 2100, with a total sea-level rise contribution of 19 +/- 4 mm during the 21st century.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

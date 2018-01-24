@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:21.291687</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:37.770373</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -313,7 +313,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Here we present results of a workshop designed to bring together stakeholders from different states of the Indian side of the Himalayan arc and an international group of climate scientists in order to discuss how climate change research for this region can be tailored toward the needs of local communities. The stakeholder workshop was jointly organized by the Jawaharlal Nehru University (JNU), New Delhi, India, and the Climate Service Center 2.0, Hamburg, Germany, within the framework of the multidisciplinary international research project GLACINDIA. The project focuses on the water-related effects of changes in glacier mass balance and river runoff in western Himalayas. Given the research focus of the GLACINDIA project, the initial focus of the workshop was on glacier-related hydrological information. During stakeholder interactions the resulting discussion covered a much broader range of urgent climate change information needs for the Himalayan region.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Here we present results of a workshop designed to bring together stakeholders from different states of the Indian side of the Himalayan arc and an international group of climate scientists in order to discuss how climate change research for this region can be tailored toward the needs of local communities. The stakeholder workshop was jointly organized by the Jawaharlal Nehru University (JNU), New Delhi, India, and the Climate Service Center 2.0, Hamburg, Germany, within the framework of the multidisciplinary international research project GLACINDIA. The project focuses on the water-related effects of changes in glacier mass balance and river runoff in western Himalayas. Given the research focus of the GLACINDIA project, the initial focus of the workshop was on glacier-related hydrological information. During stakeholder interactions the resulting discussion covered a much broader range of urgent climate change information needs for the Himalayan region.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

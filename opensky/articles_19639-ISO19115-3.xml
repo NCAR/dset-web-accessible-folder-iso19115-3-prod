@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:46.254798</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:16.274722</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Here we show that the characteristics of the Indian Ocean Dipole (IOD), such as its power spectrum and phase relationship with the El Nino-Southern Oscillation (ENSO), can be succinctly explained by ENSO combination mode (C-mode) wind and heat flux forcing together with a seasonal modulation of the air/sea coupled Indian Ocean (IO) Bjerknes feedback. This model explains the observed high-frequency near-annual IOD variability in terms of deterministic ENSO/annual cycle interactions. ENSO-independent IOD events can be understood as a seasonally modulated ocean response to white noise atmospheric forcing. Under this new physical null hypothesis framework, IOD predictability is determined by both ENSO predictability and the ENSO signal-to-noise ratio. We further emphasize that lead/lag correlations between different climate variables are easily misinterpreted when not accounting properly for the seasonal modulation of the underlying climate phenomena.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Here we show that the characteristics of the Indian Ocean Dipole (IOD), such as its power spectrum and phase relationship with the El Nino-Southern Oscillation (ENSO), can be succinctly explained by ENSO combination mode (C-mode) wind and heat flux forcing together with a seasonal modulation of the air/sea coupled Indian Ocean (IO) Bjerknes feedback. This model explains the observed high-frequency near-annual IOD variability in terms of deterministic ENSO/annual cycle interactions. ENSO-independent IOD events can be understood as a seasonally modulated ocean response to white noise atmospheric forcing. Under this new physical null hypothesis framework, IOD predictability is determined by both ENSO predictability and the ENSO signal-to-noise ratio. We further emphasize that lead/lag correlations between different climate variables are easily misinterpreted when not accounting properly for the seasonal modulation of the underlying climate phenomena.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

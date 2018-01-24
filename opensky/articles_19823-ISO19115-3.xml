@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:50.763154</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:22.859677</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -433,7 +433,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Stratospheric aerosols (SAs) are a variable component of the Earth's albedo that may be intentionally enhanced in the future to offset greenhouse gases (geoengineering). The role of tropospheric-sourced sulfur dioxide (SO2) in maintaining background SAs has been debated for decades without in situ measurements of SO2 at the tropical tropopause to inform this issue. Here we clarify the role of SO2 in maintaining SAs by using new in situ SO2 measurements to evaluate climate models and satellite retrievals. We then use the observed tropical tropopause SO2 mixing ratios to estimate the global flux of SO2 across the tropical tropopause. These analyses show that the tropopause background SO2 is about 5 times smaller than reported by the average satellite observations that have been used recently to test atmospheric models. This shifts the view of SO2 as a dominant source of SAs to a near-negligible one, possibly revealing a significant gap in the SA budget.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Stratospheric aerosols (SAs) are a variable component of the Earth's albedo that may be intentionally enhanced in the future to offset greenhouse gases (geoengineering). The role of tropospheric-sourced sulfur dioxide (SO2) in maintaining background SAs has been debated for decades without in situ measurements of SO2 at the tropical tropopause to inform this issue. Here we clarify the role of SO2 in maintaining SAs by using new in situ SO2 measurements to evaluate climate models and satellite retrievals. We then use the observed tropical tropopause SO2 mixing ratios to estimate the global flux of SO2 across the tropical tropopause. These analyses show that the tropopause background SO2 is about 5 times smaller than reported by the average satellite observations that have been used recently to test atmospheric models. This shifts the view of SO2 as a dominant source of SAs to a near-negligible one, possibly revealing a significant gap in the SA budget.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

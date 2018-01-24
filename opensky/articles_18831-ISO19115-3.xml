@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:33.055551</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:55.867754</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper examines the impacts of technology (e.g., Chromebooks, Google Drive) on teacher learning and student activity in the development and implementation of a deeply digital high school biology unit. Using design-based implementation research, teachers co-designed with researchers and curriculum specialists a student-centered unit aligned to the Next Generation Science Standards (NGSS) that utilizes classroom technology. Qualitative and quantitative data were collected to understand the barriers that inhibit the implementation of a digital curriculum as well as the extent that teachers engage in the design process and begin to make shifts in their practice. We found that through the co-design process teachers began to shift their knowledge of NGSS, technology implementation, and adapted to tensions and barriers inherent in the process.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper examines the impacts of technology (e.g., Chromebooks, Google Drive) on teacher learning and student activity in the development and implementation of a deeply digital high school biology unit. Using design-based implementation research, teachers co-designed with researchers and curriculum specialists a student-centered unit aligned to the Next Generation Science Standards (NGSS) that utilizes classroom technology. Qualitative and quantitative data were collected to understand the barriers that inhibit the implementation of a digital curriculum as well as the extent that teachers engage in the design process and begin to make shifts in their practice. We found that through the co-design process teachers began to shift their knowledge of NGSS, technology implementation, and adapted to tensions and barriers inherent in the process.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

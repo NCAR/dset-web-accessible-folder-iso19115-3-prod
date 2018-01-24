@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:23.335403</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:53.644237</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -328,7 +328,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A process-based treatment of ice supersaturation and ice nucleation is implemented in the National Center for Atmospheric Research Community Atmosphere Model (CAM). The new scheme is designed to allow (1) supersaturation with respect to ice, (2) ice nucleation by aerosol particles, and (3) ice cloud cover consistent with ice microphysics. The scheme is implemented with a two-moment microphysics code and is used to evaluate ice cloud nucleation mechanisms and supersaturation in CAM. The new model is able to reproduce field observations of ice mass and mixed phase cloud occurrence better than previous versions. The model is able to reproduce observed patterns and frequency of ice supersaturation. Simulations indicate homogeneous freezing of sulfate and heterogeneous freezing on dust are both important ice nucleation mechanisms, in different regions. Simulated cloud forcing and climate is sensitive to different formulations of the ice microphysics. Arctic surface radiative fluxes are sensitive to the parameterization of ice clouds. These results indicate that ice clouds are potentially an important part of understanding cloud forcing and potential cloud feedbacks, particularly in the Arctic.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A process-based treatment of ice supersaturation and ice nucleation is implemented in the National Center for Atmospheric Research Community Atmosphere Model (CAM). The new scheme is designed to allow (1) supersaturation with respect to ice, (2) ice nucleation by aerosol particles, and (3) ice cloud cover consistent with ice microphysics. The scheme is implemented with a two-moment microphysics code and is used to evaluate ice cloud nucleation mechanisms and supersaturation in CAM. The new model is able to reproduce field observations of ice mass and mixed phase cloud occurrence better than previous versions. The model is able to reproduce observed patterns and frequency of ice supersaturation. Simulations indicate homogeneous freezing of sulfate and heterogeneous freezing on dust are both important ice nucleation mechanisms, in different regions. Simulated cloud forcing and climate is sensitive to different formulations of the ice microphysics. Arctic surface radiative fluxes are sensitive to the parameterization of ice clouds. These results indicate that ice clouds are potentially an important part of understanding cloud forcing and potential cloud feedbacks, particularly in the Arctic.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

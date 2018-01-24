@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:16.034528</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:42.188772</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -508,7 +508,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[A severe 5-day lake-effect storm resulted in eight deaths, hundreds of injuries, and over $3 million in damage to a small area of northeastern Ohio and northwestern Pennsylvania in November 1996. In 1999, a blizzard associated with an intense cyclone disabled Chicago and much of the U.S. Midwest with 30-90 cm of snow. Such winter weather conditions have many impacts on the lives and property of people throughout much of North America. Each of these events is the culmination of a complex interaction between synoptic-scale, mesoscale, and microscale processes.', An understanding of how the multiple size scales and timescales interact is critical to improving forecasting of these severe winter weather events. The Lake-Induced Convection Experiment (Lake-ICE) and the Snowband Dynamics Project (SNOWBAND) collected comprehensive datasets on processes involved in lake-effect snowstorms and snowbands associated with cyclones during the winter of 1997/98. This paper outlines the goals and operations of these collaborative projects. Preliminary findings are given with illustrative examples of new state-of-the-art research observations collected. Analyses associated with Lake-ICE and SNOWBAND hold the promise of greatly improving our scientific understanding of processes involved in these important wintertime phenomena.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

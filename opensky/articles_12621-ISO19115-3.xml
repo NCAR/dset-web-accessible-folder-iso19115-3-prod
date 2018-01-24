@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:00.433963</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:44.291231</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -538,7 +538,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The impact of black carbon (BC) aerosols on the global radiation balance is not well constrained. Here twelve global aerosol models are used to show that at least 20% of the present uncertainty in modeled BC direct radiative forcing (RF) is due to diversity in the simulated vertical profile of BC mass. Results are from phases 1 and 2 of the global aerosol model intercomparison project (AeroCom). Additionally, a significant fraction of the variability is shown to come from high altitudes, as, globally, more than 40% of the total BC RF is exerted above 5 km. BC emission regions and areas with transported BC are found to have differing characteristics. These insights into the importance of the vertical profile of BC lead us to suggest that observational studies are needed to better characterize the global distribution of BC, including in the upper troposphere.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The impact of black carbon (BC) aerosols on the global radiation balance is not well constrained. Here twelve global aerosol models are used to show that at least 20% of the present uncertainty in modeled BC direct radiative forcing (RF) is due to diversity in the simulated vertical profile of BC mass. Results are from phases 1 and 2 of the global aerosol model intercomparison project (AeroCom). Additionally, a significant fraction of the variability is shown to come from high altitudes, as, globally, more than 40% of the total BC RF is exerted above 5 km. BC emission regions and areas with transported BC are found to have differing characteristics. These insights into the importance of the vertical profile of BC lead us to suggest that observational studies are needed to better characterize the global distribution of BC, including in the upper troposphere.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:05.563189</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:14.873569</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>As part of the 2006 Climate Change Report to Governor Schwarzenegger and the California Legislature, an application of the Water Evaluation and Planning (WEAP) system in the Sacramento River Basin was deployed to look at the impact of climate change on agricultural water management and the potential for adaptation. The WEAP system includes a dynamically integrated rainfall runoff hydrology module that generates the components of the hydrologic cycle from input climate time series. This allows for direct simulation of water management responses to climate change without resorting to perturbations of historically observed hydrologic conditions. In the Sacramento River Basin, the four climate time series adopted for the 2006 Climate Change Report were used to simulate agricultural water management without any adaptation and with adaptation in terms of improvements in irrigation efficiency and shifts in cropping patterns during dry periods. These adaptations resulted in lower overall water demands in the agricultural sector, to levels observed during the recent past, and associated reductions in groundwater pumping and increases in surface water allocations to other water use sectors.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[As part of the 2006 Climate Change Report to Governor Schwarzenegger and the California Legislature, an application of the Water Evaluation and Planning (WEAP) system in the Sacramento River Basin was deployed to look at the impact of climate change on agricultural water management and the potential for adaptation. The WEAP system includes a dynamically integrated rainfall runoff hydrology module that generates the components of the hydrologic cycle from input climate time series. This allows for direct simulation of water management responses to climate change without resorting to perturbations of historically observed hydrologic conditions. In the Sacramento River Basin, the four climate time series adopted for the 2006 Climate Change Report were used to simulate agricultural water management without any adaptation and with adaptation in terms of improvements in irrigation efficiency and shifts in cropping patterns during dry periods. These adaptations resulted in lower overall water demands in the agricultural sector, to levels observed during the recent past, and associated reductions in groundwater pumping and increases in surface water allocations to other water use sectors.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

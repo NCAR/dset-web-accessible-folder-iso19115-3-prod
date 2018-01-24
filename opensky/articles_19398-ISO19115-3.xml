@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:40.519337</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:07.735440</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study examines the dynamical mechanisms responsible for changes in midlatitude clouds and cloud radiative effects (CRE) that occur in conjunction with meridional shifts in the jet streams over the North Atlantic, North Pacific, and Southern Oceans. When the midlatitude jet shifts poleward, extratropical cyclones and their associated upward vertical velocity anomalies closely follow. As a result, a poleward jet shift contributes to a poleward shift in high-topped storm-track clouds and their associated longwave CRE. However, when the jet shifts poleward, downward vertical velocity anomalies increase equatorward of the jet, contributing to an enhancement of the boundary layer estimated inversion strength (EIS) and an increase in low cloud amount there. Because shortwave CRE depends on the reflection of solar radiation by clouds in all layers, the shortwave cooling effects of midlatitude clouds increase with both upward vertical velocity anomalies and positive EIS anomalies. Over midlatitude oceans where a poleward jet shift contributes to positive EIS anomalies but downward vertical velocity anomalies, the two effects cancel, and net observed changes in shortwave CRE are small.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study examines the dynamical mechanisms responsible for changes in midlatitude clouds and cloud radiative effects (CRE) that occur in conjunction with meridional shifts in the jet streams over the North Atlantic, North Pacific, and Southern Oceans. When the midlatitude jet shifts poleward, extratropical cyclones and their associated upward vertical velocity anomalies closely follow. As a result, a poleward jet shift contributes to a poleward shift in high-topped storm-track clouds and their associated longwave CRE. However, when the jet shifts poleward, downward vertical velocity anomalies increase equatorward of the jet, contributing to an enhancement of the boundary layer estimated inversion strength (EIS) and an increase in low cloud amount there. Because shortwave CRE depends on the reflection of solar radiation by clouds in all layers, the shortwave cooling effects of midlatitude clouds increase with both upward vertical velocity anomalies and positive EIS anomalies. Over midlatitude oceans where a poleward jet shift contributes to positive EIS anomalies but downward vertical velocity anomalies, the two effects cancel, and net observed changes in shortwave CRE are small.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

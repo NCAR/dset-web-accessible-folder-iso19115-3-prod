@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:30.777493</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:23.794958</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Enhanced energy input from the magnetosphere to the upper atmosphere during geomagnetic storms has a profound effect on thermospheric density and consequently near-Earth satellite orbit decay. These geomagnetic storms are caused by two different processes. The first is coronal mass ejections (CMEs) and the second is corotating interaction regions (CIRs). CME-driven storms are characterized by large maximum energy input but relatively short duration, whereas CIR-driven storms have relatively small maximum energy input but are of a considerably longer duration. In this paper we carried out a statistical study to assess the relative importance of each kind of storm to satellite orbital decay. The results demonstrate that CIR storms have a slightly larger effect on total orbital decay than CME storms do in a statistical sense. During the declining phase and the minimum years of a solar cycle, CIR storms occur frequently and quasiperiodically. These storms have a large effect on thermospheric densities and satellite orbits because of their relatively long duration. Thus, it is important to fully understand their behavior and impact.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Enhanced energy input from the magnetosphere to the upper atmosphere during geomagnetic storms has a profound effect on thermospheric density and consequently near-Earth satellite orbit decay. These geomagnetic storms are caused by two different processes. The first is coronal mass ejections (CMEs) and the second is corotating interaction regions (CIRs). CME-driven storms are characterized by large maximum energy input but relatively short duration, whereas CIR-driven storms have relatively small maximum energy input but are of a considerably longer duration. In this paper we carried out a statistical study to assess the relative importance of each kind of storm to satellite orbital decay. The results demonstrate that CIR storms have a slightly larger effect on total orbital decay than CME storms do in a statistical sense. During the declining phase and the minimum years of a solar cycle, CIR storms occur frequently and quasiperiodically. These storms have a large effect on thermospheric densities and satellite orbits because of their relatively long duration. Thus, it is important to fully understand their behavior and impact.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

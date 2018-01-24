@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:16.683049</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:45.321452</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[One of the largest uncertainties for the modeling of tropospheric carbon monoxide ( CO) concentration is the timing, location, and magnitude of biomass burning emissions. We investigate the sensitivity of simulated CO in the Unified Chemistry Transport Model ( UCTM) to several biomass burning emissions, including four bottom-up and two top-down inventories. We compare the sensitivity experiments with observations from MOPITT, surface and airborne NOAA Global Monitoring Division network data, and the TRACE-P field campaign. The variation of the global annual emissions of these six biomass burning inventories is within 30%; however, their regional variations are often much higher ( factor of 2 - 5). These uncertainties translate to about 6% variation in the global simulated CO but more than a 100% variation in some regions. The annual mean CO variation is greater in the Southern Hemisphere (&gt; 12%) than in the Northern Hemisphere (&lt; 5%), largely because biomass burning is a higher percentage of the total source in the Southern Hemisphere. Comparisons with CO observations indicate that each model inventory has its strengths and shortcomings, and these regional variations are examined. Overall the model CO concentrations are within the observed range of variability at most stations including Ascension Island, which is strongly influenced by fire emissions. In addition, we discuss the systematic biases that exist in the inventories developed by the similar methodologies and original satellite data.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

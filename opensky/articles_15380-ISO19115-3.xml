@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:38.629047</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:35.200059</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -358,7 +358,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The geospace environment is controlled largely by events on the Sun, such as solar flares and coronal mass ejections, which generate significant geomagnetic and upper atmospheric disturbances. The study of this Sun-Earth system, which has become known as space weather, has both intrinsic scientific interest and practical applications. Adverse conditions in space can damage satellites and disrupt communications, navigation, and electric power grids, as well as endanger astronauts. The Center for Integrated Space Weather Modeling (CISM), a Science and Technology Center (STC) funded by the U.S. National Science Foundation (see http://www.bu.edu/cism/), is developing a suite of integrated physics-based computer models that describe the space environment from the Sun to the Earth for use in both research and operations [Hughes and Hudson, 2004, p. 1241]. To further this mission, advanced education and training programs sponsored by CISM encourage students to view space weather as a system that encompasses the Sun, the solar wind, the magnetosphere, and the ionosphere/thermosphere. This holds especially true for participants in the CISM space weather summer school [Simpson, 2004].</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The geospace environment is controlled largely by events on the Sun, such as solar flares and coronal mass ejections, which generate significant geomagnetic and upper atmospheric disturbances. The study of this Sun-Earth system, which has become known as space weather, has both intrinsic scientific interest and practical applications. Adverse conditions in space can damage satellites and disrupt communications, navigation, and electric power grids, as well as endanger astronauts. The Center for Integrated Space Weather Modeling (CISM), a Science and Technology Center (STC) funded by the U.S. National Science Foundation (see http://www.bu.edu/cism/), is developing a suite of integrated physics-based computer models that describe the space environment from the Sun to the Earth for use in both research and operations [Hughes and Hudson, 2004, p. 1241]. To further this mission, advanced education and training programs sponsored by CISM encourage students to view space weather as a system that encompasses the Sun, the solar wind, the magnetosphere, and the ionosphere/thermosphere. This holds especially true for participants in the CISM space weather summer school [Simpson, 2004].]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

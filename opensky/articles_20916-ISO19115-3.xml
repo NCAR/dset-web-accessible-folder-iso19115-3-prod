@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:53.765718</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:27.531990</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Climate change is a risk management challenge for society, with uncertain but potentially severe outcomes affecting natural and human systems, across generations. Managing climate-related risks will be more difficult without a base of knowledge and practice aimed at identifying and evaluating specific risks, and their likelihood and consequences, as well as potential actions to promote resilience in the face of these risks. We suggest three improvements to the process of conducting climate change assessments to better characterize risk and inform risk management actions.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Climate change is a risk management challenge for society, with uncertain but potentially severe outcomes affecting natural and human systems, across generations. Managing climate-related risks will be more difficult without a base of knowledge and practice aimed at identifying and evaluating specific risks, and their likelihood and consequences, as well as potential actions to promote resilience in the face of these risks. We suggest three improvements to the process of conducting climate change assessments to better characterize risk and inform risk management actions.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

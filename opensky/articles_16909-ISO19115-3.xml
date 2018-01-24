@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:53.221411</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:57.138671</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This summer the Boulder science community is commemorating the anniversaries of several key historical events in solar physics and space weather. Seventy-five years ago in 1940 Walter Orr Roberts helped establish the High-Altitude Observatory (HAO) in the mountains of Colorado near the small mining community of Climax. While the rationale for HAO was solar research, the daily observations made at HAO during World War II were essential to ensuring effective terrestrial radio communications. HAO eventually transitioned from Harvard University into a division within the National Center for Atmospheric Research in Boulder, Colorado, where it continues to do cutting-edge research in solar, geophysics, and space physics.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This summer the Boulder science community is commemorating the anniversaries of several key historical events in solar physics and space weather. Seventy-five years ago in 1940 Walter Orr Roberts helped establish the High-Altitude Observatory (HAO) in the mountains of Colorado near the small mining community of Climax. While the rationale for HAO was solar research, the daily observations made at HAO during World War II were essential to ensuring effective terrestrial radio communications. HAO eventually transitioned from Harvard University into a division within the National Center for Atmospheric Research in Boulder, Colorado, where it continues to do cutting-edge research in solar, geophysics, and space physics.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

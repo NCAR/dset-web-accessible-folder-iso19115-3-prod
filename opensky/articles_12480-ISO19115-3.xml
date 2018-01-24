@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:57.449768</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:40.397601</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -463,7 +463,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The joint Japan/US/UK Hinode mission includes the first large-aperture visible-light solar telescope flown in space. One component of the Focal Plane Package of that telescope is a precision spectro-polarimeter designed to measure full Stokes spectra with the intent of using those spectra to infer the magnetic-field vector at high precision in the solar photosphere. This article describes the characteristics of the flight hardware of the Hinode Spectro-Polarimeter, and summarizes its in-flight performance.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The joint Japan/US/UK Hinode mission includes the first large-aperture visible-light solar telescope flown in space. One component of the Focal Plane Package of that telescope is a precision spectro-polarimeter designed to measure full Stokes spectra with the intent of using those spectra to infer the magnetic-field vector at high precision in the solar photosphere. This article describes the characteristics of the flight hardware of the Hinode Spectro-Polarimeter, and summarizes its in-flight performance.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

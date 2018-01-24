@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:06.933662</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:29.641169</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Aircraft data collected at approximately 15 m above the sea surface in the coastal zone are analyzed to examine the spatial distribution of surface stress. Advection of stronger turbulence from land dominates the near-surface turbulence for the first few kilometers offshore. With offshore flow of warm air over cold water, strong stratification leads to very small surface stress. Because the stability restricts the momentum transfer to the waves, the aerodynamic surface roughness decreases to very small values, which in turn decreases atmospheric mixing. The redevelopment of the boundary layer farther downstream is examined. Computation of fluxes from observations for stable cases is difficult due to a variety of errors including large random flux errors, possible instrumental loss of small-scale flux, difference between the surface flux and that at the observational level, and inadvertent capture of mesoscale motions in the computed turbulent fluctuations. Although the errors appear to be substantial, the aircraft momentum fluxes compare favorably with those from sonic anemometers on two buoys and a tower at the end of a 570-m pier, even with near collapse of the turbulence.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Aircraft data collected at approximately 15 m above the sea surface in the coastal zone are analyzed to examine the spatial distribution of surface stress. Advection of stronger turbulence from land dominates the near-surface turbulence for the first few kilometers offshore. With offshore flow of warm air over cold water, strong stratification leads to very small surface stress. Because the stability restricts the momentum transfer to the waves, the aerodynamic surface roughness decreases to very small values, which in turn decreases atmospheric mixing. The redevelopment of the boundary layer farther downstream is examined. Computation of fluxes from observations for stable cases is difficult due to a variety of errors including large random flux errors, possible instrumental loss of small-scale flux, difference between the surface flux and that at the observational level, and inadvertent capture of mesoscale motions in the computed turbulent fluctuations. Although the errors appear to be substantial, the aircraft momentum fluxes compare favorably with those from sonic anemometers on two buoys and a tower at the end of a 570-m pier, even with near collapse of the turbulence.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

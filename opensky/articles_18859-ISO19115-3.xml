@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:33.743602</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:56.998363</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>As the planet warms, climate models predict that rain will become heavier but less frequent and that the circulation will weaken. Here, two heuristic models relating moisture, vertical velocity, and rainfall distributions are developed one in which the distribution of vertical velocity is prescribed and another in which it is predicted. These models are used to explore the response to warming and moistening as well as changes in circulation, atmospheric energy budget, and stability. Some key assumptions of the models include that relative humidity is fixed within and between climate states and that stability is constant within each climate state. The first model shows that an increase in skewness of the vertical velocity distribution is crucial for capturing salient characteristics of the changing distribution of rain, including the muted rate of mean precipitation increase relative to extremes and the decrease in the total number or area of rain events. The second model suggests that this increase in the skewness of the vertical velocity arises from the asymmetric impact of latent heating on vertical motion.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[As the planet warms, climate models predict that rain will become heavier but less frequent and that the circulation will weaken. Here, two heuristic models relating moisture, vertical velocity, and rainfall distributions are developed one in which the distribution of vertical velocity is prescribed and another in which it is predicted. These models are used to explore the response to warming and moistening as well as changes in circulation, atmospheric energy budget, and stability. Some key assumptions of the models include that relative humidity is fixed within and between climate states and that stability is constant within each climate state. The first model shows that an increase in skewness of the vertical velocity distribution is crucial for capturing salient characteristics of the changing distribution of rain, including the muted rate of mean precipitation increase relative to extremes and the decrease in the total number or area of rain events. The second model suggests that this increase in the skewness of the vertical velocity arises from the asymmetric impact of latent heating on vertical motion.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

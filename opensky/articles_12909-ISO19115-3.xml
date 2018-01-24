@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:07.743556</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:53.564288</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Recent studies on the relationship between thermoelectric cooling and water resources have been made at coarse geographic resolution and do not adequately evaluate the localized water impacts on specific rivers and water bodies. We present the application of an integrated electricity generation-water resources planning model of the Apalachicola/Chattahoochee/Flint (ACF) and Alabama-Coosa-Tallapoosa (ACT) rivers based on the regional energy deployment system (ReEDS) and the water evaluation and planning (WEAP) system. A future scenario that includes a growing population and warmer, drier regional climate shows that benefits from a low-carbon, electricity fuel-mix could help maintain river temperatures below once-through coal-plants. These impacts are shown to be localized, as the cumulative impacts of different electric fuel-mix scenarios are muted in this relatively water-rich region, even in a warmer and drier future climate.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Recent studies on the relationship between thermoelectric cooling and water resources have been made at coarse geographic resolution and do not adequately evaluate the localized water impacts on specific rivers and water bodies. We present the application of an integrated electricity generation-water resources planning model of the Apalachicola/Chattahoochee/Flint (ACF) and Alabama-Coosa-Tallapoosa (ACT) rivers based on the regional energy deployment system (ReEDS) and the water evaluation and planning (WEAP) system. A future scenario that includes a growing population and warmer, drier regional climate shows that benefits from a low-carbon, electricity fuel-mix could help maintain river temperatures below once-through coal-plants. These impacts are shown to be localized, as the cumulative impacts of different electric fuel-mix scenarios are muted in this relatively water-rich region, even in a warmer and drier future climate.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

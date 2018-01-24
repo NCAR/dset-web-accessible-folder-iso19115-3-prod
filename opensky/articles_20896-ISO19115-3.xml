@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:53.145656</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:26.543070</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Regression-based detection and attribution methods continue to take a central role in the study of climate change and its causes. Here we propose a novel Bayesian hierarchical approach to this problem, which allows us to address several open methodological questions. Specifically, we take into account the uncertainties in the true temperature change due to imperfect measurements, the uncertainty in the true climate signal under different forcing scenarios due to the availability of only a small number of climate model simulations, and the uncertainty associated with estimating the climate variability covariance matrix, including the truncation of the number of empirical orthogonal functions (EOFs) in this covariance matrix. We apply Bayesian model averaging to assign optimal probabilistic weights to different possible truncations and incorporate all uncertainties into the inference on the regression coefficients. We provide an efficient implementation of our method in a software package and illustrate its use with a realistic application.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Regression-based detection and attribution methods continue to take a central role in the study of climate change and its causes. Here we propose a novel Bayesian hierarchical approach to this problem, which allows us to address several open methodological questions. Specifically, we take into account the uncertainties in the true temperature change due to imperfect measurements, the uncertainty in the true climate signal under different forcing scenarios due to the availability of only a small number of climate model simulations, and the uncertainty associated with estimating the climate variability covariance matrix, including the truncation of the number of empirical orthogonal functions (EOFs) in this covariance matrix. We apply Bayesian model averaging to assign optimal probabilistic weights to different possible truncations and incorporate all uncertainties into the inference on the regression coefficients. We provide an efficient implementation of our method in a software package and illustrate its use with a realistic application.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

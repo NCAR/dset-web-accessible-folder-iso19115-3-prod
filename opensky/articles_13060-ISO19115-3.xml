@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:11.727445</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:58.323324</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The hourly updating High-Resolution Rapid Refresh (HRRR) model is evaluated with regard to its ability to predict the areal extent of cold-season precipitation and accurately depict the timing and location of regions of snow, rain, and mixed-phase precipitation on the ground. Validation of the HRRR forecasts is performed using observations collected by the Automated Surface Observing System (ASOS) stations across the eastern two-thirds of the United States during the 2010-11 cold season. The results show that the HRRR is able to reliably forecast precipitation extent during the cold season. In particular, the location and areal extent of both snow and rain are very well predicted. Depiction of rain-to-snow transitions and freezing rain is reasonably good; however, the associated evaluation scores are significantly lower than for either snow or rain. The analyses suggest the skill in accurately depicting precipitation extent and phase (i.e., rain, snow, and mixed phase) depends on the size and organization of a weather system. Typically, larger synoptically forced weather systems are better predicted than smaller weather systems, including the associated rain-to-snow transition or freezing-rain areas. Offsets in space or time (i.e., causing misses and false alarms) have a larger effect on the model performance for smaller weather systems.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The hourly updating High-Resolution Rapid Refresh (HRRR) model is evaluated with regard to its ability to predict the areal extent of cold-season precipitation and accurately depict the timing and location of regions of snow, rain, and mixed-phase precipitation on the ground. Validation of the HRRR forecasts is performed using observations collected by the Automated Surface Observing System (ASOS) stations across the eastern two-thirds of the United States during the 2010-11 cold season. The results show that the HRRR is able to reliably forecast precipitation extent during the cold season. In particular, the location and areal extent of both snow and rain are very well predicted. Depiction of rain-to-snow transitions and freezing rain is reasonably good; however, the associated evaluation scores are significantly lower than for either snow or rain. The analyses suggest the skill in accurately depicting precipitation extent and phase (i.e., rain, snow, and mixed phase) depends on the size and organization of a weather system. Typically, larger synoptically forced weather systems are better predicted than smaller weather systems, including the associated rain-to-snow transition or freezing-rain areas. Offsets in space or time (i.e., causing misses and false alarms) have a larger effect on the model performance for smaller weather systems.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

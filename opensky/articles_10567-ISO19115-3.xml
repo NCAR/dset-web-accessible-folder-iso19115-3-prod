@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:28.362654</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:00.810016</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Several types of precipitation, such as freezing rain, ice pellets, and wet snow, are commonly observed during winter storms. The objective of this study is to better understand the formation of these winter precipitation types. To address this issue, detailed melting and refreezing of precipitation was added onto an existing bulk microphysics scheme. These modifications allow the formation of mixed-phase particles and these particles in turn lead to, or affect, the formation of many of the other types of precipitation. The precipitation type characteristics, such as the mass content, liquid fraction, and threshold diameters formed during a storm over St John's, Newfoundland, Canada, are studied and compared with observations. Many of these features were reproduced by the model. Sensitivity experiments with the model were carried out to examine the dependence of precipitation characteristics in this event on thresholds of particle evolution in the new parameterization.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Several types of precipitation, such as freezing rain, ice pellets, and wet snow, are commonly observed during winter storms. The objective of this study is to better understand the formation of these winter precipitation types. To address this issue, detailed melting and refreezing of precipitation was added onto an existing bulk microphysics scheme. These modifications allow the formation of mixed-phase particles and these particles in turn lead to, or affect, the formation of many of the other types of precipitation. The precipitation type characteristics, such as the mass content, liquid fraction, and threshold diameters formed during a storm over St John's, Newfoundland, Canada, are studied and compared with observations. Many of these features were reproduced by the model. Sensitivity experiments with the model were carried out to examine the dependence of precipitation characteristics in this event on thresholds of particle evolution in the new parameterization.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

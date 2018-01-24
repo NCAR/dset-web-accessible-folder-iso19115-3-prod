@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:16.963013</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:31.208851</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper develops an algorithm for radial basis function (RBF) local node refinement and implements it for vortex roll-up and transport on a sphere. A heuristic based on an electrostatic repulsion type principle is used to re-distribute the nodes, clustering in areas where higher resolution is needed. It is then important to have a scheme that varies the shape of the RBFs over the domain so as to counteract the effects of Runge phenomena where the nodes are sparse. The roll-up of two diametrically opposed moving vortices are studied. The performance differences between near-uniform and refined nodes are addressed in terms of convergence, time stability, and computational cost. RBF results are put into context by comparison with published results for methods such as finite volume and discontinuous Galerkin.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper develops an algorithm for radial basis function (RBF) local node refinement and implements it for vortex roll-up and transport on a sphere. A heuristic based on an electrostatic repulsion type principle is used to re-distribute the nodes, clustering in areas where higher resolution is needed. It is then important to have a scheme that varies the shape of the RBFs over the domain so as to counteract the effects of Runge phenomena where the nodes are sparse. The roll-up of two diametrically opposed moving vortices are studied. The performance differences between near-uniform and refined nodes are addressed in terms of convergence, time stability, and computational cost. RBF results are put into context by comparison with published results for methods such as finite volume and discontinuous Galerkin.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

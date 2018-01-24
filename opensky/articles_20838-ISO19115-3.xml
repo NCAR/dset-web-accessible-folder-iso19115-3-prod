@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:51.803037</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:24.393015</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -309,7 +309,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The National Center for Atmospheric Research in Boulder, Colorado has been offering professional development on climate change for middle and high school teachers since the summer of 2001. Our experience with educators has shown that teachers feel ill-prepared to share the science and implications of climate change research with their students. As a result of the extensive exposure of this topic in the media and the controversy that sometimes surrounds it, teachers are highly motivated to engage in professional development on this subject. A variety of professional development approaches are needed to reach a wide spectrum of educators whose learning preferences and personal and professional constraints may preclude participation in some professional development opportunities. This paper provides lessons learned from successful climate change professional development for teachers, including the importance of inquiry-based curriculum activities, the importance of an opportunity to "learn by doing" and to share their perspectives with their colleagues. Finally, development and continuation of the learning community, both among participants as well as with instructors and scientists, provides critical support to classroom educators, who can at times experience a sense of professional isolation.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The National Center for Atmospheric Research in Boulder, Colorado has been offering professional development on climate change for middle and high school teachers since the summer of 2001. Our experience with educators has shown that teachers feel ill-prepared to share the science and implications of climate change research with their students. As a result of the extensive exposure of this topic in the media and the controversy that sometimes surrounds it, teachers are highly motivated to engage in professional development on this subject. A variety of professional development approaches are needed to reach a wide spectrum of educators whose learning preferences and personal and professional constraints may preclude participation in some professional development opportunities. This paper provides lessons learned from successful climate change professional development for teachers, including the importance of inquiry-based curriculum activities, the importance of an opportunity to "learn by doing" and to share their perspectives with their colleagues. Finally, development and continuation of the learning community, both among participants as well as with instructors and scientists, provides critical support to classroom educators, who can at times experience a sense of professional isolation.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

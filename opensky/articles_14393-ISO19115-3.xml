@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:29.531090</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:21.969382</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Gridpoint Statistical Interpolation three-dimensional variational data assimilation (DA) system coupled with the Weather Research and Forecasting/Chemistry (WRF/Chem) model was utilized to improve aerosol forecasts and study aerosol direct and semi-direct radiative feedbacks during a US wild fire event. Assimilation of MODIS total 550 nm aerosol optical depth (AOD) retrievals clearly improved WRF/Chem forecasts of surface PM2.5 and organic carbon (OC) compared to the corresponding forecasts without aerosol data assimilation. The scattering aerosols in the fire downwind region typically cooled layers both above and below the aerosol layer and suppressed convection and clouds, which led to an average 2% precipitation decease during the fire week. This study demonstrated that even with no input of fire emissions, AOD DA improved the aerosol forecasts and allowed a more realistic model simulation of aerosol radiative effects.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Gridpoint Statistical Interpolation three-dimensional variational data assimilation (DA) system coupled with the Weather Research and Forecasting/Chemistry (WRF/Chem) model was utilized to improve aerosol forecasts and study aerosol direct and semi-direct radiative feedbacks during a US wild fire event. Assimilation of MODIS total 550 nm aerosol optical depth (AOD) retrievals clearly improved WRF/Chem forecasts of surface PM2.5 and organic carbon (OC) compared to the corresponding forecasts without aerosol data assimilation. The scattering aerosols in the fire downwind region typically cooled layers both above and below the aerosol layer and suppressed convection and clouds, which led to an average 2% precipitation decease during the fire week. This study demonstrated that even with no input of fire emissions, AOD DA improved the aerosol forecasts and allowed a more realistic model simulation of aerosol radiative effects.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

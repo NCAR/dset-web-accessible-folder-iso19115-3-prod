@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:38.928898</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:35.644237</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We discuss the current theoretical understanding of the large scale flows observed in the solar convection zone, namely the differential rotation and meridional circulation. Based on multi-D numerical simulations we describe which physical processes are at the origin of these large scale flows, how they are maintained and what sets their unique profiles. We also discuss how dynamo generated magnetic field may influence such a delicate dynamical balance and lead to a temporal modulation of the amplitude and profiles of the solar large scale flows.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We discuss the current theoretical understanding of the large scale flows observed in the solar convection zone, namely the differential rotation and meridional circulation. Based on multi-D numerical simulations we describe which physical processes are at the origin of these large scale flows, how they are maintained and what sets their unique profiles. We also discuss how dynamo generated magnetic field may influence such a delicate dynamical balance and lead to a temporal modulation of the amplitude and profiles of the solar large scale flows.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

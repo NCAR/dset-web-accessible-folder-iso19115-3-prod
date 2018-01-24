@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:46.302748</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:46.675710</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>West Nile virus (WNV) is a leading cause of mosquito-borne disease in the United States. Annual seasonal outbreaks vary in size and location. Predicting where and when higher than normal WNV transmission will occur can help direct limited public health resources. We developed models for the contiguous United States to identify meteorological anomalies associated with above average incidence of WNV neuroinvasive disease from 2004 to 2012. We used county-level WNV data reported to ArboNET and meteorological data from the North American Land Data Assimilation System. As a result of geographic differences in WNV transmission, we divided the United States into East and West, and 10 climate regions. Above average annual temperature was associated with increased likelihood of higher than normal WNV disease incidence, nationally and in most regions. Lower than average annual total precipitation was associated with higher disease incidence in the eastern United States, but the opposite was true in most western regions. Although multiple factors influence WNV transmission, these findings show that anomalies in temperature and precipitation are associated with above average WNV disease incidence. Readily accessible meteorological data may be used predictive models to forecast geographic areas with elevated WNV disease risk before the coming season.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[West Nile virus (WNV) is a leading cause of mosquito-borne disease in the United States. Annual seasonal outbreaks vary in size and location. Predicting where and when higher than normal WNV transmission will occur can help direct limited public health resources. We developed models for the contiguous United States to identify meteorological anomalies associated with above average incidence of WNV neuroinvasive disease from 2004 to 2012. We used county-level WNV data reported to ArboNET and meteorological data from the North American Land Data Assimilation System. As a result of geographic differences in WNV transmission, we divided the United States into East and West, and 10 climate regions. Above average annual temperature was associated with increased likelihood of higher than normal WNV disease incidence, nationally and in most regions. Lower than average annual total precipitation was associated with higher disease incidence in the eastern United States, but the opposite was true in most western regions. Although multiple factors influence WNV transmission, these findings show that anomalies in temperature and precipitation are associated with above average WNV disease incidence. Readily accessible meteorological data may be used predictive models to forecast geographic areas with elevated WNV disease risk before the coming season.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

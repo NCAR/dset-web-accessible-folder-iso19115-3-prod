@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:40.928215</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:18.619435</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The coupling of the finite volume element method and the boundary element method is an interesting approach to simulate a coupled system of a diffusion convection reaction process in an interior domain and a diffusion process in the corresponding unbounded exterior domain. This discrete system maintains naturally local conservation, and a possible weighted upwind scheme guarantees the stability of the discrete system also for convection dominated problems. We show existence and uniqueness of the continuous system with appropriate transmission conditions on the coupling boundary, provide a convergence and an a priori analysis in an energy (semi)norm, and provide an existence and an uniqueness result for the discrete system. All results are also valid for the upwind version. Numerical experiments show that our coupling is an efficient method for the numerical treatment of transmission problems, which can also be convection dominated.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The coupling of the finite volume element method and the boundary element method is an interesting approach to simulate a coupled system of a diffusion convection reaction process in an interior domain and a diffusion process in the corresponding unbounded exterior domain. This discrete system maintains naturally local conservation, and a possible weighted upwind scheme guarantees the stability of the discrete system also for convection dominated problems. We show existence and uniqueness of the continuous system with appropriate transmission conditions on the coupling boundary, provide a convergence and an a priori analysis in an energy (semi)norm, and provide an existence and an uniqueness result for the discrete system. All results are also valid for the upwind version. Numerical experiments show that our coupling is an efficient method for the numerical treatment of transmission problems, which can also be convection dominated.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:34.247787</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:09.309658</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Fluctuations in the positioning of major ocean currents can influence ecosystem dynamics, but previously the technology has been lacking to make direct observational assessments. Here, we test the hypothesis that positioning of the North Pacific Current (NPC) is related to biological attributes of the central-northern California Current Ecosystem (CCE). To test this hypothesis we use newly available data from the Argo array and compare it with a suite of well-known ecosystem indicators over 6 years, 2002 through 2007. We found increased biomass and productivity when the NPC was shifted poleward, and suggest that positioning influences advective transport of nutrients and perhaps key planktonic organisms from the sub-arctic domain thereby enhancing mid to upper trophic level species. This study is significant because climate change is predicted to cause poleward shifts in the westerlies that drive ocean currents and positioning of large marine gyre systems. Rather than reducing ecosystem productivity, poleward shifts in positioning of the NPC may be beneficial for many species of the central-northern CCE.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Fluctuations in the positioning of major ocean currents can influence ecosystem dynamics, but previously the technology has been lacking to make direct observational assessments. Here, we test the hypothesis that positioning of the North Pacific Current (NPC) is related to biological attributes of the central-northern California Current Ecosystem (CCE). To test this hypothesis we use newly available data from the Argo array and compare it with a suite of well-known ecosystem indicators over 6 years, 2002 through 2007. We found increased biomass and productivity when the NPC was shifted poleward, and suggest that positioning influences advective transport of nutrients and perhaps key planktonic organisms from the sub-arctic domain thereby enhancing mid to upper trophic level species. This study is significant because climate change is predicted to cause poleward shifts in the westerlies that drive ocean currents and positioning of large marine gyre systems. Rather than reducing ecosystem productivity, poleward shifts in positioning of the NPC may be beneficial for many species of the central-northern CCE.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

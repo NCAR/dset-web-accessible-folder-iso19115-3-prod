@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:47.647272</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:18.295065</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Fire is a global phenomenon and tightly interacts with the biosphere and climate. This study provides the first quantitative assessment and understanding of fire's influence on the global annual land surface air temperature and energy budget through its impact on terrestrial ecosystems. Fire impacts are quantified by comparing fire-on and fire-off simulations with the Community Earth System Model (CESM). Results show that, for the 20th century average, fireinduced changes in terrestrial ecosystems significantly increase global land annual mean surface air temperature by 0.18 degrees C, decrease surface net radiation and latent heat flux by 1.08 W m(-2) and 0.99 W m(-2), respectively, and have limited influence on sensible heat flux (-0.11 W m(-2)) and ground heat flux (+0.02 W m(-2)). Fire impacts are most clearly seen in the tropical savannas. Our analyses suggest that fire increases surface air temperature predominantly by reducing latent heat flux, mainly due to fire-induced damage to the vegetation canopy, and decreases net radiation primarily because fire-induced surface warming significantly increases upward surface longwave radiation. This study provides an integrated estimate of fire and induced changes in ecosystems, climate, and energy budget at a global scale, and emphasizes the importance of a consistent and integrated understanding of fire effects.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Fire is a global phenomenon and tightly interacts with the biosphere and climate. This study provides the first quantitative assessment and understanding of fire's influence on the global annual land surface air temperature and energy budget through its impact on terrestrial ecosystems. Fire impacts are quantified by comparing fire-on and fire-off simulations with the Community Earth System Model (CESM). Results show that, for the 20th century average, fireinduced changes in terrestrial ecosystems significantly increase global land annual mean surface air temperature by 0.18 degrees C, decrease surface net radiation and latent heat flux by 1.08 W m(-2) and 0.99 W m(-2), respectively, and have limited influence on sensible heat flux (-0.11 W m(-2)) and ground heat flux (+0.02 W m(-2)). Fire impacts are most clearly seen in the tropical savannas. Our analyses suggest that fire increases surface air temperature predominantly by reducing latent heat flux, mainly due to fire-induced damage to the vegetation canopy, and decreases net radiation primarily because fire-induced surface warming significantly increases upward surface longwave radiation. This study provides an integrated estimate of fire and induced changes in ecosystems, climate, and energy budget at a global scale, and emphasizes the importance of a consistent and integrated understanding of fire effects.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

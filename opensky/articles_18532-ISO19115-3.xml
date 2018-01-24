@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:25.636877</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:44.439164</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper describes a stochastic analytical model for predicting airport capacity with a look-ahead horizon suitable for strategic traffic flow management. The model extends previous research on airport capacity estimation by explicitly integrating the impact of terminal weather and its uncertainty. Different types of weather forecast inputs are explored, including deterministic forecasts, deterministic forecasts with forecast error models, and ensemble forecasts, to produce distributions of predicted arrival and departure capacity for each runway configuration at an airport. The paper introduces a mathematical capacity prediction model and weather data sources supported by a proof-of-concept prototype implementation, including results of validation studies at Hartsfield-Jackson Atlanta International Airport. These results are compared with standard airport benchmark capacities and actual observed throughputs. Results show that our analytical airport capacity model accurately predicts maximum available airport capacity for Hartsfield-Jackson Atlanta International Airport for different weather conditions. The validation studies reveal a limited impact of forecast uncertainty representation on the accuracy of airport capacity predictions.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper describes a stochastic analytical model for predicting airport capacity with a look-ahead horizon suitable for strategic traffic flow management. The model extends previous research on airport capacity estimation by explicitly integrating the impact of terminal weather and its uncertainty. Different types of weather forecast inputs are explored, including deterministic forecasts, deterministic forecasts with forecast error models, and ensemble forecasts, to produce distributions of predicted arrival and departure capacity for each runway configuration at an airport. The paper introduces a mathematical capacity prediction model and weather data sources supported by a proof-of-concept prototype implementation, including results of validation studies at Hartsfield-Jackson Atlanta International Airport. These results are compared with standard airport benchmark capacities and actual observed throughputs. Results show that our analytical airport capacity model accurately predicts maximum available airport capacity for Hartsfield-Jackson Atlanta International Airport for different weather conditions. The validation studies reveal a limited impact of forecast uncertainty representation on the accuracy of airport capacity predictions.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

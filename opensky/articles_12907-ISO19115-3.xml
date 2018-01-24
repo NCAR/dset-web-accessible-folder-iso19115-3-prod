@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:07.675544</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:53.477796</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The reverse convection potential under northward interplanetary magnetic field (IMF) is significantly larger in the summer ionosphere than in the winter. In this study, we use the Coupled Magnetosphere-Ionosphere-Thermosphere model to simulate a Northern Hemisphere winter event where observations have shown asymmetry in both the reverse convection strength between hemispheres and the magnetic field topology associated with the ionospheric reverse convection cells. We show that a topological asymmetry, in which reconnection between the geomagnetic field and the IMF occurs in the summer hemisphere, first drives the interhemispheric asymmetry in reverse convection strength rather than an interhemispheric asymmetry in ionospheric conductivity. We find a large amount of overdraped open magnetic flux connected to the summer hemisphere that results from this reconnection bypasses the winter hemisphere x line and reconnects with the IMF again in the summer hemisphere lobe. This leads to a large amount of circulating lobe flux in the summer hemisphere and stagnant lobe flux in the winter hemisphere, while maintaining a divergence-free field, as well as the weaker reverse convection potential in the winter hemisphere ionosphere.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The reverse convection potential under northward interplanetary magnetic field (IMF) is significantly larger in the summer ionosphere than in the winter. In this study, we use the Coupled Magnetosphere-Ionosphere-Thermosphere model to simulate a Northern Hemisphere winter event where observations have shown asymmetry in both the reverse convection strength between hemispheres and the magnetic field topology associated with the ionospheric reverse convection cells. We show that a topological asymmetry, in which reconnection between the geomagnetic field and the IMF occurs in the summer hemisphere, first drives the interhemispheric asymmetry in reverse convection strength rather than an interhemispheric asymmetry in ionospheric conductivity. We find a large amount of overdraped open magnetic flux connected to the summer hemisphere that results from this reconnection bypasses the winter hemisphere x line and reconnects with the IMF again in the summer hemisphere lobe. This leads to a large amount of circulating lobe flux in the summer hemisphere and stagnant lobe flux in the winter hemisphere, while maintaining a divergence-free field, as well as the weaker reverse convection potential in the winter hemisphere ionosphere.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

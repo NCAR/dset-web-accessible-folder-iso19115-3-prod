@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:03.495773</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:11.917017</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Global Positioning System (GPS) receivers, water vapor radiometers (WVRs), and surface meteorological equipment were operated at both ends of a 50-km baseline in Colorado to measure the precipitable water vapor (PWV) and wet delay in the line-of-sight to GPS satellites. Using high precision orbits, WVR-measured and GPS-inferred PWV differences between the two sites usually agreed to better than 1 mm. Using less precise on-line broadcast orbits increased the discrepancy by 30%. Data simulations show that GPS measurements can provide mm-level separate PWV estimates for the two sites, as opposed to just their difference, if baselines exceed 500 km and the highest accuracy GPS orbits are used.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Global Positioning System (GPS) receivers, water vapor radiometers (WVRs), and surface meteorological equipment were operated at both ends of a 50-km baseline in Colorado to measure the precipitable water vapor (PWV) and wet delay in the line-of-sight to GPS satellites. Using high precision orbits, WVR-measured and GPS-inferred PWV differences between the two sites usually agreed to better than 1 mm. Using less precise on-line broadcast orbits increased the discrepancy by 30%. Data simulations show that GPS measurements can provide mm-level separate PWV estimates for the two sites, as opposed to just their difference, if baselines exceed 500 km and the highest accuracy GPS orbits are used.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

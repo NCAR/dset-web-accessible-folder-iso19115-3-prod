@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:52.385226</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:25.274962</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We assess similarities and differences between model effects for the North American Regional Climate Change Assessment Program (NARCCAP) climate models using varying classes of linear regression models. Specifically, we consider how the average temperature effect differs for the various global and regional climate model combinations, including assessment of possible interaction between the effects of global and regional climate models. We use both pointwise and simultaneous inference procedures to identify regions where global and regional climate model effects differ. We also show conclusively that results from pointwise inference are misleading, and that accounting for multiple comparisons is important for making proper inference.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We assess similarities and differences between model effects for the North American Regional Climate Change Assessment Program (NARCCAP) climate models using varying classes of linear regression models. Specifically, we consider how the average temperature effect differs for the various global and regional climate model combinations, including assessment of possible interaction between the effects of global and regional climate models. We use both pointwise and simultaneous inference procedures to identify regions where global and regional climate model effects differ. We also show conclusively that results from pointwise inference are misleading, and that accounting for multiple comparisons is important for making proper inference.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:31.640796</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:25.060925</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We present an aerosol-cloud-precipitation modeling study of convective clouds using the Weather Research and Forecasting model fully coupled with Chemistry (WRF-Chem) version 3.1.1. Comparison of the model output with measurements from a research site in the Rocky Mountains in Colorado revealed that the fraction of organics in the model is underpredicted. This is most likely due to missing processes in the aerosol module in the model version used, such as new particle formation and growth of secondary organic aerosols. When boundary conditions and domain-wide initial conditions of aerosol loading are changed in the model (factors of 0.1, 0.2, and 10 of initial aerosol mass of SO4-2, NH4+, and NO3-), the domain-wide precipitation changes by about 5%. Analysis of the model results reveals that the Rocky Mountain region and Front Range environment is not conducive for convective invigoration to play a major role, in increasing precipitation, as seen in some other studies. When localized organic aerosol emission are increased to mimic new particle formation, the resulting increased aerosol loading leads to increases in domain-wide precipitation, opposite to what is seen in the model simulations with changed boundary and initial conditions.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We present an aerosol-cloud-precipitation modeling study of convective clouds using the Weather Research and Forecasting model fully coupled with Chemistry (WRF-Chem) version 3.1.1. Comparison of the model output with measurements from a research site in the Rocky Mountains in Colorado revealed that the fraction of organics in the model is underpredicted. This is most likely due to missing processes in the aerosol module in the model version used, such as new particle formation and growth of secondary organic aerosols. When boundary conditions and domain-wide initial conditions of aerosol loading are changed in the model (factors of 0.1, 0.2, and 10 of initial aerosol mass of SO4-2, NH4+, and NO3-), the domain-wide precipitation changes by about 5%. Analysis of the model results reveals that the Rocky Mountain region and Front Range environment is not conducive for convective invigoration to play a major role, in increasing precipitation, as seen in some other studies. When localized organic aerosol emission are increased to mimic new particle formation, the resulting increased aerosol loading leads to increases in domain-wide precipitation, opposite to what is seen in the model simulations with changed boundary and initial conditions.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:03.595824</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:12.051489</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this study radio occultation data from the GPS/MET experiment are used for detection of high-altitude ionospheric irregularities. This is done by back propagation of the complex electromagnetic field observed in orbit while accounting for the direction of the Earth's magnetic field. The irregularities are detected mainly in the F region. However, for some occultations they are detected above the F2 peak at altitudes up to 1000 km and higher. Results of numerical simulations, a description of the used algorithm, and examples of the processed GPS/MET data are presented.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this study radio occultation data from the GPS/MET experiment are used for detection of high-altitude ionospheric irregularities. This is done by back propagation of the complex electromagnetic field observed in orbit while accounting for the direction of the Earth's magnetic field. The irregularities are detected mainly in the F region. However, for some occultations they are detected above the F2 peak at altitudes up to 1000 km and higher. Results of numerical simulations, a description of the used algorithm, and examples of the processed GPS/MET data are presented.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

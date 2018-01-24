@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:26.076651</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:17.423813</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Horizontal resolution of general circulation models (GCMs) has significantly increased during the last decade, however these changes were not accompanied by similar changes in vertical resolution. In our study, the Community Atmosphere Model, version 5 (CAM5) is used to study the sensitivity of climate to vertical resolution and nonorographic gravity wave drag. Nonorographic gravity wave drag is typically omitted from low-top GCMs, however as we show, its influence on climate can be seen all the way to the surface. We show that an increase in vertical resolution from 1200 to 500 m in the free troposphere and lower stratosphere in CAM5 improves the representation of near-tropopause temperatures, lower stratospheric temperatures, and surface wind stresses. In combination with nonorographic gravity waves, CAM5 with increased vertical resolution produces a realistic Quasi-Biennial Oscillation (QBO), has an improved seasonal cycle of temperature in the extratropics, and represents better the coupling between the stratosphere and the troposphere.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Horizontal resolution of general circulation models (GCMs) has significantly increased during the last decade, however these changes were not accompanied by similar changes in vertical resolution. In our study, the Community Atmosphere Model, version 5 (CAM5) is used to study the sensitivity of climate to vertical resolution and nonorographic gravity wave drag. Nonorographic gravity wave drag is typically omitted from low-top GCMs, however as we show, its influence on climate can be seen all the way to the surface. We show that an increase in vertical resolution from 1200 to 500 m in the free troposphere and lower stratosphere in CAM5 improves the representation of near-tropopause temperatures, lower stratospheric temperatures, and surface wind stresses. In combination with nonorographic gravity waves, CAM5 with increased vertical resolution produces a realistic Quasi-Biennial Oscillation (QBO), has an improved seasonal cycle of temperature in the extratropics, and represents better the coupling between the stratosphere and the troposphere.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

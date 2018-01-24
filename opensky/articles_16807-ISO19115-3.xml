@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:50.711383</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:53.317725</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>An approximate model derived by Hutchinson (2008a), describing the interaction between the solar wind and the Moon, is applied to describe plasma in the lunar wake. The model accounts for plasma entering the wake region from two tangent points around the Moon. Cylindrical geometry is assumed, along with a strong constant magnetic field, and fixed transverse velocity and temperature. Under these approximations two angle-dependent equations for fluid flow are obtained, which can be solved using the method of characteristics to provide the density inside the wake region. It is demonstrated that the model valid under these assumptions provides excellent agreement with observations from the ARTEMIS mission and with large-scale hybrid-kinetic plasma simulations. The model provides a practical alternative to kinetic simulations and is generally useful for determining properties of the lunar wake under different solar wind conditions. It will be useful as well for predicting properties of the plasma environment around unmagnetized bodies that have not yet been visited by spacecraft.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[An approximate model derived by Hutchinson (2008a), describing the interaction between the solar wind and the Moon, is applied to describe plasma in the lunar wake. The model accounts for plasma entering the wake region from two tangent points around the Moon. Cylindrical geometry is assumed, along with a strong constant magnetic field, and fixed transverse velocity and temperature. Under these approximations two angle-dependent equations for fluid flow are obtained, which can be solved using the method of characteristics to provide the density inside the wake region. It is demonstrated that the model valid under these assumptions provides excellent agreement with observations from the ARTEMIS mission and with large-scale hybrid-kinetic plasma simulations. The model provides a practical alternative to kinetic simulations and is generally useful for determining properties of the lunar wake under different solar wind conditions. It will be useful as well for predicting properties of the plasma environment around unmagnetized bodies that have not yet been visited by spacecraft.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

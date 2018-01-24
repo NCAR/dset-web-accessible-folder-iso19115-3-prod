@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:10.317225</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:21.601905</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Paleoclimate observations constitute the only constraint on climate behavior prior to the instrumental era. However, such observations only provide indirect (proxy) constraints on physical variables. Proxy system models aim to improve the interpretation of such observations and better quantify their inherent uncertainties. However, existing models are currently scattered in the literature, making their integration difficult. Here, we present a comprehensive modeling framework for proxy systems, named PRYSM. For this initial iteration, we focus on water-isotope based climate proxies in ice cores, corals, tree ring cellulose, and speleothem calcite. We review modeling approaches for each proxy class, and pair them with an isotope-enabled climate simulation to illustrate the new scientific insights that may be gained from this framework. Applications include parameter sensitivity analysis, the quantification of archive-specific processes on the recorded climate signal, and the quantification of how chronological uncertainties affect signal detection, demonstrating the utility of PRYSM for a broad array of climate studies.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Paleoclimate observations constitute the only constraint on climate behavior prior to the instrumental era. However, such observations only provide indirect (proxy) constraints on physical variables. Proxy system models aim to improve the interpretation of such observations and better quantify their inherent uncertainties. However, existing models are currently scattered in the literature, making their integration difficult. Here, we present a comprehensive modeling framework for proxy systems, named PRYSM. For this initial iteration, we focus on water-isotope based climate proxies in ice cores, corals, tree ring cellulose, and speleothem calcite. We review modeling approaches for each proxy class, and pair them with an isotope-enabled climate simulation to illustrate the new scientific insights that may be gained from this framework. Applications include parameter sensitivity analysis, the quantification of archive-specific processes on the recorded climate signal, and the quantification of how chronological uncertainties affect signal detection, demonstrating the utility of PRYSM for a broad array of climate studies.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

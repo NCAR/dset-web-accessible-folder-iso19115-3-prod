@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:44.433529</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:43.799984</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The occurrence of sporadic E (Es) layers has been a hot scientific topic for a long time. The GNSS (global navigation satellite system)-based radio occultation (RO) has proven to be a powerful technique for detecting the global Es layers. In this paper, we focus on some cases of complex Es layers based on the RO data from multiple missions processed in UCAR/CDAAC (University Corporation for Atmospheric Research (UCAR) the Constellation Observing System for Meteorology, Ionosphere, and Climate (COSMIC) Data Analysis and Archive Center (CDAAC)). We first show some examples of multiple Es layers occurred in one RO event. Based on the evaluations between colocated simultaneous RO events and between RO and lidar observations, it could be concluded that some of these do manifest the multiple Es layer structures. We then show a case of the occurrence of Es in a broad region during a certain time interval. The result is then validated by independent ionosondes observations. It is possible to explain these complex Es structures using the popular wind shear theory. We could map the global Es occurrence routinely in the near future, given that more RO data will be available. Further statistical studies will enhance our understanding of the Es mechanism. The understanding of Es should benefit both Es-based long-distance communication and accurate neutral RO retrievals.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The occurrence of sporadic E (Es) layers has been a hot scientific topic for a long time. The GNSS (global navigation satellite system)-based radio occultation (RO) has proven to be a powerful technique for detecting the global Es layers. In this paper, we focus on some cases of complex Es layers based on the RO data from multiple missions processed in UCAR/CDAAC (University Corporation for Atmospheric Research (UCAR) the Constellation Observing System for Meteorology, Ionosphere, and Climate (COSMIC) Data Analysis and Archive Center (CDAAC)). We first show some examples of multiple Es layers occurred in one RO event. Based on the evaluations between colocated simultaneous RO events and between RO and lidar observations, it could be concluded that some of these do manifest the multiple Es layer structures. We then show a case of the occurrence of Es in a broad region during a certain time interval. The result is then validated by independent ionosondes observations. It is possible to explain these complex Es structures using the popular wind shear theory. We could map the global Es occurrence routinely in the near future, given that more RO data will be available. Further statistical studies will enhance our understanding of the Es mechanism. The understanding of Es should benefit both Es-based long-distance communication and accurate neutral RO retrievals.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

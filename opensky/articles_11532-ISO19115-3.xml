@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:35.498877</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:11.000233</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Several state-of-the-art general circulation models (GCMs) predict that large volcanic eruptions should result in anomalous dry conditions throughout much of monsoon Asia. Here, we use long and well-validated proxy reconstructions of Asian droughts and pluvials to detect the influence of volcanic radiative forcing on the hydroclimate of the region since the late Medieval period. Superposed epoch analysis reveals significantly wetter conditions over mainland southeast Asia in the year of an eruption, with drier conditions in central Asia. Our proxy and model comparison suggests that GCMs may not yet capture all of the important ocean-atmosphere dynamics responsible for the influence of explosive volcanism on the climate of Asia.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Several state-of-the-art general circulation models (GCMs) predict that large volcanic eruptions should result in anomalous dry conditions throughout much of monsoon Asia. Here, we use long and well-validated proxy reconstructions of Asian droughts and pluvials to detect the influence of volcanic radiative forcing on the hydroclimate of the region since the late Medieval period. Superposed epoch analysis reveals significantly wetter conditions over mainland southeast Asia in the year of an eruption, with drier conditions in central Asia. Our proxy and model comparison suggests that GCMs may not yet capture all of the important ocean-atmosphere dynamics responsible for the influence of explosive volcanism on the climate of Asia.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

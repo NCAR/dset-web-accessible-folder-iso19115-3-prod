@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:53.661069</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:27.368940</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>It has been suggested that the difference of the Sun-Earth distance between the December and June solstices has a great impact on the ionospheric annual asymmetry. In this study, the physical mechanisms of the Sun-Earth distance effects on the ionospheric annual asymmetry are investigated using Thermosphere-Ionosphere Electrodynamics General Circulation Model simulations. The main findings are the following: (1) The Sun-Earth distance affects the ionospheric annual asymmetry mainly through photochemical processes. (2) During the daytime, this photochemical process results from the combined effect of ionization rate of atomic oxygen and the recombination with neutral species. The solar irradiation variation between December and June directly leads to about 6% December-June electron density difference via ionization of atomic oxygen, whereas the recombination with neutral composition contributes to 12%-15% December-June electron density difference. (3) In the plasma fountain-prominent region (between 20 degrees and 40 degrees magnetic latitude), ambipolar diffusion can also be modulated by the Sun-Earth distance effect and contribute to the ionospheric annual asymmetry. (4) During the nighttime, the Sun-Earth distance effect impacts the annual asymmetry by changing thermospheric composition and ionospheric diffusion.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[It has been suggested that the difference of the Sun-Earth distance between the December and June solstices has a great impact on the ionospheric annual asymmetry. In this study, the physical mechanisms of the Sun-Earth distance effects on the ionospheric annual asymmetry are investigated using Thermosphere-Ionosphere Electrodynamics General Circulation Model simulations. The main findings are the following: (1) The Sun-Earth distance affects the ionospheric annual asymmetry mainly through photochemical processes. (2) During the daytime, this photochemical process results from the combined effect of ionization rate of atomic oxygen and the recombination with neutral species. The solar irradiation variation between December and June directly leads to about 6% December-June electron density difference via ionization of atomic oxygen, whereas the recombination with neutral composition contributes to 12%-15% December-June electron density difference. (3) In the plasma fountain-prominent region (between 20 degrees and 40 degrees magnetic latitude), ambipolar diffusion can also be modulated by the Sun-Earth distance effect and contribute to the ionospheric annual asymmetry. (4) During the nighttime, the Sun-Earth distance effect impacts the annual asymmetry by changing thermospheric composition and ionospheric diffusion.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

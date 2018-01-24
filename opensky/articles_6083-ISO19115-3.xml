@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:05.974686</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:28.326317</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Atmospheric refractivity is typically estimated in situ from radiosonde measurements, which are expensive and may undersample the spatial and temporal variability of weather phenomena. We estimate refractivity structure near San Diego, California, using ray propagation models to fit measured GPS tropospheric delays in a least squares metric. We evaluate the potential and the limitations of ground-based GPS measurements for characterizing atmospheric refractivity, and we compare refractivity structure estimated from GPS sensing with that measured by nearby radiosondes. The results suggest that ground-based GPS provides significant constraint of inhomogeneous atmospheric refractivity, despite certain fundamental limitations of ground-based measurements. Radiosondes typically are launched just a few times daily. Consequently, estimates of temporally and spatially varying refractivity that assimilate GPS delays could substantially improve over estimates using radiosonde data alone.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Atmospheric refractivity is typically estimated in situ from radiosonde measurements, which are expensive and may undersample the spatial and temporal variability of weather phenomena. We estimate refractivity structure near San Diego, California, using ray propagation models to fit measured GPS tropospheric delays in a least squares metric. We evaluate the potential and the limitations of ground-based GPS measurements for characterizing atmospheric refractivity, and we compare refractivity structure estimated from GPS sensing with that measured by nearby radiosondes. The results suggest that ground-based GPS provides significant constraint of inhomogeneous atmospheric refractivity, despite certain fundamental limitations of ground-based measurements. Radiosondes typically are launched just a few times daily. Consequently, estimates of temporally and spatially varying refractivity that assimilate GPS delays could substantially improve over estimates using radiosonde data alone.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

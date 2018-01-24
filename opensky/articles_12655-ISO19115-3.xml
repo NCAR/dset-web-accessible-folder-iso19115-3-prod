@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:01.310854</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:45.444124</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In recent years, the mesosphere (50 to 85-100 km) has evoked great scientific interest as long-term changes due to global warming can be clearly captured due to the large perturbation amplitudes at these altitudes. In the present study, zonal wind observations between 70 and 80km over the Indian region provided by rocketsonde (1977-1991), HRDI/UARS (1991-1999), and MST radar (1995-2010) are used to construct a long-term data set from 1977 to 2010. Using this unprecedented data set, a decreasing trend of 2m/s/yr is found, changing from strong eastward winds during the 1970s to weak westward winds in recent years. On the other hand, between 80 and 98km using medium frequency radar observations during 1993-2009, no perceptible trend is found. Simulations of NCAR TIME-GCM also showed a similar change in the circulation when CO2 in the atmosphere is doubled, suggesting role of anthropogenic changes in the dynamics of the mesosphere.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In recent years, the mesosphere (50 to 85-100 km) has evoked great scientific interest as long-term changes due to global warming can be clearly captured due to the large perturbation amplitudes at these altitudes. In the present study, zonal wind observations between 70 and 80km over the Indian region provided by rocketsonde (1977-1991), HRDI/UARS (1991-1999), and MST radar (1995-2010) are used to construct a long-term data set from 1977 to 2010. Using this unprecedented data set, a decreasing trend of 2m/s/yr is found, changing from strong eastward winds during the 1970s to weak westward winds in recent years. On the other hand, between 80 and 98km using medium frequency radar observations during 1993-2009, no perceptible trend is found. Simulations of NCAR TIME-GCM also showed a similar change in the circulation when CO2 in the atmosphere is doubled, suggesting role of anthropogenic changes in the dynamics of the mesosphere.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

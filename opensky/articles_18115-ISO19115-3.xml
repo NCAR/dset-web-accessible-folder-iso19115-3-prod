@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:18.621907</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:33.745722</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -204,7 +204,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>An octet of microsatellites to be launched in 2003 promises to deliver a large amount of useful data for meteorological, climatic, ionospheric, and geodetic research as well as for operational weather forecasting and space weather monitoring. Known as the Constellation Observing System for Meteorology, Ionosphere, and Climate (COSMIC), the joint Taiwan-U.S. scientific satellite project makes use of Global Positioning System (GPS) occultation and tracking signals. COSMIC's final operational configuration is depicted in Figure l.Each of the eight microsatellites in low-Earth-orbit (LEO, shown relative to the high-altitude GPS satellite orbits) will carry in particular an advanced limbsounding GPS receiver, a Tiny Ionospheric Photometer, and a triband beacon transmitter.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[An octet of microsatellites to be launched in 2003 promises to deliver a large amount of useful data for meteorological, climatic, ionospheric, and geodetic research as well as for operational weather forecasting and space weather monitoring. Known as the Constellation Observing System for Meteorology, Ionosphere, and Climate (COSMIC), the joint Taiwan-U.S. scientific satellite project makes use of Global Positioning System (GPS) occultation and tracking signals. COSMIC's final operational configuration is depicted in Figure l.Each of the eight microsatellites in low-Earth-orbit (LEO, shown relative to the high-altitude GPS satellite orbits) will carry in particular an advanced limbsounding GPS receiver, a Tiny Ionospheric Photometer, and a triband beacon transmitter.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

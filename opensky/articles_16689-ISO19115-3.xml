@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:48.103330</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:49.368731</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Net precipitation [precipitation minus evapotranspiration (P -- E)] changes between 1979 and 2011 from a high-resolution regional climate simulation and its reanalysis forcing are analyzed over the Tibetan Plateau (TP) and compared to the Global Land Data Assimilation System (GLDAS) product. The high-resolution simulation better resolves precipitation changes than its coarse-resolution forcing, which contributes dominantly to the improved P--E change in the regional simulation compared to the global reanalysis. Hence, the former may provide better insights about the drivers of P -- E changes. The mechanism behind the P -- E changes is explored by decomposing the column integrated moisture flux convergence into thermodynamic, dynamic, and transient eddy components. High-resolution climate simulation improves the spatial pattern of P -- E changes over the best available global reanalysis. High-resolution climate simulation also facilitates new and substantial findings regarding the role of thermodynamics and transient eddies in P -- E changes reflected in observed changes in major river basins fed by runoff from the TP. The analysis reveals the contrasting convergence/divergence changes between the northwestern and southeastern TP and feedback through latent heat release as an important mechanism leading to the mean P -- E changes in the TP.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Net precipitation [precipitation minus evapotranspiration (P -- E)] changes between 1979 and 2011 from a high-resolution regional climate simulation and its reanalysis forcing are analyzed over the Tibetan Plateau (TP) and compared to the Global Land Data Assimilation System (GLDAS) product. The high-resolution simulation better resolves precipitation changes than its coarse-resolution forcing, which contributes dominantly to the improved P--E change in the regional simulation compared to the global reanalysis. Hence, the former may provide better insights about the drivers of P -- E changes. The mechanism behind the P -- E changes is explored by decomposing the column integrated moisture flux convergence into thermodynamic, dynamic, and transient eddy components. High-resolution climate simulation improves the spatial pattern of P -- E changes over the best available global reanalysis. High-resolution climate simulation also facilitates new and substantial findings regarding the role of thermodynamics and transient eddies in P -- E changes reflected in observed changes in major river basins fed by runoff from the TP. The analysis reveals the contrasting convergence/divergence changes between the northwestern and southeastern TP and feedback through latent heat release as an important mechanism leading to the mean P -- E changes in the TP.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

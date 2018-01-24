@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:38.660749</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:35.246060</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Previous studies have shown that the width of the tropical belt has been increasing since at least the late 1970s based on a variety of metrics. One such metric, the frequency of occurrence of a high-altitude tropopause characteristic of the tropics, is used here to show that the observed widening of the tropics can be accurately replicated by an atmospheric general circulation model forced by the observed evolution of global SST and sea ice distributions as well as the direct radiative effects from both natural and anthropogenic sources. Contrasting this simulation with one forced by the observed SST and sea ice distributions alone reveals that the widening trend can be attributed entirely to direct radiative forcing, in particular those related to greenhouse gases and stratospheric ozone depletion. SST forcing causes no significant change in the width of the tropics, and even a contraction in some seasons.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Previous studies have shown that the width of the tropical belt has been increasing since at least the late 1970s based on a variety of metrics. One such metric, the frequency of occurrence of a high-altitude tropopause characteristic of the tropics, is used here to show that the observed widening of the tropics can be accurately replicated by an atmospheric general circulation model forced by the observed evolution of global SST and sea ice distributions as well as the direct radiative effects from both natural and anthropogenic sources. Contrasting this simulation with one forced by the observed SST and sea ice distributions alone reveals that the widening trend can be attributed entirely to direct radiative forcing, in particular those related to greenhouse gases and stratospheric ozone depletion. SST forcing causes no significant change in the width of the tropics, and even a contraction in some seasons.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:32.191795</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:54.529620</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Decarbonization in the immediate future is required to limit global mean temperature (GMT) increase to 2 degrees C relative to preindustrial conditions, if geoengineering is not considered. Here we use the Community Earth System Model (CESM) to investigate climate outcomes if no mitigation is undertaken until GMT has reached 2 degrees C. We find that late decarbonization in CESM without applying stratospheric sulfur injection (SSI) leads to a peak temperature increase of 3 degrees C and GMT remains above 2 degrees for 160years. An additional gradual increase and then decrease of SSI over this period reaching about 1.5times the aerosol burden resulting from the Mount Pinatubo eruption in 1992 would limit the increase in GMT to 2.0 degrees for the specific pathway and model. SSI produces mean and extreme temperatures in CESM comparable to an early decarbonization pathway, but aridity is not mitigated to the same extent.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Decarbonization in the immediate future is required to limit global mean temperature (GMT) increase to 2 degrees C relative to preindustrial conditions, if geoengineering is not considered. Here we use the Community Earth System Model (CESM) to investigate climate outcomes if no mitigation is undertaken until GMT has reached 2 degrees C. We find that late decarbonization in CESM without applying stratospheric sulfur injection (SSI) leads to a peak temperature increase of 3 degrees C and GMT remains above 2 degrees for 160years. An additional gradual increase and then decrease of SSI over this period reaching about 1.5times the aerosol burden resulting from the Mount Pinatubo eruption in 1992 would limit the increase in GMT to 2.0 degrees for the specific pathway and model. SSI produces mean and extreme temperatures in CESM comparable to an early decarbonization pathway, but aridity is not mitigated to the same extent.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

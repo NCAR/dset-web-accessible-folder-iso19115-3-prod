@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:35.609009</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:30.677808</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The long-term monitoring and high photometric precision of the Kepler satellite will provide a unique opportunity to sound the stellar cycles of many solar-type stars using asteroseismology. This can be achieved by studying periodic changes in the amplitudes and frequencies of the oscillation modes observed in these stars. By comparing these measurements with conventional ground-based chromospheric activity indices, we can improve our understanding of the relationship between chromospheric changes and those taking place deep in the interior throughout the stellar activity cycle. In addition, asteroseismic measurements of the convection zone depth and differential rotation may help us determine whether stellar cycles are driven at the top or at the base of the convection zone. In this paper, we analyse the precision that will be possible using Kepler to measure stellar cycles, convection zone depths and differential rotation. Based on this analysis, we describe a strategy for selecting specific targets to be observed by the Kepler Asteroseismic Investigation for the full length of the mission, to optimize their suitability for probing stellar cycles in a wide variety of solar-type stars.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The long-term monitoring and high photometric precision of the Kepler satellite will provide a unique opportunity to sound the stellar cycles of many solar-type stars using asteroseismology. This can be achieved by studying periodic changes in the amplitudes and frequencies of the oscillation modes observed in these stars. By comparing these measurements with conventional ground-based chromospheric activity indices, we can improve our understanding of the relationship between chromospheric changes and those taking place deep in the interior throughout the stellar activity cycle. In addition, asteroseismic measurements of the convection zone depth and differential rotation may help us determine whether stellar cycles are driven at the top or at the base of the convection zone. In this paper, we analyse the precision that will be possible using Kepler to measure stellar cycles, convection zone depths and differential rotation. Based on this analysis, we describe a strategy for selecting specific targets to be observed by the Kepler Asteroseismic Investigation for the full length of the mission, to optimize their suitability for probing stellar cycles in a wide variety of solar-type stars.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

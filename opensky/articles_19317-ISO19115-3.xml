@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:38.450351</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:04.469940</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Precipitation-Runoff Modeling System (PRMS), a distributed-parameter hydrologic model, has been applied to the conterminous US (CONUS). Parameter sensitivity analysis was used to identify: (1) the sensitive input parameters and (2) particular model output variables that could be associated with the dominant hydrologic process(es). Sensitivity values of 35 PRMS calibration parameters were computed using the Fourier amplitude sensitivity test procedure on 110 000 independent hydrologically based spatial modeling units covering the CONUS and then summarized to process (snowmelt, surface runoff, infiltration, soil moisture, evapotranspiration, interflow, baseflow, and runoff) and model performance statistic (mean, coefficient of variation, and autoregressive lag 1). Identified parameters and processes provide insight into model performance at the location of each unit and allow the modeler to identify the most dominant process on the basis of which processes are associated with the most sensitive parameters.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Precipitation-Runoff Modeling System (PRMS), a distributed-parameter hydrologic model, has been applied to the conterminous US (CONUS). Parameter sensitivity analysis was used to identify: (1) the sensitive input parameters and (2) particular model output variables that could be associated with the dominant hydrologic process(es). Sensitivity values of 35 PRMS calibration parameters were computed using the Fourier amplitude sensitivity test procedure on 110 000 independent hydrologically based spatial modeling units covering the CONUS and then summarized to process (snowmelt, surface runoff, infiltration, soil moisture, evapotranspiration, interflow, baseflow, and runoff) and model performance statistic (mean, coefficient of variation, and autoregressive lag 1). Identified parameters and processes provide insight into model performance at the location of each unit and allow the modeler to identify the most dominant process on the basis of which processes are associated with the most sensitive parameters.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

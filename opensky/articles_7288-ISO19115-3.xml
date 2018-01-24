@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:13.746286</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:39.553097</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Experiments employing an adjustment of the pressure field in the ocean component of a coupled climate system model are undertaken in both ocean-only and coupled experiments to assess the climatic impacts of reducing the systematic errors in the North Atlantic Current. This conservative and adiabatic adjustment process substantially decreases North Atlantic Ocean SST biases and locally reverses the associated surface heat flux balance in both model configurations. Ice concentrations in the Labrador Sea increase as the oceanic surface heat fluxes are displaced by the adjustment. Downstream, in the Nordic Seas, the subsurface ocean responds favorably to this adjustment, as the vertical profiles of potential temperature and salinity converge towards the observations. Atmospheric stationary wave patterns show a modest improvement, with a slight weakening of the excessively deep Icelandic low. Further unresolved errors in the coupled model framework potentially contribute to the continued presence of biases in the North Atlantic.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Experiments employing an adjustment of the pressure field in the ocean component of a coupled climate system model are undertaken in both ocean-only and coupled experiments to assess the climatic impacts of reducing the systematic errors in the North Atlantic Current. This conservative and adiabatic adjustment process substantially decreases North Atlantic Ocean SST biases and locally reverses the associated surface heat flux balance in both model configurations. Ice concentrations in the Labrador Sea increase as the oceanic surface heat fluxes are displaced by the adjustment. Downstream, in the Nordic Seas, the subsurface ocean responds favorably to this adjustment, as the vertical profiles of potential temperature and salinity converge towards the observations. Atmospheric stationary wave patterns show a modest improvement, with a slight weakening of the excessively deep Icelandic low. Further unresolved errors in the coupled model framework potentially contribute to the continued presence of biases in the North Atlantic.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

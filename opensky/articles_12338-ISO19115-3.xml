@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:54.126665</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:36.222681</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We present a statistical investigation into the variations of the ionospheric energy coupling efficiencies with the solar wind energy input, the interplanetary magnetic field (IMF) clock angle and the solar wind dynamic pressure. The ionospheric energy coupling efficiencies are defined as the ratios of the ionospheric energy deposition (namely auroral precipitation, Joule heating, and their total) to the solar wind energy input. We find that the ionospheric energy coupling efficiencies decrease exponentially with the solar wind energy input. Moreover, it is the same case under geomagnetic storm conditions. Our results also show that the energy coupling efficiencies are dependent on the IMF clock angle and almost independent of the solar wind dynamic pressure. These results will help us estimate and predict energy transfer from the solar wind to the thermosphere-ionosphere system under extreme space weather conditions, particularly severe geomagnetic storms.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We present a statistical investigation into the variations of the ionospheric energy coupling efficiencies with the solar wind energy input, the interplanetary magnetic field (IMF) clock angle and the solar wind dynamic pressure. The ionospheric energy coupling efficiencies are defined as the ratios of the ionospheric energy deposition (namely auroral precipitation, Joule heating, and their total) to the solar wind energy input. We find that the ionospheric energy coupling efficiencies decrease exponentially with the solar wind energy input. Moreover, it is the same case under geomagnetic storm conditions. Our results also show that the energy coupling efficiencies are dependent on the IMF clock angle and almost independent of the solar wind dynamic pressure. These results will help us estimate and predict energy transfer from the solar wind to the thermosphere-ionosphere system under extreme space weather conditions, particularly severe geomagnetic storms.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

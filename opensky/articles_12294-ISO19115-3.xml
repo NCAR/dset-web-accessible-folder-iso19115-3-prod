@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:53.183635</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:34.976156</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -313,7 +313,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This technical note presents an overview of the Chemistry-Climate Model Validation Diagnostic (CCMVal-Diag) tool for model evaluation. The CCMVal-Diag tool is a flexible and extensible open source package that facilitates the complex evaluation of global models. Models can be compared to other models, ensemble members (simulations with the same model), and/or many types of observations. The initial construction and application is to coupled chemistry-climate models (CCMs) participating in CCMVal, but the evaluation of climate models that submitted output to the Coupled Model Intercomparison Project (CMIP) is also possible. The package has been used to assist with analysis of simulations for the 2010 WMO/UNEP Scientific Ozone Assessment and the SPARC Report on the Evaluation of CCMs. The CCMVal-Diag tool is described and examples of how it functions are presented, along with links to detailed descriptions, instructions and source code. The CCMVal-Diag tool supports model development as well as quantifies model changes, both for different versions of individual models and for different generations of community-wide collections of models used in international assessments. The code allows further extensions by different users for different applications and types, e.g. to other components of the Earth system. User modifications are encouraged and easy to perform with minimum coding.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This technical note presents an overview of the Chemistry-Climate Model Validation Diagnostic (CCMVal-Diag) tool for model evaluation. The CCMVal-Diag tool is a flexible and extensible open source package that facilitates the complex evaluation of global models. Models can be compared to other models, ensemble members (simulations with the same model), and/or many types of observations. The initial construction and application is to coupled chemistry-climate models (CCMs) participating in CCMVal, but the evaluation of climate models that submitted output to the Coupled Model Intercomparison Project (CMIP) is also possible. The package has been used to assist with analysis of simulations for the 2010 WMO/UNEP Scientific Ozone Assessment and the SPARC Report on the Evaluation of CCMs. The CCMVal-Diag tool is described and examples of how it functions are presented, along with links to detailed descriptions, instructions and source code. The CCMVal-Diag tool supports model development as well as quantifies model changes, both for different versions of individual models and for different generations of community-wide collections of models used in international assessments. The code allows further extensions by different users for different applications and types, e.g. to other components of the Earth system. User modifications are encouraged and easy to perform with minimum coding.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

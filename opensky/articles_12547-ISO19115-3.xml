@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:58.586732</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:41.908544</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We characterize and analyze rotational torsional oscillations developing in a large-eddy magnetohydrodynamical simulation of solar convection (Ghizaru, Charbonneau, and Smolarkiewicz, Astrophys. J. Lett. 715, L133, 2010; Racine et al., Astrophys. J. 735, 46, 2011) producing an axisymmetric, large-scale, magnetic field undergoing periodic polarity reversals. Motivated by the many solar-like features exhibited by these oscillations, we carry out an analysis of the large-scale zonal dynamics. We demonstrate that simulated torsional oscillations are not driven primarily by the periodically varying large-scale magnetic torque, as one might have expected, but rather via the magnetic modulation of angular-momentum transport by the large-scale meridional flow. This result is confirmed by a straightforward energy analysis. We also detect a fairly sharp transition in rotational dynamics taking place as one moves from the base of the convecting layers to the base of the thin tachocline-like shear layer formed in the stably stratified fluid layers immediately below. We conclude by discussing the implications of our analyses with regard to the mechanism of amplitude saturation in the global dynamo operating in the simulation, and speculate on the possible precursor value of torsional oscillations for the forecast of solar-cycle characteristics.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We characterize and analyze rotational torsional oscillations developing in a large-eddy magnetohydrodynamical simulation of solar convection (Ghizaru, Charbonneau, and Smolarkiewicz, Astrophys. J. Lett. 715, L133, 2010; Racine et al., Astrophys. J. 735, 46, 2011) producing an axisymmetric, large-scale, magnetic field undergoing periodic polarity reversals. Motivated by the many solar-like features exhibited by these oscillations, we carry out an analysis of the large-scale zonal dynamics. We demonstrate that simulated torsional oscillations are not driven primarily by the periodically varying large-scale magnetic torque, as one might have expected, but rather via the magnetic modulation of angular-momentum transport by the large-scale meridional flow. This result is confirmed by a straightforward energy analysis. We also detect a fairly sharp transition in rotational dynamics taking place as one moves from the base of the convecting layers to the base of the thin tachocline-like shear layer formed in the stably stratified fluid layers immediately below. We conclude by discussing the implications of our analyses with regard to the mechanism of amplitude saturation in the global dynamo operating in the simulation, and speculate on the possible precursor value of torsional oscillations for the forecast of solar-cycle characteristics.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

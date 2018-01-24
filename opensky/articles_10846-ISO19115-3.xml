@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:34.372017</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:09.455497</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -343,7 +343,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The ionospheric disturbance dynamo signature in geomagnetic variations is investigated using the National Center for Atmospheric Research Thermosphere-Ionosphere-Electrodynamics General Circulation Model. The model results are tested against reference magnetically quiet time observations on 21 June 1993, and disturbance effects were observed on 11 June 1993. The model qualitatively reproduces the observed diurnal and latitude variations of the geomagnetic horizontal intensity and declination for the reference quiet day in midlatitude and low-latitude regions but underestimates their amplitudes. The patterns of the disturbance dynamo signature and its source "anti-Sq" current system are well reproduced in the Northern Hemisphere. However, the model significantly underestimates the amplitude of disturbance dynamo effects when compared with observations. Furthermore, the largest simulated disturbances occur at different local times than the observations. The discrepancies suggest that the assumed high-latitude storm time energy inputs in the model were not quantitatively accurate for this storm.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The ionospheric disturbance dynamo signature in geomagnetic variations is investigated using the National Center for Atmospheric Research Thermosphere-Ionosphere-Electrodynamics General Circulation Model. The model results are tested against reference magnetically quiet time observations on 21 June 1993, and disturbance effects were observed on 11 June 1993. The model qualitatively reproduces the observed diurnal and latitude variations of the geomagnetic horizontal intensity and declination for the reference quiet day in midlatitude and low-latitude regions but underestimates their amplitudes. The patterns of the disturbance dynamo signature and its source "anti-Sq" current system are well reproduced in the Northern Hemisphere. However, the model significantly underestimates the amplitude of disturbance dynamo effects when compared with observations. Furthermore, the largest simulated disturbances occur at different local times than the observations. The discrepancies suggest that the assumed high-latitude storm time energy inputs in the model were not quantitatively accurate for this storm.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

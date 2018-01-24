@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:13.783505</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:01.146062</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The responsible mechanism for the formation of the enhanced-V infrared cloud-top feature observed above tropopause-penetrating thunderstorms is not well understood. A new method for the combination of volumetric radar reflectivity from individual radars into three-dimensional composites with high vertical resolution (1 km) is introduced and used to test various formation mechanisms proposed in the literature. For analysis, a set of 89 enhanced-V storms over the eastern continental United States are identified in the 10-yr period from 2001 to 2010 using geostationary satellite data. The background atmospheric state from each storm is determined using the Interim ECMWF Re-Analysis (ERA-Interim) and radiosonde observations. In conjunction with the infrared temperature fields, analysis of the radar data in a coordinate relative to the location of the overshooting convective top and in altitudes relative to the tropopause suggests that above-anvil (stratospheric) cirrus clouds are the most likely mechanism for the formation of the enhanced V.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The responsible mechanism for the formation of the enhanced-V infrared cloud-top feature observed above tropopause-penetrating thunderstorms is not well understood. A new method for the combination of volumetric radar reflectivity from individual radars into three-dimensional composites with high vertical resolution (1 km) is introduced and used to test various formation mechanisms proposed in the literature. For analysis, a set of 89 enhanced-V storms over the eastern continental United States are identified in the 10-yr period from 2001 to 2010 using geostationary satellite data. The background atmospheric state from each storm is determined using the Interim ECMWF Re-Analysis (ERA-Interim) and radiosonde observations. In conjunction with the infrared temperature fields, analysis of the radar data in a coordinate relative to the location of the overshooting convective top and in altitudes relative to the tropopause suggests that above-anvil (stratospheric) cirrus clouds are the most likely mechanism for the formation of the enhanced V.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

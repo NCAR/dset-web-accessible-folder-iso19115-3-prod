@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:21.495132</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:42.383840</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[After a dengue outbreak in Key West, Florida, during 2009-2010, authorities, considered conducting the first US release of male Aedes aegypti mosquitoes genetically modified to prevent reproduction. Despite outreach and media attention, only half of the community was aware of the proposal; half of those were supportive. Novel public health strategies require community engagement.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

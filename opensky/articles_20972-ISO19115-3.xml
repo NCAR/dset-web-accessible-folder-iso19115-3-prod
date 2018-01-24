@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:54.872994</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:29.173734</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In order to reach challenging performance goals, computer architectures will change significantly in the next future. Heterogeneous chips, equipped with different types of cores and memory will compel application developers to deal with irregular communication patterns, high parallelism, and unexpected behaviors. Load balancing among the heterogeneous compute units will be a critical task in order to exploit all the computational power provided by such new architectures. In this highly dynamic scenario, Partitioned Global Address Space (PGAS) languages, like Coarray Fortran (CAF), appear to be a promising alternative to standard MPI programming using two sided communications, in particular because of their one-sided semantic. In this work, we show how Coarray Fortran can be used for implementing dynamic load balancing algorithms on an exascale compute node and how these algorithms can produce performance benefits for an Asian option pricing problem, running in symmetric mode on Intel Xeon Phi (KNC).</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In order to reach challenging performance goals, computer architectures will change significantly in the next future. Heterogeneous chips, equipped with different types of cores and memory will compel application developers to deal with irregular communication patterns, high parallelism, and unexpected behaviors. Load balancing among the heterogeneous compute units will be a critical task in order to exploit all the computational power provided by such new architectures. In this highly dynamic scenario, Partitioned Global Address Space (PGAS) languages, like Coarray Fortran (CAF), appear to be a promising alternative to standard MPI programming using two sided communications, in particular because of their one-sided semantic. In this work, we show how Coarray Fortran can be used for implementing dynamic load balancing algorithms on an exascale compute node and how these algorithms can produce performance benefits for an Asian option pricing problem, running in symmetric mode on Intel Xeon Phi (KNC).]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

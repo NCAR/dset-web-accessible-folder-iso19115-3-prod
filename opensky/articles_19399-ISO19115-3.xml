@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:40.549574</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:07.779932</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper estimates marine boundary layer heights (MBLH) over the western North Pacific (WNP) using four years (2012-2015) of Global Positioning System radio occultation (GPS-RO) profiles from the FORMOSAT-3/COSMIC satellites. Four methods of auto-detecting the MBLH are evaluated against observations from nearby island radiosonde stations. The two methods that use bending angle perform significantly better than the other two, which use refractivity profiles to estimate the MBLH. The MBLH is significantly higher in the winter than summer over the WNP, because winter exhibits a larger temperature difference between the WNP ocean surface and the lower atmosphere than does summer. Moreover, many regions with high MBLHs in winter are approximately located within the paths of the Kuroshio Current and the North Equatorial Current. When these warm ocean currents flow under relatively colder air, favorable conditions for convection develop, resulting in a higher MBLH.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper estimates marine boundary layer heights (MBLH) over the western North Pacific (WNP) using four years (2012-2015) of Global Positioning System radio occultation (GPS-RO) profiles from the FORMOSAT-3/COSMIC satellites. Four methods of auto-detecting the MBLH are evaluated against observations from nearby island radiosonde stations. The two methods that use bending angle perform significantly better than the other two, which use refractivity profiles to estimate the MBLH. The MBLH is significantly higher in the winter than summer over the WNP, because winter exhibits a larger temperature difference between the WNP ocean surface and the lower atmosphere than does summer. Moreover, many regions with high MBLHs in winter are approximately located within the paths of the Kuroshio Current and the North Equatorial Current. When these warm ocean currents flow under relatively colder air, favorable conditions for convection develop, resulting in a higher MBLH.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:22.626083</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:12.817981</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Predictability properties of the Atlantic meridional overturning circulation (AMOC) are measured and compared to those of the upper-500-m heat content in the North Atlantic based on control simulations from nine comprehensive coupled climate models. By estimating the rate at which perfect predictions from initially similar states diverge, the authors find the prediction range at which initialization loses its potential to have a positive impact on predictions. For the annual-mean AMOC, this range varies substantially from one model to another, but on average, it is about a decade. For eight of the models, this range is less than the corresponding range for heat content. For 5- and 10-yr averages, predictability is substantially greater than for annual means for both fields, but the enhancement is more for AMOC; indeed, for the averaged fields, AMOC is more predictable than heat content. Also, there are spatial patterns of AMOC that have especially high predictability. For the most predictable of these patterns, AMOC retains predictability for more than two decades in a typical model. These patterns are associated with heat content fluctuations that also have above-average predictability, which suggests that AMOC may have a positive influence on the predictability of heat content for these special structures.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Predictability properties of the Atlantic meridional overturning circulation (AMOC) are measured and compared to those of the upper-500-m heat content in the North Atlantic based on control simulations from nine comprehensive coupled climate models. By estimating the rate at which perfect predictions from initially similar states diverge, the authors find the prediction range at which initialization loses its potential to have a positive impact on predictions. For the annual-mean AMOC, this range varies substantially from one model to another, but on average, it is about a decade. For eight of the models, this range is less than the corresponding range for heat content. For 5- and 10-yr averages, predictability is substantially greater than for annual means for both fields, but the enhancement is more for AMOC; indeed, for the averaged fields, AMOC is more predictable than heat content. Also, there are spatial patterns of AMOC that have especially high predictability. For the most predictable of these patterns, AMOC retains predictability for more than two decades in a typical model. These patterns are associated with heat content fluctuations that also have above-average predictability, which suggests that AMOC may have a positive influence on the predictability of heat content for these special structures.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

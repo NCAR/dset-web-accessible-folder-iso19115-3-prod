@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:40.800532</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:08.170859</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Simulations of two cases of developing mesoscale convective vortices (MCVs) are examined to determine the dynamics governing the origin and vertical structure of these features. Although one case evolves in strong vertical wind shear and the other evolves in modest shear, the evolutions are remarkably similar. In addition to the well-known mesoscale convergence that spins up vorticity in the midtroposphere, the generation of vorticity in the lower troposphere occurs along the convergent outflow boundary of the parent mesoscale convective system (MCS). Lateral transport of this vorticity from the convective region back beneath the midtropospheric vorticity center is important for obtaining a deep column of cyclonic vorticity. However, this behavior would be only transient without a secondary phase of vorticity growth in the lower troposphere that results from a radical change in the divergence profile favoring lower-tropospheric convergence. Following the decay of the nocturnal MCS, subsequent convection occurs in a condition of greater relative humidity through the lower troposphere and small conditional instability. Vorticity and potential vorticity are efficiently produced near the top of the boundary layer and a cyclonic circulation appears at the surface.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Simulations of two cases of developing mesoscale convective vortices (MCVs) are examined to determine the dynamics governing the origin and vertical structure of these features. Although one case evolves in strong vertical wind shear and the other evolves in modest shear, the evolutions are remarkably similar. In addition to the well-known mesoscale convergence that spins up vorticity in the midtroposphere, the generation of vorticity in the lower troposphere occurs along the convergent outflow boundary of the parent mesoscale convective system (MCS). Lateral transport of this vorticity from the convective region back beneath the midtropospheric vorticity center is important for obtaining a deep column of cyclonic vorticity. However, this behavior would be only transient without a secondary phase of vorticity growth in the lower troposphere that results from a radical change in the divergence profile favoring lower-tropospheric convergence. Following the decay of the nocturnal MCS, subsequent convection occurs in a condition of greater relative humidity through the lower troposphere and small conditional instability. Vorticity and potential vorticity are efficiently produced near the top of the boundary layer and a cyclonic circulation appears at the surface.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

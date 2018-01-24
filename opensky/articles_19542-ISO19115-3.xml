@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:43.870382</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:12.668756</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>To investigate gravity wave (GW) perturbations in the midlatitude mesopause region during boreal equinox, 433 h of continuous Na lidar full diurnal cycle temperature measurements in September between 2011 and 2015 are utilized to derive the monthly profiles of GW-induced temperature variance, T'(2), and the potential energy density (PED). Operating at Utah State University (42 degrees N, 112 degrees W), these lidar measurements reveal severe GW dissipation near 90 km, where both parameters drop to their minima (similar to 20 K-2 and similar to 50 m(2) s(-2), respectively). The study also shows that GWs with periods of 3-5 h dominate the midlatitude mesopause region during the summer-winter transition. To derive the precise temperature perturbations a new tide removal algorithm suitable for all ground-based observations is developed to de-trend the lidar temperature measurements and to isolate GW-induced perturbations. It removes the tidal perturbations completely and provides the most accurate GW perturbations for the ground-based observations. This algorithm is validated by comparing the true GW perturbations in the latest mesoscale-resolving Whole Atmosphere Community Climate Model (WACCM) with those derived from the WACCM local outputs by applying this newly developed tidal removal algorithm.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[To investigate gravity wave (GW) perturbations in the midlatitude mesopause region during boreal equinox, 433 h of continuous Na lidar full diurnal cycle temperature measurements in September between 2011 and 2015 are utilized to derive the monthly profiles of GW-induced temperature variance, T'(2), and the potential energy density (PED). Operating at Utah State University (42 degrees N, 112 degrees W), these lidar measurements reveal severe GW dissipation near 90 km, where both parameters drop to their minima (similar to 20 K-2 and similar to 50 m(2) s(-2), respectively). The study also shows that GWs with periods of 3-5 h dominate the midlatitude mesopause region during the summer-winter transition. To derive the precise temperature perturbations a new tide removal algorithm suitable for all ground-based observations is developed to de-trend the lidar temperature measurements and to isolate GW-induced perturbations. It removes the tidal perturbations completely and provides the most accurate GW perturbations for the ground-based observations. This algorithm is validated by comparing the true GW perturbations in the latest mesoscale-resolving Whole Atmosphere Community Climate Model (WACCM) with those derived from the WACCM local outputs by applying this newly developed tidal removal algorithm.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

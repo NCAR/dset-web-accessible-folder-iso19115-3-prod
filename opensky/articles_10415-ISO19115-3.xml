@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:24.513379</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:55.416125</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Numerous studies and observational analyses point to a connection between the annual cycle and tropical Atlantic variability, specifically the influence of the seasons. Although a previous study has shown that the annual cycle is not necessary for the generation of this variability, this study demonstrates that the annual cycle provides particular conditions that modulate this variability. Particular seasons are investigated through the use of a coupled ocean-atmosphere model using anomaly coupling as the coupling strategy in order to control the mean state of the system. To isolate the influence of each season, the model is integrated in perpetuated mean states that simulate perpetual boreal spring, summer, fall, and winter seasonal mean states. These are compared to a control simulation that contains an annual cycle. Evidence is shown that the annual cycle modulates tropical Atlantic variability in the following three ways: 1) the background mean state for some seasons provides favorable conditions for the growth of particular patterns through regional air-sea feedback mechanisms, 2) mechanisms that excite the variability are seasonally dependent, and 3) the progression through the annual cycle is important for certain variabilities to be excited and grow.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Numerous studies and observational analyses point to a connection between the annual cycle and tropical Atlantic variability, specifically the influence of the seasons. Although a previous study has shown that the annual cycle is not necessary for the generation of this variability, this study demonstrates that the annual cycle provides particular conditions that modulate this variability. Particular seasons are investigated through the use of a coupled ocean-atmosphere model using anomaly coupling as the coupling strategy in order to control the mean state of the system. To isolate the influence of each season, the model is integrated in perpetuated mean states that simulate perpetual boreal spring, summer, fall, and winter seasonal mean states. These are compared to a control simulation that contains an annual cycle. Evidence is shown that the annual cycle modulates tropical Atlantic variability in the following three ways: 1) the background mean state for some seasons provides favorable conditions for the growth of particular patterns through regional air-sea feedback mechanisms, 2) mechanisms that excite the variability are seasonally dependent, and 3) the progression through the annual cycle is important for certain variabilities to be excited and grow.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

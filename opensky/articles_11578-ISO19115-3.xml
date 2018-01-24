@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:36.441612</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:12.241563</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this study, a simple stochastic climate model is used to examine the impact of the ocean mixed layer depth, surface turbulent energy fluxes, and Ekman currents on the persistence of cold-season extratropical sea surface temperature (SST) anomalies associated with variability in the annular modes of atmospheric circulation in both hemispheres. Observational analysis reveals that during the cold season, SST anomalies associated with the southern annular mode (SST(SAM)) persist considerably longer than those associated with the northern annular mode (SST(NAM)). Using the simple model, it is shown that the persistence of the cold-season SST(SAM) is consistent with the simple stochastic climate paradigm in which the atmospheric forcing is approximated as white noise, and the persistence of SST anomalies can be largely determined by the thermal inertia of the ocean mixed layer. In the North Atlantic, however, the simple climate model overestimates the persistence of the cold-season SST(NAM). It is thought that this overestimate occurs because the NAM-related heat flux forcing cannot be described purely as white noise but must also include a feedback from the underlying SST anomalies.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this study, a simple stochastic climate model is used to examine the impact of the ocean mixed layer depth, surface turbulent energy fluxes, and Ekman currents on the persistence of cold-season extratropical sea surface temperature (SST) anomalies associated with variability in the annular modes of atmospheric circulation in both hemispheres. Observational analysis reveals that during the cold season, SST anomalies associated with the southern annular mode (SST(SAM)) persist considerably longer than those associated with the northern annular mode (SST(NAM)). Using the simple model, it is shown that the persistence of the cold-season SST(SAM) is consistent with the simple stochastic climate paradigm in which the atmospheric forcing is approximated as white noise, and the persistence of SST anomalies can be largely determined by the thermal inertia of the ocean mixed layer. In the North Atlantic, however, the simple climate model overestimates the persistence of the cold-season SST(NAM). It is thought that this overestimate occurs because the NAM-related heat flux forcing cannot be described purely as white noise but must also include a feedback from the underlying SST anomalies.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

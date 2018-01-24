@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:38.776889</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:15.558226</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Early Career Scientist Assembly (ECSA) and the Advanced Study Program of the National Center for Atmospheric Research (NCAR) invited 35 early-career scientists from nearly 20 countries to attend a 3-day workshop at the NCAR Mesa Laboratory prior to the World Climate Research Programme (WCRP) Open Science Conference in October 2011. The goal of the workshop was to examine a range of regional climate challenges in developing countries. Topics included regional climate modeling, climate impacts, water resources, and air quality. The workshop fostered new ideas and collaborations between early-career scientists from around the world. The discussions underscored the importance of establishing partnerships with scientists located in typically underrepresented countries to understand and account for the local political, economic, and cultural factors on which climate change is superimposed.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Early Career Scientist Assembly (ECSA) and the Advanced Study Program of the National Center for Atmospheric Research (NCAR) invited 35 early-career scientists from nearly 20 countries to attend a 3-day workshop at the NCAR Mesa Laboratory prior to the World Climate Research Programme (WCRP) Open Science Conference in October 2011. The goal of the workshop was to examine a range of regional climate challenges in developing countries. Topics included regional climate modeling, climate impacts, water resources, and air quality. The workshop fostered new ideas and collaborations between early-career scientists from around the world. The discussions underscored the importance of establishing partnerships with scientists located in typically underrepresented countries to understand and account for the local political, economic, and cultural factors on which climate change is superimposed.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

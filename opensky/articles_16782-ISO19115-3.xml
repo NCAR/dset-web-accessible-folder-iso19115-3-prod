@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:50.020906</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:52.309498</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this paper, we perform a systematic evaluation of the impact of Global Positioning System radio occultation (GPSRO) data on typhoon-track prediction over the northwestern Pacific. Specifically, we perform data assimilation and forecast experiments using the Typhoon Weather Research and Forecasting (TWRF) system at 45 km resolution on 11 typhoons (with a total of 327 cases) in the period of 2008-2010 over the northwestern Pacific, with or without the use of GPSRO refractivity observations. On average, about 100 GPSRO soundings are assimilated over a 12 h partially cycling assimilation period. The results indicate that the assimilation of GPSRO data reduces the 72 h track forecast errors by approximately 12 km (5 %). Although this is only a modest improvement, it is statistically significant. The assimilation of GPSRO data improves the analysis and the forecast of temperature, water vapor, and wind fields. Further analysis shows that the reduction in typhoon-track forecast errors can be attributed to the improved prediction of western Pacific subtropical high (WPSH) and its associated circulation, which leads to better forecasting of the environmental steering flow.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this paper, we perform a systematic evaluation of the impact of Global Positioning System radio occultation (GPSRO) data on typhoon-track prediction over the northwestern Pacific. Specifically, we perform data assimilation and forecast experiments using the Typhoon Weather Research and Forecasting (TWRF) system at 45 km resolution on 11 typhoons (with a total of 327 cases) in the period of 2008-2010 over the northwestern Pacific, with or without the use of GPSRO refractivity observations. On average, about 100 GPSRO soundings are assimilated over a 12 h partially cycling assimilation period. The results indicate that the assimilation of GPSRO data reduces the 72 h track forecast errors by approximately 12 km (5 %). Although this is only a modest improvement, it is statistically significant. The assimilation of GPSRO data improves the analysis and the forecast of temperature, water vapor, and wind fields. Further analysis shows that the reduction in typhoon-track forecast errors can be attributed to the improved prediction of western Pacific subtropical high (WPSH) and its associated circulation, which leads to better forecasting of the environmental steering flow.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

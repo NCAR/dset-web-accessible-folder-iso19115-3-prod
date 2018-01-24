@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:15.121218</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:39.910609</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[A 40-yr integration of an eddy-resolving numerical model of the tropical Indian Ocean is analyzed to quantify the interannual variability that is caused by the internal variability of ocean dynamics. It is found that along the equator in the western Indian Ocean internal variability contributes significantly to the observed interannual variability. This suggests that in this location the predictability of SST is limited to the persistence time of SST anomalies, which is approximately 100 days. Furthermore, a comparison with other sources of variability suggests that internal variability may play an important role in modifying the Indian monsoon or preconditioning the Indian Ocean dipole/zonal mode.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

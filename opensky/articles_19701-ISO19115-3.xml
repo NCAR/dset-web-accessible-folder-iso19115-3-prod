@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:47.683229</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:18.345529</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The utility of radar-derived rotation track data for the verification of supercell thunderstorm forecasts was quantified through this study. The forecasts were generated using a convection-permitting model ensemble, and supercell occurrence was diagnosed via updraft helicity and low-level vertical vorticity. Forecasts of four severe convective weather events were considered. Probability fields were computed from the model data, and forecast skill was quantified using rotation track data, storm report data, and a neighborhood-based verification approach. The ability to adjust the rotation track threshold for verification purposes was shown to be an advantage of the rotation track data over the storms reports, because the reports are inherently binary observations whereas the rotation tracks are based on values of Doppler velocity shear. These results encourage further pursuit of incorporating observed rotation track data in the forecasting and verification of severe weather events.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The utility of radar-derived rotation track data for the verification of supercell thunderstorm forecasts was quantified through this study. The forecasts were generated using a convection-permitting model ensemble, and supercell occurrence was diagnosed via updraft helicity and low-level vertical vorticity. Forecasts of four severe convective weather events were considered. Probability fields were computed from the model data, and forecast skill was quantified using rotation track data, storm report data, and a neighborhood-based verification approach. The ability to adjust the rotation track threshold for verification purposes was shown to be an advantage of the rotation track data over the storms reports, because the reports are inherently binary observations whereas the rotation tracks are based on values of Doppler velocity shear. These results encourage further pursuit of incorporating observed rotation track data in the forecasting and verification of severe weather events.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

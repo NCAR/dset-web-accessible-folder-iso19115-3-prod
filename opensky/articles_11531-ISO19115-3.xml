@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:35.468995</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:10.948967</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A novel additive model analysis of multimodel trends is presented. The approach is motivated by, and particularly suited to, the analysis of multimodel time series of varying length. This Time series Additive Model (TSAM) approach consists of three distinct steps: estimation of individual model trends, baseline adjustment of the trends, and the weighted combination of the individual model trends to produce a multimodel trend (MMT) estimate. The baseline adjustment step is not an essential ingredient of the TSAM but is included to reduce model spread. The association of the TSAM approach with a probabilistic model allows trend estimates to be used to make formal inference (e.g., calculation of confidence and prediction intervals). The method is applied to the analysis of multimodel ozone time series of varying lengths as were considered for the 2006 Scientific Assessment of Ozone Depletion. The advantages of the TSAM approach are demonstrated to include the production of smooth trend estimates out to the ends of the time series, the ability to model explicitly interannual variability about the trend estimate, and the ability to make rigorous probability statements. Calculated ozone return dates are consistent with previous qualitative estimates, but the more quantitative analysis provided by the MMT is expected to allow such data sets to be better utilized by the community and policy makers.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A novel additive model analysis of multimodel trends is presented. The approach is motivated by, and particularly suited to, the analysis of multimodel time series of varying length. This Time series Additive Model (TSAM) approach consists of three distinct steps: estimation of individual model trends, baseline adjustment of the trends, and the weighted combination of the individual model trends to produce a multimodel trend (MMT) estimate. The baseline adjustment step is not an essential ingredient of the TSAM but is included to reduce model spread. The association of the TSAM approach with a probabilistic model allows trend estimates to be used to make formal inference (e.g., calculation of confidence and prediction intervals). The method is applied to the analysis of multimodel ozone time series of varying lengths as were considered for the 2006 Scientific Assessment of Ozone Depletion. The advantages of the TSAM approach are demonstrated to include the production of smooth trend estimates out to the ends of the time series, the ability to model explicitly interannual variability about the trend estimate, and the ability to make rigorous probability statements. Calculated ozone return dates are consistent with previous qualitative estimates, but the more quantitative analysis provided by the MMT is expected to allow such data sets to be better utilized by the community and policy makers.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

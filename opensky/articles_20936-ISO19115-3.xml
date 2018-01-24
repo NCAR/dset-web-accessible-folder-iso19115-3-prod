@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:54.380008</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:28.429214</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The semiannual oscillation (SAO) is a twice-yearly northward movement (in May-June-July (MJJ) and November-December-January (NDJ)) of the circumpolar trough of sea level pressure (SLP) in the Southern Hemisphere with effects throughout the troposphere. During MJJ the second harmonic of SLP, describing the SAO, has low values of SLP north of 50 degrees S in the subtropical South Pacific, while the first harmonic, which is dominant over the Australian sector, increases to its peak. This once-a-year peak in negative SLP gradients (decreasing to the east) between Australia and the ocean to its east extends to the equatorial Pacific. Southern Oscillation warm events since 1950, with an intensification of this seasonal cycle, have larger-amplitude SST anomalies in the eastern equatorial Pacific in MJJ and during the following mature phase in NDJ. Weak amplification of the seasonal cycle in MJJ tends to be followed by larger-amplitude SST anomalies in the central equatorial Pacific during NDJ.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The semiannual oscillation (SAO) is a twice-yearly northward movement (in May-June-July (MJJ) and November-December-January (NDJ)) of the circumpolar trough of sea level pressure (SLP) in the Southern Hemisphere with effects throughout the troposphere. During MJJ the second harmonic of SLP, describing the SAO, has low values of SLP north of 50 degrees S in the subtropical South Pacific, while the first harmonic, which is dominant over the Australian sector, increases to its peak. This once-a-year peak in negative SLP gradients (decreasing to the east) between Australia and the ocean to its east extends to the equatorial Pacific. Southern Oscillation warm events since 1950, with an intensification of this seasonal cycle, have larger-amplitude SST anomalies in the eastern equatorial Pacific in MJJ and during the following mature phase in NDJ. Weak amplification of the seasonal cycle in MJJ tends to be followed by larger-amplitude SST anomalies in the central equatorial Pacific during NDJ.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

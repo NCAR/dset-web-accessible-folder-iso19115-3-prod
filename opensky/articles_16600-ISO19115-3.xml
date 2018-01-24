@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:46.087759</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:46.319229</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The spatial and temporal variability of the marine boundary layer (MBL) over the southeastern Pacific is studied using high-resolution radiosonde data from the VAMOS Ocean-Cloud-Atmosphere-Land Study Regional Experiment (VOCALS-REx), lidar cloud measurements from the CALIOP instrument on the CALIPSO satellite, radio occultation (RO) data from the COSMIC satellites, and the ERA-Interim. The height of the MBL (MBLH) is estimated using three RO-derived parameters: the bending angle, refractivity, and water vapor pressure computed from the refractivity derived from a one-dimensional variational data inversion (1D-VAR) procedure. Two different diagnostic methods (minimum gradient and break point method) are compared. The results show that, although a negative bias in the refractivity exists as a result of superrefraction, the spatial and temporal variations of the MBLH determined from the RO observations are consistent with those from CALIOP and the radiosondes. The authors find that the minimum gradient in the RO bending angle gives the most accurate estimation of the MBL height.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The spatial and temporal variability of the marine boundary layer (MBL) over the southeastern Pacific is studied using high-resolution radiosonde data from the VAMOS Ocean-Cloud-Atmosphere-Land Study Regional Experiment (VOCALS-REx), lidar cloud measurements from the CALIOP instrument on the CALIPSO satellite, radio occultation (RO) data from the COSMIC satellites, and the ERA-Interim. The height of the MBL (MBLH) is estimated using three RO-derived parameters: the bending angle, refractivity, and water vapor pressure computed from the refractivity derived from a one-dimensional variational data inversion (1D-VAR) procedure. Two different diagnostic methods (minimum gradient and break point method) are compared. The results show that, although a negative bias in the refractivity exists as a result of superrefraction, the spatial and temporal variations of the MBLH determined from the RO observations are consistent with those from CALIOP and the radiosondes. The authors find that the minimum gradient in the RO bending angle gives the most accurate estimation of the MBL height.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

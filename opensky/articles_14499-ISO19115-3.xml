@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:32.146954</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:25.821992</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In Part I of this two-part paper, the multivariate minimum residual (MMR) scheme was introduced to retrieve profiles of cloud fraction from satellite infrared radiances and identify clear observations. In this paper it is now validated with real observations from the Atmospheric Infrared Sounder (AIRS) instrument. This new method is compared with the cloud detection scheme presented earlier by McNally and Watts and operational at the European Centre for Medium-Range Weather Forecasts (ECMWF). Cloud-top pressures derived from both algorithms are comparable, with some differences at the edges of the synoptic cloud systems. The population of channels considered as clear is less contaminated with residual cloud for the MMR scheme. Further procedures, based on the formulation of the variational quality control, can be applied during the variational analysis to reduce the weight of observations that have a high chance of being contaminated by cloud. Finally, the MMR scheme can be used as a preprocessing step to improve the assimilation of cloud-affected infrared radiances.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In Part I of this two-part paper, the multivariate minimum residual (MMR) scheme was introduced to retrieve profiles of cloud fraction from satellite infrared radiances and identify clear observations. In this paper it is now validated with real observations from the Atmospheric Infrared Sounder (AIRS) instrument. This new method is compared with the cloud detection scheme presented earlier by McNally and Watts and operational at the European Centre for Medium-Range Weather Forecasts (ECMWF). Cloud-top pressures derived from both algorithms are comparable, with some differences at the edges of the synoptic cloud systems. The population of channels considered as clear is less contaminated with residual cloud for the MMR scheme. Further procedures, based on the formulation of the variational quality control, can be applied during the variational analysis to reduce the weight of observations that have a high chance of being contaminated by cloud. Finally, the MMR scheme can be used as a preprocessing step to improve the assimilation of cloud-affected infrared radiances.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

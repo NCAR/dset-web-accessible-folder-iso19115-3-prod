@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:32.117860</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:25.779660</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>To investigate the impacts of frequently assimilating only surface pressure (PS) observations, the Data Assimilation Research Testbed and the Community Atmosphere Model (DART/CAM) are used for observing system simulation experiments with the ensemble Kalman filter. An empirical localization function (ELF) is used to effectively spread the information from PS in the vertical. The ELF minimizes the root-mean-square difference between the truth and the posterior ensemble mean for state variables. The temporal frequency of the observations is increased from 6 to 3 h, and then 1 h. By observing only PS, the uncertainty throughout the entire depth of the troposphere can be constrained. The analysis error over the entire depth of the troposphere, especially the middle troposphere, is reduced with increased assimilation frequency. The ELF is similar to the vertical localization function used in the Twentieth-Century Reanalysis (20CR); thus, it demonstrates that the current vertical localization in the 20CR is close to the optimal localization function.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[To investigate the impacts of frequently assimilating only surface pressure (PS) observations, the Data Assimilation Research Testbed and the Community Atmosphere Model (DART/CAM) are used for observing system simulation experiments with the ensemble Kalman filter. An empirical localization function (ELF) is used to effectively spread the information from PS in the vertical. The ELF minimizes the root-mean-square difference between the truth and the posterior ensemble mean for state variables. The temporal frequency of the observations is increased from 6 to 3 h, and then 1 h. By observing only PS, the uncertainty throughout the entire depth of the troposphere can be constrained. The analysis error over the entire depth of the troposphere, especially the middle troposphere, is reduced with increased assimilation frequency. The ELF is similar to the vertical localization function used in the Twentieth-Century Reanalysis (20CR); thus, it demonstrates that the current vertical localization in the 20CR is close to the optimal localization function.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

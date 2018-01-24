@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:19.155222</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:08.032007</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A high-resolution cloud-resolving model (CRM) simulation is developed here for a two-dimensional Walker circulation over a planetary-scale domain of 40 000 km for an extended period of several hundred days. The Walker cell emerges as the time-averaged statistical steady state with a prescribed sinusoidal sea surface temperature (SST) pattern with a mean temperature of 301.15 K and a horizontal variation of 4 K. The circulation exhibits intraseasonal variability on a time scale of about 20 days with quasi-periodic intensification of the circulation and broadening of the convective regime. This variability is closely tied to synoptic-scale systems associated with expansion and contraction of the Walker circulation. An index for the low-frequency variability is developed using an empirical orthogonal function (EOF) analysis and by regressing various dynamic fields on this index. The low-frequency oscillation has four main stages: a suppressed stage with strengthened midlevel circulation, an intensification phase, an active phase with strong upper-level circulation, and a weakening phase. Various physical processes occurring at these stages are discussed as well as the impact of organized convective systems on the large-scale flow.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A high-resolution cloud-resolving model (CRM) simulation is developed here for a two-dimensional Walker circulation over a planetary-scale domain of 40 000 km for an extended period of several hundred days. The Walker cell emerges as the time-averaged statistical steady state with a prescribed sinusoidal sea surface temperature (SST) pattern with a mean temperature of 301.15 K and a horizontal variation of 4 K. The circulation exhibits intraseasonal variability on a time scale of about 20 days with quasi-periodic intensification of the circulation and broadening of the convective regime. This variability is closely tied to synoptic-scale systems associated with expansion and contraction of the Walker circulation. An index for the low-frequency variability is developed using an empirical orthogonal function (EOF) analysis and by regressing various dynamic fields on this index. The low-frequency oscillation has four main stages: a suppressed stage with strengthened midlevel circulation, an intensification phase, an active phase with strong upper-level circulation, and a weakening phase. Various physical processes occurring at these stages are discussed as well as the impact of organized convective systems on the large-scale flow.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

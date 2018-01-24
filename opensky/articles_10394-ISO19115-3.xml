@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:23.948638</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:54.605595</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Accurate determination of the tropopause is important for applications such as dynamical analysis and forecasting, radiative transfer calculations, and the diagnosis of chemical transport in the atmosphere. In this paper, we examine how well the extratropical tropopause is determined in the National Centers for Environmental Prediction high-resolution Global Forecast System (GFS) model analysis over the continental United States using high-resolution aircraft and radiosonde data. The GFS analyses and sounding data compare well, with RMS differences of approximately 600 m, which is comparable to the vertical resolution of the model. The GFS tropopause is a good proxy in areas without in situ observations, but near the subtropical jet the GFS analysis often mistakenly identifies the secondary rather than the primary tropopause. We also explore an alternative method to identify the tropopause by fitting a smoothed step function to the static stability profile. This new approach provides a measure of the depth of the troposphere-stratosphere transition and facilitates the study of the dynamical behavior of the tropopause region. In particular, using the transition depth, we are able to identify the statistical behavior of temperature in profiles with deep or shallow tropopause transition layers.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Accurate determination of the tropopause is important for applications such as dynamical analysis and forecasting, radiative transfer calculations, and the diagnosis of chemical transport in the atmosphere. In this paper, we examine how well the extratropical tropopause is determined in the National Centers for Environmental Prediction high-resolution Global Forecast System (GFS) model analysis over the continental United States using high-resolution aircraft and radiosonde data. The GFS analyses and sounding data compare well, with RMS differences of approximately 600 m, which is comparable to the vertical resolution of the model. The GFS tropopause is a good proxy in areas without in situ observations, but near the subtropical jet the GFS analysis often mistakenly identifies the secondary rather than the primary tropopause. We also explore an alternative method to identify the tropopause by fitting a smoothed step function to the static stability profile. This new approach provides a measure of the depth of the troposphere-stratosphere transition and facilitates the study of the dynamical behavior of the tropopause region. In particular, using the transition depth, we are able to identify the statistical behavior of temperature in profiles with deep or shallow tropopause transition layers.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

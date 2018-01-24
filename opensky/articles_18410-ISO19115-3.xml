@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:22.646664</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:39.892901</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Nitrate ion spikes in polar ice cores are contentiously used to estimate the intensity, frequency, and probability of historical solar proton events, quantities that are needed to prepare for potentially society-crippling space weather events. We use the Whole Atmosphere Community Climate Model to calculate how large an event would have to be to produce enough odd nitrogen throughout the atmosphere to be discernible as nitrate peaks at the Earth's surface. These hypothetically large events are compared with probability of occurrence estimates derived from measured events, sunspot records, and cosmogenic radionuclides archives. We conclude that the fluence and spectrum of solar proton events necessary to produce odd nitrogen enhancements equivalent to the spikes of nitrate ions in Greenland ice cores are unlikely to have occurred throughout the Holocene, confirming that nitrate ions in ice cores are not suitable proxies for historical individual solar proton events.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Nitrate ion spikes in polar ice cores are contentiously used to estimate the intensity, frequency, and probability of historical solar proton events, quantities that are needed to prepare for potentially society-crippling space weather events. We use the Whole Atmosphere Community Climate Model to calculate how large an event would have to be to produce enough odd nitrogen throughout the atmosphere to be discernible as nitrate peaks at the Earth's surface. These hypothetically large events are compared with probability of occurrence estimates derived from measured events, sunspot records, and cosmogenic radionuclides archives. We conclude that the fluence and spectrum of solar proton events necessary to produce odd nitrogen enhancements equivalent to the spikes of nitrate ions in Greenland ice cores are unlikely to have occurred throughout the Holocene, confirming that nitrate ions in ice cores are not suitable proxies for historical individual solar proton events.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:11.661092</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:36.564487</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Global Positioning System Zenith Total Delay (GPS ZTD) can provide information about the water vapour in atmosphere. Its assimilation into the analysis used to initialize a model can then improve the weather forecast, giving the right amount of moisture and reducing the model spinup. In the last year, an high density GPS network has been created on the Basilicata region (south of Italy) by the Italian Space Agency in the framework of a national project named MAGIC2. MAGIC2 is the Italian follow on of the EC project MAGIC has. Daily operational data assimilation experiments are performed since December 2003. The results show that the assimilation of GPS ZTD improves the forecast especially during the transition from winter to spring even if a no very high model resolution (9km) is used.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Global Positioning System Zenith Total Delay (GPS ZTD) can provide information about the water vapour in atmosphere. Its assimilation into the analysis used to initialize a model can then improve the weather forecast, giving the right amount of moisture and reducing the model spinup. In the last year, an high density GPS network has been created on the Basilicata region (south of Italy) by the Italian Space Agency in the framework of a national project named MAGIC2. MAGIC2 is the Italian follow on of the EC project MAGIC has. Daily operational data assimilation experiments are performed since December 2003. The results show that the assimilation of GPS ZTD improves the forecast especially during the transition from winter to spring even if a no very high model resolution (9km) is used.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

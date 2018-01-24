@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:46.205667</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:26.086090</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>There is a growing body of empirical evidence documenting the expansion of shrub vegetation in the circumpolar Arctic in response to climate change. Here, we conduct a series of idealized experiments with the Community Climate System Model to analyze the potential impact on boreal climate of a large-scale tundra-to-shrub conversion. The model responds to an increase in shrub abundance with substantial atmospheric heating arising from two seasonal land--atmosphere feedbacks: a decrease in surface albedo and an evapotranspiration-induced increase in atmospheric moisture content. We demonstrate that the strength and timing of these feedbacks are sensitive to shrub height and the time at which branches and leaves protrude above the snow. Taller and aerodynamically rougher shrubs lower the albedo earlier in the spring and transpire more efficiently than shorter shrubs. These mechanisms increase, in turn, the strength of the indirect sea-ice albedo and ocean evaporation feedbacks contributing to additional regional warming. Finally, we find that an invasion of tall shrubs tends to systematically warm the soil, deepen the active layer, and destabilize the permafrost (with increased formation of taliks under a future scenario) more substantially than an invasion of short shrubs.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[There is a growing body of empirical evidence documenting the expansion of shrub vegetation in the circumpolar Arctic in response to climate change. Here, we conduct a series of idealized experiments with the Community Climate System Model to analyze the potential impact on boreal climate of a large-scale tundra-to-shrub conversion. The model responds to an increase in shrub abundance with substantial atmospheric heating arising from two seasonal land--atmosphere feedbacks: a decrease in surface albedo and an evapotranspiration-induced increase in atmospheric moisture content. We demonstrate that the strength and timing of these feedbacks are sensitive to shrub height and the time at which branches and leaves protrude above the snow. Taller and aerodynamically rougher shrubs lower the albedo earlier in the spring and transpire more efficiently than shorter shrubs. These mechanisms increase, in turn, the strength of the indirect sea-ice albedo and ocean evaporation feedbacks contributing to additional regional warming. Finally, we find that an invasion of tall shrubs tends to systematically warm the soil, deepen the active layer, and destabilize the permafrost (with increased formation of taliks under a future scenario) more substantially than an invasion of short shrubs.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

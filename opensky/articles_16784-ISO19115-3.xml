@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:50.084298</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:52.399383</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Data from the High Resolution Dynamics Limb Sounder (HIRDLS) instrument on NASA's Aura satellite are used to investigate the relative numerical variability of observed gravity wave packets as a function of both horizontal and vertical wavenumber, with support from the Sounding of the Atmosphere using Broadband Emission Radiometry (SABER) instrument on TIMED. We see that these distributions are dominated by large vertical and small horizontal wavenumbers, and have a similar spectral form at all heights and latitudes, albeit with important differences. By dividing our observed wavenumber distribution into particular subspecies of waves, we demonstrate that these distributions exhibit significant temporal and spatial variability, and that small-scale variability associated with particular geophysical phenomena such as the monsoon arises due to variations in specific parts of the observed spectrum. We further show that the well-known Andes/Antarctic Peninsula gravity wave hotspot during southern winter, home to some of the largest wave fluxes on the planet, is made up of relatively few waves, but with a significantly increased flux per wave due to their spectral characteristics. These results have implications for the modelling of gravity wave phenomena.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Data from the High Resolution Dynamics Limb Sounder (HIRDLS) instrument on NASA's Aura satellite are used to investigate the relative numerical variability of observed gravity wave packets as a function of both horizontal and vertical wavenumber, with support from the Sounding of the Atmosphere using Broadband Emission Radiometry (SABER) instrument on TIMED. We see that these distributions are dominated by large vertical and small horizontal wavenumbers, and have a similar spectral form at all heights and latitudes, albeit with important differences. By dividing our observed wavenumber distribution into particular subspecies of waves, we demonstrate that these distributions exhibit significant temporal and spatial variability, and that small-scale variability associated with particular geophysical phenomena such as the monsoon arises due to variations in specific parts of the observed spectrum. We further show that the well-known Andes/Antarctic Peninsula gravity wave hotspot during southern winter, home to some of the largest wave fluxes on the planet, is made up of relatively few waves, but with a significantly increased flux per wave due to their spectral characteristics. These results have implications for the modelling of gravity wave phenomena.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

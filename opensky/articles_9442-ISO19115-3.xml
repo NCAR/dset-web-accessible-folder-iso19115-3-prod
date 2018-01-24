@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:17.594034</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:46.912655</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[Probabilistic projections of future climate change for a range of CO2 stabilization profiles intended for the Fourth Assessment Report of the Intergovernmental Panel on Climate Change are presented. A very large ensemble of simulations with the reduced complexity, Bern2.5D climate model is used to explore the uncertainties in projected long-term changes in surface air temperature and sea level due to uncertainties in climate sensitivity and ocean heat uptake. Previously published probability density functions of climate sensitivity are used to calculate probabilistic projections for different CO2 stabilization levels and to calculate the probability of not exceeding a certain global mean surface temperature for a given stabilization level. This provides a new way of communicating long-term uncertainty which can serve as a basis for selecting a CO2 stabilization level given a temperature limit and help to estimate the overshoot risk society is willing to accept.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

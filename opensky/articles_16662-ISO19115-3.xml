@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:47.432613</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:48.367195</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Initial demonstrations of an ionosphere/polar wind model including a phenomenological treatment of transverse heating by wave particle interactions (WPIs) are presented. Tests with fixed WPI parameters in a designated heating region on the dayside with time-varying convection show that the parameters of the resulting nonthermal ion outflow are strongly coupled to the convection. The hemispheric outflow rate is positively correlated with the convection speed with a time delay related to the travel time to the upper boundary. Increases in convection increase the thermal plasma access to the heating region, both by increasing the upflow associated with frictional heating and by increasing the horizontal transport. The average parallel velocities and energies of the escaping nonthermal ions are anticorrelated with the convection speed due to the finite dwell time in the heating region. The computationally efficient model can be readily coupled into global geospace modeling frameworks in the future.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Initial demonstrations of an ionosphere/polar wind model including a phenomenological treatment of transverse heating by wave particle interactions (WPIs) are presented. Tests with fixed WPI parameters in a designated heating region on the dayside with time-varying convection show that the parameters of the resulting nonthermal ion outflow are strongly coupled to the convection. The hemispheric outflow rate is positively correlated with the convection speed with a time delay related to the travel time to the upper boundary. Increases in convection increase the thermal plasma access to the heating region, both by increasing the upflow associated with frictional heating and by increasing the horizontal transport. The average parallel velocities and energies of the escaping nonthermal ions are anticorrelated with the convection speed due to the finite dwell time in the heating region. The computationally efficient model can be readily coupled into global geospace modeling frameworks in the future.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

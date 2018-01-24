@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:15.768258</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:03.883382</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A laser transmitter has been developed and incorporated into a micro-pulse differential absorption lidar (DIAL) for water vapor profiling in the lower troposphere as an important step towards long-term autonomous field operation. The laser transmitter utilizes two distributed Bragg reflector (DBR) diode lasers to injection seed a pulsed tapered semiconductor optical amplifier (TSOA), and is capable of producing up to 10 mJ of pulse energy with a 1 ms pulse duration and a 10 kHz pulse repetition frequency. The on-line wavelength of the laser transmitter can operate anywhere along the water vapor absorption feature centered at 828.187 nm (in vacuum) depending on the prevailing atmospheric conditions, while the off-line wavelength operates at 828.287 nm. This laser transmitter has been incorporated into a DIAL instrument utilizing a 35.6 cm Schmidt-Cassegrain telescope and fiber coupled avalanche photodiode (APD) operating in the photon counting mode. The performance of the DIAL instrument was demonstrated over a ten-day observation period. During this observation period, data from radiosondes were used to retrieve water vapor number density profiles for comparisons with the number density profiles retrieved from the DIAL data.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A laser transmitter has been developed and incorporated into a micro-pulse differential absorption lidar (DIAL) for water vapor profiling in the lower troposphere as an important step towards long-term autonomous field operation. The laser transmitter utilizes two distributed Bragg reflector (DBR) diode lasers to injection seed a pulsed tapered semiconductor optical amplifier (TSOA), and is capable of producing up to 10 mJ of pulse energy with a 1 ms pulse duration and a 10 kHz pulse repetition frequency. The on-line wavelength of the laser transmitter can operate anywhere along the water vapor absorption feature centered at 828.187 nm (in vacuum) depending on the prevailing atmospheric conditions, while the off-line wavelength operates at 828.287 nm. This laser transmitter has been incorporated into a DIAL instrument utilizing a 35.6 cm Schmidt-Cassegrain telescope and fiber coupled avalanche photodiode (APD) operating in the photon counting mode. The performance of the DIAL instrument was demonstrated over a ten-day observation period. During this observation period, data from radiosondes were used to retrieve water vapor number density profiles for comparisons with the number density profiles retrieved from the DIAL data.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

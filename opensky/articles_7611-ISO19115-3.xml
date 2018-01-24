@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:15.802365</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:41.574582</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[Continuous measurements of hygroscopicity and volatility of atmospheric aerosol particles of 4 - 10 nm diameter were conducted with a nanometer tandem differential mobility analyzer ( Nano TDMA) during the Aerosol Nucleation and Real-time Characterization Experiment ( ANARChE), which took place in Atlanta in July and August 2002. In the Nano TDMA measurements, particles were exposed to either a high humidity ( similar to 90% RH) or an elevated temperature ( similar to 100 degrees C) downstream of the first differential mobility analyzer (DMA) and were then resized by the second DMA to determine the change in size due to water uptake or evaporation. There were several days when nucleation occurred and high concentrations of sub-20 nm particles were observed, and during those events, particles of 4 - 10 nm diameter were very hygroscopic and nonvolatile. These observations, together with parallel Thermal Desorption Chemical Ionization Mass Spectrometer (TDCIMS) measurements of sub-20 nm particle composition, suggest that the particles were mostly composed of ammoniated sulfates. This finding strongly supports the hypothesis that the nucleation and subsequent growth of nanoparticles were driven by reactions involving sulfuric acid and ammonia during this study.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

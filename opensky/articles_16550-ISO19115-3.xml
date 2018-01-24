@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:45.149218</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:44.833060</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The discontinuous Galerkin (DG) discretization relies on an integral (weak) formulation of the hyperbolic conservation law, which leads to the evaluation of several surface and line integrals for multidimensional problems. An alternative formulation of the DG method is possible under the flux reconstruction (FR) framework, where the equations are solved in differential form and the discretization is free from quadrature rules, resulting in computationally efficient algorithms. The author has implemented a quadrature-free form of the nodal DG method based on the FR approach combined with spectral differencing (SD), in a shallow-water (SW) model employing cubed-sphere geometry. The performance of the SD model is compared with the regular nodal DG variant of the SW model using several benchmark tests, including a viscous test case. A positivity-preserving local filter is tested for SD advection that removes spurious oscillations while being conservative and accurate. In this implementation, the SD formulation is found to be 18% faster than the DG method for inviscid SW tests cases and 24% faster for the viscous case. The results obtained by the SD formulation are on par with the regular nodal DG formulation in terms of accuracy and convergence.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The discontinuous Galerkin (DG) discretization relies on an integral (weak) formulation of the hyperbolic conservation law, which leads to the evaluation of several surface and line integrals for multidimensional problems. An alternative formulation of the DG method is possible under the flux reconstruction (FR) framework, where the equations are solved in differential form and the discretization is free from quadrature rules, resulting in computationally efficient algorithms. The author has implemented a quadrature-free form of the nodal DG method based on the FR approach combined with spectral differencing (SD), in a shallow-water (SW) model employing cubed-sphere geometry. The performance of the SD model is compared with the regular nodal DG variant of the SW model using several benchmark tests, including a viscous test case. A positivity-preserving local filter is tested for SD advection that removes spurious oscillations while being conservative and accurate. In this implementation, the SD formulation is found to be 18% faster than the DG method for inviscid SW tests cases and 24% faster for the viscous case. The results obtained by the SD formulation are on par with the regular nodal DG formulation in terms of accuracy and convergence.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

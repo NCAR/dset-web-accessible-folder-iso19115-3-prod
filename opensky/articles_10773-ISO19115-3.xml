@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:18.439845</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:07.071570</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[Ensemble Kalman filters use the sample covariance of an observation and a model state variable to update a prior estimate of the state variable. The sample covariance can be suboptimal as a result of small ensemble size, model error, model nonlinearity, and other factors. The most common algorithms for dealing with these deficiencies are inflation and covariance localization. A statistical model of errors in ensemble Kalman filter sample covariances is described and leads to an algorithm that reduces ensemble filter root-mean-square error for some applications. This sampling error correction algorithm uses prior information about the distribution of the correlation between an observation and a state variable. Offline Monte Carlo simulation is used to build a lookup table that contains a correction factor between 0 and 1 depending on the ensemble size and the ensemble sample correlation. Correction factors are applied like a traditional localization for each pair of observations and state variables during an ensemble assimilation. The algorithm is applied to two low-order models and reduces the sensitivity of the ensemble assimilation error to the strength of traditional localization. When tested in perfect model experiments in a larger model, the dynamical core of a general circulation model, the sampling error correction algorithm produces analyses that are closer to the truth and also reduces sensitivity to traditional localization strength.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

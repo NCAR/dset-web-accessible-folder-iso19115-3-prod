@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:08.984701</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:32.620705</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -448,7 +448,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>High Resolution Dynamics Limb Sounder (HIRDLS) temperature profiles are analyzed to derive global properties of gravity waves. We describe a wavelet analysis technique that determines covarying wave temperature amplitude in adjacent temperature profile pairs, the wave vertical wavelength as a function of height, and the horizontal wave number along the line joining each profile pair. The analysis allows a local estimate of the magnitude of gravity wave momentum flux as a function of geographic location and height on a daily basis. We examine global distributions of these gravity wave properties in the monthly mean and on an individual day, and we also show sample instantaneous wave events observed by HIRDLS. The results are discussed in terms of previous satellite and radiosonde observational analyses and middle atmosphere general circulation model studies that parameterize gravity wave effects on the mean flow. The high vertical and horizontal resolution afforded by the HIRDLS measurements allows the analysis of a wider range of wave vertical and horizontal wavelengths than previous studies and begins to show individual wave events associated with mountains and convection in high detail. Mountain wave observations show clear propagation to altitudes in the mesosphere.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[High Resolution Dynamics Limb Sounder (HIRDLS) temperature profiles are analyzed to derive global properties of gravity waves. We describe a wavelet analysis technique that determines covarying wave temperature amplitude in adjacent temperature profile pairs, the wave vertical wavelength as a function of height, and the horizontal wave number along the line joining each profile pair. The analysis allows a local estimate of the magnitude of gravity wave momentum flux as a function of geographic location and height on a daily basis. We examine global distributions of these gravity wave properties in the monthly mean and on an individual day, and we also show sample instantaneous wave events observed by HIRDLS. The results are discussed in terms of previous satellite and radiosonde observational analyses and middle atmosphere general circulation model studies that parameterize gravity wave effects on the mean flow. The high vertical and horizontal resolution afforded by the HIRDLS measurements allows the analysis of a wider range of wave vertical and horizontal wavelengths than previous studies and begins to show individual wave events associated with mountains and convection in high detail. Mountain wave observations show clear propagation to altitudes in the mesosphere.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

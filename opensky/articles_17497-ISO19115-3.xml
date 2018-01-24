@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:06.969028</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:16.824200</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The representation of data, whether geophysical observations, numerical model output or laboratory results, by a best fit straight line is a routine practice in the geosciences and other fields. While the literature is full of detailed analyses of procedures for fitting straight lines to values with uncertainties, a surprising number of scientists blindly use the standard least-squares method, such as found on calculators and in spreadsheet programs, that assumes no uncertainties in the x values. Here, the available procedures for estimating the best fit straight line to data, including those applicable to situations for uncertainties present in both the x and y variables, are reviewed. Representative methods that are presented in the literature for bivariate weighted fits are compared using several sample data sets, and guidance is presented as to when the somewhat more involved iterative methods are required, or when the standard least-squares procedure would be expected to be satisfactory. A spreadsheet-based template is made available that employs one method for bivariate fitting.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The representation of data, whether geophysical observations, numerical model output or laboratory results, by a best fit straight line is a routine practice in the geosciences and other fields. While the literature is full of detailed analyses of procedures for fitting straight lines to values with uncertainties, a surprising number of scientists blindly use the standard least-squares method, such as found on calculators and in spreadsheet programs, that assumes no uncertainties in the x values. Here, the available procedures for estimating the best fit straight line to data, including those applicable to situations for uncertainties present in both the x and y variables, are reviewed. Representative methods that are presented in the literature for bivariate weighted fits are compared using several sample data sets, and guidance is presented as to when the somewhat more involved iterative methods are required, or when the standard least-squares procedure would be expected to be satisfactory. A spreadsheet-based template is made available that employs one method for bivariate fitting.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:12.638298</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:59.547350</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -358,7 +358,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Considerable uncertainties remain in the global pattern of diurnal variation in stratospheric ozone, particularly lower to middle stratospheric ozone, which is the principal contributor to total column ozone. The Superconducting Submillimeter-Wave Limb-Emission Sounder (SMILES) attached to the Japanese Experiment Module (JEM) on board the International Space Station (ISS) was developed to gather high-quality global measurements of stratospheric ozone at various local times, with the aid of superconducting mixers cooled to 4K by a compact mechanical cooler. Using the SMILES dataset, as well as data from nudged chemistry-climate models (MIROC3.2-CTM and SD-WACCM), we show that the SMILES observational data have revealed the global pattern of diurnal ozone variations throughout the stratosphere. We also found that these variations can be explained by both photochemistry and dynamics. The peak-to-peak difference in the stratospheric ozone mixing ratio (total column ozone) reached 8% (1%) over the course of a day. This variation needs to be considered when merging ozone data from different satellite measurements and even from measurements made using one specific instrument at different local times.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Considerable uncertainties remain in the global pattern of diurnal variation in stratospheric ozone, particularly lower to middle stratospheric ozone, which is the principal contributor to total column ozone. The Superconducting Submillimeter-Wave Limb-Emission Sounder (SMILES) attached to the Japanese Experiment Module (JEM) on board the International Space Station (ISS) was developed to gather high-quality global measurements of stratospheric ozone at various local times, with the aid of superconducting mixers cooled to 4K by a compact mechanical cooler. Using the SMILES dataset, as well as data from nudged chemistry-climate models (MIROC3.2-CTM and SD-WACCM), we show that the SMILES observational data have revealed the global pattern of diurnal ozone variations throughout the stratosphere. We also found that these variations can be explained by both photochemistry and dynamics. The peak-to-peak difference in the stratospheric ozone mixing ratio (total column ozone) reached 8% (1%) over the course of a day. This variation needs to be considered when merging ozone data from different satellite measurements and even from measurements made using one specific instrument at different local times.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

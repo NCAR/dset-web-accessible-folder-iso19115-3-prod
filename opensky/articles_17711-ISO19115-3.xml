@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:11.819822</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:23.741335</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -358,7 +358,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Organic matter (OM) plays a major role in both terrestrial and oceanic biogeochemical cycles. The amount of carbon stored in these systems is far greater than that of carbon dioxide (CO2) in the atmosphere, and annual fluxes of CO2 from these pools to the atmosphere exceed those from fossil fuel combustion. Understanding the processes that determine the fate of detrital material is important for predicting the effects that climate change will have on feedbacks to the global carbon cycle. However, Earth System Models (ESMs) typically utilize very simple formulations of processes affecting the mineralization and storage of detrital OM. Recent changes in our view of the nature of this material and the factors controlling its transformation have yet to find their way into models. In this review, we highlight the current understanding of the role and cycling of detrital OM in terrestrial and marine systems and examine how this pool of material is represented in ESMs. We include a discussion of the different mineralization pathways available as organic matter moves from soils, through inland waters to coastal systems and ultimately into open ocean environments. We argue that there is strong commonality between aspects of OM transformation in both terrestrial and marine systems and that our respective scientific communities would benefit from closer collaboration.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Organic matter (OM) plays a major role in both terrestrial and oceanic biogeochemical cycles. The amount of carbon stored in these systems is far greater than that of carbon dioxide (CO2) in the atmosphere, and annual fluxes of CO2 from these pools to the atmosphere exceed those from fossil fuel combustion. Understanding the processes that determine the fate of detrital material is important for predicting the effects that climate change will have on feedbacks to the global carbon cycle. However, Earth System Models (ESMs) typically utilize very simple formulations of processes affecting the mineralization and storage of detrital OM. Recent changes in our view of the nature of this material and the factors controlling its transformation have yet to find their way into models. In this review, we highlight the current understanding of the role and cycling of detrital OM in terrestrial and marine systems and examine how this pool of material is represented in ESMs. We include a discussion of the different mineralization pathways available as organic matter moves from soils, through inland waters to coastal systems and ultimately into open ocean environments. We argue that there is strong commonality between aspects of OM transformation in both terrestrial and marine systems and that our respective scientific communities would benefit from closer collaboration.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

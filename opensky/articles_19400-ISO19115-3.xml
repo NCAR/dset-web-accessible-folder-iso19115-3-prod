@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:40.584094</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:07.838430</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -313,7 +313,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A strengthening of the Amundsen Sea low from 1979 to 2013 has been shown to largely explain the observed increase in Antarctic sea ice concentration in the eastern Ross Sea and decrease in the Bellingshausen Sea. Here it is shown that while these changes are not generally seen in freely running coupled climate model simulations, they are reproduced in simulations of two independent coupled climate models: one constrained by observed sea surface temperature anomalies in the tropical Pacific and the other by observed surface wind stress in the tropics. This analysis confirms previous results and strengthens the conclusion that the phase change in the interdecadal Pacific oscillation from positive to negative over 1979-2013 contributed to the observed strengthening of the Amundsen Sea low and the associated pattern of Antarctic sea ice change during this period. New support for this conclusion is provided by simulated trends in spatial patterns of sea ice concentrations that are similar to those observed. These results highlight the importance of accounting for teleconnections from low to high latitudes in both model simulations and observations of Antarctic sea ice variability and change.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A strengthening of the Amundsen Sea low from 1979 to 2013 has been shown to largely explain the observed increase in Antarctic sea ice concentration in the eastern Ross Sea and decrease in the Bellingshausen Sea. Here it is shown that while these changes are not generally seen in freely running coupled climate model simulations, they are reproduced in simulations of two independent coupled climate models: one constrained by observed sea surface temperature anomalies in the tropical Pacific and the other by observed surface wind stress in the tropics. This analysis confirms previous results and strengthens the conclusion that the phase change in the interdecadal Pacific oscillation from positive to negative over 1979-2013 contributed to the observed strengthening of the Amundsen Sea low and the associated pattern of Antarctic sea ice change during this period. New support for this conclusion is provided by simulated trends in spatial patterns of sea ice concentrations that are similar to those observed. These results highlight the importance of accounting for teleconnections from low to high latitudes in both model simulations and observations of Antarctic sea ice variability and change.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

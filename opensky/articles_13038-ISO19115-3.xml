@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:11.147502</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:57.547334</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We assess initial-value predictability characteristics of Antarctic sea ice from climate simulations. The integrations are initialized on 1 January with identical ice-ocean-terrestrial conditions and integrated forward for two years. We find that the initialized ice-ocean state provides predictive capability on the ice-edge location around Antarctica for the first several months of integration. During the ice advance season from April to September, significant predictability is retained in some locations with an eastward propagating signal. This is consistent with previous work suggesting the advection of sea ice anomalies with the mean ocean circulation. The ice-edge predictability is then generally lost during the ice retreat season after October. However, predictability reemerges during the next year's ice advance starting around June in some locations. This reemergence is associated with ocean heat content anomalies that are retained at depth during the austral summer and resurface during the following autumn as the ocean mixed layers deepen.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We assess initial-value predictability characteristics of Antarctic sea ice from climate simulations. The integrations are initialized on 1 January with identical ice-ocean-terrestrial conditions and integrated forward for two years. We find that the initialized ice-ocean state provides predictive capability on the ice-edge location around Antarctica for the first several months of integration. During the ice advance season from April to September, significant predictability is retained in some locations with an eastward propagating signal. This is consistent with previous work suggesting the advection of sea ice anomalies with the mean ocean circulation. The ice-edge predictability is then generally lost during the ice retreat season after October. However, predictability reemerges during the next year's ice advance starting around June in some locations. This reemergence is associated with ocean heat content anomalies that are retained at depth during the austral summer and resurface during the following autumn as the ocean mixed layers deepen.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

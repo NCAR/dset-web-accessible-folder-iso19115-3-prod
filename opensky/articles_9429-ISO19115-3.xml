@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:17.492878</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:46.777116</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[The three-dimensional structure of shallow orographic convection is investigated through simulations performed with a cloud-resolving numerical model. In moist flows that overcome a given topographic barrier to form statically unstable cap clouds, the organization of the convection depends on both the atmospheric structure and the mechanism by which the convection is initiated. Convection initiated by background thermal fluctuations embedded in the flow over a smooth mountain (without any small-scale topographic features) tends to be cellular and disorganized except that shear-parallel bands may form in flows with strong unidirectional vertical shear. The development of well-organized bands is favored when there is weak static instability inside the cloud and when the dry air surrounding the cloud is strongly stable. These bands move with the flow and distribute their cumulative precipitation evenly, over the mountain upslope.', Similar shear-parallel bands also develop in flows where convection is initiated by small-scale topographic noise superimposed onto the main mountain profile, but in this case stronger circulations are also triggered that create stationary rainbands parallel to the low-level flow. This second dominant mode, which is less sensitive to the atmospheric structure and the strength of forcing, is triggered by lee waves that form over small-scale topographic bumps near the upstream edge of the main orographic cloud. Due to their stationarity, these flow-parallel bands can produce locally heavy precipitation amounts.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

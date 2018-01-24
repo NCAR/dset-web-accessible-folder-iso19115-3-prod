@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:36.225599</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:11.940050</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -373,7 +373,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The impacts of assimilating radar data and other mesoscale observations in real-time, convection-allowing model forecasts were evaluated during the spring seasons of 2008 and 2009 as part of the Hazardous Weather Test Bed Spring Experiment activities. In tests of a prototype continental U. S.-scale forecast system, focusing primarily on regions with active deep convection at the initial time, assimilation of these observations had a positive impact. Daily interrogation of output by teams of modelers, forecasters, and verification experts provided additional insights into the value-added characteristics of the unique assimilation forecasts. This evaluation revealed that the positive effects of the assimilation were greatest during the first 3--6 h of each forecast, appeared to be most pronounced with larger convective systems, and may have been related to a phase lag that sometimes developed when the convective-scale information was not assimilated. These preliminary results are currently being evaluated further using advanced objective verification techniques.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The impacts of assimilating radar data and other mesoscale observations in real-time, convection-allowing model forecasts were evaluated during the spring seasons of 2008 and 2009 as part of the Hazardous Weather Test Bed Spring Experiment activities. In tests of a prototype continental U. S.-scale forecast system, focusing primarily on regions with active deep convection at the initial time, assimilation of these observations had a positive impact. Daily interrogation of output by teams of modelers, forecasters, and verification experts provided additional insights into the value-added characteristics of the unique assimilation forecasts. This evaluation revealed that the positive effects of the assimilation were greatest during the first 3--6 h of each forecast, appeared to be most pronounced with larger convective systems, and may have been related to a phase lag that sometimes developed when the convective-scale information was not assimilated. These preliminary results are currently being evaluated further using advanced objective verification techniques.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

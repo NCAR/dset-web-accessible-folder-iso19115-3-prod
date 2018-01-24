@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:56.706974</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:31.854421</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Tornadoes are capable of lofting large pieces of debris that present irregular shapes, near-random orientations, and a wide range of dielectric constants to polarimetric radars. The unique polarimetric signature associated with lofted debris is called the tornadic debris signature (TDS). While ties between TDS characteristics and tornado- and storm-scale kinematic processes have been speculated upon or investigated using photogrammetry and single-Doppler analyses, little work has been done to document the three-dimensional wind field associated with the TDS.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Tornadoes are capable of lofting large pieces of debris that present irregular shapes, near-random orientations, and a wide range of dielectric constants to polarimetric radars. The unique polarimetric signature associated with lofted debris is called the tornadic debris signature (TDS). While ties between TDS characteristics and tornado- and storm-scale kinematic processes have been speculated upon or investigated using photogrammetry and single-Doppler analyses, little work has been done to document the three-dimensional wind field associated with the TDS.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

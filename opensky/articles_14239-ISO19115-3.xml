@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:26.164963</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:17.547236</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Weather Research Forecasting model is applied for convection-permitting regional climate simulations over the western United States using three different land surface schemes (Noah, NoahMP, and CLM). Simulated precipitation, temperature, and snow water equivalent (SWE) are evaluated by comparing against Snow Telemetry (SNOTEL) and Parameter-elevation Regressions on Independent Slopes Model (PRISM) observations. The results show that all simulations realistically reproduce the spatial and temporal variability of precipitation without significant sensitivity to the choice of land surface scheme, even though they tend to overestimate the magnitude of the SNOTEL data by about 15%. Comparing the bias with respect to the SNOTEL data, CLM is superior in 2 m maximum temperature, while NoahMP is most skillful in 2 m minimum temperature. Land surface parameterizations have high impacts on snowpack simulations. The SWE peaks too early with an unrealistically low value and also ablates too fast in Noah. NoahMP improves the SWE estimate to some extent, and CLM best represents the observations. Overall, CLM and NoahMP outperform Noah. Further analysis reveals that these differences are largely attributed to distinct rainfall-snowfall partitioning, snow albedo treatment, vegetation treatment, and surface data in these schemes.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Weather Research Forecasting model is applied for convection-permitting regional climate simulations over the western United States using three different land surface schemes (Noah, NoahMP, and CLM). Simulated precipitation, temperature, and snow water equivalent (SWE) are evaluated by comparing against Snow Telemetry (SNOTEL) and Parameter-elevation Regressions on Independent Slopes Model (PRISM) observations. The results show that all simulations realistically reproduce the spatial and temporal variability of precipitation without significant sensitivity to the choice of land surface scheme, even though they tend to overestimate the magnitude of the SNOTEL data by about 15%. Comparing the bias with respect to the SNOTEL data, CLM is superior in 2 m maximum temperature, while NoahMP is most skillful in 2 m minimum temperature. Land surface parameterizations have high impacts on snowpack simulations. The SWE peaks too early with an unrealistically low value and also ablates too fast in Noah. NoahMP improves the SWE estimate to some extent, and CLM best represents the observations. Overall, CLM and NoahMP outperform Noah. Further analysis reveals that these differences are largely attributed to distinct rainfall-snowfall partitioning, snow albedo treatment, vegetation treatment, and surface data in these schemes.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

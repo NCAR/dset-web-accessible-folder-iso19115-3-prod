@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:17.863515</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:47.354672</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[A 10-hour wave in the mesospheric and lower thermospheric neutral winds and temperature was observed at northern high-latitude stations Resolute (74.9degreesN) and Eureka (80.1degreesN) by two Fabry-Perot interferometers, a Michelson interferometer, and a CCD spectrograph. The vertical wavelength of the wave was estimated to be similar to53 km. An interstation wave phase comparison yielded a zonal wave number close to five. The neutral wind wave amplitude increased with altitude up to 97 km and varied little with latitude. Our observations suggest that the 10-hour wave is likely to be a result of the semidiurnal tide and the quasi-2-day wave nonlinear interaction and unlikely to be a Lamb wave. The OH emission and temperature observations are also consistent with this interpretation.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:52.445716</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:25.377548</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -448,7 +448,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Anthropogenic nitrogen (N) emissions to the atmosphere have increased significantly the deposition of nitrate (NO3-) and ammonium (NH4+) to the surface waters of the open ocean, with potential impacts on marine productivity and the global carbon cycle. Global-scale understanding of the impacts of N deposition to the oceans is reliant on our ability to produce and validate models of nitrogen emission, atmospheric chemistry, transport and deposition. In this work, similar to 2900 observations of aerosol NO3- and NH4+ concentrations, acquired from sampling aboard ships in the period 1995-2012, are used to assess the performance of modelled N concentration and deposition fields over the remote ocean. Three ocean regions (the eastern tropical North Atlantic, the northern Indian Ocean and northwest Pacific) were selected, in which the density and distribution of observational data were considered sufficient to provide effective comparison to model products. All of these study regions are affected by transport and deposition of mineral dust, which alters the deposition of N, due to uptake of nitrogen oxides (NOx) on mineral surfaces.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Anthropogenic nitrogen (N) emissions to the atmosphere have increased significantly the deposition of nitrate (NO3-) and ammonium (NH4+) to the surface waters of the open ocean, with potential impacts on marine productivity and the global carbon cycle. Global-scale understanding of the impacts of N deposition to the oceans is reliant on our ability to produce and validate models of nitrogen emission, atmospheric chemistry, transport and deposition. In this work, similar to 2900 observations of aerosol NO3- and NH4+ concentrations, acquired from sampling aboard ships in the period 1995-2012, are used to assess the performance of modelled N concentration and deposition fields over the remote ocean. Three ocean regions (the eastern tropical North Atlantic, the northern Indian Ocean and northwest Pacific) were selected, in which the density and distribution of observational data were considered sufficient to provide effective comparison to model products. All of these study regions are affected by transport and deposition of mineral dust, which alters the deposition of N, due to uptake of nitrogen oxides (NOx) on mineral surfaces.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

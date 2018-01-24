@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:48.851691</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:19.945144</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -313,7 +313,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A stochastic parameter perturbation (SPP) scheme consisting of spatially and temporally varying perturbations of uncertain parameters in the Grell-Freitas convective scheme and the Mellor-Yamada-Nakanishi-Niino planetary boundary scheme was developed within the Rapid Refresh ensemble system based on the Weather Research and Forecasting Model. Alone the stochastic parameter perturbations generate insufficient spread to be an alternative to the operational configuration that utilizes combinations of multiple parameterization schemes. However, when combined with other stochastic parameterization schemes, such as the stochastic kinetic energy backscatter (SKEB) scheme or the stochastic perturbation of physics tendencies (SPPT) scheme, the stochastic ensemble system has comparable forecast performance. An additional analysis quantifies the added value of combining SPP and SPPT over an ensemble that uses SPPT only, which is generally beneficial, especially for surface variables. The ensemble combining all three stochastic methods consistently produces the best spread-skill ratio and generally outperforms the multiphysics ensemble. The results of this study indicate that using a single-physics suite ensemble together with stochastic methods is an attractive alternative to multiphysics ensembles and should be considered in the design of future high-resolution regional and global ensembles.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A stochastic parameter perturbation (SPP) scheme consisting of spatially and temporally varying perturbations of uncertain parameters in the Grell-Freitas convective scheme and the Mellor-Yamada-Nakanishi-Niino planetary boundary scheme was developed within the Rapid Refresh ensemble system based on the Weather Research and Forecasting Model. Alone the stochastic parameter perturbations generate insufficient spread to be an alternative to the operational configuration that utilizes combinations of multiple parameterization schemes. However, when combined with other stochastic parameterization schemes, such as the stochastic kinetic energy backscatter (SKEB) scheme or the stochastic perturbation of physics tendencies (SPPT) scheme, the stochastic ensemble system has comparable forecast performance. An additional analysis quantifies the added value of combining SPP and SPPT over an ensemble that uses SPPT only, which is generally beneficial, especially for surface variables. The ensemble combining all three stochastic methods consistently produces the best spread-skill ratio and generally outperforms the multiphysics ensemble. The results of this study indicate that using a single-physics suite ensemble together with stochastic methods is an attractive alternative to multiphysics ensembles and should be considered in the design of future high-resolution regional and global ensembles.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

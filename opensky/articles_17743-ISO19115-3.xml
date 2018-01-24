@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:12.627920</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:24.875258</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We review the history of ultraviolet and extreme ultraviolet spectroscopy with a specific focus on such activities at the Naval Research Laboratory and on studies of the extended solar corona and solar-wind source regions. We describe the problem of forecasting solar energetic particle events and discuss an observational technique designed to solve this problem by detecting supra-thermal seed particles as extended wings on spectral lines. Such seed particles are believed to be a necessary prerequisite for particle acceleration by heliospheric shock waves driven by a coronal mass ejection.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We review the history of ultraviolet and extreme ultraviolet spectroscopy with a specific focus on such activities at the Naval Research Laboratory and on studies of the extended solar corona and solar-wind source regions. We describe the problem of forecasting solar energetic particle events and discuss an observational technique designed to solve this problem by detecting supra-thermal seed particles as extended wings on spectral lines. Such seed particles are believed to be a necessary prerequisite for particle acceleration by heliospheric shock waves driven by a coronal mass ejection.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

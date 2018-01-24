@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:09.718854</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:33.611002</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The dynamical balances associated with upwelling in the tropical lower stratosphere are investigated based on climatological 40-yr ECMWF Re-Analysis (ERA-40) and NCEP-NCAR reanalysis data. Zonal mean upwelling is calculated from momentum balance and continuity ("downward control"), and these estimates in the deep tropics are found to be in reasonable agreement with stratospheric upwelling calculated from thermodynamic balance (and also with vertical velocity obtained from ERA-40). The detailed momentum balances associated with the dynamical upwelling are investigated, particularly the contributions to climatological Eliassen-Palm (EP) flux divergence in the subtropics. Results show that the equatorward extension of extratropical waves (baroclinic eddies and, in the NH, quasi-stationary planetary waves) contribute a large component of the subtropical wave driving at 100 hPa. Additionally, there is a significant contribution to subtropical forcing from equatorial planetary waves, which exhibit a strong seasonal cycle (a reversal in phase) in response to latitudinal migration of tropical convection. The observed balances suggest that the strong annual cycle in upwelling across the tropical tropopause is forced by subtropical horizontal eddy momentum flux convergence associated with waves originating in both the tropics and extratropics.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The dynamical balances associated with upwelling in the tropical lower stratosphere are investigated based on climatological 40-yr ECMWF Re-Analysis (ERA-40) and NCEP-NCAR reanalysis data. Zonal mean upwelling is calculated from momentum balance and continuity ("downward control"), and these estimates in the deep tropics are found to be in reasonable agreement with stratospheric upwelling calculated from thermodynamic balance (and also with vertical velocity obtained from ERA-40). The detailed momentum balances associated with the dynamical upwelling are investigated, particularly the contributions to climatological Eliassen-Palm (EP) flux divergence in the subtropics. Results show that the equatorward extension of extratropical waves (baroclinic eddies and, in the NH, quasi-stationary planetary waves) contribute a large component of the subtropical wave driving at 100 hPa. Additionally, there is a significant contribution to subtropical forcing from equatorial planetary waves, which exhibit a strong seasonal cycle (a reversal in phase) in response to latitudinal migration of tropical convection. The observed balances suggest that the strong annual cycle in upwelling across the tropical tropopause is forced by subtropical horizontal eddy momentum flux convergence associated with waves originating in both the tropics and extratropics.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

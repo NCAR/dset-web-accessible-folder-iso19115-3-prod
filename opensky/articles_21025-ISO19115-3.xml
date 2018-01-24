@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:56.020809</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:30.866269</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -313,7 +313,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Model calibration (or "tuning") is a necessary part of developing and testing coupled ocean-atmosphere climate models regardless of their main scientific purpose. There is an increasing recognition that this process needs to become more transparent for both users of climate model output and other developers. Knowing how and why climate models are tuned and which targets are used is essential to avoiding possible misattributions of skillful predictions to data accommodation and vice versa. This paper describes the approach and practice of model tuning for the six major US climate modeling centers. While details differ among groups in terms of scientific missions, tuning targets, and tunable parameters, there is a core commonality of approaches. However, practices differ significantly on some key aspects, in particular, in the use of initialized forecast analyses as a tool, the explicit use of the historical transient record, and the use of the present-day radiative imbalance vs. the implied balance in the preindustrial era as a target.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Model calibration (or "tuning") is a necessary part of developing and testing coupled ocean-atmosphere climate models regardless of their main scientific purpose. There is an increasing recognition that this process needs to become more transparent for both users of climate model output and other developers. Knowing how and why climate models are tuned and which targets are used is essential to avoiding possible misattributions of skillful predictions to data accommodation and vice versa. This paper describes the approach and practice of model tuning for the six major US climate modeling centers. While details differ among groups in terms of scientific missions, tuning targets, and tunable parameters, there is a core commonality of approaches. However, practices differ significantly on some key aspects, in particular, in the use of initialized forecast analyses as a tool, the explicit use of the historical transient record, and the use of the present-day radiative imbalance vs. the implied balance in the preindustrial era as a target.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

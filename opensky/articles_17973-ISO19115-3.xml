@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:15.599807</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:29.199089</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Ensemble filters are used in many data assimilation applications in geophysics. Basic implementations of ensemble filters are trivial but are susceptible to errors from many sources. Model error, sampling error and fundamental inconsistencies between the filter assumptions and reality combine to produce assimilations that are suboptimal or suffer from filter divergence. Several auxiliary algorithms have been developed to help filters tolerate these errors. For instance, covariance inflation combats the tendency of ensembles to have insufficient variance by increasing the variance during the assimilation. The amount of inflation is usually determined by trial and error. It is possible, however, to design Bayesian algorithms that determine the inflation adaptively. A spatially and temporally varying adaptive inflation algorithm is described. A normally distributed inflation random variable is associated with each element of the model state vector. Adaptive inflation is demonstrated in two low-order model experiments. In the first, the dominant error source is small ensemble sampling error. In the second, the model error is dominant. The adaptive inflation assimilations have better mean and variance estimates than other inflation methods.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Ensemble filters are used in many data assimilation applications in geophysics. Basic implementations of ensemble filters are trivial but are susceptible to errors from many sources. Model error, sampling error and fundamental inconsistencies between the filter assumptions and reality combine to produce assimilations that are suboptimal or suffer from filter divergence. Several auxiliary algorithms have been developed to help filters tolerate these errors. For instance, covariance inflation combats the tendency of ensembles to have insufficient variance by increasing the variance during the assimilation. The amount of inflation is usually determined by trial and error. It is possible, however, to design Bayesian algorithms that determine the inflation adaptively. A spatially and temporally varying adaptive inflation algorithm is described. A normally distributed inflation random variable is associated with each element of the model state vector. Adaptive inflation is demonstrated in two low-order model experiments. In the first, the dominant error source is small ensemble sampling error. In the second, the model error is dominant. The adaptive inflation assimilations have better mean and variance estimates than other inflation methods.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

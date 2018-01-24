@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:34.949924</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:10.216808</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A real-time forecast (RTF) system using Weather Research and Forecast (WRF) model version 2.2 is used to evaluate the diurnal variation of precipitation over South Korea in the summer (June to August) of 2007. The characteristics of the observed precipitation are also analyzed. The analysis and simulation period is divided into two sub-periods following the end of the changma, or East Asian monsoon, in 2007: Period_1 is from 1 June to 21 July, and Period_2 is from 22 July to 31 August. A 24-h precipitation cycle is observed over the entire period. The diurnal variation of precipitation over the South Korea shows that the nighttime maximum precipitation in Period_1 is affected by a largescale system; in contrast, the daytime maximum precipitation in Period_2 resulted from mesoscale convections is induced by thermal instability and moisture advection. The phases of the diurnal variation of simulated precipitation are consistent with those of the observed precipitation. The daytime rainfall amount of simulated precipitation in Period_2 is overestimated, and the convective rain process significantly affects the simulated total precipitation. The daytime overestimated precipitation is associated with overestimations of low-level temperature and moisture during the daytime in the model simulations as compared with the observations.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A real-time forecast (RTF) system using Weather Research and Forecast (WRF) model version 2.2 is used to evaluate the diurnal variation of precipitation over South Korea in the summer (June to August) of 2007. The characteristics of the observed precipitation are also analyzed. The analysis and simulation period is divided into two sub-periods following the end of the changma, or East Asian monsoon, in 2007: Period_1 is from 1 June to 21 July, and Period_2 is from 22 July to 31 August. A 24-h precipitation cycle is observed over the entire period. The diurnal variation of precipitation over the South Korea shows that the nighttime maximum precipitation in Period_1 is affected by a largescale system; in contrast, the daytime maximum precipitation in Period_2 resulted from mesoscale convections is induced by thermal instability and moisture advection. The phases of the diurnal variation of simulated precipitation are consistent with those of the observed precipitation. The daytime rainfall amount of simulated precipitation in Period_2 is overestimated, and the convective rain process significantly affects the simulated total precipitation. The daytime overestimated precipitation is associated with overestimations of low-level temperature and moisture during the daytime in the model simulations as compared with the observations.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

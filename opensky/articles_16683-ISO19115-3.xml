@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:48.006314</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:49.210825</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The hindcasts of the Geophysical Fluid Dynamics Laboratory (GFDL) High-Resolution Atmospheric Model (HiRAM), which skillfully predicted the interannual variability of Atlantic tropical cyclone (TC) frequency, were analyzed to investigate what key circulation systems a model must capture in order to skillfully predict TCs. The HiRAM reproduced the leading empirical orthogonal function mode (M1) of the interannual variability of the Atlantic Hadley circulation and its impacts on environmental conditions. M1 represents the variability of the Intertropical Convergence Zone (ITCZ) intensity and width, and the predictability of Atlantic TCs can be explained by the lag correlation between M1 and SST in preceding months. Although the ITCZ displacement was not well predicted by the HiRAM hindcasts, it does not affect the prediction of the basin-wide hurricane count. The analyses suggest that the leading mode of the variability of the regional Hadley circulation can serve as a useful metric to evaluate the performance of global models in TC seasonal prediction.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The hindcasts of the Geophysical Fluid Dynamics Laboratory (GFDL) High-Resolution Atmospheric Model (HiRAM), which skillfully predicted the interannual variability of Atlantic tropical cyclone (TC) frequency, were analyzed to investigate what key circulation systems a model must capture in order to skillfully predict TCs. The HiRAM reproduced the leading empirical orthogonal function mode (M1) of the interannual variability of the Atlantic Hadley circulation and its impacts on environmental conditions. M1 represents the variability of the Intertropical Convergence Zone (ITCZ) intensity and width, and the predictability of Atlantic TCs can be explained by the lag correlation between M1 and SST in preceding months. Although the ITCZ displacement was not well predicted by the HiRAM hindcasts, it does not affect the prediction of the basin-wide hurricane count. The analyses suggest that the leading mode of the variability of the regional Hadley circulation can serve as a useful metric to evaluate the performance of global models in TC seasonal prediction.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

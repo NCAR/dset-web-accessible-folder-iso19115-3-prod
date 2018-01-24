@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:33.090314</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:07.582880</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Nearly all analytical models of lock-exchange flow are based on the shallow-water approximation. Since the latter approximation fails at the leading edges of the mutually intruding fluids of lock-exchange flow, solutions to the shallow-water equations can be obtained only through the specification of front conditions. In the present paper, analytic solutions to the shallow-water equations for non-Boussinesq lock-exchange flow are given for front conditions deriving from free-boundary arguments. Analytic solutions are also derived for other proposed front conditions--conditions which appear to the shallow-water system as forced boundary conditions. Both solutions to the shallow-water equations are compared with the numerical solutions of the Navier-Stokes equations and a mixture of successes and failures is recorded. The apparent success of some aspects of the forced solutions of the shallow-water equations, together with the fact that in a real fluid the density interface is a free boundary, shows the need for an improved theory of lock-exchange flow taking into account non-hydrostatic effects for density interfaces intersecting rigid boundaries.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Nearly all analytical models of lock-exchange flow are based on the shallow-water approximation. Since the latter approximation fails at the leading edges of the mutually intruding fluids of lock-exchange flow, solutions to the shallow-water equations can be obtained only through the specification of front conditions. In the present paper, analytic solutions to the shallow-water equations for non-Boussinesq lock-exchange flow are given for front conditions deriving from free-boundary arguments. Analytic solutions are also derived for other proposed front conditions--conditions which appear to the shallow-water system as forced boundary conditions. Both solutions to the shallow-water equations are compared with the numerical solutions of the Navier-Stokes equations and a mixture of successes and failures is recorded. The apparent success of some aspects of the forced solutions of the shallow-water equations, together with the fact that in a real fluid the density interface is a free boundary, shows the need for an improved theory of lock-exchange flow taking into account non-hydrostatic effects for density interfaces intersecting rigid boundaries.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

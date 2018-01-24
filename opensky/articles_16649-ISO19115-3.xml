@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:47.248379</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:48.105088</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -343,7 +343,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Weather radar analysis has become increasingly sophisticated over the past 50 years, and efforts to keep software up to date have generally lagged behind the needs of the users. We argue that progress has been impeded by the fact that software has not been developed and shared as a community. Recently, the situation has been changing. In this paper, the developers of a number of open-source software (OSS) projects highlight the potential of OSS to advance radar-related research. We argue that the community-based development of OSS holds the potential to reduce duplication of efforts and to create transparency in implemented algorithms while improving the quality and scope of the software. We also conclude that there is sufficiently mature technology to support collaboration across different software projects. This could allow for consolidation toward a set of interoperable software platforms, each designed to accommodate very specific user requirements.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Weather radar analysis has become increasingly sophisticated over the past 50 years, and efforts to keep software up to date have generally lagged behind the needs of the users. We argue that progress has been impeded by the fact that software has not been developed and shared as a community. Recently, the situation has been changing. In this paper, the developers of a number of open-source software (OSS) projects highlight the potential of OSS to advance radar-related research. We argue that the community-based development of OSS holds the potential to reduce duplication of efforts and to create transparency in implemented algorithms while improving the quality and scope of the software. We also conclude that there is sufficiently mature technology to support collaboration across different software projects. This could allow for consolidation toward a set of interoperable software platforms, each designed to accommodate very specific user requirements.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

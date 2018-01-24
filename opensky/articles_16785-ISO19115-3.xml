@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:50.116355</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:52.442236</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper introduces a library of algorithms for representing cloud microphysics in numerical models. The library is written in C++, hence the name libcloudph++. In the current release, the library covers three warm-rain schemes: the single- and double-moment bulk schemes, and the particle-based scheme with Monte Carlo coalescence. The three schemes are intended for modelling frameworks of different dimensionalities and complexities ranging from parcel models to multi-dimensional cloud-resolving (e.g. large-eddy) simulations. A two-dimensional (2-D) prescribed-flow framework is used in the paper to illustrate the library features. The libcloudph++ and all its mandatory dependencies are free and open-source software. The Boost.units library is used for zero-overhead dimensional analysis of the code at compile time. The particle-based scheme is implemented using the Thrust library that allows one to leverage the power of graphics processing units (GPU), retaining the possibility of compiling the unchanged code for execution on single or multiple standard processors (CPUs). The paper includes a complete description of the programming interface (API) of the library and a performance analysis including comparison of GPU and CPU set-ups.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper introduces a library of algorithms for representing cloud microphysics in numerical models. The library is written in C++, hence the name libcloudph++. In the current release, the library covers three warm-rain schemes: the single- and double-moment bulk schemes, and the particle-based scheme with Monte Carlo coalescence. The three schemes are intended for modelling frameworks of different dimensionalities and complexities ranging from parcel models to multi-dimensional cloud-resolving (e.g. large-eddy) simulations. A two-dimensional (2-D) prescribed-flow framework is used in the paper to illustrate the library features. The libcloudph++ and all its mandatory dependencies are free and open-source software. The Boost.units library is used for zero-overhead dimensional analysis of the code at compile time. The particle-based scheme is implemented using the Thrust library that allows one to leverage the power of graphics processing units (GPU), retaining the possibility of compiling the unchanged code for execution on single or multiple standard processors (CPUs). The paper includes a complete description of the programming interface (API) of the library and a performance analysis including comparison of GPU and CPU set-ups.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

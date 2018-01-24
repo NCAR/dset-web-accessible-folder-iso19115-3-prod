@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:07.564951</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:30.536991</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -433,7 +433,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Given the rapid increase in the use of operational mesoscale models to satisfy different specialized needs, it is important for the community to share ideas and solutions for meeting the many associated challenges that encompass science, technology, education, and training. As a contribution toward this objective, this paper begins a series that reports on the characteristics and performance of an operational mesogamma-scale weather analysis and forecasting system that has been developed for use by the U.S. Army Test and Evaluation Command. During the more than five years that this four-dimensional weather system has been in use at seven U.S. Army test ranges, valuable experience has been gained about the production and effective use of high-resolution model products for satisfying a variety of needs. This paper serves as a foundation for the rest of the papers in the series by describing the operational requirements for the system, the data assimilation and forecasting system characteristics, and the forecaster training that is required for the finescale products to be used effectively.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Given the rapid increase in the use of operational mesoscale models to satisfy different specialized needs, it is important for the community to share ideas and solutions for meeting the many associated challenges that encompass science, technology, education, and training. As a contribution toward this objective, this paper begins a series that reports on the characteristics and performance of an operational mesogamma-scale weather analysis and forecasting system that has been developed for use by the U.S. Army Test and Evaluation Command. During the more than five years that this four-dimensional weather system has been in use at seven U.S. Army test ranges, valuable experience has been gained about the production and effective use of high-resolution model products for satisfying a variety of needs. This paper serves as a foundation for the rest of the papers in the series by describing the operational requirements for the system, the data assimilation and forecasting system characteristics, and the forecaster training that is required for the finescale products to be used effectively.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

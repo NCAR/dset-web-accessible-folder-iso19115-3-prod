@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:47.517915</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:18.105233</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In recent years, adopting renewable energy, such as wind power, has become a national energy policy for many countries due to concerns of pollution and climate change from fossil fuel consumption. However, accurate prediction of wind is crucial in managing the power load. Numerical weather prediction (NWP) models are essential tools for wind prediction, but they need accurate initial conditions in order to produce an accurate forecast. However, NWP models are not guaranteed to have accurate initial conditions over wind farms in isolated locations. This study hypothesizes that short-term, 0-3 h, wind forecast can be improved by assimilating anemometer wind speed observations from wind farm turbines into a numerical weather forecast system. A technique was developed to circumvent the requirement of simultaneously ingesting the wind speed and direction in a data assimilation/weather forecasting system. A six-day case study revealed that assimilating wind speed can improve the 0-3 h wind speed (power) forecast by reducing the mean absolute error up to 0.5-0.6 m s(-1) (30-40%). (C) 2017 Elsevier Ltd. All rights reserved.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In recent years, adopting renewable energy, such as wind power, has become a national energy policy for many countries due to concerns of pollution and climate change from fossil fuel consumption. However, accurate prediction of wind is crucial in managing the power load. Numerical weather prediction (NWP) models are essential tools for wind prediction, but they need accurate initial conditions in order to produce an accurate forecast. However, NWP models are not guaranteed to have accurate initial conditions over wind farms in isolated locations. This study hypothesizes that short-term, 0-3 h, wind forecast can be improved by assimilating anemometer wind speed observations from wind farm turbines into a numerical weather forecast system. A technique was developed to circumvent the requirement of simultaneously ingesting the wind speed and direction in a data assimilation/weather forecasting system. A six-day case study revealed that assimilating wind speed can improve the 0-3 h wind speed (power) forecast by reducing the mean absolute error up to 0.5-0.6 m s(-1) (30-40%). (C) 2017 Elsevier Ltd. All rights reserved.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

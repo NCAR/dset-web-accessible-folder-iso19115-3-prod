@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:58.290436</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:41.482037</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Bulk microphysical schemes use the capacitance model for ice vapor growth in combination with mass-size relationships to determine the evolution of ice water content (IWC) and ice particle maximum dimension in time. These approaches are limited since a single axis length is used, the aspect ratio is usually held constant and mass-size relations have many available coefficients for similar ice types. Fixing the crystal aspect ratio severs the nonlinear link between aspect ratio changes and increased growth rates that occur during crystal growth. A method is presented here for predicting two crystal axes and the crystal aspect ratio in bulk models. Evolution of the ice mass mixing ratio is tied to the evolution of two axis length mixing ratios through the use of a historical axis ratio parameter containing memory of crystal shape. This parameter links the distributions of the two axes, allowing characterization of particle lengths using a single distribution. The method uses four prognostic variables: the mass and number mixing ratios, and two axis length mixing ratios. Development of the method is presented, with testing described in Part II.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Bulk microphysical schemes use the capacitance model for ice vapor growth in combination with mass-size relationships to determine the evolution of ice water content (IWC) and ice particle maximum dimension in time. These approaches are limited since a single axis length is used, the aspect ratio is usually held constant and mass-size relations have many available coefficients for similar ice types. Fixing the crystal aspect ratio severs the nonlinear link between aspect ratio changes and increased growth rates that occur during crystal growth. A method is presented here for predicting two crystal axes and the crystal aspect ratio in bulk models. Evolution of the ice mass mixing ratio is tied to the evolution of two axis length mixing ratios through the use of a historical axis ratio parameter containing memory of crystal shape. This parameter links the distributions of the two axes, allowing characterization of particle lengths using a single distribution. The method uses four prognostic variables: the mass and number mixing ratios, and two axis length mixing ratios. Development of the method is presented, with testing described in Part II.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

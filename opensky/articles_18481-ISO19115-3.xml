@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:24.442807</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:42.631379</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Nocturnal boundary-layer phenomena in regions of complex topography are extremely diverse and respond to a multiplicity of forcing factors, acting primarily at the mesoscale and microscale. The interaction between different physical processes, e.g., drainage promoted by near-surface cooling and ambient flow over topography in a statically stable environment, may give rise to special flow patterns, uncommon over flat terrain. Here we present a climatography of boundary-layer flows, based on a 2-year archive of simulations from a high-resolution operational mesoscale weather modelling system, 4DWX. The geographical context is Dugway Proving Ground, in north-western Utah, USA, target area of the field campaigns of the MATERHORN (Mountain Terrain Atmospheric Modeling and Observations Program) project. The comparison between model fields and available observations in 2012-2014 shows that the 4DWX model system provides a realistic representation of wind speed and direction in the area, at least in an average sense. Regions displaying strong spatial gradients in the field variables, thought to be responsible for enhanced nocturnal mixing, are typically located in transition areas from mountain sidewalls to adjacent plains. A key dynamical process in this respect is the separation of dynamically accelerated downslope flows from the surface.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Nocturnal boundary-layer phenomena in regions of complex topography are extremely diverse and respond to a multiplicity of forcing factors, acting primarily at the mesoscale and microscale. The interaction between different physical processes, e.g., drainage promoted by near-surface cooling and ambient flow over topography in a statically stable environment, may give rise to special flow patterns, uncommon over flat terrain. Here we present a climatography of boundary-layer flows, based on a 2-year archive of simulations from a high-resolution operational mesoscale weather modelling system, 4DWX. The geographical context is Dugway Proving Ground, in north-western Utah, USA, target area of the field campaigns of the MATERHORN (Mountain Terrain Atmospheric Modeling and Observations Program) project. The comparison between model fields and available observations in 2012-2014 shows that the 4DWX model system provides a realistic representation of wind speed and direction in the area, at least in an average sense. Regions displaying strong spatial gradients in the field variables, thought to be responsible for enhanced nocturnal mixing, are typically located in transition areas from mountain sidewalls to adjacent plains. A key dynamical process in this respect is the separation of dynamically accelerated downslope flows from the surface.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

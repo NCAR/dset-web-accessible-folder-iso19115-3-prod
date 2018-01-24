@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:21.528093</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:42.432175</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[Estimating population exposure to particulate matter during wildfires can be difficult because of insufficient monitoring data to capture the spatiotemporal variability of smoke plumes. Chemical transport models (CTMs) and satellite retrievals provide spatiotemporal data that may be useful in predicting PM2.5 during wildfires. We estimated PM2.5 concentrations during the 2008 northern California wildfires using 10-fold cross-validation (CV) to select an optimal prediction model from a set of 11 statistical algorithms and 29 predictor variables. The variables included CTM output, three measures of satellite aerosol optical depth, distance to the nearest fires, meteorological data, and land use, traffic, spatial location, and temporal characteristics. The generalized boosting model (GBM) with 29 predictor variables had the lowest CV root mean squared error and a CV-R-2 of 0.803. The most important predictor variable was the Geostationary Operational Environmental Satellite Aerosol/Smoke Product (GASP) Aerosol Optical Depth (AOD), followed by the CTM output and distance to the nearest fire cluster. Parsimonious models with various combinations of fewer variables also predicted PM2.5 well. Using machine learning algorithms to combine spatiotemp oral data from satellites and CTMs can reliably predict PM2.5 concentrations during a major wildfire event.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

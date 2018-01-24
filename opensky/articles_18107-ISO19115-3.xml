@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:18.375554</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:33.394064</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Transport of air from the troposphere to the stratosphere occurs primarily in the tropics, associated with the ascending branch of the Brewer-Dobson circulation. Here, we identify the transport of air masses from the surface, through the Asian monsoon, and deep into the stratosphere, using satellite observations of hydrogen cyanide (HCN), a tropospheric pollutant produced in biomass burning. A key factor in this identification is that HCN has a strong sink from contact with the ocean; much of the air in the tropical upper troposphere is relatively depleted in HCN, and hence, broad tropical upwelling cannot be the main source for the stratosphere. The monsoon circulation provides an effective pathway for pollution from Asia, India, and Indonesia to enter the global stratosphere.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Transport of air from the troposphere to the stratosphere occurs primarily in the tropics, associated with the ascending branch of the Brewer-Dobson circulation. Here, we identify the transport of air masses from the surface, through the Asian monsoon, and deep into the stratosphere, using satellite observations of hydrogen cyanide (HCN), a tropospheric pollutant produced in biomass burning. A key factor in this identification is that HCN has a strong sink from contact with the ocean; much of the air in the tropical upper troposphere is relatively depleted in HCN, and hence, broad tropical upwelling cannot be the main source for the stratosphere. The monsoon circulation provides an effective pathway for pollution from Asia, India, and Indonesia to enter the global stratosphere.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

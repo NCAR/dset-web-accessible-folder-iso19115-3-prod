@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:52.798211</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:34.475137</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -403,7 +403,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The turbulent mixing in thin ocean surface boundary layers (OSBL), which occupy the upper 100 m or so of the ocean, control the exchange of heat and trace gases between the atmosphere and ocean. Here we show that current parameterizations of this turbulent mixing lead to systematic and substantial errors in the depth of the OSBL in global climate models, which then leads to biases in sea surface temperature. One reason, we argue, is that current parameterizations are missing key surface-wave processes that force Langmuir turbulence that deepens the OSBL more rapidly than steady wind forcing. Scaling arguments are presented to identify two dimensionless parameters that measure the importance of wave forcing against wind forcing, and against buoyancy forcing. A global perspective on the occurrence of wave-forced turbulence is developed using re-analysis data to compute these parameters globally. The diagnostic study developed here suggests that turbulent energy available for mixing the OSBL is under-estimated without forcing by surface waves. Wave-forcing and hence Langmuir turbulence could be important over wide areas of the ocean and in all seasons in the Southern Ocean. We conclude that surface-wave-forced Langmuir turbulence is an important process in the OSBL that requires parameterization.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The turbulent mixing in thin ocean surface boundary layers (OSBL), which occupy the upper 100 m or so of the ocean, control the exchange of heat and trace gases between the atmosphere and ocean. Here we show that current parameterizations of this turbulent mixing lead to systematic and substantial errors in the depth of the OSBL in global climate models, which then leads to biases in sea surface temperature. One reason, we argue, is that current parameterizations are missing key surface-wave processes that force Langmuir turbulence that deepens the OSBL more rapidly than steady wind forcing. Scaling arguments are presented to identify two dimensionless parameters that measure the importance of wave forcing against wind forcing, and against buoyancy forcing. A global perspective on the occurrence of wave-forced turbulence is developed using re-analysis data to compute these parameters globally. The diagnostic study developed here suggests that turbulent energy available for mixing the OSBL is under-estimated without forcing by surface waves. Wave-forcing and hence Langmuir turbulence could be important over wide areas of the ocean and in all seasons in the Southern Ocean. We conclude that surface-wave-forced Langmuir turbulence is an important process in the OSBL that requires parameterization.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

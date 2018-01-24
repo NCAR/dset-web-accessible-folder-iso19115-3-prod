@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:05.566831</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:50.761950</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We present a synthesis of locally absent (or "missing") growth rings across the Northern Hemisphere based on 2359 publicly available tree ring-width records. During the last millennium, widespread absent rings have been observed only in the southwestern United States and were associated with severe drought. Absent rings were uncommon during the growing seasons that followed major volcanic eruptions, including A.D. 1259 and 1816. Because these features have occurred so rarely in high-latitude and high-elevation tree ring-width records, the hypothesis that the Northern Hemisphere tree ring-width network is compromised by dating errors due to unrecognized absent rings would require that many temperature-limited forest stands in the network exhibited a reaction to cold temperatures that have essentially never been observed anywhere. If however absent-ring formation were to increase in forests outside of the American Southwest, that behavior would represent an unprecedented response to environmental stress.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We present a synthesis of locally absent (or "missing") growth rings across the Northern Hemisphere based on 2359 publicly available tree ring-width records. During the last millennium, widespread absent rings have been observed only in the southwestern United States and were associated with severe drought. Absent rings were uncommon during the growing seasons that followed major volcanic eruptions, including A.D. 1259 and 1816. Because these features have occurred so rarely in high-latitude and high-elevation tree ring-width records, the hypothesis that the Northern Hemisphere tree ring-width network is compromised by dating errors due to unrecognized absent rings would require that many temperature-limited forest stands in the network exhibited a reaction to cold temperatures that have essentially never been observed anywhere. If however absent-ring formation were to increase in forests outside of the American Southwest, that behavior would represent an unprecedented response to environmental stress.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:14.446506</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:36.207797</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[A consistent weakening and poleward expansion of the Hadley circulation is diagnosed in the climate change simulations of the IPCC AR4 project. Associated with this widening is a poleward expansion of the subtropical dry zone. Simple scaling analysis supports the notion that the poleward extent of the Hadley cell is set by the location where the thermally driven jet first becomes baroclinically unstable. The expansion of the Hadley cell is caused by an increase in the subtropical static stability, which pushes poleward the baroclinic instability zone and hence the outer boundary of the Hadley cell.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

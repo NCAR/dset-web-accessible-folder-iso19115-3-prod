@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:12.440367</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:59.287855</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -219,7 +219,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper investigates the effect of the expected changes of tropospheric temperature profile on the dynamical and microphysical characteristics of individual summertime convective storms and on the processes of precipitation development in these storms. Two dynamically different clouds (a 'big' and a 'small' one) were simulated with the Regional Atmospheric Modeling System (RAMS v6.0). The differences between simulations of the clouds, developed in a present-day and in a modified environment are discussed. Macro- and microphysical evolution is examined in detail, and the changes in precipitation intensity and total rainfall volume are explained physically as a consequence of the temperature increase in the upper troposphere. Results show that the warming leads to a decrease of precipitation in the 'small' cloud case, while in the 'big' cloud case, warming leads to the increase of precipitation. The detailed analysis reveals that the main reason for the opposite direction of the impact of the projected tropospheric changes on different sized clouds lies in the ice phase evolution.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper investigates the effect of the expected changes of tropospheric temperature profile on the dynamical and microphysical characteristics of individual summertime convective storms and on the processes of precipitation development in these storms. Two dynamically different clouds (a 'big' and a 'small' one) were simulated with the Regional Atmospheric Modeling System (RAMS v6.0). The differences between simulations of the clouds, developed in a present-day and in a modified environment are discussed. Macro- and microphysical evolution is examined in detail, and the changes in precipitation intensity and total rainfall volume are explained physically as a consequence of the temperature increase in the upper troposphere. Results show that the warming leads to a decrease of precipitation in the 'small' cloud case, while in the 'big' cloud case, warming leads to the increase of precipitation. The detailed analysis reveals that the main reason for the opposite direction of the impact of the projected tropospheric changes on different sized clouds lies in the ice phase evolution.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

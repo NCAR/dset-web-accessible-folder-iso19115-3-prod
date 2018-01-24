@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:34.002084</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:09.000128</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -328,7 +328,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Satellite observations are analyzed to examine the correlations between aerosols and the tropical tropopause layer (TTL) temperature and water vapor. This study focuses on two regions, both of which are important pathways for the mass transport from the troposphere to the stratosphere and over which Asian pollution prevails: South and East Asia during boreal summer and the Maritime Continent during boreal winter. Using the upper-tropospheric carbon monoxide measurements from the Aura Microwave Limb Sounder as a proxy of aerosols to classify ice clouds as polluted or clean, the authors find that polluted clouds have a smaller ice effective radius and a higher temperature and specific humidity near the tropopause than clean clouds. The increase in water vapor appears to be related to the increase in temperature, as a result of increased aerosols. Meteorological differences between the clouds cannot explain the differences in temperature and water vapor for the polluted and clean clouds. The authors hypothesize that aerosol semidirect radiative heating and/or changes in cirrus radiative heating, resulting from aerosol microphysical effects on clouds, may contribute to the increased TTL temperature and thus increased water vapor in the polluted clouds.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Satellite observations are analyzed to examine the correlations between aerosols and the tropical tropopause layer (TTL) temperature and water vapor. This study focuses on two regions, both of which are important pathways for the mass transport from the troposphere to the stratosphere and over which Asian pollution prevails: South and East Asia during boreal summer and the Maritime Continent during boreal winter. Using the upper-tropospheric carbon monoxide measurements from the Aura Microwave Limb Sounder as a proxy of aerosols to classify ice clouds as polluted or clean, the authors find that polluted clouds have a smaller ice effective radius and a higher temperature and specific humidity near the tropopause than clean clouds. The increase in water vapor appears to be related to the increase in temperature, as a result of increased aerosols. Meteorological differences between the clouds cannot explain the differences in temperature and water vapor for the polluted and clean clouds. The authors hypothesize that aerosol semidirect radiative heating and/or changes in cirrus radiative heating, resulting from aerosol microphysical effects on clouds, may contribute to the increased TTL temperature and thus increased water vapor in the polluted clouds.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

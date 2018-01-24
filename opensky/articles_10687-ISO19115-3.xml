@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:30.794168</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:04.353973</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -388,7 +388,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Three recently-completed sets of simulations of multiple chemistry-climate models with greenhouse gases only, with all anthropogenic forcings, and with anthropogenic and natural forcings, allow the causes of observed stratospheric changes to be quantitatively assessed using detection and attribution techniques. The total column ozone response to halogenated ozone depleting substances and to natural forcings is detectable in observations, but the total column ozone response to greenhouse gas changes is not separately detectable. In the middle and upper stratosphere, simulated and observed SBUV/SAGE ozone changes are broadly consistent, and separate anthropogenic and natural responses are detectable in observations. The influence of ozone depleting substances and natural forcings can also be detected separately in observed lower stratospheric temperature, and the magnitudes of the simulated and observed responses to these forcings and to greenhouse gas changes are found to be consistent. In the mid and upper stratosphere the simulated natural and combined anthropogenic responses are detectable and consistent with observations, but the influences of greenhouse gases and ozone-depleting substances could not be separately detected in our analysis.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Three recently-completed sets of simulations of multiple chemistry-climate models with greenhouse gases only, with all anthropogenic forcings, and with anthropogenic and natural forcings, allow the causes of observed stratospheric changes to be quantitatively assessed using detection and attribution techniques. The total column ozone response to halogenated ozone depleting substances and to natural forcings is detectable in observations, but the total column ozone response to greenhouse gas changes is not separately detectable. In the middle and upper stratosphere, simulated and observed SBUV/SAGE ozone changes are broadly consistent, and separate anthropogenic and natural responses are detectable in observations. The influence of ozone depleting substances and natural forcings can also be detected separately in observed lower stratospheric temperature, and the magnitudes of the simulated and observed responses to these forcings and to greenhouse gas changes are found to be consistent. In the mid and upper stratosphere the simulated natural and combined anthropogenic responses are detectable and consistent with observations, but the influences of greenhouse gases and ozone-depleting substances could not be separately detected in our analysis.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:00.100942</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:43.871513</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -628,7 +628,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Atmospheric Chemistry and Climate Model Intercomparison Project (ACCMIP) consists of a series of time slice experiments targeting the long-term changes in atmospheric composition between 1850 and 2100, with the goal of documenting composition changes and the associated radiative forcing. In this overview paper, we introduce the ACCMIP activity, the various simulations performed (with a requested set of 14) and the associated model output. The 16 ACCMIP models have a wide range of horizontal and vertical resolutions, vertical extent, chemistry schemes and interaction with radiation and clouds. While anthropogenic and biomass burning emissions were specified for all time slices in the ACCMIP protocol, it is found that the natural emissions are responsible for a significant range across models, mostly in the case of ozone precursors. The analysis of selected present-day climate diagnostics (precipitation, temperature, specific humidity and zonal wind) reveals biases consistent with state-of-the-art climate models. The model-to-model comparison of changes in temperature, specific humidity and zonal wind between 1850 and 2000 and between 2000 and 2100 indicates mostly consistent results. However, models that are clear outliers are different enough from the other models to significantly affect their simulation of atmospheric chemistry.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Atmospheric Chemistry and Climate Model Intercomparison Project (ACCMIP) consists of a series of time slice experiments targeting the long-term changes in atmospheric composition between 1850 and 2100, with the goal of documenting composition changes and the associated radiative forcing. In this overview paper, we introduce the ACCMIP activity, the various simulations performed (with a requested set of 14) and the associated model output. The 16 ACCMIP models have a wide range of horizontal and vertical resolutions, vertical extent, chemistry schemes and interaction with radiation and clouds. While anthropogenic and biomass burning emissions were specified for all time slices in the ACCMIP protocol, it is found that the natural emissions are responsible for a significant range across models, mostly in the case of ozone precursors. The analysis of selected present-day climate diagnostics (precipitation, temperature, specific humidity and zonal wind) reveals biases consistent with state-of-the-art climate models. The model-to-model comparison of changes in temperature, specific humidity and zonal wind between 1850 and 2000 and between 2000 and 2100 indicates mostly consistent results. However, models that are clear outliers are different enough from the other models to significantly affect their simulation of atmospheric chemistry.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:06.138653</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:28.589863</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Phase maps for GSI/GEONET (Geographical Survey Institute/GPS Earth Observation NETwork) monuments and antennas obtained in Hatanaka et al. (2001) are evaluated by applying them to the analysis of GEONET. We used the same strategy as the GEONET routine analysis except for the antenna phase model. The coordinate solutions change by more than 10 cm in height when we apply the new phase maps. A scale change of up to 20 ppb is also observed for one of the sub-networks. The height bias is not constant but changing daily and seasonably, which implies that seasonal variations in the GPS solution are related to mis-modeling of the phase characteristics and that other environmental or geometric factors are coupled to the phase mis-modeling. Two more checks are done by comparing tropospheric delay estimates, and by conducting elevation angle cutoff tests. Both tests show dramatic improvement when the new phase maps are applied, as compared to applying the standard antenna phase maps. It is concluded from this experiment with almost 1000 GEONET sites, that monument/antenna specific phase characteristic calibrations are essential for any application of GPS to achieve the highest accuracy for Earth science applications.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Phase maps for GSI/GEONET (Geographical Survey Institute/GPS Earth Observation NETwork) monuments and antennas obtained in Hatanaka et al. (2001) are evaluated by applying them to the analysis of GEONET. We used the same strategy as the GEONET routine analysis except for the antenna phase model. The coordinate solutions change by more than 10 cm in height when we apply the new phase maps. A scale change of up to 20 ppb is also observed for one of the sub-networks. The height bias is not constant but changing daily and seasonably, which implies that seasonal variations in the GPS solution are related to mis-modeling of the phase characteristics and that other environmental or geometric factors are coupled to the phase mis-modeling. Two more checks are done by comparing tropospheric delay estimates, and by conducting elevation angle cutoff tests. Both tests show dramatic improvement when the new phase maps are applied, as compared to applying the standard antenna phase maps. It is concluded from this experiment with almost 1000 GEONET sites, that monument/antenna specific phase characteristic calibrations are essential for any application of GPS to achieve the highest accuracy for Earth science applications.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

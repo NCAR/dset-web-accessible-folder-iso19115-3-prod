@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:15.950598</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:29.724845</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A dynamical downscaling method for probabilistic regional-scale climate change projections was developed to cover the inherent uncertainty associated with multiple general circulation model (GCM) climate simulations. The climatological increments estimated by GCM results were statistically analyzed using the singular vector decomposition. Both positive and negative perturbations from the ensemble mean with the magnitudes of their standard deviations were extracted and added to the ensemble mean of the climatological increments. The analyzed multiple modal increments were utilized to create multiple modal lateral boundary conditions for the future climate regional climate model (RCM) simulations by adding them to reanalysis data. The incremental handling of GCM simulations realized approximated probabilistic climate change projections with the smaller number of RCM simulations. For the probabilistic analysis, three values of a climatological variable simulated by RCMs for a mode were analyzed under an assumption of linear response to the multiple modal perturbations.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A dynamical downscaling method for probabilistic regional-scale climate change projections was developed to cover the inherent uncertainty associated with multiple general circulation model (GCM) climate simulations. The climatological increments estimated by GCM results were statistically analyzed using the singular vector decomposition. Both positive and negative perturbations from the ensemble mean with the magnitudes of their standard deviations were extracted and added to the ensemble mean of the climatological increments. The analyzed multiple modal increments were utilized to create multiple modal lateral boundary conditions for the future climate regional climate model (RCM) simulations by adding them to reanalysis data. The incremental handling of GCM simulations realized approximated probabilistic climate change projections with the smaller number of RCM simulations. For the probabilistic analysis, three values of a climatological variable simulated by RCMs for a mode were analyzed under an assumption of linear response to the multiple modal perturbations.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

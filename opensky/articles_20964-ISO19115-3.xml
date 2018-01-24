@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:54.716459</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:28.937039</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Global Airglow (GLOW) model has been updated and extended to calculate thermospheric emissions in the far ultraviolet, including sources from daytime photoelectron-driven processes, nighttime recombination radiation, and auroral excitation. It can be run using inputs from empirical models of the neutral atmosphere and ionosphere or from numerical general circulation models of the coupled ionosphere-thermosphere system. It uses a solar flux module, photoelectron generation routine, and the Nagy-Banks two-stream electron transport algorithmto simultaneously handle energetic electron distributions from photon and auroral electron sources. It contains an ion-neutral chemistry module that calculates excited and ionized species densities and the resulting airglow volume emission rates. This paper describes the inputs, algorithms, and code structure of the model and demonstrates example outputs for daytime and auroral cases. Simulations of far ultraviolet emissions by the atomic oxygen doublet at 135.6 nm and the molecular nitrogen Lyman-Birge-Hopfield bands, as viewed from geostationary orbit, are shown, and model calculations are compared to limb-scan observations by the Global Ultraviolet Imager on the TIMED satellite. The GLOW model code is provided to the community through an open-source academic research license.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Global Airglow (GLOW) model has been updated and extended to calculate thermospheric emissions in the far ultraviolet, including sources from daytime photoelectron-driven processes, nighttime recombination radiation, and auroral excitation. It can be run using inputs from empirical models of the neutral atmosphere and ionosphere or from numerical general circulation models of the coupled ionosphere-thermosphere system. It uses a solar flux module, photoelectron generation routine, and the Nagy-Banks two-stream electron transport algorithmto simultaneously handle energetic electron distributions from photon and auroral electron sources. It contains an ion-neutral chemistry module that calculates excited and ionized species densities and the resulting airglow volume emission rates. This paper describes the inputs, algorithms, and code structure of the model and demonstrates example outputs for daytime and auroral cases. Simulations of far ultraviolet emissions by the atomic oxygen doublet at 135.6 nm and the molecular nitrogen Lyman-Birge-Hopfield bands, as viewed from geostationary orbit, are shown, and model calculations are compared to limb-scan observations by the Global Ultraviolet Imager on the TIMED satellite. The GLOW model code is provided to the community through an open-source academic research license.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

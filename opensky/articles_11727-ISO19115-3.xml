@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:39.963318</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:17.259108</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study uses an atmosphere-ocean fully coupled climate model to investigate possible remote impacts of Asian carbonaceous aerosols on US climate change. We took a 21st century mitigation scenario as a reference, and carried out three sets of sensitivity experiments in which the prescribed carbonaceous aerosol concentrations over a selected Asian domain are increased by a factor of two, six, and ten respectively during the period of 2005-2024. The resulting enhancement of atmospheric solar absorption (only the direct effect of aerosols is included) over Asia induces tropospheric heating anomalies that force large-scale circulation changes which, averaged over the twenty-year period, add as much as an additional 0.4 degrees C warming over the eastern US during winter and over most of the US during summer. Such remote impacts are confirmed by an atmosphere stand-alone experiment with specified heating anomalies over Asia that represent the direct effect of the carbon aerosols.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study uses an atmosphere-ocean fully coupled climate model to investigate possible remote impacts of Asian carbonaceous aerosols on US climate change. We took a 21st century mitigation scenario as a reference, and carried out three sets of sensitivity experiments in which the prescribed carbonaceous aerosol concentrations over a selected Asian domain are increased by a factor of two, six, and ten respectively during the period of 2005-2024. The resulting enhancement of atmospheric solar absorption (only the direct effect of aerosols is included) over Asia induces tropospheric heating anomalies that force large-scale circulation changes which, averaged over the twenty-year period, add as much as an additional 0.4 degrees C warming over the eastern US during winter and over most of the US during summer. Such remote impacts are confirmed by an atmosphere stand-alone experiment with specified heating anomalies over Asia that represent the direct effect of the carbon aerosols.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

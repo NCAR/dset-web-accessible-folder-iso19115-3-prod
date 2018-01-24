@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:10.115252</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:34.186881</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We compare three forcing data sets, all variants of National Centers for Environmental Prediction (NCEP) forcing, in global ice-ocean simulations and evaluate them for use in Arctic model studies. The data sets include the standard Arctic Ocean Model Intercomparison Project (AOMIP) protocol, standard NCEP forcing fields, and the data set of Large and Yeager (2004). We explore their performance in Arctic simulations using a global, coupled, sea ice-ocean model, and find that while these forcing data sets have many similarities, the resulting simulations present significant differences, most notably in ice thickness and ocean circulation. This underscores the sensitivity of Arctic sea ice and ocean to slight changes in environmental forcing parameters. This study also highlights the difficulties faced by the model intercomparison community attempting to disentangle simulation differences due to model physics from those caused by small differences in forcing parameters. Assessing the simulation uncertainty due to inaccuracies in the forcing data provides context for the simulation uncertainty associated with model physics.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We compare three forcing data sets, all variants of National Centers for Environmental Prediction (NCEP) forcing, in global ice-ocean simulations and evaluate them for use in Arctic model studies. The data sets include the standard Arctic Ocean Model Intercomparison Project (AOMIP) protocol, standard NCEP forcing fields, and the data set of Large and Yeager (2004). We explore their performance in Arctic simulations using a global, coupled, sea ice-ocean model, and find that while these forcing data sets have many similarities, the resulting simulations present significant differences, most notably in ice thickness and ocean circulation. This underscores the sensitivity of Arctic sea ice and ocean to slight changes in environmental forcing parameters. This study also highlights the difficulties faced by the model intercomparison community attempting to disentangle simulation differences due to model physics from those caused by small differences in forcing parameters. Assessing the simulation uncertainty due to inaccuracies in the forcing data provides context for the simulation uncertainty associated with model physics.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

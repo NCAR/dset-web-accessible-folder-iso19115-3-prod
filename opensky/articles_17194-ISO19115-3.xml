@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:59.402158</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:06.306873</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -264,7 +264,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A novel approach for using high-resolution, ensemble-based numerical weather prediction model data for the purpose of weather-related, probabilistic aviation impact forecasting is presented. Ensemble-based weather forecasting will be a common feature in the Next Generation Air Transportation System. The approach uses ensemble model data to create probabilistic information and extraction of aviation-relevant characteristics from ensemble weather forecast data. By providing a representative sample of potential aviation impact, air traffic can be ready to respond to anticipated best- and worst-case outcomes. Using convective storms as an example, this paper demonstrates a proof-of-concept. In principal, it is applicable to other aviation weather hazards.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A novel approach for using high-resolution, ensemble-based numerical weather prediction model data for the purpose of weather-related, probabilistic aviation impact forecasting is presented. Ensemble-based weather forecasting will be a common feature in the Next Generation Air Transportation System. The approach uses ensemble model data to create probabilistic information and extraction of aviation-relevant characteristics from ensemble weather forecast data. By providing a representative sample of potential aviation impact, air traffic can be ready to respond to anticipated best- and worst-case outcomes. Using convective storms as an example, this paper demonstrates a proof-of-concept. In principal, it is applicable to other aviation weather hazards.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

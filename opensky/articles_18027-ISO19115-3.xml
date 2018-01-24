@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:16.502930</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:30.534657</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper investigates the effects of magnetospheric mass loading on the control of dayside magnetic reconnection using global magnetospheric simulations. The study iys motivated by a recent debate on whether the integrated dayside magnetic reconnection rate is solely controlled by local processes (local-control theory) or global merging processes (global-control theory). The local-control theory suggests that the integrated dayside reconnection rate is controlled by the local plasma parameters. The global-control theory argues that the integrated rate is determined by the net force acting on the flow in the magnetosheath rather than the local microphysics. Controlled numerical simulations using idealized ionospheric outflow specifications suggest a possible mixed-control theory, that is, (1) a small amount of mass loading at the dayside magnetopause only redistributes local reconnection rate without a significant change in the integrated reconnection rate and (2) a large amount of mass loading reduces both local reconnection rates and the integrated reconnection rate on the dayside. The transition between global-control- and local-control-dominated regimes depends on (but not limited to) the source region, the amount, the location, and the spatial extension of the mass loading at the dayside magnetopause.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper investigates the effects of magnetospheric mass loading on the control of dayside magnetic reconnection using global magnetospheric simulations. The study iys motivated by a recent debate on whether the integrated dayside magnetic reconnection rate is solely controlled by local processes (local-control theory) or global merging processes (global-control theory). The local-control theory suggests that the integrated dayside reconnection rate is controlled by the local plasma parameters. The global-control theory argues that the integrated rate is determined by the net force acting on the flow in the magnetosheath rather than the local microphysics. Controlled numerical simulations using idealized ionospheric outflow specifications suggest a possible mixed-control theory, that is, (1) a small amount of mass loading at the dayside magnetopause only redistributes local reconnection rate without a significant change in the integrated reconnection rate and (2) a large amount of mass loading reduces both local reconnection rates and the integrated reconnection rate on the dayside. The transition between global-control- and local-control-dominated regimes depends on (but not limited to) the source region, the amount, the location, and the spatial extension of the mass loading at the dayside magnetopause.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

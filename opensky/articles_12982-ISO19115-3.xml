@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:09.727188</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:55.937476</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Observations and experiments in terrestrial ecosystems are important tools for obtaining a fundamental understanding of plant and ecosystem responses to changing climate, and for informing model design and parameterization. Models can complement empirical research by providing access to temporal and spatial scales that are otherwise inaccessible. Thus, close communication between modellers and empiricists is beneficial to both communities, and can facilitate the incorporation of the observed phenomena and processes into the models (Beier, 2004; Rustad, 2008). This workshop, co-hosted by ClimMani (Climate Change: Manipulation Experiments in Terrestrial Ecosystems) and INTERFACE (Integrated Network for Terrestrial Ecosystem Research on Feedbacks to the Atmosphere and ClimatE), brought together empiricists and modellers to report on the current state of ecosystem research and discuss how future observations and in situ experiments could best inform the development of global-scale models relevant to climate change research.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Observations and experiments in terrestrial ecosystems are important tools for obtaining a fundamental understanding of plant and ecosystem responses to changing climate, and for informing model design and parameterization. Models can complement empirical research by providing access to temporal and spatial scales that are otherwise inaccessible. Thus, close communication between modellers and empiricists is beneficial to both communities, and can facilitate the incorporation of the observed phenomena and processes into the models (Beier, 2004; Rustad, 2008). This workshop, co-hosted by ClimMani (Climate Change: Manipulation Experiments in Terrestrial Ecosystems) and INTERFACE (Integrated Network for Terrestrial Ecosystem Research on Feedbacks to the Atmosphere and ClimatE), brought together empiricists and modellers to report on the current state of ecosystem research and discuss how future observations and in situ experiments could best inform the development of global-scale models relevant to climate change research.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

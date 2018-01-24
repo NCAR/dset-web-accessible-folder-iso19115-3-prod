@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:32.956730</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:55.716521</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Large, complex codes such as earth system models are in a constant state of development, requiring frequent software quality assurance. The recently developed Community Earth System Model (CESM) Ensemble Consistency Test (CESM-ECT) provides an objective measure of statistical consistency for new CESM simulation runs, which has greatly facilitated error detection and rapid feedback for model users and developers. CESM-ECT determines consistency based on an ensemble of simulations that represent the same earth system model. Its statistical distribution embodies the natural variability of the model. Clearly the composition of the employed ensemble is critical to CESM-ECT's effectiveness. In this work we examine whether the composition of the CESM-ECT ensemble is adequate for characterizing the variability of a consistent climate. To this end, we introduce minimal code changes into CESM that should pass the CESM-ECT, and we evaluate the composition of the CESM-ECT ensemble in this context. We suggest an improved ensemble composition that better captures the accepted variability induced by code changes, compiler changes, and optimizations, thus more precisely facilitating the detection of errors in the CESM hardware or software stack as well as enabling more in-depth code optimization and the adoption of new technologies.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Large, complex codes such as earth system models are in a constant state of development, requiring frequent software quality assurance. The recently developed Community Earth System Model (CESM) Ensemble Consistency Test (CESM-ECT) provides an objective measure of statistical consistency for new CESM simulation runs, which has greatly facilitated error detection and rapid feedback for model users and developers. CESM-ECT determines consistency based on an ensemble of simulations that represent the same earth system model. Its statistical distribution embodies the natural variability of the model. Clearly the composition of the employed ensemble is critical to CESM-ECT's effectiveness. In this work we examine whether the composition of the CESM-ECT ensemble is adequate for characterizing the variability of a consistent climate. To this end, we introduce minimal code changes into CESM that should pass the CESM-ECT, and we evaluate the composition of the CESM-ECT ensemble in this context. We suggest an improved ensemble composition that better captures the accepted variability induced by code changes, compiler changes, and optimizations, thus more precisely facilitating the detection of errors in the CESM hardware or software stack as well as enabling more in-depth code optimization and the adoption of new technologies.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

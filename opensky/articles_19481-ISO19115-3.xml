@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:42.548029</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:10.709295</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Over the past decade or so, there has been much debate regarding how to evaluate climate model simulations with the goal of differentially weighting these results.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Over the past decade or so, there has been much debate regarding how to evaluate climate model simulations with the goal of differentially weighting these results.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

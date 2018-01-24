@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:51.727516</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:24.291200</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This commentary addresses the essential science and return-on-investment related to radiation risks for airline passengers and crews. The focus is on two recent NASA efforts to obtain data on radiation at and above commercial flight altitudes. Given that cosmic ray fluxes will likely be the highest since the dawn of the aviation age during the upcoming solar minimum, measuring high-altitude radiation dose and turning those data into useful information for aviation operators, schedulers, and frequent flyers will provide support for key decisions.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This commentary addresses the essential science and return-on-investment related to radiation risks for airline passengers and crews. The focus is on two recent NASA efforts to obtain data on radiation at and above commercial flight altitudes. Given that cosmic ray fluxes will likely be the highest since the dawn of the aviation age during the upcoming solar minimum, measuring high-altitude radiation dose and turning those data into useful information for aviation operators, schedulers, and frequent flyers will provide support for key decisions.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

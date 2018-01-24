@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:15.554248</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:42.135477</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -478,7 +478,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Eleven different single-column models (SCMs) and one cloud ensemble model (CEM) are driven by boundary conditions observed at the Atmospheric Radiation Measurement (ARM) program southern Great Plains site for a 17 day period during the summer of 1995. Comparison of the model simulations reveals common signatures identifiable as products of errors in the boundary conditions. Intermodel differences in the simulated temperature, humidity, cloud, precipitation, and radiative fluxes reflect differences in model resolution or physical parameterizations, although sensitive dependence on initial conditions can also contribute to intermodel differences. All models perform well at times but poorly at others. Although none of the SCM simulations stands out as superior to the others, the simulation by the CEM is in several respects in better agreement with the observations than the simulations by the SCMs. Nudging of the simulated temperature and humidity toward observations generally improves the simulated cloud and radiation fields as well as the simulated temperature and humidity but degrades the precipitation simulation for models with large temperature and humidity biases without nudging. Although some of the intermodel differences have not been explained, others have been identified as model problems that can be or have been corrected as a result of the comparison.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Eleven different single-column models (SCMs) and one cloud ensemble model (CEM) are driven by boundary conditions observed at the Atmospheric Radiation Measurement (ARM) program southern Great Plains site for a 17 day period during the summer of 1995. Comparison of the model simulations reveals common signatures identifiable as products of errors in the boundary conditions. Intermodel differences in the simulated temperature, humidity, cloud, precipitation, and radiative fluxes reflect differences in model resolution or physical parameterizations, although sensitive dependence on initial conditions can also contribute to intermodel differences. All models perform well at times but poorly at others. Although none of the SCM simulations stands out as superior to the others, the simulation by the CEM is in several respects in better agreement with the observations than the simulations by the SCMs. Nudging of the simulated temperature and humidity toward observations generally improves the simulated cloud and radiation fields as well as the simulated temperature and humidity but degrades the precipitation simulation for models with large temperature and humidity biases without nudging. Although some of the intermodel differences have not been explained, others have been identified as model problems that can be or have been corrected as a result of the comparison.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

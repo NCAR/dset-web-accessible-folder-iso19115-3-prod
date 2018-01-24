@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:04.106274</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:25.284468</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -219,7 +219,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A modified airborne research pod was flown on the NSF/NCAR C130 using a SABIR arm installation. Inlets for air sampling were installed on the pod and connected to air quality instrumentation for Condensation Nuclei, Ozone, Carbon Monoxide, Methane, Carbon Dioxide and water vapor. These locations were compared with traditional sampling locations on the C130 to determine if there was evidence for contamination (e.g. from cabin air or engine exhaust) at the pod location. Testing in various aircraft configurations, altitudes, airspeeds, and flight conditions (changing attack and sideslip) were conducted to determine if contamination or other operational concerns arose. Initial analysis of the data and comparison with the other sampling locations has not found evidence for significant contamination at the pod sampling location. The most serious concern arose during testing with the wheels extended, which produced extensive turbulence at the pod location which rendered that configuration unsuitable. For future installation on LC-130 (ski-equipped) aircraft, we recommend similar testing be conducted, because the skis may produce a turbulence effect which we were not able to simulate.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A modified airborne research pod was flown on the NSF/NCAR C130 using a SABIR arm installation. Inlets for air sampling were installed on the pod and connected to air quality instrumentation for Condensation Nuclei, Ozone, Carbon Monoxide, Methane, Carbon Dioxide and water vapor. These locations were compared with traditional sampling locations on the C130 to determine if there was evidence for contamination (e.g. from cabin air or engine exhaust) at the pod location. Testing in various aircraft configurations, altitudes, airspeeds, and flight conditions (changing attack and sideslip) were conducted to determine if contamination or other operational concerns arose. Initial analysis of the data and comparison with the other sampling locations has not found evidence for significant contamination at the pod sampling location. The most serious concern arose during testing with the wheels extended, which produced extensive turbulence at the pod location which rendered that configuration unsuitable. For future installation on LC-130 (ski-equipped) aircraft, we recommend similar testing be conducted, because the skis may produce a turbulence effect which we were not able to simulate.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

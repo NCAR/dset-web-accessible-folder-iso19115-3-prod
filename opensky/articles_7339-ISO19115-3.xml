@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:14.092943</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:40.036716</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A 1991 Study on Observational Systems discussed the need for universities to produce graduates capable of developing the next generation of observing systems and interpreting data from emerging complex sensors. It further emphasized the necessity for national centers to make facilities accessible for the education of these students. A follow-on study in 2000 indicated that these needs remain. We describe an ongoing partnership between scientists at the University of Nevada, Reno and the National Center for Atmospheric Research (NCAR) to include hands-on access to complex instruments as a complement of a graduate course in atmospheric measurement and instrumentation. On five occasions since 1989, the course Measurement in the Atmosphere has incorporated atmospheric observing facilities from NCAR or Colorado State University. The facilities were allocated by the National Science Foundation using the same proposal process normally used to request equipment for field experiments. The course instructor also arranged for research scientists to bring knowledge of state-of-the-art technology and their years of field experience to students. We anticipate our experiences will motivate university departments elsewhere to consider the value of instrumentation courses with similar goals.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A 1991 Study on Observational Systems discussed the need for universities to produce graduates capable of developing the next generation of observing systems and interpreting data from emerging complex sensors. It further emphasized the necessity for national centers to make facilities accessible for the education of these students. A follow-on study in 2000 indicated that these needs remain. We describe an ongoing partnership between scientists at the University of Nevada, Reno and the National Center for Atmospheric Research (NCAR) to include hands-on access to complex instruments as a complement of a graduate course in atmospheric measurement and instrumentation. On five occasions since 1989, the course Measurement in the Atmosphere has incorporated atmospheric observing facilities from NCAR or Colorado State University. The facilities were allocated by the National Science Foundation using the same proposal process normally used to request equipment for field experiments. The course instructor also arranged for research scientists to bring knowledge of state-of-the-art technology and their years of field experience to students. We anticipate our experiences will motivate university departments elsewhere to consider the value of instrumentation courses with similar goals.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

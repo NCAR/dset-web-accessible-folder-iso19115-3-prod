@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:26.165908</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:45.176614</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A meta-analysis on 192 peer-reviewed articles reporting on applications of the variable infiltration capacity (VIC) model in a distributed way reveals that the spatial resolution at which the model is applied has increased over the years, while the calibration and validation time interval has remained unchanged. We argue that the calibration and validation time interval should keep pace with the increase in spatial resolution in order to resolve the processes that are relevant at the applied spatial resolution. We identified six time concepts in hydrological models, which all impact the model results and conclusions. Process-based model evaluation is particularly relevant when models are applied at hyper-resolution, where stakeholders expect credible results both at a high spatial and temporal resolution.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A meta-analysis on 192 peer-reviewed articles reporting on applications of the variable infiltration capacity (VIC) model in a distributed way reveals that the spatial resolution at which the model is applied has increased over the years, while the calibration and validation time interval has remained unchanged. We argue that the calibration and validation time interval should keep pace with the increase in spatial resolution in order to resolve the processes that are relevant at the applied spatial resolution. We identified six time concepts in hydrological models, which all impact the model results and conclusions. Process-based model evaluation is particularly relevant when models are applied at hyper-resolution, where stakeholders expect credible results both at a high spatial and temporal resolution.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

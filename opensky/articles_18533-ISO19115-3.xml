@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:25.667392</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:44.482856</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Present-day weather modification technologies are scientifically based and have made controlled technological advances since the late 1990s, early 2000s. The technological advances directly related to weather modification have primarily been in the decision support and evaluation based software and modeling areas. However, there have been some technological advances in other fields that might now be advanced enough to start considering their usefulness for improving weather modification operational efficiency and evaluation accuracy. We consider the programmatic aspects underlying the development of new technologies for use in weather modification activities, identifying their potential benefits and limitations. We provide context and initial guidance for operators that might integrate unmanned aircraft systems technology in future weather modification operations.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Present-day weather modification technologies are scientifically based and have made controlled technological advances since the late 1990s, early 2000s. The technological advances directly related to weather modification have primarily been in the decision support and evaluation based software and modeling areas. However, there have been some technological advances in other fields that might now be advanced enough to start considering their usefulness for improving weather modification operational efficiency and evaluation accuracy. We consider the programmatic aspects underlying the development of new technologies for use in weather modification activities, identifying their potential benefits and limitations. We provide context and initial guidance for operators that might integrate unmanned aircraft systems technology in future weather modification operations.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

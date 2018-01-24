@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:28.664883</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:48.987616</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Numerical models are used to find approximate solutions to the coupled nonlinear partial differential equations associated with the prediction of the atmosphere. The model state can be represented by a grid of discrete values; subsets of grid points are assigned to tasks for parallel solution. Data assimilation algorithms are used to combine information from a model forecast with atmospheric observations to produce an improved state estimate. Observations are irregular in space and time, for instance following the track of a polar orbiting satellite. Ensemble assimilation algorithms use statistics from a set (ensemble) of forecasts to update the model state. All the challenges of heterogeneous grid computing and partitioning for atmospheric models are in play. In addition, the heterogeneous distribution of observations in space and time is a further source of irregular computing load while ensembles lead to increased storage and an additional communication pattern. Adjacent observations cannot be assimilated simultaneously leading to a mutual exclusion scheduling problem that interacts with the grid partitioning communication patterns and load balancing. Simulations of efficient approaches to the scheduling and grid partitioning problem for ensemble assimilation are presented. Prospects for implementation on accelerator architectures are also discussed.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Numerical models are used to find approximate solutions to the coupled nonlinear partial differential equations associated with the prediction of the atmosphere. The model state can be represented by a grid of discrete values; subsets of grid points are assigned to tasks for parallel solution. Data assimilation algorithms are used to combine information from a model forecast with atmospheric observations to produce an improved state estimate. Observations are irregular in space and time, for instance following the track of a polar orbiting satellite. Ensemble assimilation algorithms use statistics from a set (ensemble) of forecasts to update the model state. All the challenges of heterogeneous grid computing and partitioning for atmospheric models are in play. In addition, the heterogeneous distribution of observations in space and time is a further source of irregular computing load while ensembles lead to increased storage and an additional communication pattern. Adjacent observations cannot be assimilated simultaneously leading to a mutual exclusion scheduling problem that interacts with the grid partitioning communication patterns and load balancing. Simulations of efficient approaches to the scheduling and grid partitioning problem for ensemble assimilation are presented. Prospects for implementation on accelerator architectures are also discussed.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

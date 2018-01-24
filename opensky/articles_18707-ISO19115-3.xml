@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:22.338052</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:50.859143</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -328,7 +328,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper investigates a possible physical mechanism of the observed dayside high-latitude upper thermospheric wind using numerical simulations from the coupled magnetosphere-ionosphere-thermosphere (CMIT) model. Results show that the CMIT model is capable of reproducing the unexpected afternoon equatorward winds in the upper thermosphere observed by the High altitude Interferometer WIND observation (HIWIND) balloon. Models that lack adequate coupling produce poleward winds. The modeling study suggests that ion drag driven by magnetospheric lobe cell convection is another possible mechanism for turning the climatologically expected dayside poleward winds to the observed equatorward direction. The simulation results are validated by HIWIND, European Incoherent Scatter, and Defense Meteorological Satellite Program. The results suggest a strong momentum coupling between high-latitude ionospheric plasma circulation and thermospheric neutral winds in the summer hemisphere during positive IMF B-z periods, through the formation of magnetospheric lobe cell convection driven by persistent positive IMF B-y. The CMIT simulation adds important insight into the role of dayside coupling during intervals of otherwise quiet geomagnetic activity]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

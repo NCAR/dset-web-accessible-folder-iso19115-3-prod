@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:01.850841</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:09.756425</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We have conducted two experiments to determine precipitable water vapor (PWV) and sea surface heights from a cruising ship in the open ocean. During the first experiment (July 7-13, 02) GPS and radiosonde PWV agreed at the 2 mm rms level. During the second experiment (Aug 23-30, 03) GPS compared at 1.5 mm rms (1.1 mm GPS high bias) with eight ship-launched radiosondes and at 2.8 mm rms (1.2 mm GPS high bias) to a ship-based water vapor radiometer (WVR). We estimate that the vertical position of the GPS antenna in the open ocean was determined to better than 10 cm rms. After correcting for ocean tides GPS estimated sea surface heights from the second cruise compared to the CARIB97 geoid at the 32 cm level in the vertical. Because space based observations of PWV over the oceans generally require cloudless conditions and are accurate to about 5-10% we conclude that ship based GPS observations can provide additional useful meteorological information. Based on the 10-cm vertical position rms and the high horizontal resolution of ship-based positions we further conclude that useful geodetic information can be obtained from high accuracy GPS observations from ships in the open oceans.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We have conducted two experiments to determine precipitable water vapor (PWV) and sea surface heights from a cruising ship in the open ocean. During the first experiment (July 7-13, 02) GPS and radiosonde PWV agreed at the 2 mm rms level. During the second experiment (Aug 23-30, 03) GPS compared at 1.5 mm rms (1.1 mm GPS high bias) with eight ship-launched radiosondes and at 2.8 mm rms (1.2 mm GPS high bias) to a ship-based water vapor radiometer (WVR). We estimate that the vertical position of the GPS antenna in the open ocean was determined to better than 10 cm rms. After correcting for ocean tides GPS estimated sea surface heights from the second cruise compared to the CARIB97 geoid at the 32 cm level in the vertical. Because space based observations of PWV over the oceans generally require cloudless conditions and are accurate to about 5-10% we conclude that ship based GPS observations can provide additional useful meteorological information. Based on the 10-cm vertical position rms and the high horizontal resolution of ship-based positions we further conclude that useful geodetic information can be obtained from high accuracy GPS observations from ships in the open oceans.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

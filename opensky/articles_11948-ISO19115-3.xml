@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:44.490872</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:23.743994</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A discontinuous Galerkin model solving the shallow-water equations on the sphere is presented. It captures the dynamically varying key aspects of the flows by having the advantageous ability to locally modify the mesh as well as the order of interpolation within each element. The computational load is efficiently distributed among processors in parallel using a weighted recursive coordinate bisection strategy. A simple error estimator, based on the discontinuity of the variables at the interfaces between elements, is used to select the elements to be refined or coarsened. The flows are expressed in three-dimensional Cartesian coordinates, but tangentially constrained to the sphere by adding a Lagrange multiplier to the system of equations. The model is validated on classic atmospheric test cases and on the simulation of the February 2010 Chilean tsunami propagation. The proposed multiscale strategy is able to reduce the computational time by an order of magnitude on the tsunami simulation, clearly demonstrating its potential toward multiresolution three-dimensional oceanic and atmospheric applications.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A discontinuous Galerkin model solving the shallow-water equations on the sphere is presented. It captures the dynamically varying key aspects of the flows by having the advantageous ability to locally modify the mesh as well as the order of interpolation within each element. The computational load is efficiently distributed among processors in parallel using a weighted recursive coordinate bisection strategy. A simple error estimator, based on the discontinuity of the variables at the interfaces between elements, is used to select the elements to be refined or coarsened. The flows are expressed in three-dimensional Cartesian coordinates, but tangentially constrained to the sphere by adding a Lagrange multiplier to the system of equations. The model is validated on classic atmospheric test cases and on the simulation of the February 2010 Chilean tsunami propagation. The proposed multiscale strategy is able to reduce the computational time by an order of magnitude on the tsunami simulation, clearly demonstrating its potential toward multiresolution three-dimensional oceanic and atmospheric applications.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

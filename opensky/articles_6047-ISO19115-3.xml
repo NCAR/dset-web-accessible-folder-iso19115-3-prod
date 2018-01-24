@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:05.200998</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:27.193123</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A nonlocal quasi-phase radio occultation (RO) observation operator is evaluated in the assimilation of Challenging Minisatellite Payload (CHAMP) radio occultation refractivity using a Weather Research and Forecasting (WRF) ensemble data assimilation system at 50-km resolution. The nonlocal operator calculates the quasi phase through integration of the model refractivity along the observed ray paths. As a comparison, a local refractivity operator that calculates the model refractivity at the observed ray perigee points is also evaluated. The assimilation is done over North America during January 2003 in two different situations: in conjunction with dense, high-quality radiosonde observations and with only satellite cloud drift wind observations. Analyses of temperature and water vapor with the RO refractivity assimilated using the local and nonlocal operator are verified against nearby withheld radiosonde observations. The bias and RMS errors of the analyses of water vapor and temperature using the nonlocal operator are significantly reduced compared with those using the local operator in the troposphere when the only additional observations are satellite cloud drift winds. The reduction of the bias and RMS errors is reduced when radiosonde observations are assimilated.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A nonlocal quasi-phase radio occultation (RO) observation operator is evaluated in the assimilation of Challenging Minisatellite Payload (CHAMP) radio occultation refractivity using a Weather Research and Forecasting (WRF) ensemble data assimilation system at 50-km resolution. The nonlocal operator calculates the quasi phase through integration of the model refractivity along the observed ray paths. As a comparison, a local refractivity operator that calculates the model refractivity at the observed ray perigee points is also evaluated. The assimilation is done over North America during January 2003 in two different situations: in conjunction with dense, high-quality radiosonde observations and with only satellite cloud drift wind observations. Analyses of temperature and water vapor with the RO refractivity assimilated using the local and nonlocal operator are verified against nearby withheld radiosonde observations. The bias and RMS errors of the analyses of water vapor and temperature using the nonlocal operator are significantly reduced compared with those using the local operator in the troposphere when the only additional observations are satellite cloud drift winds. The reduction of the bias and RMS errors is reduced when radiosonde observations are assimilated.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:48.661543</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:29.179483</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Results from two perturbation experiments using the Community Climate System Model version 4 where the Southern Hemisphere zonal wind stress is increased are described. It is shown that the ocean response is in accord with experiments using much-higher-resolution ocean models that do not use an eddy parameterization. The key to obtaining an appropriate response in the coarse-resolution climate model is to specify a variable coefficient in the Gent and McWilliams eddy parameterization, rather than a constant value. This result contrasts with several recent papers that have suggested that coarse-resolution climate models cannot obtain an appropriate response.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Results from two perturbation experiments using the Community Climate System Model version 4 where the Southern Hemisphere zonal wind stress is increased are described. It is shown that the ocean response is in accord with experiments using much-higher-resolution ocean models that do not use an eddy parameterization. The key to obtaining an appropriate response in the coarse-resolution climate model is to specify a variable coefficient in the Gent and McWilliams eddy parameterization, rather than a constant value. This result contrasts with several recent papers that have suggested that coarse-resolution climate models cannot obtain an appropriate response.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:17.662275</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:47.004255</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[Coincident ocean drifter position and surface wind time series observed on hourly timescales are used to estimate upper ocean dissipation and atmosphere-ocean coupling coefficients in the Labrador Sea. A discrete-process model based on finite differences is used to regress ocean accelerations on ocean velocity estimates but fails because errors in the discrete approximations for the ocean velocities are biased and accumulate over time. Model identification is achieved by fitting a stochastic differential equation model based on classical upper ocean physics to the drifter data via the Kalman filter. Ocean parameters are shown to be nonidentifiable in a direct application to the Labrador Sea data when the known Coriolis parameter is not identified by the model. To address this, the ocean parameters are estimated in an empirical sequence. Data from the Ocean Storms experiment are used to estimate ocean dissipation in isolation from complexities introduced by strong and variable winds. Given a realistic estimate of the ocean dissipation, a second application in the Labrador Sea successfully estimates atmosphere-ocean coupling coefficients and reproduces the Coriolis parameter. Model assessments demonstrate the robustness of the parameter estimates. The model parameter estimates are discussed in comparison with Ekman theory and results from analyses of the global ocean surface drifter data set.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:07.979071</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:31.141296</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Analysis of Atmospheric Infrared Sounder (AIRS) measurements for five years shows significant longitudinal variations in the winter subtropical upper tropospheric relative humidity (RH), not only in the climatological mean values but also in the local distributions and temporal variability. The largest climatological mean values occur over the central-eastern Pacific and Atlantic oceans, where there is also large day-to-day variability. In contrast, there are smaller mean values, and smaller variability that occurs at lower frequency, over the Indian and western Pacific oceans. These differences in the distribution and variability of subtropical RH are related to differences in the key transport processes in the different sectors. The large variability and intermittent high and low RH over the central-eastern Pacific and Atlantic oceans are due to intrusions of high potential vorticity air into the subtropics. Intrusions seldom occur over the eastern Indian and western Pacific oceans, and here the subtropical RH is more closely linked to the location and strength of subtropical anticyclones. During northern winter there are eastward propagating features in the subtropical RH in this region that are out of phase with the tropical RH, and are caused by modulation of the subtropical anticyclones by the Madden-Julian Oscillation.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Analysis of Atmospheric Infrared Sounder (AIRS) measurements for five years shows significant longitudinal variations in the winter subtropical upper tropospheric relative humidity (RH), not only in the climatological mean values but also in the local distributions and temporal variability. The largest climatological mean values occur over the central-eastern Pacific and Atlantic oceans, where there is also large day-to-day variability. In contrast, there are smaller mean values, and smaller variability that occurs at lower frequency, over the Indian and western Pacific oceans. These differences in the distribution and variability of subtropical RH are related to differences in the key transport processes in the different sectors. The large variability and intermittent high and low RH over the central-eastern Pacific and Atlantic oceans are due to intrusions of high potential vorticity air into the subtropics. Intrusions seldom occur over the eastern Indian and western Pacific oceans, and here the subtropical RH is more closely linked to the location and strength of subtropical anticyclones. During northern winter there are eastward propagating features in the subtropical RH in this region that are out of phase with the tropical RH, and are caused by modulation of the subtropical anticyclones by the Madden-Julian Oscillation.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

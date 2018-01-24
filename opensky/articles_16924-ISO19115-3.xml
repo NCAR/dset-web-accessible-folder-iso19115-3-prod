@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:53.580842</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:57.651915</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Advanced Study Program (ASP) Summer Colloquium is an annual event hosted at the National Center for Atmospheric Research (NCAR) in Boulder, Colorado. From its inception in 1966, the summer program was designed to introduce doctoral students from all over the globe to emerging research areas related to the interests of the NCAR community. Its current goal and format is to gather approximately 25 graduate students and similar numbers of renowned scientists in atmospheric and related sciences to delve into a cutting-edge research topic for three weeks. Colloquia themes over the past 10 years have encompassed a broad range of topics, from marine ecosystems and regional biogeochemistry to statistical assessment of extreme weather events and space weather (www.asp.ucar.edu/colloquium/summer_colloquia.php). The colloquia provide an intensive learning experience, and the relationships fostered among participants often persist well beyond the event.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Advanced Study Program (ASP) Summer Colloquium is an annual event hosted at the National Center for Atmospheric Research (NCAR) in Boulder, Colorado. From its inception in 1966, the summer program was designed to introduce doctoral students from all over the globe to emerging research areas related to the interests of the NCAR community. Its current goal and format is to gather approximately 25 graduate students and similar numbers of renowned scientists in atmospheric and related sciences to delve into a cutting-edge research topic for three weeks. Colloquia themes over the past 10 years have encompassed a broad range of topics, from marine ecosystems and regional biogeochemistry to statistical assessment of extreme weather events and space weather (www.asp.ucar.edu/colloquium/summer_colloquia.php). The colloquia provide an intensive learning experience, and the relationships fostered among participants often persist well beyond the event.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:04.547384</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:49.578779</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>It has been suggested that the maximum entropy production (MEP) principle, or MEP hypothesis, could be an interesting tool to compute climatic variables like temperature. In this climatological context, a major limitation of MEP is that it is generally assumed to be applicable only for stationary systems. It is therefore often anticipated that critical climatic features like the seasonal cycle or climatic change cannot be represented within this framework. We discuss here several possibilities in order to introduce time- varying climatic problems using the MEP formalism. We will show that it is possible to formulate a MEP model which accounts for time evolution in a consistent way. This formulation leads to physically relevant results as long as the internal time scales associated with thermal inertia are small compared to the speed of external changes. We will focus on transient changes as well as on the seasonal cycle in a conceptual climate box-model in order to discuss the physical relevance of such an extension of the MEP framework.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[It has been suggested that the maximum entropy production (MEP) principle, or MEP hypothesis, could be an interesting tool to compute climatic variables like temperature. In this climatological context, a major limitation of MEP is that it is generally assumed to be applicable only for stationary systems. It is therefore often anticipated that critical climatic features like the seasonal cycle or climatic change cannot be represented within this framework. We discuss here several possibilities in order to introduce time- varying climatic problems using the MEP formalism. We will show that it is possible to formulate a MEP model which accounts for time evolution in a consistent way. This formulation leads to physically relevant results as long as the internal time scales associated with thermal inertia are small compared to the speed of external changes. We will focus on transient changes as well as on the seasonal cycle in a conceptual climate box-model in order to discuss the physical relevance of such an extension of the MEP framework.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

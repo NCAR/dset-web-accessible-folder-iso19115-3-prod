@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:36.291747</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:12.026585</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Simulations with the NCAR Thermosphere - Ionosphere - Electrodynamics General Circulation Model (TIE-GCM) have been carried out to understand the cause of strong thermospheric zonal wind at the magnetic dip equator. The simulations show that the zonal winds blow strongly at the magnetic dip equator instead of at the geographic equator due to the latitude structure of ion drag. The fast winds at the dip equator are seen throughout the altitude between 280 km and 600 km, and the wind above 400 km is mainly accelerated via viscosity. A test simulation without viscosity verifies that the extension of the fast equatorial wind to heights above 400 km is maintained by viscous coupling with the winds at lower altitudes, in spite of there being an ion-drag maximum instead of relative minimum at the dip equator at high altitudes. Basically, viscosity is not so large compared to the pressure gradient and ion drag, but dynamics causes the pressure gradient and ion drag approximately to balance, and viscosity becomes important. The simulation results are consistent with the observations by the DE-2 and CHAMP satellites. Therefore we suggest that the zonal wind velocity in the low latitude region is controlled by ion drag and viscosity.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Simulations with the NCAR Thermosphere - Ionosphere - Electrodynamics General Circulation Model (TIE-GCM) have been carried out to understand the cause of strong thermospheric zonal wind at the magnetic dip equator. The simulations show that the zonal winds blow strongly at the magnetic dip equator instead of at the geographic equator due to the latitude structure of ion drag. The fast winds at the dip equator are seen throughout the altitude between 280 km and 600 km, and the wind above 400 km is mainly accelerated via viscosity. A test simulation without viscosity verifies that the extension of the fast equatorial wind to heights above 400 km is maintained by viscous coupling with the winds at lower altitudes, in spite of there being an ion-drag maximum instead of relative minimum at the dip equator at high altitudes. Basically, viscosity is not so large compared to the pressure gradient and ion drag, but dynamics causes the pressure gradient and ion drag approximately to balance, and viscosity becomes important. The simulation results are consistent with the observations by the DE-2 and CHAMP satellites. Therefore we suggest that the zonal wind velocity in the low latitude region is controlled by ion drag and viscosity.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

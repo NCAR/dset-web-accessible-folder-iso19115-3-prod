@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:01.991996</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:09.940965</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Slant wet delay (SWD) measurements from a ground-based GPS observation network provide accurate, high-resolution moisture information for mesoscale analysis. In this study, we compared SWD simulated from a 9-km MM5 model in a prefrontal squall line event against actual GPS SWD observations by NOAA's GPS network. We found that the model simulation did not capture abrupt moisture changes and small-scale variations observed in the nonisotropic component of slant wet delays associated with the squall line. This result suggests that SWD measurements can be very useful in improving model moisture analysis.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Slant wet delay (SWD) measurements from a ground-based GPS observation network provide accurate, high-resolution moisture information for mesoscale analysis. In this study, we compared SWD simulated from a 9-km MM5 model in a prefrontal squall line event against actual GPS SWD observations by NOAA's GPS network. We found that the model simulation did not capture abrupt moisture changes and small-scale variations observed in the nonisotropic component of slant wet delays associated with the squall line. This result suggests that SWD measurements can be very useful in improving model moisture analysis.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

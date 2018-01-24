@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:46.855762</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:47.536510</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Citizen science promotes public participation in the discovery of new knowledge. Also known as volunteer monitoring or crowd sourcing, this form of public science has taken hold in astronomy, water-quality monitoring, wildlife surveys, and a host of other endeavors. The American Geophysical Union (AGU) devoted one Union session and two Informatics sessions at the 2014 Fall meeting to citizen science. More than 50 meeting abstracts referred to citizen science. In our own community, partnership between amateur and professional scientists is growing. Four recent reports highlight this trend.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Citizen science promotes public participation in the discovery of new knowledge. Also known as volunteer monitoring or crowd sourcing, this form of public science has taken hold in astronomy, water-quality monitoring, wildlife surveys, and a host of other endeavors. The American Geophysical Union (AGU) devoted one Union session and two Informatics sessions at the 2014 Fall meeting to citizen science. More than 50 meeting abstracts referred to citizen science. In our own community, partnership between amateur and professional scientists is growing. Four recent reports highlight this trend.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

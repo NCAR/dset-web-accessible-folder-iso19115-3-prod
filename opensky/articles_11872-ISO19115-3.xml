@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:42.824706</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:21.343244</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Oklahoma Mesonet surface wind data and the Arkansas Basin River Forecast Center (ABRFC) gridded hourly precipitation data from May to August, 1997, were used to demonstrate and evaluate a new method for the area-averaged near-cloud-base updraft and downdraft mass fluxes from statistics of the surface divergence field. When precipitation is used as a proxy for near-cloud-base mass fluxes, the preliminary results indicate that surface divergence is fairly well correlated with the precipitation and that the surface divergence lags the precipitation. These results suggest that it is possible to use the proposed method to infer the near-cloud-base mass fluxes. Two CRM simulations of convective systems were also used to evaluate the method. The results show there is a good correlation between the inferred and true near-cloud-base mass fluxes except for some differences in timing and at peak values. An alternative to the original near-cloud-base mass flux method using the surface divergence statistics is to use the surface precipitation.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Oklahoma Mesonet surface wind data and the Arkansas Basin River Forecast Center (ABRFC) gridded hourly precipitation data from May to August, 1997, were used to demonstrate and evaluate a new method for the area-averaged near-cloud-base updraft and downdraft mass fluxes from statistics of the surface divergence field. When precipitation is used as a proxy for near-cloud-base mass fluxes, the preliminary results indicate that surface divergence is fairly well correlated with the precipitation and that the surface divergence lags the precipitation. These results suggest that it is possible to use the proposed method to infer the near-cloud-base mass fluxes. Two CRM simulations of convective systems were also used to evaluate the method. The results show there is a good correlation between the inferred and true near-cloud-base mass fluxes except for some differences in timing and at peak values. An alternative to the original near-cloud-base mass flux method using the surface divergence statistics is to use the surface precipitation.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

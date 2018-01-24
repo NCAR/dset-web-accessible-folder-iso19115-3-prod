@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:01.991076</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:46.328530</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study explores the viability of parameter estimation in the comprehensive general circulation model ECHAM6 using ensemble Kalman filter data assimilation techniques. Four closure parameters of the cumulus-convection scheme are estimated using increasingly less idealized scenarios ranging from perfect-model experiments to the assimilation of conventional observations. Updated parameter values from experiments with real observations are used to assess the error of the model state on short 6 h forecasts and on climatological timescales. All parameters converge to their default values in single parameter perfect-model experiments. Estimating parameters simultaneously has a neutral effect on the success of the parameter estimation, but applying an imperfect model deteriorates the assimilation performance. With real observations, single parameter estimation generates the default parameter value in one case, converges to different parameter values in two cases, and diverges in the fourth case. The implementation of the two converging parameters influences the model state: Although the estimated parameter values lead to an overall error reduction on short timescales, the error of the model state increases on climatological timescales.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study explores the viability of parameter estimation in the comprehensive general circulation model ECHAM6 using ensemble Kalman filter data assimilation techniques. Four closure parameters of the cumulus-convection scheme are estimated using increasingly less idealized scenarios ranging from perfect-model experiments to the assimilation of conventional observations. Updated parameter values from experiments with real observations are used to assess the error of the model state on short 6 h forecasts and on climatological timescales. All parameters converge to their default values in single parameter perfect-model experiments. Estimating parameters simultaneously has a neutral effect on the success of the parameter estimation, but applying an imperfect model deteriorates the assimilation performance. With real observations, single parameter estimation generates the default parameter value in one case, converges to different parameter values in two cases, and diverges in the fourth case. The implementation of the two converging parameters influences the model state: Although the estimated parameter values lead to an overall error reduction on short timescales, the error of the model state increases on climatological timescales.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

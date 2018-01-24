@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:40.606194</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:38.151208</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The nature of flux emerging through the surface layers of the Sun is examined in the light of new high-resolution magnetic field observations from the Hinode space mission. The combination of vector magnetic field data and visible-light imaging from Hinode support the hypothesis that active region filaments are created as a result of an emerging, twisted flux system. The observations do not present strong evidence for an alternate hypothesis: that the filaments form as a result of localized shear flows at the photospheric level. Examination of the vector magnetic field at very small scales in emerging flux regions suggests that reconnection at the photospheric level and below, followed by submergence of flux, is a likely and essential part of the flux emergence process. The reconnection and flux submergence are driven by granular convection.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The nature of flux emerging through the surface layers of the Sun is examined in the light of new high-resolution magnetic field observations from the Hinode space mission. The combination of vector magnetic field data and visible-light imaging from Hinode support the hypothesis that active region filaments are created as a result of an emerging, twisted flux system. The observations do not present strong evidence for an alternate hypothesis: that the filaments form as a result of localized shear flows at the photospheric level. Examination of the vector magnetic field at very small scales in emerging flux regions suggests that reconnection at the photospheric level and below, followed by submergence of flux, is a likely and essential part of the flux emergence process. The reconnection and flux submergence are driven by granular convection.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

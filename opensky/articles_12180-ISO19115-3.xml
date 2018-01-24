@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:49.982418</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:30.893269</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study analyzes important aspects of the tropical Atlantic Ocean from simulations of the fourth version of the Community Climate System Model (CCSM4): the mean sea surface temperature (SST) and wind stress, the Atlantic warm pools, the principal modes of SST variability, and the heat budget in the Benguela region. The main goal was to assess the similarities and differences between the CCSM4 simulations and observations. The results indicate that the tropical Atlantic overall is realistic in CCSM4. However, there are still significant biases in the CCSM4 Atlantic SSTs, with a colder tropical North Atlantic and a hotter tropical South Atlantic, that are related to biases in the wind stress. These are also reflected in the Atlantic warm pools in April and September, with its volume greater than in observations in April and smaller than in observations in September. The variability of SSTs in the tropical Atlantic is well represented in CCSM4. However, in the equatorial and tropical South Atlantic regions, CCSM4 has two distinct modes of variability, in contrast to observed behavior. A model heat budget analysis of the Benguela region indicates that the variability of the upper-ocean temperature is dominated by vertical advection, followed by meridional advection.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study analyzes important aspects of the tropical Atlantic Ocean from simulations of the fourth version of the Community Climate System Model (CCSM4): the mean sea surface temperature (SST) and wind stress, the Atlantic warm pools, the principal modes of SST variability, and the heat budget in the Benguela region. The main goal was to assess the similarities and differences between the CCSM4 simulations and observations. The results indicate that the tropical Atlantic overall is realistic in CCSM4. However, there are still significant biases in the CCSM4 Atlantic SSTs, with a colder tropical North Atlantic and a hotter tropical South Atlantic, that are related to biases in the wind stress. These are also reflected in the Atlantic warm pools in April and September, with its volume greater than in observations in April and smaller than in observations in September. The variability of SSTs in the tropical Atlantic is well represented in CCSM4. However, in the equatorial and tropical South Atlantic regions, CCSM4 has two distinct modes of variability, in contrast to observed behavior. A model heat budget analysis of the Benguela region indicates that the variability of the upper-ocean temperature is dominated by vertical advection, followed by meridional advection.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

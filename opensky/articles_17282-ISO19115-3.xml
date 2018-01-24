@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:01.617047</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:09.431338</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A revision to the Holland (1980) parametric approach to modeling the radial profile of winds in hurricanes is presented. The approach adopted uses information readily available from hurricane archives or in hurricane warning information and the profile can be readily incorporated into existing parametric models of the hurricane surface wind field. The original model utilized central and environmental surface pressures, maximum winds, and radius of maximum winds. In the revision we include a capacity to incorporate additional wind observations at some radius within the hurricane circulation. If surface observations are used, then a surface wind profile will result, obviating the need for deriving a boundary layer reduction from the gradient wind level. The model has considerably less sensitivity to data errors compared to the original and is shown to reproduce hurricane reconnaissance and surface wind profiles with high accuracy.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A revision to the Holland (1980) parametric approach to modeling the radial profile of winds in hurricanes is presented. The approach adopted uses information readily available from hurricane archives or in hurricane warning information and the profile can be readily incorporated into existing parametric models of the hurricane surface wind field. The original model utilized central and environmental surface pressures, maximum winds, and radius of maximum winds. In the revision we include a capacity to incorporate additional wind observations at some radius within the hurricane circulation. If surface observations are used, then a surface wind profile will result, obviating the need for deriving a boundary layer reduction from the gradient wind level. The model has considerably less sensitivity to data errors compared to the original and is shown to reproduce hurricane reconnaissance and surface wind profiles with high accuracy.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

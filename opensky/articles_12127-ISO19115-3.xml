@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:48.914575</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:29.442551</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Climate change is projected to increase the number of days producing excessive heat across the southwestern United States, increasing population exposure to extreme heat events. Extreme heat is currently the main cause of weather-related mortality in the United States, where the negative health effects of extreme heat are disproportionately distributed among geographic regions and demographic groups. To more effectively identify vulnerability to extreme heat, complementary local-level studies of adaptive capacity within a population are needed to augment census-based demographic data and downscaled weather and climate models. This pilot study, conducted in August 2009 in Phoenix, Arizona, reports responses from 359 households in three U.S. Census block groups identified as heat-vulnerable based on heat distress calls, decedent records, and demographic characteristics. This study sought to understand social vulnerability to extreme heat at the local level as a complex phenomenon with explicit characterization of coping and adaptive capacity among urban residents.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Climate change is projected to increase the number of days producing excessive heat across the southwestern United States, increasing population exposure to extreme heat events. Extreme heat is currently the main cause of weather-related mortality in the United States, where the negative health effects of extreme heat are disproportionately distributed among geographic regions and demographic groups. To more effectively identify vulnerability to extreme heat, complementary local-level studies of adaptive capacity within a population are needed to augment census-based demographic data and downscaled weather and climate models. This pilot study, conducted in August 2009 in Phoenix, Arizona, reports responses from 359 households in three U.S. Census block groups identified as heat-vulnerable based on heat distress calls, decedent records, and demographic characteristics. This study sought to understand social vulnerability to extreme heat at the local level as a complex phenomenon with explicit characterization of coping and adaptive capacity among urban residents.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

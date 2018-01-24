@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:09.992146</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:56.313429</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The phase of the Interdecadal Pacific Oscillation (IPO) can influence the Tropospheric Biennial Oscillation (TBO) such that a shift from a negative to positive phase of the IPO was associated with a weakening of the TBO after the mid-1970s. Here it is shown that the most recent transition in the late 1990s of the IPO from positive to negative was associated with a larger-amplitude TBO in the Indo-Pacific region, thus confirming and strengthening the previous results by extending them to the opposite phase of the IPO. A major contributor to this change in the TBO has been an ongoing increase of sea surface temperatures (SSTs) in the Indian Ocean that contributes to stronger trade winds in the Pacific, one of the processes previously identified with strengthening the TBO. Such modulation of interannual variability by decadal timescale processes has implications for understanding possible skill of decadal climate predictions.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The phase of the Interdecadal Pacific Oscillation (IPO) can influence the Tropospheric Biennial Oscillation (TBO) such that a shift from a negative to positive phase of the IPO was associated with a weakening of the TBO after the mid-1970s. Here it is shown that the most recent transition in the late 1990s of the IPO from positive to negative was associated with a larger-amplitude TBO in the Indo-Pacific region, thus confirming and strengthening the previous results by extending them to the opposite phase of the IPO. A major contributor to this change in the TBO has been an ongoing increase of sea surface temperatures (SSTs) in the Indian Ocean that contributes to stronger trade winds in the Pacific, one of the processes previously identified with strengthening the TBO. Such modulation of interannual variability by decadal timescale processes has implications for understanding possible skill of decadal climate predictions.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

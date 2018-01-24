@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:39.396527</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:16.471744</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>With the growing use of tropical cyclone (TC) best-track information for weather and climate applications, it is important to understand the uncertainties that are contained in the TC position and intensity information. Here, an attempt is made to quantify the position uncertainty using National Hurricane Center (NHC) advisory information, as well as intensity uncertainty during times without aircraft data, by verifying Dvorak minimum sea level pressure (SLP) and maximum wind speed estimates during times with aircraft reconnaissance information during 2000-09. In a climatological sense, TC position uncertainty decreases for more intense TCs, while the uncertainty of intensity, measured by minimum SLP or maximum wind speed, increases with intensity. The standard deviation of satellite-based TC intensity estimates can be used as a predictor of the consensus intensity error when that consensus includes both Dvorak and microwave-based estimates, but not when it contains only Dvorak-based values. Whereas there has been a steady decrease in seasonal TC position uncertainty over the past 10 yr, which is likely due to additional data available to NHC forecasters, the seasonal TC minimum SLP and maximum wind speed values are fairly constant, with year-to-year variability due to the mean intensity of all TCs during that season and the frequency of aircraft reconnaissance.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[With the growing use of tropical cyclone (TC) best-track information for weather and climate applications, it is important to understand the uncertainties that are contained in the TC position and intensity information. Here, an attempt is made to quantify the position uncertainty using National Hurricane Center (NHC) advisory information, as well as intensity uncertainty during times without aircraft data, by verifying Dvorak minimum sea level pressure (SLP) and maximum wind speed estimates during times with aircraft reconnaissance information during 2000-09. In a climatological sense, TC position uncertainty decreases for more intense TCs, while the uncertainty of intensity, measured by minimum SLP or maximum wind speed, increases with intensity. The standard deviation of satellite-based TC intensity estimates can be used as a predictor of the consensus intensity error when that consensus includes both Dvorak and microwave-based estimates, but not when it contains only Dvorak-based values. Whereas there has been a steady decrease in seasonal TC position uncertainty over the past 10 yr, which is likely due to additional data available to NHC forecasters, the seasonal TC minimum SLP and maximum wind speed values are fairly constant, with year-to-year variability due to the mean intensity of all TCs during that season and the frequency of aircraft reconnaissance.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

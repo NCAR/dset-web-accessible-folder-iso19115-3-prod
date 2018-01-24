@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:21.482504</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:38.110343</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Large-eddy simulation of atmospheric boundary layers interacting with a coupled and resolved plant canopy reveals the influence of atmospheric stability variations from neutral to free convection on canopy turbulence. The design and implementation of a new multilevel canopy model is presented. Instantaneous fields from the simulations show that organized motions on the scale of the atmospheric boundary layer (ABL) depth bring high momentum down to canopy top, locally modulating the vertical shear of the horizontal wind. The evolution of these ABL-scale structures with increasing instability and their impact on vertical profiles of turbulence moments and integral length scales within and above the canopy are discussed. Linkages between atmospheric turbulence and biological control impact horizontal scalar source distributions. Decreasing spatial correlation between momentum and scalar fluxes with increasing instability results from ABL-scale structures spatially segregating momentum and scalar exchange at canopy top. In combination, these results suggest the need for roughness sublayer parameterizations to incorporate an additional length or time scale reflecting the influence of ABL-scale organized motions.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Large-eddy simulation of atmospheric boundary layers interacting with a coupled and resolved plant canopy reveals the influence of atmospheric stability variations from neutral to free convection on canopy turbulence. The design and implementation of a new multilevel canopy model is presented. Instantaneous fields from the simulations show that organized motions on the scale of the atmospheric boundary layer (ABL) depth bring high momentum down to canopy top, locally modulating the vertical shear of the horizontal wind. The evolution of these ABL-scale structures with increasing instability and their impact on vertical profiles of turbulence moments and integral length scales within and above the canopy are discussed. Linkages between atmospheric turbulence and biological control impact horizontal scalar source distributions. Decreasing spatial correlation between momentum and scalar fluxes with increasing instability results from ABL-scale structures spatially segregating momentum and scalar exchange at canopy top. In combination, these results suggest the need for roughness sublayer parameterizations to incorporate an additional length or time scale reflecting the influence of ABL-scale organized motions.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

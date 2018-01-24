@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:15.037536</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:39.786731</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this study, we employ a global coupled climate model to show that the Bering Strait is important to the variations of the thermohaline circulation. Three experiments are analyzed, a present day control run, and two freshwater hosing runs. Results show that as the thermohaline circulation weakens due to freshwater forcing in the northern North Atlantic, the Bering Strait throughflow weakens, and even reverses its direction, and the export of the Arctic freshwater into the northern North Atlantic is reduced, or the Arctic even takes freshwater from the latter, thus helping the thermohaline circulation to recover relatively quickly after the end of the freshwater hosing.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

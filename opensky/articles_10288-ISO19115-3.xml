@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:21.295726</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:50.601804</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A Doppler velocity dealiasing algorithm is developed within the storm-scale four-dimensional radar data assimilation system known as the Variational Doppler Radar Analysis System (VDRAS). The innovative aspect of the algorithm is that it dealiases Doppler velocity at each grid point independently by using three-dimensional wind fields obtained either from an objective analysis using conventional observations and mesoscale model output or from a rapidly updated analysis of VDRAS that assimilates radar data. This algorithm consists of three steps: preserving horizontal shear, global dealiasing using reference wind from the objective analysis or the VDRAS analysis, and local dealiasing. It is automated and intended to be used operationally for radar data assimilation using numerical weather prediction models. The algorithm was tested with 384 volumes of radar data observed from the Next Generation Weather Radar (NEXRAD) for a severe thunderstorm that occurred during 15 June 2002. It showed that the algorithm was effective in dealiasing large areas of aliased velocities when the wind from the objective analysis was used as the reference and that more accurate dealiasing was achieved by using the continuously cycled VDRAS analysis.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A Doppler velocity dealiasing algorithm is developed within the storm-scale four-dimensional radar data assimilation system known as the Variational Doppler Radar Analysis System (VDRAS). The innovative aspect of the algorithm is that it dealiases Doppler velocity at each grid point independently by using three-dimensional wind fields obtained either from an objective analysis using conventional observations and mesoscale model output or from a rapidly updated analysis of VDRAS that assimilates radar data. This algorithm consists of three steps: preserving horizontal shear, global dealiasing using reference wind from the objective analysis or the VDRAS analysis, and local dealiasing. It is automated and intended to be used operationally for radar data assimilation using numerical weather prediction models. The algorithm was tested with 384 volumes of radar data observed from the Next Generation Weather Radar (NEXRAD) for a severe thunderstorm that occurred during 15 June 2002. It showed that the algorithm was effective in dealiasing large areas of aliased velocities when the wind from the objective analysis was used as the reference and that more accurate dealiasing was achieved by using the continuously cycled VDRAS analysis.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

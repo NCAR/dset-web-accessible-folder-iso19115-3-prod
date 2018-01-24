@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:52.642217</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:25.670907</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Multiple lines of observational evidence indicate that the global climate has been getting warmer since the early 20th century. This warmer climate has led to a global mean sea level rise of about 18 cm during the 20th century, and over 6 cm for the first 15 years of the 21st century. Regionally the sea level rise is not uniform due in large part to internal climate variability. To better serve the community, the uncertainties of predicting/projecting regional sea level changes associated with internal climate variability need to be quantified. Previous research on this topic has used single-model large ensembles with perturbed atmospheric initial conditions (ICs). Here we compare uncertainties associated with perturbing ICs in just the atmosphere and just the ocean using a state-of-the-art coupled climate model. We find that by perturbing the oceanic ICs, the uncertainties in regional sea level changes increase compared to those with perturbed atmospheric ICs. Thus, in order for us to better assess the full spectrum of the impacts of such internal climate variability on regional and global sea level rise, approaches that involve perturbing both atmospheric and oceanic initial conditions are necessary.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Multiple lines of observational evidence indicate that the global climate has been getting warmer since the early 20th century. This warmer climate has led to a global mean sea level rise of about 18 cm during the 20th century, and over 6 cm for the first 15 years of the 21st century. Regionally the sea level rise is not uniform due in large part to internal climate variability. To better serve the community, the uncertainties of predicting/projecting regional sea level changes associated with internal climate variability need to be quantified. Previous research on this topic has used single-model large ensembles with perturbed atmospheric initial conditions (ICs). Here we compare uncertainties associated with perturbing ICs in just the atmosphere and just the ocean using a state-of-the-art coupled climate model. We find that by perturbing the oceanic ICs, the uncertainties in regional sea level changes increase compared to those with perturbed atmospheric ICs. Thus, in order for us to better assess the full spectrum of the impacts of such internal climate variability on regional and global sea level rise, approaches that involve perturbing both atmospheric and oceanic initial conditions are necessary.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

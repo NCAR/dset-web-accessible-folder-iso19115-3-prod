@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:56.400649</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:01.900950</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Forced with increased greenhouse gases, the South Asian summer monsoon (SASM) circulation weakens in climate models, which appears inconsistent with the projected increases in near-surface land-sea thermal contrasts during the 21st century. Our analysis shows that the SASM intensity positively correlates with the land-sea thermal contrast in both the lower- and upper-troposphere before year 2000; thereafter a reduced upper-tropospheric thermal contrast leads to a weakened SASM circulation, despite an increasing lower-tropospheric thermal contrast. The decrease in the upper-tropospheric thermal contrast mainly results from enhanced upper-tropospheric warming over the tropical Indian Ocean due to increased latent heating. The results suggest a crucial role of enhanced tropical convection in the weakening of SASM circulation and a weak influence of lower-tropospheric thermal contrast on the SASM under global warming. They also imply a less important role of near-surface processes over the Tibetan Plateau in the long-term SASM change during the 21st century.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Forced with increased greenhouse gases, the South Asian summer monsoon (SASM) circulation weakens in climate models, which appears inconsistent with the projected increases in near-surface land-sea thermal contrasts during the 21st century. Our analysis shows that the SASM intensity positively correlates with the land-sea thermal contrast in both the lower- and upper-troposphere before year 2000; thereafter a reduced upper-tropospheric thermal contrast leads to a weakened SASM circulation, despite an increasing lower-tropospheric thermal contrast. The decrease in the upper-tropospheric thermal contrast mainly results from enhanced upper-tropospheric warming over the tropical Indian Ocean due to increased latent heating. The results suggest a crucial role of enhanced tropical convection in the weakening of SASM circulation and a weak influence of lower-tropospheric thermal contrast on the SASM under global warming. They also imply a less important role of near-surface processes over the Tibetan Plateau in the long-term SASM change during the 21st century.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

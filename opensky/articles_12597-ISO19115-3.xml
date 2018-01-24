@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:59.715228</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:43.374357</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Motivated by the possible effects of spray on the drag felt by the ocean surface in high winds, we use direct numerical simulation coupled with Lagrangian particle tracking to investigate how suspended inertial particles alter momentum flux in an idealized turbulent flow. Turbulent Couette flow is used for this purpose since the momentum flux profile is constant across the domain height; a characteristic similar to the constant-flux layer in the atmospheric surface layer. The simulations show that when inertial particles are introduced into a turbulent flow, they carry a portion of the total vertical momentum flux, and that this contribution can be significant when the particle concentration is sufficiently large. The numerical setup is also used to evaluate a dispersed phase model that treats spray effects as equivalent to an increase in stable atmospheric stratification. Our simulations suggest that in the range of droplet sizes typically found near the air-sea interface, particle inertial effects dominate any particle-induced stratification effects.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Motivated by the possible effects of spray on the drag felt by the ocean surface in high winds, we use direct numerical simulation coupled with Lagrangian particle tracking to investigate how suspended inertial particles alter momentum flux in an idealized turbulent flow. Turbulent Couette flow is used for this purpose since the momentum flux profile is constant across the domain height; a characteristic similar to the constant-flux layer in the atmospheric surface layer. The simulations show that when inertial particles are introduced into a turbulent flow, they carry a portion of the total vertical momentum flux, and that this contribution can be significant when the particle concentration is sufficiently large. The numerical setup is also used to evaluate a dispersed phase model that treats spray effects as equivalent to an increase in stable atmospheric stratification. Our simulations suggest that in the range of droplet sizes typically found near the air-sea interface, particle inertial effects dominate any particle-induced stratification effects.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

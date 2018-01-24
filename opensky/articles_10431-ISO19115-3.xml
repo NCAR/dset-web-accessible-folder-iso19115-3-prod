@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:24.901234</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:55.928670</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -313,7 +313,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Previous studies report unexpected electron density reductions, termed "plasma caves," located underneath the equatorial ionization anomaly (EIA) crests. A radio occultation (RO) observation simulation experiment has been built to evaluate possible biases introduced by the spherical symmetry assumption in the standard (Abel) RO inversion processes. The experiment simulates the electron density profiles and reconstructs the plasma structure of the EIA at low latitudes, where the horizontal gradient is most significant. The reconstruction shows that artificial plasma caves are created underneath the EIA crests along with three density enhancements in adjacent latitudes. The artifact appears mainly below 250 km altitudes and becomes pronounced when the EIAs are well developed. Above that altitude, the two EIA features in the original (truth) model, the International Reference Ionosphere (IRI-2007), and in the inversion are similar, but the inversion reconstructs less distinct EIA crests with underestimation of the electron density. A simple correction has been introduced by multiplying the ratio between the truth and inversion with actual FORMOSAT-3/COSMIC observations. This initial correction shows that the artificial plasma caves are mitigated. Results also reveal that the RO technique is not suitable to detect or rule out possible existence of the plasma caves.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Previous studies report unexpected electron density reductions, termed "plasma caves," located underneath the equatorial ionization anomaly (EIA) crests. A radio occultation (RO) observation simulation experiment has been built to evaluate possible biases introduced by the spherical symmetry assumption in the standard (Abel) RO inversion processes. The experiment simulates the electron density profiles and reconstructs the plasma structure of the EIA at low latitudes, where the horizontal gradient is most significant. The reconstruction shows that artificial plasma caves are created underneath the EIA crests along with three density enhancements in adjacent latitudes. The artifact appears mainly below 250 km altitudes and becomes pronounced when the EIAs are well developed. Above that altitude, the two EIA features in the original (truth) model, the International Reference Ionosphere (IRI-2007), and in the inversion are similar, but the inversion reconstructs less distinct EIA crests with underestimation of the electron density. A simple correction has been introduced by multiplying the ratio between the truth and inversion with actual FORMOSAT-3/COSMIC observations. This initial correction shows that the artificial plasma caves are mitigated. Results also reveal that the RO technique is not suitable to detect or rule out possible existence of the plasma caves.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:10.535794</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:56.790388</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The coronal magnetic field is the primary driver of solar dynamic events. Linear and circular polarization signals of certain infrared coronal emission lines contain information about the magnetic field, and to access this information either a forward or an inversion method must be used. We study three coronal magnetic configurations that are applicable to polar-crown filament cavities by doing forward calculations to produce synthetic polarization data. We analyze these forward data to determine the distinguishing characteristics of each model. We conclude that it is possible to distinguish between cylindrical flux ropes, spheromak flux ropes, and sheared arcades using coronal polarization measurements. If one of these models is found to be consistent with observational measurements, it will mean positive identification of the magnetic morphology that surrounds certain quiescent filaments, which will lead to a better understanding of how they form and why they erupt.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The coronal magnetic field is the primary driver of solar dynamic events. Linear and circular polarization signals of certain infrared coronal emission lines contain information about the magnetic field, and to access this information either a forward or an inversion method must be used. We study three coronal magnetic configurations that are applicable to polar-crown filament cavities by doing forward calculations to produce synthetic polarization data. We analyze these forward data to determine the distinguishing characteristics of each model. We conclude that it is possible to distinguish between cylindrical flux ropes, spheromak flux ropes, and sheared arcades using coronal polarization measurements. If one of these models is found to be consistent with observational measurements, it will mean positive identification of the magnetic morphology that surrounds certain quiescent filaments, which will lead to a better understanding of how they form and why they erupt.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:14.860801</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:02.681037</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Indonesian Throughflow region (ITF) continues to pose significant research challenges with respect to its role in the global ocean circulation, the climate system, and the ecosystem sustainability in this region of maximum marine biodiversity. Complex geography and circulation features imply difficulties in both observational and numerical studies. In this work, results are presented from a newly developed high-resolution model for the Coral Triangle (CT) of the Indonesian/Philippines Archipelago specifically designed to address regional physical and ecological questions. Here, the model is used to quantify the transport through the various passages, sea surface temperature and mesoscale variability in the CT. Beyond extensive skill assessment exhibiting the model ability to represent many conspicuous features of the ITF, the high-resolution simulation is used to describe the mesoscale and submesoscale circulation through the application of Finite Size Lyapunov Exponents (FSLEs). The distribution of FSLEs is used to quantify the spatiotemporal variability in the regional mixing characteristics. The modeled seasonal and interannual variability of mixing suggests a link to large-scale climate signals such as ENSO and the Asian-Australian monsoon system.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Indonesian Throughflow region (ITF) continues to pose significant research challenges with respect to its role in the global ocean circulation, the climate system, and the ecosystem sustainability in this region of maximum marine biodiversity. Complex geography and circulation features imply difficulties in both observational and numerical studies. In this work, results are presented from a newly developed high-resolution model for the Coral Triangle (CT) of the Indonesian/Philippines Archipelago specifically designed to address regional physical and ecological questions. Here, the model is used to quantify the transport through the various passages, sea surface temperature and mesoscale variability in the CT. Beyond extensive skill assessment exhibiting the model ability to represent many conspicuous features of the ITF, the high-resolution simulation is used to describe the mesoscale and submesoscale circulation through the application of Finite Size Lyapunov Exponents (FSLEs). The distribution of FSLEs is used to quantify the spatiotemporal variability in the regional mixing characteristics. The modeled seasonal and interannual variability of mixing suggests a link to large-scale climate signals such as ENSO and the Asian-Australian monsoon system.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

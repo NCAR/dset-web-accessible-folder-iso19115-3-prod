@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:48.007640</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:18.781181</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Carbon uptake by the oceans and terrestrial biosphere regulates atmospheric carbon dioxide concentration and affects Earth's climate, yet global carbon cycle projections over the next century are highly uncertain. Here, we quantify and isolate the sources of projection uncertainty in cumulative ocean and terrestrial carbon uptake over 2006-2100 by performing an analysis of variance on output from an ensemble of 12 Earth System Models. Whereas uncertainty in projections of global ocean carbon accumulation by 2100 is &lt;100 Pg C and driven primarily by emission scenario, uncertainty in projections of global terrestrial carbon accumulation by 2100 is &gt;160 Pg C and driven primarily by model structure. To statistically reduce uncertainty in terrestrial carbon projections, we devise schemes to weight the models based on their ability to represent the observed change in carbon accumulation over 1959-2005. The weighting schemes incrementally reduce uncertainty to a minimum value of 125 Pg C in 2100, but this reduction requires an impractical observational constraint. We suggest that a focus on reducing multimodel spread may not make terrestrial carbon cycle projections more reliable, and instead advocate for accurate observations, improved process understanding, and a multitude of modeling approaches.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Carbon uptake by the oceans and terrestrial biosphere regulates atmospheric carbon dioxide concentration and affects Earth's climate, yet global carbon cycle projections over the next century are highly uncertain. Here, we quantify and isolate the sources of projection uncertainty in cumulative ocean and terrestrial carbon uptake over 2006-2100 by performing an analysis of variance on output from an ensemble of 12 Earth System Models. Whereas uncertainty in projections of global ocean carbon accumulation by 2100 is &lt;100 Pg C and driven primarily by emission scenario, uncertainty in projections of global terrestrial carbon accumulation by 2100 is &gt;160 Pg C and driven primarily by model structure. To statistically reduce uncertainty in terrestrial carbon projections, we devise schemes to weight the models based on their ability to represent the observed change in carbon accumulation over 1959-2005. The weighting schemes incrementally reduce uncertainty to a minimum value of 125 Pg C in 2100, but this reduction requires an impractical observational constraint. We suggest that a focus on reducing multimodel spread may not make terrestrial carbon cycle projections more reliable, and instead advocate for accurate observations, improved process understanding, and a multitude of modeling approaches.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

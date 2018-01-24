@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:22.139124</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:12.086116</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The modulation of nonmigrating tides on both the ionospheric equatorial ionization anomaly (EIA) and the equatorial thermosphere anomaly (ETA) is investigated on the basis of simulations from the Thermosphere Ionosphere Mesosphere Electrodynamics General Circulation Model (TIME-GCM). Our simulations demonstrate the distinct features of the EIA and ETA seen in observations after the inclusion of field-aligned ion drag in the model. Both the EIA and the ETA in the constant local time frame display an obvious zonal wave-4 structure associated with the modulation of nonmigrating tides. However, the modeled EIA and ETA show a primary zonal wave-1 structure when only the migrating tides are specified at the model lower boundary. Our simulations reveal that the zonal wave-4 structure of the ETA under both low and high solar activity conditions is mainly caused by the direct response of the upper thermosphere to the diurnal eastward wave number 3 and semidiurnal eastward wave number 2 nonmigrating tides from the lower atmosphere. There is a minor contribution from the ion-neutral coupling. The zonal wave-4 structure of the EIA is also caused by these nonmigrating tides but through the modulation of the neutral wind dynamo.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The modulation of nonmigrating tides on both the ionospheric equatorial ionization anomaly (EIA) and the equatorial thermosphere anomaly (ETA) is investigated on the basis of simulations from the Thermosphere Ionosphere Mesosphere Electrodynamics General Circulation Model (TIME-GCM). Our simulations demonstrate the distinct features of the EIA and ETA seen in observations after the inclusion of field-aligned ion drag in the model. Both the EIA and the ETA in the constant local time frame display an obvious zonal wave-4 structure associated with the modulation of nonmigrating tides. However, the modeled EIA and ETA show a primary zonal wave-1 structure when only the migrating tides are specified at the model lower boundary. Our simulations reveal that the zonal wave-4 structure of the ETA under both low and high solar activity conditions is mainly caused by the direct response of the upper thermosphere to the diurnal eastward wave number 3 and semidiurnal eastward wave number 2 nonmigrating tides from the lower atmosphere. There is a minor contribution from the ion-neutral coupling. The zonal wave-4 structure of the EIA is also caused by these nonmigrating tides but through the modulation of the neutral wind dynamo.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

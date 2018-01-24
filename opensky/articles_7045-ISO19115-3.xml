@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:14.714672</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:37.122048</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -373,7 +373,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[Regional air-sea fluxes of anthropogenic CO2 are estimated using a Green's function inversion method that combines data-based estimates of anthropogenic CO2 in the ocean with information about ocean transport and mixing from a suite of Ocean General Circulation Models (OGCMs). In order to quantify the uncertainty associated with the estimated fluxes owing to modeled transport and errors in the data, we employ 10 OGCMs and three scenarios representing biases in the data-based anthropogenic CO2 estimates. On the basis of the prescribed anthropogenic CO2 storage, we find a global uptake of 2.2 +/- 0.25 Pg C yr(-1), scaled to 1995. This error estimate represents the standard deviation of the models weighted by a CFC-based model skill score, which reduces the error range and emphasizes those models that have been shown to reproduce observed tracer concentrations most accurately. The greatest anthropogenic CO2 uptake occurs in the Southern Ocean and in the tropics. The flux estimates imply vigorous northward transport in the Southern Hemisphere, northward cross-equatorial transport, and equatorward transport at high northern latitudes. Compared with forward simulations, we find substantially more uptake in the Southern Ocean, less uptake in the Pacific Ocean, and less global uptake. The large-scale spatial pattern of the estimated flux is generally insensitive to possible biases in the data and the models employed. However, the global uptake scales approximately linearly with changes in the global anthropogenic CO2 inventory. Considerable uncertainties remain in some regions, particularly the Southern Ocean.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

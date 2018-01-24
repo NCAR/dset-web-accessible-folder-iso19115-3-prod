@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:26.939217</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:18.438621</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -328,7 +328,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Sunspots are a canonical marker of the Sun's internal magnetic field which flips polarity every ~22 yr. The principal variation of sunspots, an ~11 yr variation, modulates the amount of the magnetic field that pierces the solar surface and drives significant variations in our star's radiative, particulate, and eruptive output over that period. This paper presents observations from the Solar and Heliospheric Observatory and Solar Dynamics Observatory indicating that the 11 yr sunspot variation is intrinsically tied to the spatio-temporal overlap of the activity bands belonging to the 22 yr magnetic activity cycle. Using a systematic analysis of ubiquitous coronal brightpoints and the magnetic scale on which they appear to form, we show that the landmarks of sunspot cycle 23 can be explained by considering the evolution and interaction of the overlapping activity bands of the longer-scale variability.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Sunspots are a canonical marker of the Sun's internal magnetic field which flips polarity every ~22 yr. The principal variation of sunspots, an ~11 yr variation, modulates the amount of the magnetic field that pierces the solar surface and drives significant variations in our star's radiative, particulate, and eruptive output over that period. This paper presents observations from the Solar and Heliospheric Observatory and Solar Dynamics Observatory indicating that the 11 yr sunspot variation is intrinsically tied to the spatio-temporal overlap of the activity bands belonging to the 22 yr magnetic activity cycle. Using a systematic analysis of ubiquitous coronal brightpoints and the magnetic scale on which they appear to form, we show that the landmarks of sunspot cycle 23 can be explained by considering the evolution and interaction of the overlapping activity bands of the longer-scale variability.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:49.068973</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:29.663951</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -403,7 +403,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The final warming of the stratospheric polar vortex at the end of northern hemisphere winter is examined in ECMWF ERA-Interim reanalysis data and an ensemble of chemistry climate models, using 20 years of data from each. In some years the final warming is found to occur first in the mid-stratosphere, and in others to occur first in the upper stratosphere. The strength of the winter stratospheric polar vortex, refraction of planetary waves, and the altitudes at which the planetary waves break in the northern extratropics lead to this difference in the vertical profile of the final warming. Years in which the final warming occurs first in the mid-stratosphere show, on average, a more negative NAO pattern in April mean sea level pressure than years in which the warming occurs first in the upper stratosphere. Thus, in the northern hemisphere, additional predictive skill of tropospheric climate in April can be gained from a knowledge of the vertical profile of the stratospheric final warming.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The final warming of the stratospheric polar vortex at the end of northern hemisphere winter is examined in ECMWF ERA-Interim reanalysis data and an ensemble of chemistry climate models, using 20 years of data from each. In some years the final warming is found to occur first in the mid-stratosphere, and in others to occur first in the upper stratosphere. The strength of the winter stratospheric polar vortex, refraction of planetary waves, and the altitudes at which the planetary waves break in the northern extratropics lead to this difference in the vertical profile of the final warming. Years in which the final warming occurs first in the mid-stratosphere show, on average, a more negative NAO pattern in April mean sea level pressure than years in which the warming occurs first in the upper stratosphere. Thus, in the northern hemisphere, additional predictive skill of tropospheric climate in April can be gained from a knowledge of the vertical profile of the stratospheric final warming.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

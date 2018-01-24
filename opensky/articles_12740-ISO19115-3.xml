@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:03.137489</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:47.804525</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Madden-Julian oscillation poses great challenges to our understanding and prediction of tropical convection and the large-scale circulation. Several internationally coordinated activities were recently formed to meet the challenges from the perspectives of numerical simulations, prediction, diagnostics, and virtual and actual field campaigns. This article provides a brief description of these activities and their connections, with the motivation in part to encourage the next generation of physical scientists to help solve the grand challenging problem of the Madden-Julian oscillation.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Madden-Julian oscillation poses great challenges to our understanding and prediction of tropical convection and the large-scale circulation. Several internationally coordinated activities were recently formed to meet the challenges from the perspectives of numerical simulations, prediction, diagnostics, and virtual and actual field campaigns. This article provides a brief description of these activities and their connections, with the motivation in part to encourage the next generation of physical scientists to help solve the grand challenging problem of the Madden-Julian oscillation.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

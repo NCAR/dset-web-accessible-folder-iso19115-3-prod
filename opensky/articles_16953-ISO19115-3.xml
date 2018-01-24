@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:54.172326</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:58.651930</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Three-dimensional test particle simulation of energetic electrons (hundreds of keV to MeV), including both an initially trapped population and continuously injected population, driven by the Lyon-Fedder-Mobarry global MHD model coupled with Magnetosphere-Ionosphere Coupler/Solver boundary conditions, is performed for the 17 March 2013 storm. The electron trajectories are calculated and weighted using the ESA model for electron flux versus energy and L. The simulation captures the flux dropout at both GOES 13 and GOES 15 locations after a strong CME (coronal mass ejection)-shock arrival which produced a Dst = -132 nT storm, and recovery to the prestorm value later, consistent with GOES satellite measurements. This study provides the first 3-D test particle simulation combining the trapped and injected populations. The result demonstrates that including both populations in the simulation is essential to study the dynamics of the outer radiation belt over the typical day-long timescale of ring current development, main phase, and early recovery phase.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Three-dimensional test particle simulation of energetic electrons (hundreds of keV to MeV), including both an initially trapped population and continuously injected population, driven by the Lyon-Fedder-Mobarry global MHD model coupled with Magnetosphere-Ionosphere Coupler/Solver boundary conditions, is performed for the 17 March 2013 storm. The electron trajectories are calculated and weighted using the ESA model for electron flux versus energy and L. The simulation captures the flux dropout at both GOES 13 and GOES 15 locations after a strong CME (coronal mass ejection)-shock arrival which produced a Dst = -132 nT storm, and recovery to the prestorm value later, consistent with GOES satellite measurements. This study provides the first 3-D test particle simulation combining the trapped and injected populations. The result demonstrates that including both populations in the simulation is essential to study the dynamics of the outer radiation belt over the typical day-long timescale of ring current development, main phase, and early recovery phase.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

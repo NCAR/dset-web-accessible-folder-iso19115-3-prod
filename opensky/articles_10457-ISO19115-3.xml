@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:25.515332</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:56.788056</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Part 2 of our study examines the relative importance of radiative heating and latent heating in accounting for vertically propagating tides that impose longitude variability on mesosphere-lower thermosphere (MLT) winds, temperatures, and densities. Our results are based upon numerical simulations using the Global-Scale Wave Model (GSWM) and new tidal heating rates derived from International Satellite Cloud Climatology Project (ISCCP) radiative fluxes (see part 1), Tropical Rainfall Measuring Mission (TRMM) latent heating profiles, and TRMM rainfall rates. Contrary to previous results and general perceptions, we demonstrate that radiative heating is more important than latent heating in accounting for MLT longitude variability due to tides although latent heating causes some large nonmigrating tidal oscillations such as DE3. Through comparison with TIMED SABER temperature measurements, the model results are shown to approximate many observed features of this longitude variability.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Part 2 of our study examines the relative importance of radiative heating and latent heating in accounting for vertically propagating tides that impose longitude variability on mesosphere-lower thermosphere (MLT) winds, temperatures, and densities. Our results are based upon numerical simulations using the Global-Scale Wave Model (GSWM) and new tidal heating rates derived from International Satellite Cloud Climatology Project (ISCCP) radiative fluxes (see part 1), Tropical Rainfall Measuring Mission (TRMM) latent heating profiles, and TRMM rainfall rates. Contrary to previous results and general perceptions, we demonstrate that radiative heating is more important than latent heating in accounting for MLT longitude variability due to tides although latent heating causes some large nonmigrating tidal oscillations such as DE3. Through comparison with TIMED SABER temperature measurements, the model results are shown to approximate many observed features of this longitude variability.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

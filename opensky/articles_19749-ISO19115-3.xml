@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:48.923752</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:20.047420</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Stratospheric sulfate injections from explosive volcanic eruptions are a primary natural climate forcing. Improved statistical models can now capture and simulate dynamical relationships in temporal variations of binary data. Leveraging these new techniques, the presented analysis clearly indicates that the number of large eruptions in the most recent records of explosive volcanism cannot be considered to be fully random. Including dynamical dependence in our models improves their ability to reproduce the historical record and thus forms a strong basis for skill in statistical prediction. Possible geophysical mechanisms behind the identified multidecadal variations are discussed, including variations in the observed length of day.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Stratospheric sulfate injections from explosive volcanic eruptions are a primary natural climate forcing. Improved statistical models can now capture and simulate dynamical relationships in temporal variations of binary data. Leveraging these new techniques, the presented analysis clearly indicates that the number of large eruptions in the most recent records of explosive volcanism cannot be considered to be fully random. Including dynamical dependence in our models improves their ability to reproduce the historical record and thus forms a strong basis for skill in statistical prediction. Possible geophysical mechanisms behind the identified multidecadal variations are discussed, including variations in the observed length of day.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

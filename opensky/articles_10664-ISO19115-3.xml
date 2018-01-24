@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:30.258796</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:03.595446</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Nonviscous shallow water equations with topography are considered in one spatial dimension. The aim is to find boundary conditions which are physically suitable; that is, they let the waves move freely out of the domain and do not reflect them at the boundary in a nonphysical way (or a way that is believed to be nonphysical). Two types of boundary conditions, called linear and nonlinear, are proposed for two types of flows, namely subcritical and supercritical flows. The second aim in this article is to numerically implement these boundary conditions in a numerically effective way. This is achieved by a suitable extension of the central-upwind method for the spatial discretization and the Runge-Kutta method of second order for the time discretization. Several successful numerical experiments for which we tested the proposed boundary conditions and the numerical schemes are described. The topography was added to render the examples studied physically more interesting.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Nonviscous shallow water equations with topography are considered in one spatial dimension. The aim is to find boundary conditions which are physically suitable; that is, they let the waves move freely out of the domain and do not reflect them at the boundary in a nonphysical way (or a way that is believed to be nonphysical). Two types of boundary conditions, called linear and nonlinear, are proposed for two types of flows, namely subcritical and supercritical flows. The second aim in this article is to numerically implement these boundary conditions in a numerically effective way. This is achieved by a suitable extension of the central-upwind method for the spatial discretization and the Runge-Kutta method of second order for the time discretization. Several successful numerical experiments for which we tested the proposed boundary conditions and the numerical schemes are described. The topography was added to render the examples studied physically more interesting.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

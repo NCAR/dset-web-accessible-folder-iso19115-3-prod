@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:37.950264</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:14.360257</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Using 3 years worth of IASI (the Infrared Atmospheric Sounder Interferometer aboard METOP-A) measurements, we have identified 24 major events of uplift and transport of anthropogenic sulfur dioxide. These were all first observed over East Asia, and could be traced for over 60 hours. On 7 November 2010 a sulfur dioxide plume was observed over Northeast China and tracked for five days to North America. We discuss this event in detail with respect to build up; uplift and in-plume chemistry. We found a host of trace gas enhancements in the plume (SO2, CO, PAN, CH3OH, HCOOH and C2H2). A reasonable to very good agreement was found with MOZART-4 modeled ambient columns for all species except methanol, which was underestimated by the model by an order of magnitude. We calculate correlations of the different species and give observational evidence of secondary in-plume formation of methanol and PAN.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Using 3 years worth of IASI (the Infrared Atmospheric Sounder Interferometer aboard METOP-A) measurements, we have identified 24 major events of uplift and transport of anthropogenic sulfur dioxide. These were all first observed over East Asia, and could be traced for over 60 hours. On 7 November 2010 a sulfur dioxide plume was observed over Northeast China and tracked for five days to North America. We discuss this event in detail with respect to build up; uplift and in-plume chemistry. We found a host of trace gas enhancements in the plume (SO2, CO, PAN, CH3OH, HCOOH and C2H2). A reasonable to very good agreement was found with MOZART-4 modeled ambient columns for all species except methanol, which was underestimated by the model by an order of magnitude. We calculate correlations of the different species and give observational evidence of secondary in-plume formation of methanol and PAN.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

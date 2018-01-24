@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:56.741141</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:31.907692</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In numerical weather prediction and in reanalysis, robust approaches for observation bias correction are necessary to approach optimal data assimilation. The success of bias correction can be limited by model errors. Here, simultaneous estimation of observation and model biases, and the model state for an analysis, is explored with ensemble data assimilation and a simple model. The approach is based on parameter estimation using an augmented state in an ensemble adjustment Kalman filter. The observation biases are modeled with a linear term added to the forward operator. A bias is introduced in the forcing term of the model, leading to a model with complex errors that can be used in imperfect-model assimilation experiments.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In numerical weather prediction and in reanalysis, robust approaches for observation bias correction are necessary to approach optimal data assimilation. The success of bias correction can be limited by model errors. Here, simultaneous estimation of observation and model biases, and the model state for an analysis, is explored with ensemble data assimilation and a simple model. The approach is based on parameter estimation using an augmented state in an ensemble adjustment Kalman filter. The observation biases are modeled with a linear term added to the forward operator. A bias is introduced in the forcing term of the model, leading to a model with complex errors that can be used in imperfect-model assimilation experiments.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

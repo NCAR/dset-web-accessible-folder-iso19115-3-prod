@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:42.263828</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:40.567256</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The transport of very short-lived substances into the tropical upper troposphere and lower stratosphere is investigated by a three-dimensional chemical transport model using archived convective updraft mass fluxes (or detrainment rates) from the European Centre for Medium-Range Weather Forecast's ERA-Interim reanalysis. Large-scale vertical velocities are calculated from diabatic heating rates. With this approach we explicitly model the large scale subsidence in the tropical troposphere with convection taking place in fast and isolated updraft events. The model calculations agree generally well with observations of bromoform and methyl iodide from aircraft campaigns and with ozone and water vapor from sonde and satellite observations. Using a simplified treatment of dehydration and bromine product gas washout we give a range of 1.6 to 3 ppt for the contribution of bromoform to stratospheric bromine, assuming a uniform mixing ratio in the boundary layer of 1 ppt. We show that the most effective region for VSLS transport into the stratosphere is the West Pacific, accounting for about 55% of the bromine from bromoform transported into the stratosphere under the supposition of a uniformly distributed source.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The transport of very short-lived substances into the tropical upper troposphere and lower stratosphere is investigated by a three-dimensional chemical transport model using archived convective updraft mass fluxes (or detrainment rates) from the European Centre for Medium-Range Weather Forecast's ERA-Interim reanalysis. Large-scale vertical velocities are calculated from diabatic heating rates. With this approach we explicitly model the large scale subsidence in the tropical troposphere with convection taking place in fast and isolated updraft events. The model calculations agree generally well with observations of bromoform and methyl iodide from aircraft campaigns and with ozone and water vapor from sonde and satellite observations. Using a simplified treatment of dehydration and bromine product gas washout we give a range of 1.6 to 3 ppt for the contribution of bromoform to stratospheric bromine, assuming a uniform mixing ratio in the boundary layer of 1 ppt. We show that the most effective region for VSLS transport into the stratosphere is the West Pacific, accounting for about 55% of the bromine from bromoform transported into the stratosphere under the supposition of a uniformly distributed source.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

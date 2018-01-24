@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:07.695924</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:30.718711</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A project established at the National Institute of Water and Atmospheric Research (NIWA) in New Zealand is aimed at developing a prototype of a real-time landslide forecasting system. The objective is to predict temporal changes in landslide probability for shallow, rainfall-triggered landslides, based on quantitative weather forecasts from numerical weather prediction models. Global weather forecasts from the United Kingdom Met Office (MO) Numerical Weather Prediction model (NWP) are coupled with a regional data assimilating NWP model (New Zealand Limited Area Model, NZLAM) to forecast atmospheric variables such as precipitation and temperature up to 48 h ahead for all of New Zealand. The weather forecasts are fed into a hydrologic model to predict development of soil moisture and groundwater levels. The forecasted catchment-scale patterns in soil moisture and soil saturation are then downscaled using topographic indices to predict soil moisture status at the local scale, and an infinite slope stability model is applied to determine the triggering soil water threshold at a local scale. The model uses uncertainty of soil parameters to produce probabilistic forecasts of spatio-temporal landslide occurrence 48~h ahead. The system was evaluated for a damaging landslide event in New Zealand. Comparison with landslide densities estimated from satellite imagery resulted in hit rates of 70-90%.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A project established at the National Institute of Water and Atmospheric Research (NIWA) in New Zealand is aimed at developing a prototype of a real-time landslide forecasting system. The objective is to predict temporal changes in landslide probability for shallow, rainfall-triggered landslides, based on quantitative weather forecasts from numerical weather prediction models. Global weather forecasts from the United Kingdom Met Office (MO) Numerical Weather Prediction model (NWP) are coupled with a regional data assimilating NWP model (New Zealand Limited Area Model, NZLAM) to forecast atmospheric variables such as precipitation and temperature up to 48 h ahead for all of New Zealand. The weather forecasts are fed into a hydrologic model to predict development of soil moisture and groundwater levels. The forecasted catchment-scale patterns in soil moisture and soil saturation are then downscaled using topographic indices to predict soil moisture status at the local scale, and an infinite slope stability model is applied to determine the triggering soil water threshold at a local scale. The model uses uncertainty of soil parameters to produce probabilistic forecasts of spatio-temporal landslide occurrence 48~h ahead. The system was evaluated for a damaging landslide event in New Zealand. Comparison with landslide densities estimated from satellite imagery resulted in hit rates of 70-90%.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

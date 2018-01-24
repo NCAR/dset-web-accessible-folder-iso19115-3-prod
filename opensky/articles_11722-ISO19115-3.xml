@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:39.825781</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:17.074184</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -448,7 +448,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Data assimilation is the process by which observations are combined with short-range NWP model output to produce an analysis of the state of the atmosphere at a specified time. Since its inception in the late 1990s, the multiagency Weather Research and Forecasting (WRF) model effort has had a strong data assimilation component, dedicating two working groups to the subject. This article documents the history of the WRF data assimilation effort, and discusses the challenges associated with balancing academic, research, and operational data assimilation requirements in the context of the WRF effort to date. The WRF Model's Community Variational/Ensemble Data Assimilation System (WRFDA) has evolved over the past 10 years, and has resulted in over 30 refereed publications to date, as well as implementation in a wide range of real-time and operational NWP systems. This paper provides an overview of the scientific capabilities of WRFDA, and together with results from sample operation implementations at the U.S. Air Force Weather Agency (AFWA) and United Arab Emirates (UAE) Air Force and Air Defense Meteorological Department.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Data assimilation is the process by which observations are combined with short-range NWP model output to produce an analysis of the state of the atmosphere at a specified time. Since its inception in the late 1990s, the multiagency Weather Research and Forecasting (WRF) model effort has had a strong data assimilation component, dedicating two working groups to the subject. This article documents the history of the WRF data assimilation effort, and discusses the challenges associated with balancing academic, research, and operational data assimilation requirements in the context of the WRF effort to date. The WRF Model's Community Variational/Ensemble Data Assimilation System (WRFDA) has evolved over the past 10 years, and has resulted in over 30 refereed publications to date, as well as implementation in a wide range of real-time and operational NWP systems. This paper provides an overview of the scientific capabilities of WRFDA, and together with results from sample operation implementations at the U.S. Air Force Weather Agency (AFWA) and United Arab Emirates (UAE) Air Force and Air Defense Meteorological Department.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

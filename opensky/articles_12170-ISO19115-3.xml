@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:49.669708</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:30.462857</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The evolution of the pre-reversal enhancement in the vertical ion drift in the equatorial F region is described via an examination of the current systems determined from a coupled ionosphere thermosphere model. We find that the pre-reversal enhancement is produced by a reversal in the F region zonal wind that results in an additional upward current where the E region Pedersen conductivity is declining across the dusk sector. The continuity of the total current is maintained through an enhancement in the eastward zonal current and an associated upward drift of the ions.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The evolution of the pre-reversal enhancement in the vertical ion drift in the equatorial F region is described via an examination of the current systems determined from a coupled ionosphere thermosphere model. We find that the pre-reversal enhancement is produced by a reversal in the F region zonal wind that results in an additional upward current where the E region Pedersen conductivity is declining across the dusk sector. The continuity of the total current is maintained through an enhancement in the eastward zonal current and an associated upward drift of the ions.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

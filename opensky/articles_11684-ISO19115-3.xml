@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:38.868261</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:15.692717</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A 4-dimensional variational data assimilation (4D-Var) scheme for the HIgh Resolution Limited Area Model (HIRLAM) forecasting system is described in this article. The innovative approaches to the multi-incremental formulation, the weak digital filter constraint and the semi-Lagrangian time integration are highlighted with some details. The implicit dynamical structure functions are discussed using single observation experiments, and the sensitivity to various parameters of the 4D-Var formulation is illustrated. To assess the meteorological impact of HIRLAM 4D-Var, data assimilation experiments for five periods of 1 month each were performed, using HIRLAM 3D-Var as a reference. It is shown that the HIRLAM 4D-Var consistently out-performs the HIRLAM 3D-Var, in particular for cases with strong mesoscale storm developments. The computational performance of the HIRLAM 4D-Var is also discussed.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A 4-dimensional variational data assimilation (4D-Var) scheme for the HIgh Resolution Limited Area Model (HIRLAM) forecasting system is described in this article. The innovative approaches to the multi-incremental formulation, the weak digital filter constraint and the semi-Lagrangian time integration are highlighted with some details. The implicit dynamical structure functions are discussed using single observation experiments, and the sensitivity to various parameters of the 4D-Var formulation is illustrated. To assess the meteorological impact of HIRLAM 4D-Var, data assimilation experiments for five periods of 1 month each were performed, using HIRLAM 3D-Var as a reference. It is shown that the HIRLAM 4D-Var consistently out-performs the HIRLAM 3D-Var, in particular for cases with strong mesoscale storm developments. The computational performance of the HIRLAM 4D-Var is also discussed.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

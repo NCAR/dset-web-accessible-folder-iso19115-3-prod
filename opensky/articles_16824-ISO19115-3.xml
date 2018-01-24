@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:51.023798</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:53.785136</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Observed surface air temperatures over the contiguous U.S. for the second half of the twentieth century showed a slight cooling over the southeastern part of the country, the so-called "warming hole," while temperatures over the rest of the country warmed. This pattern reversed after 2000. Climate model simulations show that the disappearance of the warming hole in the early 2000s is likely associated with the transition of the Interdecadal Pacific Oscillation (IPO) phase from positive to negative in the tropical Pacific in the late 1990s, coincident with the early 2000s slowdown of the warming trend in globally averaged surface air temperature. Analysis of a specified convective heating anomaly sensitivity experiment in an atmosphere-only model traces the disappearance of the warming hole to negative sea surface temperature anomalies and consequent negative precipitation and convective heating anomalies in the central equatorial Pacific Ocean associated with the negative phase of the IPO after 2000.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Observed surface air temperatures over the contiguous U.S. for the second half of the twentieth century showed a slight cooling over the southeastern part of the country, the so-called "warming hole," while temperatures over the rest of the country warmed. This pattern reversed after 2000. Climate model simulations show that the disappearance of the warming hole in the early 2000s is likely associated with the transition of the Interdecadal Pacific Oscillation (IPO) phase from positive to negative in the tropical Pacific in the late 1990s, coincident with the early 2000s slowdown of the warming trend in globally averaged surface air temperature. Analysis of a specified convective heating anomaly sensitivity experiment in an atmosphere-only model traces the disappearance of the warming hole to negative sea surface temperature anomalies and consequent negative precipitation and convective heating anomalies in the central equatorial Pacific Ocean associated with the negative phase of the IPO after 2000.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

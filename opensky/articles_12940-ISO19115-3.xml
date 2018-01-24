@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:08.625644</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:54.557985</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The role of planetary waves in causing stratospheric sudden warmings (SSWs) is well understood and quantified. However, recent studies have indicated that secondary planetary waves are excited in the mesosphere and lower thermosphere following SSWs. We use a version of the Whole Atmosphere Community Climate Model constrained by reanalysis data below 50 km to simulate the SSW of January 2012, a minor warming followed by the formation of an elevated stratopause. We document the occurrence of enhanced Eliassen-Palm flux divergence in the mesosphere and lower thermosphere associated with faster, secondary westward-propagating planetary waves of wave number 1 and period &lt;10 days. We confirm the presence of these secondary planetary waves using observations made by the Sounding of the Atmosphere using the Broadband Emission Radiometry instrument onboard NASA's Thermosphere-Ionosphere-Mesosphere Energetics and Dynamics satellite.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The role of planetary waves in causing stratospheric sudden warmings (SSWs) is well understood and quantified. However, recent studies have indicated that secondary planetary waves are excited in the mesosphere and lower thermosphere following SSWs. We use a version of the Whole Atmosphere Community Climate Model constrained by reanalysis data below 50 km to simulate the SSW of January 2012, a minor warming followed by the formation of an elevated stratopause. We document the occurrence of enhanced Eliassen-Palm flux divergence in the mesosphere and lower thermosphere associated with faster, secondary westward-propagating planetary waves of wave number 1 and period &lt;10 days. We confirm the presence of these secondary planetary waves using observations made by the Sounding of the Atmosphere using the Broadband Emission Radiometry instrument onboard NASA's Thermosphere-Ionosphere-Mesosphere Energetics and Dynamics satellite.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

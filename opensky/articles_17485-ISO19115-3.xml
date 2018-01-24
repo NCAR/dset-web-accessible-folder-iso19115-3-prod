@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:06.651562</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:16.386703</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Asian soybean rust (SBR) is caused by Phakopsora pachyrhizi Syd. &amp; P. Syd. This disease results in substantial annual economic losses. Researchers in various Asian, South American, and African countries have reported that soybean (Glycine max (L.) Merr.) yield losses due to SBR could be as high as 40 to 80% in a field (7,25,26,33,61,71,73). SBR has drawn a great deal of attention and interest from agricultural scientists in the United States since it was reported in South America in 2001 (53,73). This disease is significant in two distinctive ways. First, SBR causes significant yield loss; and second, it is epidemiologically important because of the unique characteristics that define its ecology and risk assessment. In the past few years, there have been significant increases in our understanding of this pathosystem. The goals of this article are to summarize several aspects of our current knowledge of the different attributes of this pathosystem that may drive epidemics of SBR and to discuss how this research has been integrated across regions.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Asian soybean rust (SBR) is caused by Phakopsora pachyrhizi Syd. & P. Syd. This disease results in substantial annual economic losses. Researchers in various Asian, South American, and African countries have reported that soybean (Glycine max (L.) Merr.) yield losses due to SBR could be as high as 40 to 80% in a field (7,25,26,33,61,71,73). SBR has drawn a great deal of attention and interest from agricultural scientists in the United States since it was reported in South America in 2001 (53,73). This disease is significant in two distinctive ways. First, SBR causes significant yield loss; and second, it is epidemiologically important because of the unique characteristics that define its ecology and risk assessment. In the past few years, there have been significant increases in our understanding of this pathosystem. The goals of this article are to summarize several aspects of our current knowledge of the different attributes of this pathosystem that may drive epidemics of SBR and to discuss how this research has been integrated across regions.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:30.319196</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:03.681688</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We discuss an optical fiber-based continuous-wave coherent laser system for measuring the wind speed in undisturbed air ahead of an aircraft. The operational principles of the instrument are described, and estimates of performance are presented. The instrument is demonstrated as a single line of sight, and data from the inaugural test flight of August 2010 is presented. The system was successfully operated under various atmospheric conditions, including cloud and clear air up to 12 km (40,300 ft).</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We discuss an optical fiber-based continuous-wave coherent laser system for measuring the wind speed in undisturbed air ahead of an aircraft. The operational principles of the instrument are described, and estimates of performance are presented. The instrument is demonstrated as a single line of sight, and data from the inaugural test flight of August 2010 is presented. The system was successfully operated under various atmospheric conditions, including cloud and clear air up to 12 km (40,300 ft).]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

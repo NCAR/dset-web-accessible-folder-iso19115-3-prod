@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:50.655402</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:22.708886</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Peroxyacetyl nitrate (PAN) plays a fundamental role in the global ozone budget and is the primary reservoir of tropospheric reactive nitrogen over much of the globe. However, large uncertainties exist in how surface emissions, transport and lightning affect the global distribution, particularly in the tropics. We present new satellite observations of free-tropospheric PAN in the tropics from the Aura Tropospheric Emission Spectrometer. This dataset allows us to test expected spatiotemporal distributions that have been predicted by models but previously not well observed. We compare here with the GEOS-Chem model with updates specifically for PAN. We observe an austral springtime maximum over the tropical Atlantic, a feature that model predictions attribute primarily to lightning. Over northern central Africa in December, observations show strong interannual variability, despite low variation in fire emissions, that we attribute to the combined effects of changes in biogenic emissions and lightning. We observe small enhancements in free-tropospheric PAN corresponding to the extreme burning event over Indonesia associated with the 2006 El Nino.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Peroxyacetyl nitrate (PAN) plays a fundamental role in the global ozone budget and is the primary reservoir of tropospheric reactive nitrogen over much of the globe. However, large uncertainties exist in how surface emissions, transport and lightning affect the global distribution, particularly in the tropics. We present new satellite observations of free-tropospheric PAN in the tropics from the Aura Tropospheric Emission Spectrometer. This dataset allows us to test expected spatiotemporal distributions that have been predicted by models but previously not well observed. We compare here with the GEOS-Chem model with updates specifically for PAN. We observe an austral springtime maximum over the tropical Atlantic, a feature that model predictions attribute primarily to lightning. Over northern central Africa in December, observations show strong interannual variability, despite low variation in fire emissions, that we attribute to the combined effects of changes in biogenic emissions and lightning. We observe small enhancements in free-tropospheric PAN corresponding to the extreme burning event over Indonesia associated with the 2006 El Nino.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

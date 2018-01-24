@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:45.209034</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:44.927331</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Despite the large energy input from surface evaporation, the moist static energy (MSE) of the tropical boundary layer remains relatively constant on large spatial and temporal scales due to lifting of vapor by cloudy updrafts and the addition of dry air from the layers above. Arakawa and Schubert (1974) suggested that drying is due mainly to clear-air turbulent entrainment between cloudy updrafts, while Raymond (1995) described drying due mainly to convective downdrafts. We used cloud-resolving numerical simulations to investigate the transport of MSE into the boundary layer and found turbulent entrainment between clouds to be the dominant process.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Despite the large energy input from surface evaporation, the moist static energy (MSE) of the tropical boundary layer remains relatively constant on large spatial and temporal scales due to lifting of vapor by cloudy updrafts and the addition of dry air from the layers above. Arakawa and Schubert (1974) suggested that drying is due mainly to clear-air turbulent entrainment between cloudy updrafts, while Raymond (1995) described drying due mainly to convective downdrafts. We used cloud-resolving numerical simulations to investigate the transport of MSE into the boundary layer and found turbulent entrainment between clouds to be the dominant process.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

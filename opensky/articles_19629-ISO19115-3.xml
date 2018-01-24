@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:45.933818</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:15.795242</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>California droughts are often caused by high-amplitude and persistent ridges near and off the west coast of North America without apparent connections with ENSO. Here with a hierarchy of climate models, it is demonstrated that extreme ridges in this region are associated with a continuum of zonal wavenumber-5 circumglobal teleconnection patterns that originate from midlatitude atmospheric internal dynamics. Although tropical diabatic heating anomalies are not essential to the formation and maintenance of these wave patterns, certain persistent heating anomalies may double the probability of ridges with amplitudes in the 90th percentile occurring on interannual time scales. Those heating anomalies can be caused by either natural variability or possibly by climate change, and they do not necessarily depend on ENSO. The extreme ridges that occurred during the 2013/14 and 2014/15 winters could be examples of ridges produced by heating anomalies that are not associated with ENSO. This mechanism could provide a source of subseasonal-tointerannual predictability beyond the predictability provided by ENSO.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[California droughts are often caused by high-amplitude and persistent ridges near and off the west coast of North America without apparent connections with ENSO. Here with a hierarchy of climate models, it is demonstrated that extreme ridges in this region are associated with a continuum of zonal wavenumber-5 circumglobal teleconnection patterns that originate from midlatitude atmospheric internal dynamics. Although tropical diabatic heating anomalies are not essential to the formation and maintenance of these wave patterns, certain persistent heating anomalies may double the probability of ridges with amplitudes in the 90th percentile occurring on interannual time scales. Those heating anomalies can be caused by either natural variability or possibly by climate change, and they do not necessarily depend on ENSO. The extreme ridges that occurred during the 2013/14 and 2014/15 winters could be examples of ridges produced by heating anomalies that are not associated with ENSO. This mechanism could provide a source of subseasonal-tointerannual predictability beyond the predictability provided by ENSO.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

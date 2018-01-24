@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:13.303315</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:25.794583</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Ocean wave spectra are complex. Because of this complexity, no widely accepted method has been developed for the comparison between two sets of paired wave spectra. A method for intercomparing wave spectra is developed based on an example paradigm of the comparison of model spectra to observed spectra. Canonical correlation analysis (CCA) is used to investigate the correlation structure of the matrix of spectral correlations. The set of N ranked canonical correlations developed through CCA (here termed the r-sequence) is shown to be an effective method for understanding the degree of correlation between sets of paired spectral observation. A standard method for intercomparing sets of wave spectra based on CCA is then described. The method is elucidated through analyses of synthetic and real spectra that span a range of correlation from random to almost equal.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Ocean wave spectra are complex. Because of this complexity, no widely accepted method has been developed for the comparison between two sets of paired wave spectra. A method for intercomparing wave spectra is developed based on an example paradigm of the comparison of model spectra to observed spectra. Canonical correlation analysis (CCA) is used to investigate the correlation structure of the matrix of spectral correlations. The set of N ranked canonical correlations developed through CCA (here termed the r-sequence) is shown to be an effective method for understanding the degree of correlation between sets of paired spectral observation. A standard method for intercomparing sets of wave spectra based on CCA is then described. The method is elucidated through analyses of synthetic and real spectra that span a range of correlation from random to almost equal.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

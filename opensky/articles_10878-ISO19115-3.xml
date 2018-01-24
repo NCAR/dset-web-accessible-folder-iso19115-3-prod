@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:35.009821</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:10.310499</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Analysis of observational data suggests two-way interactions between the tropical intraseasonal oscillation (ISO) and synoptic-scale variability (SSV). On one hand, SSV is strongly modulated by the ISO; that is, a strengthened (weakened) SSV appears during the enhanced (suppressed) ISO phase. The northwest-southeast-oriented synoptic wave train is strengthened and well organized in the northwestern Pacific during the enhanced ISO phase but weakened during the suppressed ISO phase. On the other hand, SSV may exert an upscale feedback to ISO through the nonlinearly rectified surface latent heat flux (LHF). The maximum synoptic contribution exceeds 20%-30% of the total intraseasonal LHF over the tropical Indian Ocean, western Pacific, and northeastern Pacific. The nonlinearly rectified LHF leads the ISO convection and boundary layer specific humidity, and thus it may contribute to the propagation of the ISO in boreal summer through the preconditioning of the surface moisture and moist static energy ahead of the convection.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Analysis of observational data suggests two-way interactions between the tropical intraseasonal oscillation (ISO) and synoptic-scale variability (SSV). On one hand, SSV is strongly modulated by the ISO; that is, a strengthened (weakened) SSV appears during the enhanced (suppressed) ISO phase. The northwest-southeast-oriented synoptic wave train is strengthened and well organized in the northwestern Pacific during the enhanced ISO phase but weakened during the suppressed ISO phase. On the other hand, SSV may exert an upscale feedback to ISO through the nonlinearly rectified surface latent heat flux (LHF). The maximum synoptic contribution exceeds 20%-30% of the total intraseasonal LHF over the tropical Indian Ocean, western Pacific, and northeastern Pacific. The nonlinearly rectified LHF leads the ISO convection and boundary layer specific humidity, and thus it may contribute to the propagation of the ISO in boreal summer through the preconditioning of the surface moisture and moist static energy ahead of the convection.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

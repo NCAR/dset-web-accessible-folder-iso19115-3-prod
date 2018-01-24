@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:57.868874</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:04.017988</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The effect of pre-storm land surface on the monsoon depressions (MDs) is studied. The Weather Research Forecast (WRF) model was configured with two nested domains to explore the sensitivity of MDs to antecedent soil moisture and land surface representation for selected three landfalling MDs during August 2006. Results indicate that WRF had good ability to simulate the MDs, and the post landfall model response was sensitive to antecedent soil moisture and modestly dependent on land surface representations. This was verified by reviewing the climatology of 125 MDs (1970-2003) which revealed that if the surface received heavier rainfall a week ahead of MD landfall, the inland intensity was maintained for a longer duration. The gradient in surface heat fluxes as the depression made landfall affected the evolution of the MDs over India. In particular, warmer, wetter (cooler, drier) land surface can intensify (weaken) the landfalling MDs over the Indian monsoon region.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The effect of pre-storm land surface on the monsoon depressions (MDs) is studied. The Weather Research Forecast (WRF) model was configured with two nested domains to explore the sensitivity of MDs to antecedent soil moisture and land surface representation for selected three landfalling MDs during August 2006. Results indicate that WRF had good ability to simulate the MDs, and the post landfall model response was sensitive to antecedent soil moisture and modestly dependent on land surface representations. This was verified by reviewing the climatology of 125 MDs (1970-2003) which revealed that if the surface received heavier rainfall a week ahead of MD landfall, the inland intensity was maintained for a longer duration. The gradient in surface heat fluxes as the depression made landfall affected the evolution of the MDs over India. In particular, warmer, wetter (cooler, drier) land surface can intensify (weaken) the landfalling MDs over the Indian monsoon region.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

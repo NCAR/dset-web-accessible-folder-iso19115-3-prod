@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:18.070090</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:51.320081</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[A recently developed chemical ionization mass spectrometer for detecting neutral molecular clusters in the atmosphere (the Cluster-CIMS) is described. This instrument is unique in that it uses a highly sensitive atmospheric chemical ionization technique combined with two neutral cluster separation methods to measure the very low concentrations of clusters formed during nucleation events. This is apparently the first time that selected-ion chemical ionization mass spectrometry has been used to identify nucleating clusters in the atmosphere. The Cluster-CIMS was well calibrated by using an electrospray high-resolution differential mobility analyzer technique, a novel approach to generating and classifying known ion clusters. Field measurements at a moderately polluted urban site and a relatively remote forested site show that the instrument is capable of detecting neutral sulfuric acid clusters (containing up to four sulfuric acid molecules) during relatively strong nucleation events, with a concentration on the order of 10(4) molecular clusters per cubic centimeter at both sites. These measurements also provide evidence that for a given sulfuric acid concentration, the forested site appears to be significantly more efficient at producing sulfate clusters than the urban site is. A comparison between the Cluster-CIMS measurements and the size distribution measurements of nanoparticles demonstrates that the observed nucleation events at the two measurement sites are always associated with high concentrations of sulfuric acid and that, if the clusters are measurable, they are well correlated with the nanoparticles down to similar to 2 nm; however, other nucleation events are either relatively small or may have occurred prior to reaching the measurement sites, and hence the concentrations of the sulfuric acid clusters are most likely under the detection limit of the Cluster-CIMS. Limitations of the instrument and possible future directions for its development are discussed.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

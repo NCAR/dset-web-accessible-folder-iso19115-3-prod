@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:37.708029</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:13.987098</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -249,7 +249,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Long-term, continuous observations are needed for Earth system investigations and evaluation of simulations. The atmospheric and ecological communities have independently established field sites that have been running for many decades and are integrated into global networks. In the past decade, the importance of long-term observational networks focused on land ecosystem-atmosphere exchange, and the processes controlling land-atmosphere coupling, had been increasingly recognized and has led to the building of a global network of water, carbon and energy flux sites. This is an important step but further enhancements are necessary in order to quantify all of the land-atmosphere processes that need to be included in Earth system models. This paper describes the current land ecosystem-atmosphere measurement capabilities and presents the status and needs for global observational networks.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Long-term, continuous observations are needed for Earth system investigations and evaluation of simulations. The atmospheric and ecological communities have independently established field sites that have been running for many decades and are integrated into global networks. In the past decade, the importance of long-term observational networks focused on land ecosystem-atmosphere exchange, and the processes controlling land-atmosphere coupling, had been increasingly recognized and has led to the building of a global network of water, carbon and energy flux sites. This is an important step but further enhancements are necessary in order to quantify all of the land-atmosphere processes that need to be included in Earth system models. This paper describes the current land ecosystem-atmosphere measurement capabilities and presents the status and needs for global observational networks.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

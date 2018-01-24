@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:30.923751</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:04.530419</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The scarcity of salinity observations prior to the Argo period makes it tremendously difficult to estimate ocean states. By using the so-called pseudo salinity profiles constructed from temperature and altimetry information, here we show the improvement of salinity representation estimated by the ensemble coupled data assimilation system of the Geophysical Fluid Dynamics Laboratory. The comparisons with climatology and independent observations show that the pseudo salinity data considerably improve the assimilation skill for the pre-Argo period (1993-2001). For the Argo period (2002-2007), there is little degradation of the assimilation skill using pseudo salinity instead of Argo observations. This result ensures the robustness of the new assimilation fields with pseudo salinity for the pre-Argo period when salinity observations are sparse. We also suggest that the interannual variability of the existing reanalysis products could suffer from erroneously-estimated discontinuities due to the non-stationary nature of the salinity observing system.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The scarcity of salinity observations prior to the Argo period makes it tremendously difficult to estimate ocean states. By using the so-called pseudo salinity profiles constructed from temperature and altimetry information, here we show the improvement of salinity representation estimated by the ensemble coupled data assimilation system of the Geophysical Fluid Dynamics Laboratory. The comparisons with climatology and independent observations show that the pseudo salinity data considerably improve the assimilation skill for the pre-Argo period (1993-2001). For the Argo period (2002-2007), there is little degradation of the assimilation skill using pseudo salinity instead of Argo observations. This result ensures the robustness of the new assimilation fields with pseudo salinity for the pre-Argo period when salinity observations are sparse. We also suggest that the interannual variability of the existing reanalysis products could suffer from erroneously-estimated discontinuities due to the non-stationary nature of the salinity observing system.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

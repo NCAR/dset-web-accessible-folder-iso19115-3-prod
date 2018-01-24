@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:14.506058</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:36.293925</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[A thin layer of soil used in many coupled global climate models does not resolve the heat reservoir represented by underlying ground material. Under representation of this feature leads to unrealistic simulation of temperature dynamics in the active layer and permafrost. Using the Community Land Model (CLM3) and its modifications we estimate a required thickness of soil layers to calculate temperature dynamics within certain errors. Our results show that to compute the annual cycle of temperature dynamics for cold permafrost, the soil thickness should be at least 30 meters. Decadal-to-century time scales require significantly deeper soil layers, e. g. hundreds of meters. We also tested a new geometrical configuration of the soil layer geometry which is called slab permafrost. This configuration is represented by a thick soil layer underneath the traditional resolved soil layer. The model configuration with 30 m deep resolved soil layer and a 30 to 100 m thick slab shows results that favorably compare with our benchmark model which has a fully resolved 300 m-deep soil layer.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

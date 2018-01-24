@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:10.062930</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:34.106092</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -189,7 +189,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A theoretical framework has been developed describing nonequilibrium formation and maintenance of mixed-phase clouds. The necessary and sufficient conditions required to activate liquid water within a preexisting ice cloud, and thus convert it to mixed phase, are considered for three scenarios: (i) uniform ascent, (ii) harmonic vertical oscillations, and (iii) turbulent fluctuations. The general conditions are the following: 1. First necessary condition: The vertical velocity of an ice cloud parcel must exceed a threshold velocity to activate liquid water. 2. Second necessary condition: The activation of liquid water within an ice cloud parcel, below water saturation, requires a vertical ascent above some threshold altitude to bring the vapor pressure of the parcel to water saturation. Only when the first and second conditions are true do these conditions become sufficient for the activation of liquid water in ice clouds. These required conditions for the generation of mixed-phase cloud are supported by parcel modeling results and analogous conditions for a harmonic oscillation concerning the amplitude and tangential velocity of the parcel motion are proposed. The authors do not assume steady-state conditions, but demonstrate that nonequilibrium evolution of cloud parcels can lead to long-term steady existence of mixed-phase cloud.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A theoretical framework has been developed describing nonequilibrium formation and maintenance of mixed-phase clouds. The necessary and sufficient conditions required to activate liquid water within a preexisting ice cloud, and thus convert it to mixed phase, are considered for three scenarios: (i) uniform ascent, (ii) harmonic vertical oscillations, and (iii) turbulent fluctuations. The general conditions are the following: 1. First necessary condition: The vertical velocity of an ice cloud parcel must exceed a threshold velocity to activate liquid water. 2. Second necessary condition: The activation of liquid water within an ice cloud parcel, below water saturation, requires a vertical ascent above some threshold altitude to bring the vapor pressure of the parcel to water saturation. Only when the first and second conditions are true do these conditions become sufficient for the activation of liquid water in ice clouds. These required conditions for the generation of mixed-phase cloud are supported by parcel modeling results and analogous conditions for a harmonic oscillation concerning the amplitude and tangential velocity of the parcel motion are proposed. The authors do not assume steady-state conditions, but demonstrate that nonequilibrium evolution of cloud parcels can lead to long-term steady existence of mixed-phase cloud.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

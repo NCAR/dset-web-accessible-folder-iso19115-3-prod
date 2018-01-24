@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:20.102198</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:58.659038</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[Although the societal impact of a weather event increases with the rarity of the event, our current ability to assess extreme events and their impacts is limited by not only rarity but also by current model fidelity and a lack of understanding and capacity to model the underlying physical processes. This challenge is driving fresh approaches to assess high-impact weather and climate. Recent lessons learned in modeling high-impact weather and climate are presented using the case of tropical cyclones as an illustrative example. Through examples using the Nested Regional Climate Model to dynamically downscale large-scale climate data the need to treat bias in the driving data is illustrated. Domain size, location, and resolution are also shown to be critical and should be adequate to: include relevant regional climate physical processes; resolve key impact parameters; and accurately simulate the response to changes in external forcing. The notion of sufficient model resolution is introduced together with the added value in combining dynamical and statistical assessments to fill out the parent distribution of high-impact parameters.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

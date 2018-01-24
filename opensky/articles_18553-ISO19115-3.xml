@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:25.950058</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:44.881737</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -448,7 +448,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The National Ecological Observatory Network (NEON) intends to monitor mosquito populations across its broad geographical range of sites because of their prevalence in food webs, sensitivity to abiotic factors, and relevance for human health. We describe the design of mosquito population sampling in the context of NEON's long-term continental scale monitoring program, emphasizing the sampling design schedule, priorities, and collection methods. Freely available NEON data and associated field and laboratory samples, will increase our understanding of how mosquito abundance, demography, diversity, and phenology are responding to land use and climate change.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The National Ecological Observatory Network (NEON) intends to monitor mosquito populations across its broad geographical range of sites because of their prevalence in food webs, sensitivity to abiotic factors, and relevance for human health. We describe the design of mosquito population sampling in the context of NEON's long-term continental scale monitoring program, emphasizing the sampling design schedule, priorities, and collection methods. Freely available NEON data and associated field and laboratory samples, will increase our understanding of how mosquito abundance, demography, diversity, and phenology are responding to land use and climate change.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

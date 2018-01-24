@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:22.610450</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:39.842220</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We investigate the interhemispheric circulation at the solstices, in order to understand why O/N2 is larger in the northern hemisphere winter than in the southern hemisphere winter. Our studies reveal that the equatorial ionosphere anomaly (EIA) significantly impacts the summer-to-winter wind through plasma-neutral collisional heating, which changes the summer-to-winter pressure gradient, and ion drag. Consequently, the wind is suppressed in the summer hemisphere as it encounters the EIA but accelerates after it passes the EIA in the winter hemisphere. The wind then converges due to an opposing pressure gradient driven by Joule heating in auroral regions and produces large O/N2 at subauroral latitudes. This EIA effect is stronger near the December solstice than near the June solstice because the ionospheric annual asymmetry creates greater meridional wind convergence near the December solstice, which in turn produces larger O/N2 in the northern hemisphere winter than in the southern hemisphere winter.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We investigate the interhemispheric circulation at the solstices, in order to understand why O/N2 is larger in the northern hemisphere winter than in the southern hemisphere winter. Our studies reveal that the equatorial ionosphere anomaly (EIA) significantly impacts the summer-to-winter wind through plasma-neutral collisional heating, which changes the summer-to-winter pressure gradient, and ion drag. Consequently, the wind is suppressed in the summer hemisphere as it encounters the EIA but accelerates after it passes the EIA in the winter hemisphere. The wind then converges due to an opposing pressure gradient driven by Joule heating in auroral regions and produces large O/N2 at subauroral latitudes. This EIA effect is stronger near the December solstice than near the June solstice because the ionospheric annual asymmetry creates greater meridional wind convergence near the December solstice, which in turn produces larger O/N2 in the northern hemisphere winter than in the southern hemisphere winter.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

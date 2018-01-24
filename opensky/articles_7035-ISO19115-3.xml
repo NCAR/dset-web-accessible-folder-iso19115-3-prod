@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:11.819836</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:36.768514</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -358,7 +358,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Isoprene and its first and second generation photochemical products, methyl vinyl ketone (MVK), methacrolein (MACR), and peroxymethacrylic nitric anhydride (MPAN), were measured off the coast of New England during the 2002 New England Air Quality Study (NEAQS) on board the NOAA Research Vessel Ronald H. Brown. The results of these measurements were analyzed using a simple sequential reaction model that has been used previously to examine regional oxidant chemistry. The highest isoprene impact was observed in air masses that had passed over an area of high isoprene emission WSW of Boston. The relative concentrations of isoprene and its first generation products show that the photochemistry is consistently "older" than the isoprene photochemistry observed at continental sites. The sequential reaction model was also applied to the aldehyde-PANs (Peroxycarboxylic nitric anhydride) system, and the resulting PPN (peroxypropionic nitric anhydride)/propanal and PAN (peroxyacetic nitric anhydride)/acetaldehyde relationships were consistent with additional sources of PAN in this environment, e.g., isoprene photochemistry. This isoprene source was estimated to result in approximately 1.6 to 4 times more PAN in this environment relative to that produced from anthropogenic VOCs (volatile organic compounds) alone.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Isoprene and its first and second generation photochemical products, methyl vinyl ketone (MVK), methacrolein (MACR), and peroxymethacrylic nitric anhydride (MPAN), were measured off the coast of New England during the 2002 New England Air Quality Study (NEAQS) on board the NOAA Research Vessel Ronald H. Brown. The results of these measurements were analyzed using a simple sequential reaction model that has been used previously to examine regional oxidant chemistry. The highest isoprene impact was observed in air masses that had passed over an area of high isoprene emission WSW of Boston. The relative concentrations of isoprene and its first generation products show that the photochemistry is consistently "older" than the isoprene photochemistry observed at continental sites. The sequential reaction model was also applied to the aldehyde-PANs (Peroxycarboxylic nitric anhydride) system, and the resulting PPN (peroxypropionic nitric anhydride)/propanal and PAN (peroxyacetic nitric anhydride)/acetaldehyde relationships were consistent with additional sources of PAN in this environment, e.g., isoprene photochemistry. This isoprene source was estimated to result in approximately 1.6 to 4 times more PAN in this environment relative to that produced from anthropogenic VOCs (volatile organic compounds) alone.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

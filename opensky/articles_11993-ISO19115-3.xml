@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:45.259050</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:24.819926</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The sequence of extreme September sea ice extent minima over the past decade suggests acceleration in the response of the Arctic sea ice cover to external forcing, hastening the ongoing transition towards a seasonally open Arctic Ocean. This reflects several mutually supporting processes. Because of the extensive open water in recent Septembers, ice cover in the following spring is increasingly dominated by thin, first-year ice (ice formed during the previous autumn and winter) that is vulnerable to melting out in summer. Thinner ice in spring in turn fosters a stronger summer ice-albedo feedback through earlier formation of open water areas. A thin ice cover is also more vulnerable to strong summer retreat under anomalous atmospheric forcing. Finally, general warming of the Arctic has reduced the likelihood of cold years that could bring about temporary recovery of the ice cover. Events leading to the September ice extent minima of recent years exemplify these processes.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The sequence of extreme September sea ice extent minima over the past decade suggests acceleration in the response of the Arctic sea ice cover to external forcing, hastening the ongoing transition towards a seasonally open Arctic Ocean. This reflects several mutually supporting processes. Because of the extensive open water in recent Septembers, ice cover in the following spring is increasingly dominated by thin, first-year ice (ice formed during the previous autumn and winter) that is vulnerable to melting out in summer. Thinner ice in spring in turn fosters a stronger summer ice-albedo feedback through earlier formation of open water areas. A thin ice cover is also more vulnerable to strong summer retreat under anomalous atmospheric forcing. Finally, general warming of the Arctic has reduced the likelihood of cold years that could bring about temporary recovery of the ice cover. Events leading to the September ice extent minima of recent years exemplify these processes.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

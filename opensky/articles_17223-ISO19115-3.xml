@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:00.098500</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:07.321593</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The current observed value of the ratio of daily record high maximum temperatures to record low minimum temperatures averaged across the U.S. is about two to one. This is because records that were declining uniformly earlier in the 20th century following a decay proportional to 1/n (n being the number of years since the beginning of record keeping) have been declining less slowly for record highs than record lows since the late 1970s. Model simulations of U.S. 20th century climate show a greater ratio of about four to one due to more uniform warming across the U.S. than in observations. Following an A1B emission scenario for the 21st century, the U.S. ratio of record high maximum to record low minimum temperatures is projected to continue to increase, with ratios of about 20 to 1 by mid-century, and roughly 50 to 1 by the end of the century.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The current observed value of the ratio of daily record high maximum temperatures to record low minimum temperatures averaged across the U.S. is about two to one. This is because records that were declining uniformly earlier in the 20th century following a decay proportional to 1/n (n being the number of years since the beginning of record keeping) have been declining less slowly for record highs than record lows since the late 1970s. Model simulations of U.S. 20th century climate show a greater ratio of about four to one due to more uniform warming across the U.S. than in observations. Following an A1B emission scenario for the 21st century, the U.S. ratio of record high maximum to record low minimum temperatures is projected to continue to increase, with ratios of about 20 to 1 by mid-century, and roughly 50 to 1 by the end of the century.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

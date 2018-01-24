@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:54.782651</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:29.040457</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The effect of solar proton events on the daytime O-2 and OH airglows and ozone and atomic oxygen concentrations in the mesosphere is studied using data from the Sounding of the Atmosphere using Broadband Emission Radiometry (SABER). Five events occurred in September 2005, December 2006, March 2012, May 2013, and June 2015 that satisfy two criteria: the maximum proton fluxes are larger than 1000pfu, and daytime data in the high latitude region are available from SABER. The event in December 2006 is studied in detail, and the effects of all five events are compared in brief. The results indicate that all four parameters in the mesosphere decrease during the events. During the event in 2006, the maximum depletions of O-2 and OH dayglow emission rates and ozone and atomic oxygen volume mixing ratios at 70km are respectively 31.6%, 37.0%, 42.4%, and 38.9%. The effect of the solar proton event changes with latitude, longitude, and altitude. The depletions due to the stronger events are larger on average than those due to the weaker events. The depletions of both dayglow emission rates are weaker than those of ozone and atomic oxygen. The responses of O-2 and OH nightglow emissions around their peak altitudes to the SPEs are not as strong and regular as those for dayglow in the mesosphere.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The effect of solar proton events on the daytime O-2 and OH airglows and ozone and atomic oxygen concentrations in the mesosphere is studied using data from the Sounding of the Atmosphere using Broadband Emission Radiometry (SABER). Five events occurred in September 2005, December 2006, March 2012, May 2013, and June 2015 that satisfy two criteria: the maximum proton fluxes are larger than 1000pfu, and daytime data in the high latitude region are available from SABER. The event in December 2006 is studied in detail, and the effects of all five events are compared in brief. The results indicate that all four parameters in the mesosphere decrease during the events. During the event in 2006, the maximum depletions of O-2 and OH dayglow emission rates and ozone and atomic oxygen volume mixing ratios at 70km are respectively 31.6%, 37.0%, 42.4%, and 38.9%. The effect of the solar proton event changes with latitude, longitude, and altitude. The depletions due to the stronger events are larger on average than those due to the weaker events. The depletions of both dayglow emission rates are weaker than those of ozone and atomic oxygen. The responses of O-2 and OH nightglow emissions around their peak altitudes to the SPEs are not as strong and regular as those for dayglow in the mesosphere.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

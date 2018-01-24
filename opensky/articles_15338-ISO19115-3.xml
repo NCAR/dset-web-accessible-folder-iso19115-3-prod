@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:37.818502</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:34.022270</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A new type of the additional layer is predicted to occur in the low-latitude F region ionosphere during evening hours of a major magnetic storm. By using the coupled NCAR Thermosphere Ionosphere Electrodynamic General Circulation Model (TIEGCM) and Sheffield University Plasmasphere Ionosphere Model (SUPIM) runs during the major magnetic storm of 29-30 October 2003, we present a new type of additional layer which occurs at the equatorial ionization anomaly (EIA) by a new physical mechanism. This mechanism requires that storm time meridional neutral wind surges travel from high to low latitudes and cross into the opposite hemisphere. The wind surges modify the field-aligned plasma velocities in the EIA regions significantly after uplift of the ionospheric layer by a penetration electric field and interact with the downward field-aligned plasma velocities of the enhanced equatorial fountain. The combined storm effects of the enhanced plasma fountain and the neutral wind surges result in plasma convergence in altitude and form the additional layers underneath the EIA crests.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A new type of the additional layer is predicted to occur in the low-latitude F region ionosphere during evening hours of a major magnetic storm. By using the coupled NCAR Thermosphere Ionosphere Electrodynamic General Circulation Model (TIEGCM) and Sheffield University Plasmasphere Ionosphere Model (SUPIM) runs during the major magnetic storm of 29-30 October 2003, we present a new type of additional layer which occurs at the equatorial ionization anomaly (EIA) by a new physical mechanism. This mechanism requires that storm time meridional neutral wind surges travel from high to low latitudes and cross into the opposite hemisphere. The wind surges modify the field-aligned plasma velocities in the EIA regions significantly after uplift of the ionospheric layer by a penetration electric field and interact with the downward field-aligned plasma velocities of the enhanced equatorial fountain. The combined storm effects of the enhanced plasma fountain and the neutral wind surges result in plasma convergence in altitude and form the additional layers underneath the EIA crests.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

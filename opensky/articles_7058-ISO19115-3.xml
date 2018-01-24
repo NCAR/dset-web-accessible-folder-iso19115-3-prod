@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:14.816252</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:37.461714</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -403,7 +403,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Community Climate System Model version 3 (CCSM3) has recently been developed and released to the climate community. CCSM3 is a coupled climate model with components representing the atmosphere, ocean, sea ice, and land surface connected by a flux coupler. CCSM3 is designed to produce realistic simulations over a wide range of spatial resolutions, enabling inexpensive simulations lasting several millennia or detailed studies of continental-scale dynamics, variability, and climate change. This paper will show results from the configuration used for climate-change simulations with a T85 grid for the atmosphere and land and a grid with approximately 1 degrees resolution for the ocean and sea ice. The new system incorporates several significant improvements in the physical parameterizations. The enhancements in the model physics are designed to reduce or eliminate several systematic biases in the mean climate produced by previous editions of CCSM. These include new treatments of cloud processes, aerosol radiative forcing, land-atmosphere fluxes, ocean mixed layer processes, and sea ice dynamics. There are significant improvements in the sea ice thickness, polar radiation budgets, tropical sea surface temperatures, and cloud radiative effects. CCSM3 can produce stable climate simulations of millennial duration without ad hoc adjustments to the fluxes exchanged among the component models. Nonetheless, there are still systematic biases in the ocean-atmosphere fluxes in coastal regions west of continents, the spectrum of ENSO variability, the spatial distribution of precipitation in the tropical oceans, and continental precipitation and surface air temperatures. Work is under way to extend CCSM to a more accurate and comprehensive model of the earth's climate system.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

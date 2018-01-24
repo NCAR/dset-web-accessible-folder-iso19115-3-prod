@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:32.067513</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:06.132819</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We simulate the magnetic feature tracking (MFT) speed using advective-diffusive transport models in both one and two dimensions. By depositing magnetic bipolar regions at different latitudes at the Sun's surface and following their evolution for a prescribed meridional circulation and magnetic diffusivity profiles, we derive the MFT speed as a function of latitude. We find that in a one dimensional surface-transport model the simulated MFT speed at the surface is always the same as the meridional flow-speed used as input to the model, but is different in a two-dimensional transport model in the meridional (r,theta) plane. The difference depends on the value of the magnetic diffusivity and on the radial gradient of the latitudinal velocity. We have confirmed our results with two different codes in spherical and Cartesian coordinates.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We simulate the magnetic feature tracking (MFT) speed using advective-diffusive transport models in both one and two dimensions. By depositing magnetic bipolar regions at different latitudes at the Sun's surface and following their evolution for a prescribed meridional circulation and magnetic diffusivity profiles, we derive the MFT speed as a function of latitude. We find that in a one dimensional surface-transport model the simulated MFT speed at the surface is always the same as the meridional flow-speed used as input to the model, but is different in a two-dimensional transport model in the meridional (r,theta) plane. The difference depends on the value of the magnetic diffusivity and on the radial gradient of the latitudinal velocity. We have confirmed our results with two different codes in spherical and Cartesian coordinates.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

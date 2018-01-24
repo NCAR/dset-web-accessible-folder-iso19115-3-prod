@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:37.423789</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:33.470143</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Hurricanes have traditionally been perceived as intense but relatively small scale phenomena, with little effect on the large scale climate system. However, recent evidence has suggested that hurricanes could play a much more significant role in global climate. Here we prescribe Atlantic hurricanes in a global coupled climate model to show that, climatically, the strong hurricane winds can strengthen the Atlantic meridional overturning circulation (MOC) that is responsible for an increased northward meridonal heat transport (MHT), and the hurricane rainfall tends to weaken the MOC and to reduce the MHT. The net effect of the hurricanes on the MOC and MHT depends on the outcome of these two competing processes. This result implies that hurricanes may indeed play an important role in the coupled climate system and need to be studied further in high resolution global coupled models.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Hurricanes have traditionally been perceived as intense but relatively small scale phenomena, with little effect on the large scale climate system. However, recent evidence has suggested that hurricanes could play a much more significant role in global climate. Here we prescribe Atlantic hurricanes in a global coupled climate model to show that, climatically, the strong hurricane winds can strengthen the Atlantic meridional overturning circulation (MOC) that is responsible for an increased northward meridonal heat transport (MHT), and the hurricane rainfall tends to weaken the MOC and to reduce the MHT. The net effect of the hurricanes on the MOC and MHT depends on the outcome of these two competing processes. This result implies that hurricanes may indeed play an important role in the coupled climate system and need to be studied further in high resolution global coupled models.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

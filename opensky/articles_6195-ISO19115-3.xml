@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:08.125836</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:31.350468</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Contrails form and persist dependent on the surrounding moisture, temperature and pressure fields and on fuel and aircraft specific variables. After formation, contrail persistence requires only supersaturation relative to ice. The fractional area in which contrails can form is called potential contrail coverage. We introduce a potential contrail cirrus coverage equivalent to the cloud free supersaturated area. This field, simulated by the ECHAM4 climate model, agrees fairly well with estimates of supersaturation frequency as inferred from aircraft and satellite measurements. In areas where the two potential coverages are different, especially at lower flight levels, potential contrail coverage is not a valid estimate of maximum attainable contrail cirrus coverage. We parameterize both potential coverages consistently with the ECHAM4 cloud cover parameterization. A comparison of the potential contrail coverage with an earlier estimate reveals substantial differences especially at upper height levels in the tropics.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Contrails form and persist dependent on the surrounding moisture, temperature and pressure fields and on fuel and aircraft specific variables. After formation, contrail persistence requires only supersaturation relative to ice. The fractional area in which contrails can form is called potential contrail coverage. We introduce a potential contrail cirrus coverage equivalent to the cloud free supersaturated area. This field, simulated by the ECHAM4 climate model, agrees fairly well with estimates of supersaturation frequency as inferred from aircraft and satellite measurements. In areas where the two potential coverages are different, especially at lower flight levels, potential contrail coverage is not a valid estimate of maximum attainable contrail cirrus coverage. We parameterize both potential coverages consistently with the ECHAM4 cloud cover parameterization. A comparison of the potential contrail coverage with an earlier estimate reveals substantial differences especially at upper height levels in the tropics.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:58.258020</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:41.440188</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>It is common for cloud microphysical models to use a single axis length to characterize ice crystals. These methods use either the diameter of an equivalent sphere or mass-size equations in conjunction with the capacitance model to close the equations for ice vapor diffusion. Single-axis methods unnaturally constrain growth because real crystals evolve along at least two axis directions. Thus, they are unable to reproduce the simultaneous variation in mass mixing ratio, maximum dimension, and mass-weighted fall speeds. While mass-size relations can at times capture the evolution of one of these with relatively low errors, the other properties are generally under- or overpredicted by 20%-40%. Part I of this study describes an adaptive habit method that evolves two axis dimensions, allowing feedbacks between aspect ratio changes and mass mixing-ratio evolution. The adaptive habit method evolves particle habit by prognosing number and mass mixing ratios along with two axis length mixing ratios. Compared with a detailed Lagrangian bin representation of ice habit distribution evolution in a parcel framework, the bulk method reproduces the ice mass mixing ratio, mean axis lengths, and mass-weighted fall speeds generally to within less than 5% relative error for layered and deeper mixed-phase clouds.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[It is common for cloud microphysical models to use a single axis length to characterize ice crystals. These methods use either the diameter of an equivalent sphere or mass-size equations in conjunction with the capacitance model to close the equations for ice vapor diffusion. Single-axis methods unnaturally constrain growth because real crystals evolve along at least two axis directions. Thus, they are unable to reproduce the simultaneous variation in mass mixing ratio, maximum dimension, and mass-weighted fall speeds. While mass-size relations can at times capture the evolution of one of these with relatively low errors, the other properties are generally under- or overpredicted by 20%-40%. Part I of this study describes an adaptive habit method that evolves two axis dimensions, allowing feedbacks between aspect ratio changes and mass mixing-ratio evolution. The adaptive habit method evolves particle habit by prognosing number and mass mixing ratios along with two axis length mixing ratios. Compared with a detailed Lagrangian bin representation of ice habit distribution evolution in a parcel framework, the bulk method reproduces the ice mass mixing ratio, mean axis lengths, and mass-weighted fall speeds generally to within less than 5% relative error for layered and deeper mixed-phase clouds.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

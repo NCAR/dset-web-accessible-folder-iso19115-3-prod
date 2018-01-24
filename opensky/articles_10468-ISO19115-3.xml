@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:25.834869</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:57.202851</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Recent progress is reviewed in the understanding of convective interaction with water vapor and changes associated with water vapor in warmer climates. Progress includes new observing techniques (including isotopic methods) that are helping to illuminate moisture-convection interaction, better observed humidity trends, new modeling approaches, and clearer expectations as to the hydrological consequences of increased specific humidity in a warmer climate. A theory appears to be in place to predict humidity in the free troposphere if winds are known at large scales, providing a crucial link between small-scale behavior and large-scale mass and energy constraints. This, along with observations, supports the anticipated water vapor feedback on climate, though key uncertainties remain connected to atmospheric dynamics and the hydrological consequences of a moister atmosphere. More work is called for to understand how circulations on all scales are governed and what role water vapor plays. Suggestions are given for future research.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Recent progress is reviewed in the understanding of convective interaction with water vapor and changes associated with water vapor in warmer climates. Progress includes new observing techniques (including isotopic methods) that are helping to illuminate moisture-convection interaction, better observed humidity trends, new modeling approaches, and clearer expectations as to the hydrological consequences of increased specific humidity in a warmer climate. A theory appears to be in place to predict humidity in the free troposphere if winds are known at large scales, providing a crucial link between small-scale behavior and large-scale mass and energy constraints. This, along with observations, supports the anticipated water vapor feedback on climate, though key uncertainties remain connected to atmospheric dynamics and the hydrological consequences of a moister atmosphere. More work is called for to understand how circulations on all scales are governed and what role water vapor plays. Suggestions are given for future research.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

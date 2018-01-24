@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:46.029288</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:15.944663</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A measurement and modeling campaign evaluated variations in tree temperatures with solar exposure at the edge of a forest clearing and how the resulting longwave radiation contributed to spatial patterns of snowmelt energy surrounding an individual tree. Compared to measurements, both a one-dimensional (1D) energy-balance model and a two-dimensional (2D) radial trunk heat transfer model that simulated trunk surface temperatures and thermal inertia performed well (RMSE and biases better than 1.7 degrees and +/- 0.4 degrees C). The 2D model that resolved a thin bark layer better simulated daytime temperature spikes. Measurements and models agreed that trunk surfaces returned to ambient air temperature values near sunset. Canopy needle temperatures modeled with a 1D energy-balance approach were within the range of measurements. The radiative transfer model simulated substantial tree-contributed snow surface longwave irradiance to a distance of approximately one-half the tree height, with higher values on the sun-exposed sides of the tree. Trunks had very localized and substantially lower longwave energy influence on snowmelt compared to that of the canopy. The temperature and radiative transfer models provide the spatially detailed information needed to develop scaling relationships for estimating net radiation for snowmelt in sparse and discontinuous forest canopies.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A measurement and modeling campaign evaluated variations in tree temperatures with solar exposure at the edge of a forest clearing and how the resulting longwave radiation contributed to spatial patterns of snowmelt energy surrounding an individual tree. Compared to measurements, both a one-dimensional (1D) energy-balance model and a two-dimensional (2D) radial trunk heat transfer model that simulated trunk surface temperatures and thermal inertia performed well (RMSE and biases better than 1.7 degrees and +/- 0.4 degrees C). The 2D model that resolved a thin bark layer better simulated daytime temperature spikes. Measurements and models agreed that trunk surfaces returned to ambient air temperature values near sunset. Canopy needle temperatures modeled with a 1D energy-balance approach were within the range of measurements. The radiative transfer model simulated substantial tree-contributed snow surface longwave irradiance to a distance of approximately one-half the tree height, with higher values on the sun-exposed sides of the tree. Trunks had very localized and substantially lower longwave energy influence on snowmelt compared to that of the canopy. The temperature and radiative transfer models provide the spatially detailed information needed to develop scaling relationships for estimating net radiation for snowmelt in sparse and discontinuous forest canopies.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

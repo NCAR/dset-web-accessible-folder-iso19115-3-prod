@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:15.659977</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:03.740376</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This work is motivated by an unusual feature associated with the start-up of a moist nearly neutral atmospheric flow over a mountain ridge that was previously observed in a full-physics numerical model. In that study, the upstream propagation of a wave of subsidence precluded the establishment of upward-displaced and saturated flow that might be expected upstream of the topography. This phenomenon was hypothesized to be a consequence of the peculiar property of saturated moist neutral flow: an upward air parcel displacement produces zero buoyancy, while a downward displacement desaturates the air parcel and produces a positive buoyancy anomaly. In the present study, this hypothesis is confirmed within numerical solutions to a reduced system of equations that incorporates the saturated-atmosphere property in a particularly simple manner. The relatively uncomplicated nature of these solutions motivates the numerical solution of a further simplified initial-value problem for both nonhydrostatic and hydrostatic flow. Exact analytic solutions are developed for the latter hydrostatic case, which explains the upstream-propagating wave of subsidence as a shock phenomenon.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This work is motivated by an unusual feature associated with the start-up of a moist nearly neutral atmospheric flow over a mountain ridge that was previously observed in a full-physics numerical model. In that study, the upstream propagation of a wave of subsidence precluded the establishment of upward-displaced and saturated flow that might be expected upstream of the topography. This phenomenon was hypothesized to be a consequence of the peculiar property of saturated moist neutral flow: an upward air parcel displacement produces zero buoyancy, while a downward displacement desaturates the air parcel and produces a positive buoyancy anomaly. In the present study, this hypothesis is confirmed within numerical solutions to a reduced system of equations that incorporates the saturated-atmosphere property in a particularly simple manner. The relatively uncomplicated nature of these solutions motivates the numerical solution of a further simplified initial-value problem for both nonhydrostatic and hydrostatic flow. Exact analytic solutions are developed for the latter hydrostatic case, which explains the upstream-propagating wave of subsidence as a shock phenomenon.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:36.057632</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:31.365300</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The high correlation between the canopy stomatal uptake and ozone deposition velocity is found to be strongly dominated by their diurnal variations. By averaging observed variables over the daytime periods to remove the correlations simply due to their individual diurnal variations, we found that the ozone deposition velocity is highly correlated with the buoyancy flux during the daytime. As canopy stomata are closed at night, the ozone deposition velocity is found to be related to the friction velocity. Interpretation of the derivation of the ozone deposition velocity, expressed in terms of the traditional three resistances, is reanalyzed to explain the role of the turbulence strength in the ozone deposition velocity. We find that the resistance rc is the dominant resistance for the ozone deposition, not only due to the ozone uptake through biophysical processes, but also due to its role in the turbulent ozone transport.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The high correlation between the canopy stomatal uptake and ozone deposition velocity is found to be strongly dominated by their diurnal variations. By averaging observed variables over the daytime periods to remove the correlations simply due to their individual diurnal variations, we found that the ozone deposition velocity is highly correlated with the buoyancy flux during the daytime. As canopy stomata are closed at night, the ozone deposition velocity is found to be related to the friction velocity. Interpretation of the derivation of the ozone deposition velocity, expressed in terms of the traditional three resistances, is reanalyzed to explain the role of the turbulence strength in the ozone deposition velocity. We find that the resistance rc is the dominant resistance for the ozone deposition, not only due to the ozone uptake through biophysical processes, but also due to its role in the turbulent ozone transport.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

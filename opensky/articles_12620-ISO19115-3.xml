@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:00.401026</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:44.244556</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We discuss an adaptation to the widely-used Stockwell Transform based method for the detection of gravity waves to allow the detection of multiple overlapping waves. This adjusted method is applied to data from the High Resolution Dynamics Limb Sounder for the period of May 2006 and is found to change the measured distribution of gravity wave momentum flux on a global scale. An overall 68% increase in measured momentum flux is observed for the 20-30km altitude range, with significant regional variability. The largest absolute increase is over India, the Southern Ocean, and the Antarctic Peninsula, regions previously known to exhibit high levels of momentum flux. A strong relative increase is observed north of the equator, particularly in the tropics; analysis of the wavelength distribution of detected gravity waves shows that the majority of this increase is due to the detection of small vertical- and horizontal-scale waves which were presumably previously masked by higher-amplitude events in the same profile.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We discuss an adaptation to the widely-used Stockwell Transform based method for the detection of gravity waves to allow the detection of multiple overlapping waves. This adjusted method is applied to data from the High Resolution Dynamics Limb Sounder for the period of May 2006 and is found to change the measured distribution of gravity wave momentum flux on a global scale. An overall 68% increase in measured momentum flux is observed for the 20-30km altitude range, with significant regional variability. The largest absolute increase is over India, the Southern Ocean, and the Antarctic Peninsula, regions previously known to exhibit high levels of momentum flux. A strong relative increase is observed north of the equator, particularly in the tropics; analysis of the wavelength distribution of detected gravity waves shows that the majority of this increase is due to the detection of small vertical- and horizontal-scale waves which were presumably previously masked by higher-amplitude events in the same profile.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

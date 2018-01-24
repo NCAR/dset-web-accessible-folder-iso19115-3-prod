@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:26.516339</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:58.183506</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -313,7 +313,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Satellite observations show that ice cloud effective radius (re) increases with ice water content (IWC) but decreases with aerosol optical thickness (AOT). Using least-squares fitting to the observed data, we obtain an analytical formula to describe the variations of re with IWC and AOT for several regions with distinct characteristics of re-IWC-AOT relationships. As IWC directly relates to convective strength and AOT represents aerosol loading, our empirical formula provides a means to quantify the relative roles of dynamics and aerosols in controlling re in different geographical regions, and to establish a framework for parameterization of aerosol effects on re in climate models.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Satellite observations show that ice cloud effective radius (re) increases with ice water content (IWC) but decreases with aerosol optical thickness (AOT). Using least-squares fitting to the observed data, we obtain an analytical formula to describe the variations of re with IWC and AOT for several regions with distinct characteristics of re-IWC-AOT relationships. As IWC directly relates to convective strength and AOT represents aerosol loading, our empirical formula provides a means to quantify the relative roles of dynamics and aerosols in controlling re in different geographical regions, and to establish a framework for parameterization of aerosol effects on re in climate models.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

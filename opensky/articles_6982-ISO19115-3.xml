@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:11.182073</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:35.830008</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Hybrid ensemble-three-dimensional variational analysis schemes incorporate flow-dependent, ensemble-estimated background-error covariances into the three-dimensional variational data assimilation (3DVAR) framework. Typically the 3DVAR background-error covariance estimate is assumed to be stationary, nearly homogeneous, and isotropic. A hybrid scheme can be achieved by 1) directly replacing the background-error covariance term in the cost function by a linear combination of the original background-error covariance with the ensemble covariance or 2) through augmenting the state vector with another set of control variables preconditioned upon the square root of the ensemble covariance. These differently proposed hybrid schemes are proven to be equivalent. The latter framework may be a simpler way to incorporate ensemble information into operational 3DVAR schemes, where the preconditioning is performed with respect to the background term.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Hybrid ensemble-three-dimensional variational analysis schemes incorporate flow-dependent, ensemble-estimated background-error covariances into the three-dimensional variational data assimilation (3DVAR) framework. Typically the 3DVAR background-error covariance estimate is assumed to be stationary, nearly homogeneous, and isotropic. A hybrid scheme can be achieved by 1) directly replacing the background-error covariance term in the cost function by a linear combination of the original background-error covariance with the ensemble covariance or 2) through augmenting the state vector with another set of control variables preconditioned upon the square root of the ensemble covariance. These differently proposed hybrid schemes are proven to be equivalent. The latter framework may be a simpler way to incorporate ensemble information into operational 3DVAR schemes, where the preconditioning is performed with respect to the background term.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

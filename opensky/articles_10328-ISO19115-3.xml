@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:22.423307</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:52.158386</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Information about the three-dimensional structure of solar magnetic fields is encoded in the polarized spectra of solar radiation by a host of physical processes. To extract this information, solar spectra must be obtained in a variety of magnetically sensitive spectral lines at high spatial, spectral, and temporal resolution with high precision. The need to observe many different spectral lines drives the development of Stokes polarimeters with a high degree of wavelength diversity. We present a new paradigm for the design of polarization modulators that operate over a wide wavelength range with near optimal polarimetric efficiency and are directly applicable to the next generation of multi-line Stokes polarimeters. These modulators are not achromatic in the usual sense because their polarimetric properties vary with wavelength, but they do so in an optimal way. Thus we refer to these modulators as polychromatic. We present here the theory behind polychromatic modulators, illustrate the concept with design examples, and present the performance properties of a prototype polychromatic modulator.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Information about the three-dimensional structure of solar magnetic fields is encoded in the polarized spectra of solar radiation by a host of physical processes. To extract this information, solar spectra must be obtained in a variety of magnetically sensitive spectral lines at high spatial, spectral, and temporal resolution with high precision. The need to observe many different spectral lines drives the development of Stokes polarimeters with a high degree of wavelength diversity. We present a new paradigm for the design of polarization modulators that operate over a wide wavelength range with near optimal polarimetric efficiency and are directly applicable to the next generation of multi-line Stokes polarimeters. These modulators are not achromatic in the usual sense because their polarimetric properties vary with wavelength, but they do so in an optimal way. Thus we refer to these modulators as polychromatic. We present here the theory behind polychromatic modulators, illustrate the concept with design examples, and present the performance properties of a prototype polychromatic modulator.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

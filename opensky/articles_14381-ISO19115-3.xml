@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:29.238400</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:21.581861</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We present seasonal predictions of Arctic sea ice extent (SIE) over the 1982-2013 period using two suites of retrospective forecasts initialized from a fully coupled ocean-atmosphere-sea ice assimilation system. High skill scores are found in predicting year-to-year fluctuations of Arctic SIE, with significant correlations up to 7 month ahead for September detrended anomalies. Predictions over the recent era, which coincides with an improved observational coverage, outperform the earlier period for most target months. We find, however, a degradation of skill in September during the last decade, a period of sea ice thinning in observations. The two prediction models, Climate Model version 2.1 (CM2.1) and Forecast-oriented Low Ocean Resolution (FLOR), share very similar ocean and ice component and initialization but differ by their atmospheric component. FLOR has improved climatological atmospheric circulation and sea ice mean state, but its skill is overall similar to CM2.1 for most seasons, which suggests a key role for initial conditions in predicting seasonal SIE fluctuations.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We present seasonal predictions of Arctic sea ice extent (SIE) over the 1982-2013 period using two suites of retrospective forecasts initialized from a fully coupled ocean-atmosphere-sea ice assimilation system. High skill scores are found in predicting year-to-year fluctuations of Arctic SIE, with significant correlations up to 7 month ahead for September detrended anomalies. Predictions over the recent era, which coincides with an improved observational coverage, outperform the earlier period for most target months. We find, however, a degradation of skill in September during the last decade, a period of sea ice thinning in observations. The two prediction models, Climate Model version 2.1 (CM2.1) and Forecast-oriented Low Ocean Resolution (FLOR), share very similar ocean and ice component and initialization but differ by their atmospheric component. FLOR has improved climatological atmospheric circulation and sea ice mean state, but its skill is overall similar to CM2.1 for most seasons, which suggests a key role for initial conditions in predicting seasonal SIE fluctuations.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

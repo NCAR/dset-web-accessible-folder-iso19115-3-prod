@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:08.640471</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:19.106059</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>An important environmental control of both tropical cyclone intensity and genesis is vertical wind shear. One hypothesized pathway by which vertical shear affects tropical cyclones is midlevel ventilation - or the flux of low-entropy air into the center of the tropical cyclone. Based on a theoretical framework, a ventilation index is introduced that is equal to the environmental vertical wind shear times the nondimensional midlevel entropy deficit divided by the potential intensity. The ventilation index has a strong influence on tropical cyclone climatology. Tropical cyclogenesis preferentially occurs when and where the ventilation index is anomalously low. Both the ventilation index and the tropical cyclone's normalized intensity, or the intensity divided by the potential intensity, constrain the distribution of tropical cyclone intensification. The most rapidly intensifying storms are characterized by low ventilation indices and intermediate normalized intensities, while the most rapidly weakening storms are characterized by high ventilation indices and high normalized intensities. Since the ventilation index can be derived from large-scale fields, it can serve as a simple and useful metric for operational forecasts of tropical cyclones and diagnosis of model errors.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[An important environmental control of both tropical cyclone intensity and genesis is vertical wind shear. One hypothesized pathway by which vertical shear affects tropical cyclones is midlevel ventilation - or the flux of low-entropy air into the center of the tropical cyclone. Based on a theoretical framework, a ventilation index is introduced that is equal to the environmental vertical wind shear times the nondimensional midlevel entropy deficit divided by the potential intensity. The ventilation index has a strong influence on tropical cyclone climatology. Tropical cyclogenesis preferentially occurs when and where the ventilation index is anomalously low. Both the ventilation index and the tropical cyclone's normalized intensity, or the intensity divided by the potential intensity, constrain the distribution of tropical cyclone intensification. The most rapidly intensifying storms are characterized by low ventilation indices and intermediate normalized intensities, while the most rapidly weakening storms are characterized by high ventilation indices and high normalized intensities. Since the ventilation index can be derived from large-scale fields, it can serve as a simple and useful metric for operational forecasts of tropical cyclones and diagnosis of model errors.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

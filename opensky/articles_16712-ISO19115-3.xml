@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:48.614150</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:50.128299</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A time-split transport scheme has been developed for the high-order multiscale atmospheric model (HOMAM). The spacial discretization of HOMAM is based on the discontinuous Galerkin method, combining the 2D horizontal elements on the cubed-sphere surface and 1D vertical elements in a terrain-following height-based coordinate. The accuracy of the time-splitting scheme is tested with a set of new benchmark 3D advection problems. The split time-integrators are based on the Strang-type operator-split method. The convergence of standard error norms shows a second-order accuracy with the smooth scalar field, irrespective of a particular time- integrator. The results with the split scheme is comparable with that of the established models.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A time-split transport scheme has been developed for the high-order multiscale atmospheric model (HOMAM). The spacial discretization of HOMAM is based on the discontinuous Galerkin method, combining the 2D horizontal elements on the cubed-sphere surface and 1D vertical elements in a terrain-following height-based coordinate. The accuracy of the time-splitting scheme is tested with a set of new benchmark 3D advection problems. The split time-integrators are based on the Strang-type operator-split method. The convergence of standard error norms shows a second-order accuracy with the smooth scalar field, irrespective of a particular time- integrator. The results with the split scheme is comparable with that of the established models.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

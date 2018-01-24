@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:34.419507</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:58.028400</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Magnetic field emerges at the surface of the Sun as sunspots and active regions. This process generates a poloidal magnetic field from a rising toroidal flux tube; it is a crucial but poorly understood aspect of the solar dynamo. The emergence of magnetic field is also important because it is a key driver of solar activity. We show that measurements of horizontal flows at the solar surface around emerging active regions, in combination with numerical simulations of solar magnetoconvection, can constrain the subsurface rise speed of emerging magnetic flux. The observed flows imply that the rise speed of the magnetic field is no larger than 150 m/s at a depth of 20 Mm, that is, well below the prediction of the (standard) thin flux tube model but in the range expected for convective velocities at this depth. We conclude that convective flows control the dynamics of rising flux tubes in the upper layers of the Sun and cannot be neglected in models of flux emergence.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Magnetic field emerges at the surface of the Sun as sunspots and active regions. This process generates a poloidal magnetic field from a rising toroidal flux tube; it is a crucial but poorly understood aspect of the solar dynamo. The emergence of magnetic field is also important because it is a key driver of solar activity. We show that measurements of horizontal flows at the solar surface around emerging active regions, in combination with numerical simulations of solar magnetoconvection, can constrain the subsurface rise speed of emerging magnetic flux. The observed flows imply that the rise speed of the magnetic field is no larger than 150 m/s at a depth of 20 Mm, that is, well below the prediction of the (standard) thin flux tube model but in the range expected for convective velocities at this depth. We conclude that convective flows control the dynamics of rising flux tubes in the upper layers of the Sun and cannot be neglected in models of flux emergence.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

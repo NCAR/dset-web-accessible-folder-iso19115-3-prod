@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:55.554164</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:30.151846</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Aircraft measurements of the ubiquitous marine stratocumulus cloud type, with over 3000 km of in situ data from the Pacific during the Cloud System Evolution in the Trades experiment, show the ability of the Holographic Detector for Clouds (HOLODEC) instrument to smoothly interpolate the small and large droplet data collected with Cloud Droplet Probe and 2DC instruments. The combined, comprehensive instrument suite reveals a surprisingly large contribution in the predrizzle size range of 40-80 mu m (transition droplets, or drizzlets), a range typically not measured and assumed to reside in a condensation-to-collision minimum between cloud droplet and drizzle modes. Besides shedding light on the onset of collision coalescence, drizzlets are essential contributors to optical and chemical properties because of a substantial contribution to the total surface area. When adjusted to match spatial resolution of spaceborne remote sensing, the missing drizzlets bring in situ measurements to closer agreement with satellite observations.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Aircraft measurements of the ubiquitous marine stratocumulus cloud type, with over 3000 km of in situ data from the Pacific during the Cloud System Evolution in the Trades experiment, show the ability of the Holographic Detector for Clouds (HOLODEC) instrument to smoothly interpolate the small and large droplet data collected with Cloud Droplet Probe and 2DC instruments. The combined, comprehensive instrument suite reveals a surprisingly large contribution in the predrizzle size range of 40-80 mu m (transition droplets, or drizzlets), a range typically not measured and assumed to reside in a condensation-to-collision minimum between cloud droplet and drizzle modes. Besides shedding light on the onset of collision coalescence, drizzlets are essential contributors to optical and chemical properties because of a substantial contribution to the total surface area. When adjusted to match spatial resolution of spaceborne remote sensing, the missing drizzlets bring in situ measurements to closer agreement with satellite observations.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

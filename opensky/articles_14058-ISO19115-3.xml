@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:21.128633</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:10.833619</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Direct numerical simulations (DNS) of turbulent Couette flow are combined with Lagrangian point-particle tracking to investigate the effects of a dispersed phase on bulk passive heat transport when the two phases can exchange both momentum and sensible heat. The idealized setup allows a fixed number of particles, without the influence of gravity, to be transported by carrier-phase motions across the mean velocity and temperature gradients that exist between the solid boundaries of turbulent Couette flow. In this way, the setup serves as a model of spray in a shear-dominated layer in the immediate vicinity of the water surface and provides insight into the ability of spray to enhance sensible heat fluxes. The authors find that the dispersed phase contributes a relatively large amount of vertical heat transport and increases the total heat flux across the domain by 25% or greater. Particles that accumulate in regions associated with wall-normal ejections efficiently carry heat across the channel. Furthermore, the authors find that the relative contribution of the dispersed-phase heat flux becomes larger with Reynolds number, suggesting an importance at atmospheric scales.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Direct numerical simulations (DNS) of turbulent Couette flow are combined with Lagrangian point-particle tracking to investigate the effects of a dispersed phase on bulk passive heat transport when the two phases can exchange both momentum and sensible heat. The idealized setup allows a fixed number of particles, without the influence of gravity, to be transported by carrier-phase motions across the mean velocity and temperature gradients that exist between the solid boundaries of turbulent Couette flow. In this way, the setup serves as a model of spray in a shear-dominated layer in the immediate vicinity of the water surface and provides insight into the ability of spray to enhance sensible heat fluxes. The authors find that the dispersed phase contributes a relatively large amount of vertical heat transport and increases the total heat flux across the domain by 25% or greater. Particles that accumulate in regions associated with wall-normal ejections efficiently carry heat across the channel. Furthermore, the authors find that the relative contribution of the dispersed-phase heat flux becomes larger with Reynolds number, suggesting an importance at atmospheric scales.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

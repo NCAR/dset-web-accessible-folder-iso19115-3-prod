@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:23.303025</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:53.597393</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -328,7 +328,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Vertical profiles of carbon monoxide (CO) concentration and corresponding total column values derived from measurements made by the Measurements of Pollution in the Troposphere (MOPITT) satellite instrument are now being processed operationally with the "version 4" (V4) retrieval algorithm. This algorithm exploits the results of analyses of in situ data, chemical transport modeling, and radiative transfer modeling in the MOPITT postlaunch era. Improvements in the V4 product are evident in both clean and polluted conditions. The new products are validated using CO in situ measurements acquired from aircraft from 2000 to 2007. As determined by both retrieval simulations and observations, retrieval bias drift is typically about 1 ppbv/yr for levels in the middle troposphere and about 2 ppbv/yr in the upper troposphere. Retrieval simulations indicate that observed bias drift may be the result of gradual on-orbit changes in the instrument's modulation cell parameters.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Vertical profiles of carbon monoxide (CO) concentration and corresponding total column values derived from measurements made by the Measurements of Pollution in the Troposphere (MOPITT) satellite instrument are now being processed operationally with the "version 4" (V4) retrieval algorithm. This algorithm exploits the results of analyses of in situ data, chemical transport modeling, and radiative transfer modeling in the MOPITT postlaunch era. Improvements in the V4 product are evident in both clean and polluted conditions. The new products are validated using CO in situ measurements acquired from aircraft from 2000 to 2007. As determined by both retrieval simulations and observations, retrieval bias drift is typically about 1 ppbv/yr for levels in the middle troposphere and about 2 ppbv/yr in the upper troposphere. Retrieval simulations indicate that observed bias drift may be the result of gradual on-orbit changes in the instrument's modulation cell parameters.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

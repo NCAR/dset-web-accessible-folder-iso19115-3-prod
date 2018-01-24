@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:06.920410</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:52.574394</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -433,7 +433,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We investigate major results of the NARCCAP multiple regional climate model (RCM) experiments driven by multiple global climate models (GCMs) regarding climate change for seasonal temperature and precipitation over North America. We focus on two major questions: How do the RCM simulated climate changes differ from those of the parent GCMs and thus affect our perception of climate change over North America, and how important are the relative contributions of RCMs and GCMs to the uncertainty (variance explained) for different seasons and variables? The RCMs tend to produce stronger climate changes for precipitation: larger increases in the northern part of the domain in winter and greater decreases across a swath of the central part in summer, compared to the four GCMs driving the regional models as well as to the full set of CMIP3 GCM results. We pose some possible process-level mechanisms for the difference in intensity of change, particularly for summer. Detailed process-level studies will be necessary to establish mechanisms and credibility of these results. The GCMs explain more variance for winter temperature and the RCMs for summer temperature. The same is true for precipitation patterns. Thus, we recommend that future RCM-GCM experiments over this region include a balanced number of GCMs and RCMs.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We investigate major results of the NARCCAP multiple regional climate model (RCM) experiments driven by multiple global climate models (GCMs) regarding climate change for seasonal temperature and precipitation over North America. We focus on two major questions: How do the RCM simulated climate changes differ from those of the parent GCMs and thus affect our perception of climate change over North America, and how important are the relative contributions of RCMs and GCMs to the uncertainty (variance explained) for different seasons and variables? The RCMs tend to produce stronger climate changes for precipitation: larger increases in the northern part of the domain in winter and greater decreases across a swath of the central part in summer, compared to the four GCMs driving the regional models as well as to the full set of CMIP3 GCM results. We pose some possible process-level mechanisms for the difference in intensity of change, particularly for summer. Detailed process-level studies will be necessary to establish mechanisms and credibility of these results. The GCMs explain more variance for winter temperature and the RCMs for summer temperature. The same is true for precipitation patterns. Thus, we recommend that future RCM-GCM experiments over this region include a balanced number of GCMs and RCMs.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

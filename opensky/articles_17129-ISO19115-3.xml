@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:58.072616</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:04.283499</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The equivalence of spatial velocity statistics calculated from second-order structure functions on constant pressure or constant altitude surfaces is demonstrated from analysis of numerical weather prediction model output, rawinsonde data, and commercial aircraft wind measurements. These large data sets allow the development of very accurate statistics. Turbulence scaling laws for horizontal velocity statistics are found to be equivalent for either calculation.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The equivalence of spatial velocity statistics calculated from second-order structure functions on constant pressure or constant altitude surfaces is demonstrated from analysis of numerical weather prediction model output, rawinsonde data, and commercial aircraft wind measurements. These large data sets allow the development of very accurate statistics. Turbulence scaling laws for horizontal velocity statistics are found to be equivalent for either calculation.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

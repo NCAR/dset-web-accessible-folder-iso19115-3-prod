@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:53.090954</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:56.954399</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Seasonal changes in plant leaf area have a substantial impact on global climate. The presence of leaves and the time when they appear affect surface roughness and albedo, and the gas exchange occurring between leaves and the atmosphere affects carbon dioxide concentrations and the global water system. Thus, correct predictions of plant phenological processes are important for understanding the present and future states of the Earth system. Here we compare plant phenology as estimated in the Community Land Model (CLM) to that derived from satellites in drought deciduous regions of the world. We reveal a subtle but important issue in the CLM: anomalous green-up during the dry season in many semi-arid parts of the world owing to rapid upwards water movement from wet to dry soil layers. We develop and implement a solution for this problem by introducing an additional criterion of minimum cumulative rainfall to the leaf-out trigger in the drought deciduous algorithm. We discuss some of the broader ecological impacts of this change and highlight some of the further steps that need to be taken to fully incorporate this change into the CLM framework.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Seasonal changes in plant leaf area have a substantial impact on global climate. The presence of leaves and the time when they appear affect surface roughness and albedo, and the gas exchange occurring between leaves and the atmosphere affects carbon dioxide concentrations and the global water system. Thus, correct predictions of plant phenological processes are important for understanding the present and future states of the Earth system. Here we compare plant phenology as estimated in the Community Land Model (CLM) to that derived from satellites in drought deciduous regions of the world. We reveal a subtle but important issue in the CLM: anomalous green-up during the dry season in many semi-arid parts of the world owing to rapid upwards water movement from wet to dry soil layers. We develop and implement a solution for this problem by introducing an additional criterion of minimum cumulative rainfall to the leaf-out trigger in the drought deciduous algorithm. We discuss some of the broader ecological impacts of this change and highlight some of the further steps that need to be taken to fully incorporate this change into the CLM framework.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:27.972254</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:47.918024</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Three approaches to represent sea surface temperatures (SSTs) in atmospheric models have been investigated using the Weather Research and Forecasting model: (1) prescribing SSTs every 6 h from reanalysis, (2) a one-dimensional ocean mixed-layer model and (3) a fully coupled regional ocean model. Hurricane Irene (2011) was chosen as the test case. All three options produced results comparable to observations immediately after storm passage but only options (1) and (3) captured recovery to pre-storm conditions which suggests both are feasible approaches for long-term simulations of tropical cyclones. Option (2) merits further investigation because of its greater computational efficiency and reduced complexity.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Three approaches to represent sea surface temperatures (SSTs) in atmospheric models have been investigated using the Weather Research and Forecasting model: (1) prescribing SSTs every 6 h from reanalysis, (2) a one-dimensional ocean mixed-layer model and (3) a fully coupled regional ocean model. Hurricane Irene (2011) was chosen as the test case. All three options produced results comparable to observations immediately after storm passage but only options (1) and (3) captured recovery to pre-storm conditions which suggests both are feasible approaches for long-term simulations of tropical cyclones. Option (2) merits further investigation because of its greater computational efficiency and reduced complexity.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

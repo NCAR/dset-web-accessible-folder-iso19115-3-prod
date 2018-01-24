@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:32.991260</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:55.772602</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -373,7 +373,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>New-particle formation (NPF) is a significant source of aerosol particles into the atmosphere. However, these particles are initially too small to have climatic importance and must grow, primarily through net uptake of lowvolatility species, from diameters similar to 1 to 30-100 nm in order to potentially impact climate. There are currently uncertainties in the physical and chemical processes associated with the growth of these freshly formed particles that lead to uncertainties in aerosol-climate modeling. Four main pathways for new-particle growth have been identified: condensation of sulfuric-acid vapor (and associated bases when available), condensation of organic vapors, uptake of organic acids through acid-base chemistry in the particle phase, and accretion of organic molecules in the particle phase to create a lower-volatility compound that then contributes to the aerosol mass. The relative importance of each pathway is uncertain and is the focus of this work.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[New-particle formation (NPF) is a significant source of aerosol particles into the atmosphere. However, these particles are initially too small to have climatic importance and must grow, primarily through net uptake of lowvolatility species, from diameters similar to 1 to 30-100 nm in order to potentially impact climate. There are currently uncertainties in the physical and chemical processes associated with the growth of these freshly formed particles that lead to uncertainties in aerosol-climate modeling. Four main pathways for new-particle growth have been identified: condensation of sulfuric-acid vapor (and associated bases when available), condensation of organic vapors, uptake of organic acids through acid-base chemistry in the particle phase, and accretion of organic molecules in the particle phase to create a lower-volatility compound that then contributes to the aerosol mass. The relative importance of each pathway is uncertain and is the focus of this work.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

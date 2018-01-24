@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:05.313053</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:27.368056</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this study a nonlocal, linear observation operator for assimilating radio occultation data is evaluated. The operator consists of modeling the excess phase, that is, integrating the refractivity along straight lines tangent to rays, below a certain height. The corresponding observable is the excess phase integrated through the Abel-retrieved refractivity, along the same lines, below the same height. The operator allows very simple implementation (computationally efficient) while accurately accounting for the horizontal refractivity gradients. This is due to significant cancellation of the linearization and discretization errors when modeling the observable. Evaluation of the operator with Challenging Minisatellite Payload (CHAMP) radio occultation data and grid refractivity fields from high-resolution regional analysis over the continental United States showed reduction of the observation error in the troposphere (below 7 km) 1.5-2 times, compared to the error of local refractivity. The operator is useful for the assimilation of radio occultation data by high-resolution weather models in the troposphere.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this study a nonlocal, linear observation operator for assimilating radio occultation data is evaluated. The operator consists of modeling the excess phase, that is, integrating the refractivity along straight lines tangent to rays, below a certain height. The corresponding observable is the excess phase integrated through the Abel-retrieved refractivity, along the same lines, below the same height. The operator allows very simple implementation (computationally efficient) while accurately accounting for the horizontal refractivity gradients. This is due to significant cancellation of the linearization and discretization errors when modeling the observable. Evaluation of the operator with Challenging Minisatellite Payload (CHAMP) radio occultation data and grid refractivity fields from high-resolution regional analysis over the continental United States showed reduction of the observation error in the troposphere (below 7 km) 1.5-2 times, compared to the error of local refractivity. The operator is useful for the assimilation of radio occultation data by high-resolution weather models in the troposphere.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:31.911434</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:05.913857</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Ensembles of 21st century climate projections made using a state of the art global climate model are analyzed to explore possible changes in spring snow cover and summer air temperature in present-day wolverine habitats in the contiguous United States (US). Projected changes in both snow cover and temperature are presented for a range of future emissions scenarios, and implications for the continued survival of the wolverine in the contiguous US are discussed. It is shown that under a high or medium - low emissions scenario there are likely to be dramatic reductions in spring snow cover in present-day wolverine habitats. Under these scenarios there is also likely to be a concomitant increase in summer-time temperatures, with projected maximum daily August temperatures far above those currently tolerated by the wolverine. It is likely that the wolverine, with its many adaptations for cold weather and deep snow pack, would have great difficulty adapting to such changes. The results of the simulations presented here suggest that the very low numbers of wolverines currently living in the contiguous US will likely further decline in response to the deterioration of their habitat in coming decades.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Ensembles of 21st century climate projections made using a state of the art global climate model are analyzed to explore possible changes in spring snow cover and summer air temperature in present-day wolverine habitats in the contiguous United States (US). Projected changes in both snow cover and temperature are presented for a range of future emissions scenarios, and implications for the continued survival of the wolverine in the contiguous US are discussed. It is shown that under a high or medium - low emissions scenario there are likely to be dramatic reductions in spring snow cover in present-day wolverine habitats. Under these scenarios there is also likely to be a concomitant increase in summer-time temperatures, with projected maximum daily August temperatures far above those currently tolerated by the wolverine. It is likely that the wolverine, with its many adaptations for cold weather and deep snow pack, would have great difficulty adapting to such changes. The results of the simulations presented here suggest that the very low numbers of wolverines currently living in the contiguous US will likely further decline in response to the deterioration of their habitat in coming decades.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

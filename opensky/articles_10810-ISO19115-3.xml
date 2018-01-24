@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:33.523591</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:08.250169</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A multiphysics and a stochastic kinetic-energy backscatter scheme are employed to represent model uncertainty in a mesoscale ensemble prediction system using the Weather Research and Forecasting model. Both model-error schemes lead to significant improvements over the control ensemble system that is simply a downscaled global ensemble forecast with the same physics for each ensemble member. The improvements are evident in verification against both observations and analyses, but different in some details. Overall the stochastic kinetic-energy backscatter scheme outperforms the multiphysics scheme, except near the surface. Best results are obtained when both schemes are used simultaneously, indicating that the model error can best be captured by a combination of multiple schemes.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A multiphysics and a stochastic kinetic-energy backscatter scheme are employed to represent model uncertainty in a mesoscale ensemble prediction system using the Weather Research and Forecasting model. Both model-error schemes lead to significant improvements over the control ensemble system that is simply a downscaled global ensemble forecast with the same physics for each ensemble member. The improvements are evident in verification against both observations and analyses, but different in some details. Overall the stochastic kinetic-energy backscatter scheme outperforms the multiphysics scheme, except near the surface. Best results are obtained when both schemes are used simultaneously, indicating that the model error can best be captured by a combination of multiple schemes.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

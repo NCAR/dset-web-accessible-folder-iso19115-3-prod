@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:12.754633</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:59.676233</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We present a survey on coronal prominence cavities conducted using 19 months of data from the Atmospheric Imaging Assembly (AIA) instrument aboard the Solar Dynamics Observatory (SDO) satellite. Coronal cavities are elliptical regions of rarefied density lying above and around prominences. They can be long-lived (weeks to months) but are often observed to eventually erupt as part of a coronal mass ejection (CME). We determine morphological properties of the cavities both by qualitatively assessing their shape, and quantitatively fitting them with ellipses. We demonstrate consistency between these two approaches, and find that fitted ellipses are taller than they are wide for almost all cavities studied, in agreement with an earlier analysis of white-light cavities. We examine correlations between cavity shape, aspect ratio, and propensity for eruption. We find that cavities with a teardrop-shaped morphology are more likely to erupt, and we discuss the implications of this morphology for magnetic topologies associated with CME models. We provide the full details of the survey for broad scientific use as supplemental material.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We present a survey on coronal prominence cavities conducted using 19 months of data from the Atmospheric Imaging Assembly (AIA) instrument aboard the Solar Dynamics Observatory (SDO) satellite. Coronal cavities are elliptical regions of rarefied density lying above and around prominences. They can be long-lived (weeks to months) but are often observed to eventually erupt as part of a coronal mass ejection (CME). We determine morphological properties of the cavities both by qualitatively assessing their shape, and quantitatively fitting them with ellipses. We demonstrate consistency between these two approaches, and find that fitted ellipses are taller than they are wide for almost all cavities studied, in agreement with an earlier analysis of white-light cavities. We examine correlations between cavity shape, aspect ratio, and propensity for eruption. We find that cavities with a teardrop-shaped morphology are more likely to erupt, and we discuss the implications of this morphology for magnetic topologies associated with CME models. We provide the full details of the survey for broad scientific use as supplemental material.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

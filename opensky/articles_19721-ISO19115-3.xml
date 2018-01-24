@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:48.042735</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:18.832058</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this study, the Thermosphere Ionosphere Electrodynamics Global Circulation Model and the extended Canadian Middle Atmosphere Model are utilized to investigate the seasonal variations of the upward propagation of the migrating terdiurnal tide from the mesosphere and lower thermosphere (MLT). Three main conclusions are drawn from a series of controlled simulations: (1) The background thermospheric zonal and meridional winds and neutral temperature can affect the upward propagation of the terdiurnal tide. (2) The background zonal winds can play an important role in the variation of the vertical advection and adiabatic cooling/heating, especially in the low thermosphere, and as a consequence, the upward propagation of the terdiurnal tide is modulated. (3) The terdiurnal tide in the MLT has influences not only on the latitudinal distributions and magnitudes of the terdiurnal tide in the upper thermosphere but also on the effect of the background winds on the upward propagation of the terdiurnal tide.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this study, the Thermosphere Ionosphere Electrodynamics Global Circulation Model and the extended Canadian Middle Atmosphere Model are utilized to investigate the seasonal variations of the upward propagation of the migrating terdiurnal tide from the mesosphere and lower thermosphere (MLT). Three main conclusions are drawn from a series of controlled simulations: (1) The background thermospheric zonal and meridional winds and neutral temperature can affect the upward propagation of the terdiurnal tide. (2) The background zonal winds can play an important role in the variation of the vertical advection and adiabatic cooling/heating, especially in the low thermosphere, and as a consequence, the upward propagation of the terdiurnal tide is modulated. (3) The terdiurnal tide in the MLT has influences not only on the latitudinal distributions and magnitudes of the terdiurnal tide in the upper thermosphere but also on the effect of the background winds on the upward propagation of the terdiurnal tide.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

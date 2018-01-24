@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:29.774770</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:50.633559</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>O/N2, measured by the Global Ultraviolet Imager on board the Thermosphere Ionosphere Mesosphere Energetics Dynamics satellite, has large longitudinal variations at the solstices, which are simulated well in upper atmosphere general circulation models. These longitudinal variations are caused by the displacement of the Earth's magnetic poles from the geographic ones. The location of a magnetic pole affects the latitude at which the winds, driven by heating in summer, converge in the subauroral region of the winter hemisphere. In the magnetic pole's longitude sector, this convergence occurs at relatively low latitudes, which results in the maximum values of O/N2 also occurring at relatively low latitudes. These latitudes have a relatively small solar zenith angle, contributing to a strong winter anomaly. In the zonally opposite longitude sector, maximum values of O/N2 occur at relatively high latitudes because the summer-to-winter wind convergence also occurs at relatively high latitudes. These high latitudes have a relatively large solar zenith angle, so ionization is weak, contributing to a weak winter anomaly. Therefore, the displacement between the magnetic and geographic poles not only results in a strong longitudinal variation of O/N2 but also results in a strong longitudinal variation of the ionosphere winter anomaly.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[O/N2, measured by the Global Ultraviolet Imager on board the Thermosphere Ionosphere Mesosphere Energetics Dynamics satellite, has large longitudinal variations at the solstices, which are simulated well in upper atmosphere general circulation models. These longitudinal variations are caused by the displacement of the Earth's magnetic poles from the geographic ones. The location of a magnetic pole affects the latitude at which the winds, driven by heating in summer, converge in the subauroral region of the winter hemisphere. In the magnetic pole's longitude sector, this convergence occurs at relatively low latitudes, which results in the maximum values of O/N2 also occurring at relatively low latitudes. These latitudes have a relatively small solar zenith angle, contributing to a strong winter anomaly. In the zonally opposite longitude sector, maximum values of O/N2 occur at relatively high latitudes because the summer-to-winter wind convergence also occurs at relatively high latitudes. These high latitudes have a relatively large solar zenith angle, so ionization is weak, contributing to a weak winter anomaly. Therefore, the displacement between the magnetic and geographic poles not only results in a strong longitudinal variation of O/N2 but also results in a strong longitudinal variation of the ionosphere winter anomaly.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

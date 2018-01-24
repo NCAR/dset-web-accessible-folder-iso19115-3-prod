@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:15.983027</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:29.774066</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -478,7 +478,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The hydroxyl radical (OH) is the most important oxidant in the atmosphere and the primary sink for isoprene, the dominant volatile organic compound emitted by vegetation. Recent research on the atmospheric oxidation capacity in isoprene-dominated environments has suggested missing radical sources leading to significant overestimation of the lifetime of isoprene. Here we report, for the first time, a comprehensive experimental budget of isoprene in the planetary boundary layer based on airborne flux measurements along with in situ OH observations in the Southeast and Central U.S. Our findings show that surface heterogeneity of isoprene emissions lead to a physical separation of isoprene and OH resulting in an effective slowdown in the chemistry. Depending on surface heterogeneity, the intensity of segregation (Is) could locally slow down isoprene chemistry up to 30%. The effect of segregated reactants in the planetary boundary layer on average has an influence on modeled OH radicals that is comparable to that of recently proposed radical recycling mechanisms.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The hydroxyl radical (OH) is the most important oxidant in the atmosphere and the primary sink for isoprene, the dominant volatile organic compound emitted by vegetation. Recent research on the atmospheric oxidation capacity in isoprene-dominated environments has suggested missing radical sources leading to significant overestimation of the lifetime of isoprene. Here we report, for the first time, a comprehensive experimental budget of isoprene in the planetary boundary layer based on airborne flux measurements along with in situ OH observations in the Southeast and Central U.S. Our findings show that surface heterogeneity of isoprene emissions lead to a physical separation of isoprene and OH resulting in an effective slowdown in the chemistry. Depending on surface heterogeneity, the intensity of segregation (Is) could locally slow down isoprene chemistry up to 30%. The effect of segregated reactants in the planetary boundary layer on average has an influence on modeled OH radicals that is comparable to that of recently proposed radical recycling mechanisms.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:45.069680</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:24.569082</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Uncertainty information from ensemble prediction systems can enhance and extend the suite of tropical cyclone (TC) forecast products. This article will review progress in ensemble prediction of TCs and the scientific issues in ensemble system development for TCs. Additionally, it will discuss the needs of forecasters and other users for TC uncertainty information and describe some ensemble-based products that may be able to be disseminated in the near future. We hope these proposals will jump-start a community-wide discussion of how to leverage ensemble-based uncertainty information for TC prediction.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Uncertainty information from ensemble prediction systems can enhance and extend the suite of tropical cyclone (TC) forecast products. This article will review progress in ensemble prediction of TCs and the scientific issues in ensemble system development for TCs. Additionally, it will discuss the needs of forecasters and other users for TC uncertainty information and describe some ensemble-based products that may be able to be disseminated in the near future. We hope these proposals will jump-start a community-wide discussion of how to leverage ensemble-based uncertainty information for TC prediction.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

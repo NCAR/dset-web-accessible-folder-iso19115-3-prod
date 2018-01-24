@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:05.318829</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:14.518143</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -313,7 +313,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We report on precipitable water vapor (PWV) from a Global Positioning System (GPS) receiver and surface meteorological network during the 2004 North American Monsoon Experiment (NAME) in northwestern Mexico. The monsoon onset is evident as a large PWV increase over several days beginning July 1. Data in the Sierra Madre Occidental (SMO) foothills reveal a dynamical transition in mid-August from smaller, sub-synoptic scale to larger, synoptic scale moisture structure. During the Sub-synoptic phase in the SMO foothills, a positive feedback operates where near-daily precipitation supplied moisture maintains 15% higher surface mixing ratios that lower the lifting condensation level facilitating initiation of moist convection. Along the western edge of the SMO, precipitation typically occurs hours after the local temperature maximum, triggered by westward propagating convective disturbances. Precipitation is typically preceded by a rapid rise in PWV and sharp decrease in surface temperature, implying models must include moist convective downdrafts in the NAM area.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We report on precipitable water vapor (PWV) from a Global Positioning System (GPS) receiver and surface meteorological network during the 2004 North American Monsoon Experiment (NAME) in northwestern Mexico. The monsoon onset is evident as a large PWV increase over several days beginning July 1. Data in the Sierra Madre Occidental (SMO) foothills reveal a dynamical transition in mid-August from smaller, sub-synoptic scale to larger, synoptic scale moisture structure. During the Sub-synoptic phase in the SMO foothills, a positive feedback operates where near-daily precipitation supplied moisture maintains 15% higher surface mixing ratios that lower the lifting condensation level facilitating initiation of moist convection. Along the western edge of the SMO, precipitation typically occurs hours after the local temperature maximum, triggered by westward propagating convective disturbances. Precipitation is typically preceded by a rapid rise in PWV and sharp decrease in surface temperature, implying models must include moist convective downdrafts in the NAM area.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

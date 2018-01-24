@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:50.461406</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:52.938482</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The characteristics of thermally driven diurnally periodic wind signals off the east coast of China are studied using hourly model data for the period June 2006-11 simulated with a mesoscale model. Analysis of these model data indicates low-level diurnally periodic wind signals propagate eastward off the southeast coast, whereas diurnal wind variations off the northeast coast are nearly in phase. It is found that a simple 2D linear land-sea-breeze model with friction can capture this main difference in propagation character with respect to latitude. Idealized simulations using a simplified version of the mesoscale model that includes surface heating and terrain are found to explain certain features not captured by the present linear theory such as the absolute time phase and cross-coast location of the maximum amplitude of the diurnally periodic winds.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The characteristics of thermally driven diurnally periodic wind signals off the east coast of China are studied using hourly model data for the period June 2006-11 simulated with a mesoscale model. Analysis of these model data indicates low-level diurnally periodic wind signals propagate eastward off the southeast coast, whereas diurnal wind variations off the northeast coast are nearly in phase. It is found that a simple 2D linear land-sea-breeze model with friction can capture this main difference in propagation character with respect to latitude. Idealized simulations using a simplified version of the mesoscale model that includes surface heating and terrain are found to explain certain features not captured by the present linear theory such as the absolute time phase and cross-coast location of the maximum amplitude of the diurnally periodic winds.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

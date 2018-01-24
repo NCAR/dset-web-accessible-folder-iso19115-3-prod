@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:04.107871</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:12.756801</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A recently developed spectral-element adaptive refinement incompressible magnetohydrodynamic (MHD) code is applied to simulate the problem of MHD island coalescence instability (MICI) in two dimensions. MICI is a fundamental MHD process that can produce sharp current layers and subsequent reconnection and heating in a high-Lundquist number plasma such as the solar corona. Because of the formation of thin current layers, it is highly desirable to use adaptively or statically refined grids to resolve them and to maintain accuracy at the same time. The output of the spectral-element static adaptive refinement simulations are compared with simulations using a finite-difference method on the same refinement grids, and both methods are compared to pseudospectral simulations with uniform grids as baselines. It is shown that with the statically refined grids roughly scaling linearly with effective resolution, spectral element runs can maintain accuracy significantly higher than that of the finite-difference runs, in some cases achieving close to full spectral accuracy.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A recently developed spectral-element adaptive refinement incompressible magnetohydrodynamic (MHD) code is applied to simulate the problem of MHD island coalescence instability (MICI) in two dimensions. MICI is a fundamental MHD process that can produce sharp current layers and subsequent reconnection and heating in a high-Lundquist number plasma such as the solar corona. Because of the formation of thin current layers, it is highly desirable to use adaptively or statically refined grids to resolve them and to maintain accuracy at the same time. The output of the spectral-element static adaptive refinement simulations are compared with simulations using a finite-difference method on the same refinement grids, and both methods are compared to pseudospectral simulations with uniform grids as baselines. It is shown that with the statically refined grids roughly scaling linearly with effective resolution, spectral element runs can maintain accuracy significantly higher than that of the finite-difference runs, in some cases achieving close to full spectral accuracy.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

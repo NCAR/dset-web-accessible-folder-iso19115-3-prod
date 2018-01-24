@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:21.841983</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:51.406548</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -264,7 +264,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Results from an instrument-level spectral characterization of the 21-channel High Resolution Dynamics Limb Sounder (HIRDLS) flight instrument will be presented. These data were obtained during the prelaunch calibration of HIRDLS at the University of Oxford (fall 2002). A monochromator, equipped with a controllable diffraction grating, was used to produce monochromatic light for these tests. The monochromator was housed, along with HIRDLS, in a large vacuum chamber. The monochromator was also equipped with a polarizer, which allowed data to be acquired at known polarizations for each channel. A calibration detector, with a flat spectral response, was used to measure the output from the monochromator. This paper will document the analysis procedures used to obtain a measured instrument spectral response for each channel, along with the associated error analyses for these measurements.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Results from an instrument-level spectral characterization of the 21-channel High Resolution Dynamics Limb Sounder (HIRDLS) flight instrument will be presented. These data were obtained during the prelaunch calibration of HIRDLS at the University of Oxford (fall 2002). A monochromator, equipped with a controllable diffraction grating, was used to produce monochromatic light for these tests. The monochromator was housed, along with HIRDLS, in a large vacuum chamber. The monochromator was also equipped with a polarizer, which allowed data to be acquired at known polarizations for each channel. A calibration detector, with a flat spectral response, was used to measure the output from the monochromator. This paper will document the analysis procedures used to obtain a measured instrument spectral response for each channel, along with the associated error analyses for these measurements.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

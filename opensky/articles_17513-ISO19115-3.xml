@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:07.426573</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:17.501687</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The purpose of this letter is to show that the traditional view of transport by shallow cumulus clouds needs important refinement. On the basis of a straightforward geometrical analysis of Large Eddy Simulation results of shallow cumulus clouds, we conclude (1) that the upward mass transport by clouds is strongly dominated by regions close to the edge of clouds rather than by the core region of clouds and (2) that the downward mass transport is dominated by processes just outside the cloud. The latter finding contradicts the accepted view of a uniformly descending dry environment. We therefore advocate a refined view which distinguishes between the near-cloud environment and the distant environment. The near-cloud environment is characterized by coherent descending motions, whereas the distant environment is rather quiescent and plays no significant role in vertical transport.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The purpose of this letter is to show that the traditional view of transport by shallow cumulus clouds needs important refinement. On the basis of a straightforward geometrical analysis of Large Eddy Simulation results of shallow cumulus clouds, we conclude (1) that the upward mass transport by clouds is strongly dominated by regions close to the edge of clouds rather than by the core region of clouds and (2) that the downward mass transport is dominated by processes just outside the cloud. The latter finding contradicts the accepted view of a uniformly descending dry environment. We therefore advocate a refined view which distinguishes between the near-cloud environment and the distant environment. The near-cloud environment is characterized by coherent descending motions, whereas the distant environment is rather quiescent and plays no significant role in vertical transport.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

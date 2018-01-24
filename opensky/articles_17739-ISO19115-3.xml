@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:12.508231</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:24.704595</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Part II of this study of long-lived convective systems in a tropical environment focuses on forward-tilted, downshear-propagating systems that emerge spontaneously from idealized numerical simulations. These systems differ in important ways from the standard mesoscale convective system that is characterized by a rearward-tilted circulation with a trailing stratiform region, an overturning updraft, and a mesoscale downdraft. In contrast to this standard mesoscale system, the downshear-propagating system considered here does not feature a mesoscale downdraft and, although there is a cold pool it is of secondary importance to the propagation and maintenance of the system. The mesoscale downdraft is replaced by hydraulic-jump-like ascent beneath an elevated, forward-tilted overturning updraft with negligible convective available potential energy. Therefore, the mesoscale circulation is sustained almost entirely by the work done by the horizontal pressure gradient and the kinetic energy available from environmental shear. This category of organization is examined by cloud-system-resolving simulations and approximated by a nonlinear archetypal model of the quasi-steady Lagrangian-mean mesoscale circulation.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Part II of this study of long-lived convective systems in a tropical environment focuses on forward-tilted, downshear-propagating systems that emerge spontaneously from idealized numerical simulations. These systems differ in important ways from the standard mesoscale convective system that is characterized by a rearward-tilted circulation with a trailing stratiform region, an overturning updraft, and a mesoscale downdraft. In contrast to this standard mesoscale system, the downshear-propagating system considered here does not feature a mesoscale downdraft and, although there is a cold pool it is of secondary importance to the propagation and maintenance of the system. The mesoscale downdraft is replaced by hydraulic-jump-like ascent beneath an elevated, forward-tilted overturning updraft with negligible convective available potential energy. Therefore, the mesoscale circulation is sustained almost entirely by the work done by the horizontal pressure gradient and the kinetic energy available from environmental shear. This category of organization is examined by cloud-system-resolving simulations and approximated by a nonlinear archetypal model of the quasi-steady Lagrangian-mean mesoscale circulation.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

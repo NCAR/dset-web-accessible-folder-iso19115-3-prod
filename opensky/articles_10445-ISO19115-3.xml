@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:25.221805</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:56.369946</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The loss of ozone that has occurred in the Antarctic lower stratosphere during each spring since 1980 has led to a decrease in the lower stratospheric temperature that persists into the summer season. The temperature changes are accompanied by changes in the zonal wind in the SH stratosphere that affect the filtering of gravity waves propagating into the mesosphere. In simulations with the Whole Atmosphere Community Climate Model (WACCM), the resulting gravity wave changes have led to a weakening of the SH summer upwelling around 65-80 km and of the equatorward flow around 0.01 hPa. The trend occurs primarily in the years 1975-1990. The circulation changes are accompanied by an increase in the SH temperature at 65-85 km and a decrease at 95 km. Comparison of the summer temperatures in the NH and SH indicates a distinctive offset beginning around 1980. The increase in temperature near the SH summer mesopause has implications for the presence of polar mesospheric clouds.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The loss of ozone that has occurred in the Antarctic lower stratosphere during each spring since 1980 has led to a decrease in the lower stratospheric temperature that persists into the summer season. The temperature changes are accompanied by changes in the zonal wind in the SH stratosphere that affect the filtering of gravity waves propagating into the mesosphere. In simulations with the Whole Atmosphere Community Climate Model (WACCM), the resulting gravity wave changes have led to a weakening of the SH summer upwelling around 65-80 km and of the equatorward flow around 0.01 hPa. The trend occurs primarily in the years 1975-1990. The circulation changes are accompanied by an increase in the SH temperature at 65-85 km and a decrease at 95 km. Comparison of the summer temperatures in the NH and SH indicates a distinctive offset beginning around 1980. The increase in temperature near the SH summer mesopause has implications for the presence of polar mesospheric clouds.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

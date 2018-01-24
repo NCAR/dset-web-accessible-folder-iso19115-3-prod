@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:20.211482</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:59.335151</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -553,7 +553,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[The idea behind the marine cloud-brightening (MCB) geoengineering technique is that seeding marine stratocumulus clouds with copious quantities of roughly monodisperse sub-micrometre sea water particles might significantly enhance the cloud droplet number concentration, and thereby the cloud albedo and possibly longevity. This would produce a cooling, which general circulation model (GCM) computations suggest could-subject to satisfactory resolution of technical and scientific problems identified herein-have the capacity to balance global warming up to the carbon dioxide-doubling point. We describe herein an account of our recent research on a number of critical issues associated with MCB. This involves (i) GCM studies, which are our primary tools for evaluating globally the effectiveness of MCB, and assessing its climate impacts on rainfall amounts and distribution, and also polar sea-ice cover and thickness; (ii) high-resolution modelling of the effects of seeding on marine stratocumulus, which are required to understand the complex array of interacting processes involved in cloud brightening; (iii) microphysical modelling sensitivity studies, examining the influence of seeding amount, seed-particle salt-mass, air-mass characteristics, updraught speed and other parameters on cloud-albedo change; (iv) sea water spray-production techniques; (v) computational fluid dynamics studies of possible large-scale periodicities in Flettner rotors; and (vi) the planning of a three-stage limited-area field research experiment, with the primary objectives of technology testing and determining to what extent, if any, cloud albedo might be enhanced by seeding marine stratocumulus clouds on a spatial scale of around 100 x 100 km. We stress that there would be no justification for deployment of MCB unless it was clearly established that no significant adverse consequences would result. There would also need to be an international agreement firmly in favour of such action.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:29.112185</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:49.644859</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper describes the development and testing of a cloud-regime-dependent short-range solar irradiance forecasting system for predictions of 15-min-average clearness index (global horizontal irradiance). This regime-dependent artificial neural network (RD-ANN) system classifies cloud regimes with a k-means algorithm on the basis of a combination of surface weather observations, irradiance observations, and GOES-East satellite data. The ANNs are then trained on each cloud regime to predict the clearness index. This RD-ANN system improves over the mean absolute error of the baseline clearness-index persistence predictions by 1.0%, 21.0%, 26.4%, and 27.4% at the 15-, 60-, 120-, and 180-min forecast lead times, respectively. In addition, a version of this method configured to predict the irradiance variability predicts irradiance variability more accurately than does a smart persistence technique.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper describes the development and testing of a cloud-regime-dependent short-range solar irradiance forecasting system for predictions of 15-min-average clearness index (global horizontal irradiance). This regime-dependent artificial neural network (RD-ANN) system classifies cloud regimes with a k-means algorithm on the basis of a combination of surface weather observations, irradiance observations, and GOES-East satellite data. The ANNs are then trained on each cloud regime to predict the clearness index. This RD-ANN system improves over the mean absolute error of the baseline clearness-index persistence predictions by 1.0%, 21.0%, 26.4%, and 27.4% at the 15-, 60-, 120-, and 180-min forecast lead times, respectively. In addition, a version of this method configured to predict the irradiance variability predicts irradiance variability more accurately than does a smart persistence technique.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:04.676737</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:26.333514</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study examines the spatial variability of ozone fluxes over flat heterogeneous terrain consisting of a patchwork of irrigated and nonirrigated surfaces. Fluxes of ozone and other quantities are computed from eight sequential flight legs of the Canadian Twin Otter research aircraft over the same track at 33 m above the surface for each of 2 days. The fluxes are composited over the eight runs to reduce the random flux error. The fluxes of heat, moisture, and carbon dioxide are closely related to spatial variations of surface vegetation. However, the ozone flux is affected by additional factors including reaction with NO released from point sources. This effect is illustrated here with two examples of irrigation pumping stations driven by diesel engines. We conclude that the ozone deposition to the surface cannot be estimated from the measured ozone flux without correction for the NO sources.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study examines the spatial variability of ozone fluxes over flat heterogeneous terrain consisting of a patchwork of irrigated and nonirrigated surfaces. Fluxes of ozone and other quantities are computed from eight sequential flight legs of the Canadian Twin Otter research aircraft over the same track at 33 m above the surface for each of 2 days. The fluxes are composited over the eight runs to reduce the random flux error. The fluxes of heat, moisture, and carbon dioxide are closely related to spatial variations of surface vegetation. However, the ozone flux is affected by additional factors including reaction with NO released from point sources. This effect is illustrated here with two examples of irrigation pumping stations driven by diesel engines. We conclude that the ozone deposition to the surface cannot be estimated from the measured ozone flux without correction for the NO sources.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

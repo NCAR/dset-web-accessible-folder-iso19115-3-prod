@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:20.990684</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:14.405521</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study considers whether spikes in nitrate in snow sampled at Summit, Greenland, from August 2000 to August 2002 are related to solar proton events. After identifying tropospheric sources of nitrate on the basis of correlations with sulfate, ammonium, sodium, and calcium, we use the three-dimensional global Whole Atmosphere Community Climate Model (WACCM) to examine unaccounted for nitrate spikes. Model calculations confirm that solar proton events significantly impact HOx, NOx, and O3 levels in the mesosphere and stratosphere during the weeks and months following the major 9 November 2000 solar proton event. However, solar proton event (SPE)-enhanced NOy calculated within the atmospheric column is too small to account for the observed nitrate peaks in surface snow. Instead, our WACCM results suggest that nitrate spikes not readily accounted for by measurement correlations are likely of anthropogenic origin. These results, consistent with other recent studies, imply that nitrate spikes in ice cores are not suitable proxies for individual SPEs and motivate the need to identify alternative proxies.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

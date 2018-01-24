@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:36.410954</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:01.326690</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Science gateways began to emerge and evolve on the NSF-sponsored national HPC cyberinfrastructure, known today as the TeraGrid, in the early 2000s. Currently, the TeraGrid supports twenty-five science gateways that utilize a diverse collection of software and methods for integrating with the TeraGrid. This paper surveys TeraGrid science gateway implementations and security models, details a pilot study highlighting changes employed by the GridAMP science gateway to securely access the Kraken supercomputer, and describes possible solutions and recommendations for improving the security posture of science gateway implementations across the TeraGrid. Securing TeraGrid science gateways by employing one or more methods that balance security, developer ease-of-use, and end user ease-of-use improves the overall security posture of the implementations of science gateways across the TeraGrid.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Science gateways began to emerge and evolve on the NSF-sponsored national HPC cyberinfrastructure, known today as the TeraGrid, in the early 2000s. Currently, the TeraGrid supports twenty-five science gateways that utilize a diverse collection of software and methods for integrating with the TeraGrid. This paper surveys TeraGrid science gateway implementations and security models, details a pilot study highlighting changes employed by the GridAMP science gateway to securely access the Kraken supercomputer, and describes possible solutions and recommendations for improving the security posture of science gateway implementations across the TeraGrid. Securing TeraGrid science gateways by employing one or more methods that balance security, developer ease-of-use, and end user ease-of-use improves the overall security posture of the implementations of science gateways across the TeraGrid.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

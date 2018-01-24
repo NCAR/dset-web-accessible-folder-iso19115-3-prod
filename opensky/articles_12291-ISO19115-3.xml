@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:53.086980</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:34.847270</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Forecasts of October 2006 are used to investigate southeast Pacific stratocumulus in the Community Atmosphere Model, versions 4 and 5 (CAM4 and CAM5). Both models quickly develop biases similar to their climatic biases, suggesting that parameterized physics are the root of the climate errors. An extensive cloud deck is produced in CAM4, but the cloud structure is unrealistic because the boundary layer is too shallow and moist. The boundary layer structure is improved in CAM5, but during the daytime the boundary layer decouples from the cloud layer, causing the cloud layer to break up and transition toward a more trade wind cumulus structure in the afternoon. The cloud liquid water budget shows how different parameterizations contribute to maintaining these different expressions of stratocumulus. Sensitivity experiments help elucidate the origins of the errors. The importance of the diurnal cycle of these clouds for climate simulations is emphasized.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Forecasts of October 2006 are used to investigate southeast Pacific stratocumulus in the Community Atmosphere Model, versions 4 and 5 (CAM4 and CAM5). Both models quickly develop biases similar to their climatic biases, suggesting that parameterized physics are the root of the climate errors. An extensive cloud deck is produced in CAM4, but the cloud structure is unrealistic because the boundary layer is too shallow and moist. The boundary layer structure is improved in CAM5, but during the daytime the boundary layer decouples from the cloud layer, causing the cloud layer to break up and transition toward a more trade wind cumulus structure in the afternoon. The cloud liquid water budget shows how different parameterizations contribute to maintaining these different expressions of stratocumulus. Sensitivity experiments help elucidate the origins of the errors. The importance of the diurnal cycle of these clouds for climate simulations is emphasized.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

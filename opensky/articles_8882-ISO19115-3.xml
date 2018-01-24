@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:16.272172</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:43.111374</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The partial solar eclipse on 11 July 1991 in central California, with 58.3% maximum coverage, provided an exceptional opportunity to study the temporal response of processes in the atmospheric boundary layer to an abrupt change in solar radiation. Almost laboratory-like conditions were met over a cotton field, since no clouds disturbed the course of the eclipse. Tower-based and complementing aircraft-based systems monitored the micrometeorological conditions over the site. Temperature profile measurements indicated neutral stratification during the maximum eclipse in contrast to the unstable conditions before and after the eclipse. Accordingly, the sensible heat exchange completely stopped, as a wavelet analysis of the tower measurements and airborne eddy-covariance measurements showed. Turbulent fluxes of water vapor, carbon dioxide, and ozone were reduced by approximately 2/3 at the peak of the eclipse. Wavelet analysis further indicated that the same eddies contributed to the turbulent transport of water vapor and carbon dioxide, whereas sensible heat was transported by different ones. An analysis of the decay of turbulent kinetic energy followed a power law of time with an exponent of -1.25. The response of the sensible heat flux was 8-13 min delayed relative to the solar forcing, whereas no significant time lag could be detected for the turbulent fluxes of air constituents.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The partial solar eclipse on 11 July 1991 in central California, with 58.3% maximum coverage, provided an exceptional opportunity to study the temporal response of processes in the atmospheric boundary layer to an abrupt change in solar radiation. Almost laboratory-like conditions were met over a cotton field, since no clouds disturbed the course of the eclipse. Tower-based and complementing aircraft-based systems monitored the micrometeorological conditions over the site. Temperature profile measurements indicated neutral stratification during the maximum eclipse in contrast to the unstable conditions before and after the eclipse. Accordingly, the sensible heat exchange completely stopped, as a wavelet analysis of the tower measurements and airborne eddy-covariance measurements showed. Turbulent fluxes of water vapor, carbon dioxide, and ozone were reduced by approximately 2/3 at the peak of the eclipse. Wavelet analysis further indicated that the same eddies contributed to the turbulent transport of water vapor and carbon dioxide, whereas sensible heat was transported by different ones. An analysis of the decay of turbulent kinetic energy followed a power law of time with an exponent of -1.25. The response of the sensible heat flux was 8-13 min delayed relative to the solar forcing, whereas no significant time lag could be detected for the turbulent fluxes of air constituents.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

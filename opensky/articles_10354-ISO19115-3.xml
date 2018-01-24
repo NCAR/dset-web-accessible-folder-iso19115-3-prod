@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:23.091181</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:53.297291</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -328,7 +328,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Pampas of Argentina have shown some of the most significant increasing trends in precipitation during the 20th century. The rainfall increase has partly contributed to a significant expansion of agricultural area, particularly in climatically marginal regions of the Pampas. However, it is unclear if current agricultural production systems, which evolved partly in response to enhanced climate conditions, may remain viable if (as entirely possible) climate reverts to a drier epoch. We assess the potential impacts of a plausible decreasing trend in precipitation on the economic sustainability of two contrasting agricultural systems in the Pampas: Pergamino, in the most productive subregion of the Pampas and Pilar, in the northern, semi-arid margin of the region. Also, we explore the scope for adaptation to changing climate. In the case of no adaptation, if precipitations decrease as projected, impacts may be quite different between locations: whereas in Pergamino crop economic returns do not change noticeably, the more marginal Pilar experiences a marked decrease of profits and an increase of production risks. However, potential negative impacts might be mitigated in part if farmers adapt their agronomic management using current available technology or know-how</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Pampas of Argentina have shown some of the most significant increasing trends in precipitation during the 20th century. The rainfall increase has partly contributed to a significant expansion of agricultural area, particularly in climatically marginal regions of the Pampas. However, it is unclear if current agricultural production systems, which evolved partly in response to enhanced climate conditions, may remain viable if (as entirely possible) climate reverts to a drier epoch. We assess the potential impacts of a plausible decreasing trend in precipitation on the economic sustainability of two contrasting agricultural systems in the Pampas: Pergamino, in the most productive subregion of the Pampas and Pilar, in the northern, semi-arid margin of the region. Also, we explore the scope for adaptation to changing climate. In the case of no adaptation, if precipitations decrease as projected, impacts may be quite different between locations: whereas in Pergamino crop economic returns do not change noticeably, the more marginal Pilar experiences a marked decrease of profits and an increase of production risks. However, potential negative impacts might be mitigated in part if farmers adapt their agronomic management using current available technology or know-how]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

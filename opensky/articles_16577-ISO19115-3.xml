@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:45.688795</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:45.686851</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Permafrost soils contain enormous amounts of organic carbon whose stability is contingent on remaining frozen. With future warming, these soils may release carbon to the atmosphere and act as a positive feedback to climate change. Significant uncertainty remains on the postthaw carbon dynamics of permafrost-affected ecosystems, in particular since most of the carbon resides at depth where decomposition dynamics may differ from surface soils, and since nitrogen mineralized by decomposition may enhance plant growth. Here we show, using a carbon-nitrogen model that includes permafrost processes forced in an unmitigated warming scenario, that the future carbon balance of the permafrost region is highly sensitive to the decomposability of deeper carbon, with the net balance ranging from 21 Pg C to 164 Pg C losses by 2300. Increased soil nitrogen mineralization reduces nutrient limitations, but the impact of deep nitrogen on the carbon budget is small due to enhanced nitrogen availability from warming surface soils and seasonal asynchrony between deeper nitrogen availability and plant nitrogen demands. Although nitrogen dynamics are highly uncertain, the future carbon balance of this region is projected to hinge more on the rate and extent of permafrost thaw and soil decomposition than on enhanced nitrogen availability for vegetation growth resulting from permafrost thaw.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Permafrost soils contain enormous amounts of organic carbon whose stability is contingent on remaining frozen. With future warming, these soils may release carbon to the atmosphere and act as a positive feedback to climate change. Significant uncertainty remains on the postthaw carbon dynamics of permafrost-affected ecosystems, in particular since most of the carbon resides at depth where decomposition dynamics may differ from surface soils, and since nitrogen mineralized by decomposition may enhance plant growth. Here we show, using a carbon-nitrogen model that includes permafrost processes forced in an unmitigated warming scenario, that the future carbon balance of the permafrost region is highly sensitive to the decomposability of deeper carbon, with the net balance ranging from 21 Pg C to 164 Pg C losses by 2300. Increased soil nitrogen mineralization reduces nutrient limitations, but the impact of deep nitrogen on the carbon budget is small due to enhanced nitrogen availability from warming surface soils and seasonal asynchrony between deeper nitrogen availability and plant nitrogen demands. Although nitrogen dynamics are highly uncertain, the future carbon balance of this region is projected to hinge more on the rate and extent of permafrost thaw and soil decomposition than on enhanced nitrogen availability for vegetation growth resulting from permafrost thaw.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

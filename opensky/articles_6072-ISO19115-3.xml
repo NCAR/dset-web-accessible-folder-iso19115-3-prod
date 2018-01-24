@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:05.726014</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:27.973169</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this study, we compare the microwave brightness temperature (Tb) for the Lower Stratosphere (TLS) datasets provided by Remote Sensing Systems (RSS) Inc. and University of Alabama in Huntsville (UAH) with the GPS radio occultation (RO) data from Challenging Mini-satellite Payload (CHAMP) over 49 months from June 2001 to June 2005. The GPS RO data are used to simulate microwave brightness temperatures, for comparison with Microwave Sounding Unit (Channel 4) and Advanced Microwave Sounding Unit (Channel 9) measurements. Excellent agreement was found between both RSS and UAH TLS and that of CHAMP. This study demonstrates the usefulness of GPS RO observations as independent data for comparison against and use with other satellite observations in climate studies.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this study, we compare the microwave brightness temperature (Tb) for the Lower Stratosphere (TLS) datasets provided by Remote Sensing Systems (RSS) Inc. and University of Alabama in Huntsville (UAH) with the GPS radio occultation (RO) data from Challenging Mini-satellite Payload (CHAMP) over 49 months from June 2001 to June 2005. The GPS RO data are used to simulate microwave brightness temperatures, for comparison with Microwave Sounding Unit (Channel 4) and Advanced Microwave Sounding Unit (Channel 9) measurements. Excellent agreement was found between both RSS and UAH TLS and that of CHAMP. This study demonstrates the usefulness of GPS RO observations as independent data for comparison against and use with other satellite observations in climate studies.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

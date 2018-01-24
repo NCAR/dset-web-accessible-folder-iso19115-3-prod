@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:16.978724</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:44.168467</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Two high-precision CEDAR instruments, an OH Mesospheric Temperature Mapper (MTM) and a Na Temperature Lidar, have been used to investigate seasonal variability in the mid-latitude temperature at ~87 km altitude over the western USA. Here we report the observation of a large perturbation in mesospheric temperature that occurs shortly after the autumnal equinox in close association with the penetration of planetary-wave energy from the troposphere into the mesosphere. This perturbation has been observed on three occasions and exhibits a departure of up to ~25-30 K from the nominal seasonal trend during a disturbed period of ~2 weeks. Such behavior represents a dramatic transient departure from the seasonal trend expected on the basis of current empirical models. These novel results coupled with a recent TIME-GCM modeling study [Liu et al., 2000] provide important insight into the role of planetary waves in mesospheric variability during the equinox periods.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Two high-precision CEDAR instruments, an OH Mesospheric Temperature Mapper (MTM) and a Na Temperature Lidar, have been used to investigate seasonal variability in the mid-latitude temperature at ~87 km altitude over the western USA. Here we report the observation of a large perturbation in mesospheric temperature that occurs shortly after the autumnal equinox in close association with the penetration of planetary-wave energy from the troposphere into the mesosphere. This perturbation has been observed on three occasions and exhibits a departure of up to ~25-30 K from the nominal seasonal trend during a disturbed period of ~2 weeks. Such behavior represents a dramatic transient departure from the seasonal trend expected on the basis of current empirical models. These novel results coupled with a recent TIME-GCM modeling study [Liu et al., 2000] provide important insight into the role of planetary waves in mesospheric variability during the equinox periods.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

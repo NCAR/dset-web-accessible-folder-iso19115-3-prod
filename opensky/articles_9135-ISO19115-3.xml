@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:17.796724</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:45.405069</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Oscillations detected on the solar surface provide a unique opportunity for investigations of the interior properties of a star. Through major observational efforts, including extensive observations from space, as well as through the development of sophisticated tools for the analysis and interpretation of the data, we have been able to infer the large-scale structure and rotation of the solar interior with substantial accuracy. In addition, information is emerging about the complex subsurface structure and dynamics of sunspot regions, which dominate the magnetic activity in the solar atmosphere and beyond. The results provide a detailed test of the modeling of stellar structure and evolution, and hence of the physical properties of matter assumed in the models. In this way the basis for using stellar modeling in other branches of science is substantially strengthened; an important example is the use of observations of solar neutrinos to constrain the properties of the neutrino.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Oscillations detected on the solar surface provide a unique opportunity for investigations of the interior properties of a star. Through major observational efforts, including extensive observations from space, as well as through the development of sophisticated tools for the analysis and interpretation of the data, we have been able to infer the large-scale structure and rotation of the solar interior with substantial accuracy. In addition, information is emerging about the complex subsurface structure and dynamics of sunspot regions, which dominate the magnetic activity in the solar atmosphere and beyond. The results provide a detailed test of the modeling of stellar structure and evolution, and hence of the physical properties of matter assumed in the models. In this way the basis for using stellar modeling in other branches of science is substantially strengthened; an important example is the use of observations of solar neutrinos to constrain the properties of the neutrino.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:44.916252</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:44.495857</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A method for specifying low-altitude or inner boundary conditions that conserve low-frequency, magnetic field-aligned, electromagnetic energy flux across the boundary in global magnetospheric magnetohydrodynamics (MHD) models is presented. The single-fluid Lyon-Fedder-Mobarry (LFM) model is used to verify this method, with comparisons between simulations using LFM's standard hardwall boundary conditions and the new flux-conserving boundary conditions. Identical idealized upstream solar wind and interplanetary magnetic field conditions and the same constant ionospheric conductance are used in both runs. The results show that, compared to LFM's standard hardwall boundary conditions, the flux-conserving method improves the transparency of the boundary for the flow of low-frequency (essentially DC) electromagnetic energy flux along field lines. As a consequence, the hemispheric integrated field-aligned DC Poynting flux just above the boundary is close to the hemispheric total Joule heating of the ionosphere, as it should be if electromagnetic energy is conserved. The MHD velocity and perpendicular currents are well-behaved near the inner boundary for the flux conserving boundary conditions.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A method for specifying low-altitude or inner boundary conditions that conserve low-frequency, magnetic field-aligned, electromagnetic energy flux across the boundary in global magnetospheric magnetohydrodynamics (MHD) models is presented. The single-fluid Lyon-Fedder-Mobarry (LFM) model is used to verify this method, with comparisons between simulations using LFM's standard hardwall boundary conditions and the new flux-conserving boundary conditions. Identical idealized upstream solar wind and interplanetary magnetic field conditions and the same constant ionospheric conductance are used in both runs. The results show that, compared to LFM's standard hardwall boundary conditions, the flux-conserving method improves the transparency of the boundary for the flow of low-frequency (essentially DC) electromagnetic energy flux along field lines. As a consequence, the hemispheric integrated field-aligned DC Poynting flux just above the boundary is close to the hemispheric total Joule heating of the ionosphere, as it should be if electromagnetic energy is conserved. The MHD velocity and perpendicular currents are well-behaved near the inner boundary for the flux conserving boundary conditions.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

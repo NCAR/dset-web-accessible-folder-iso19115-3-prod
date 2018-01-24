@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:07.893216</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:31.014112</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A locally mass conservative shallow-water model using a two-time-level, semi-implicit, semi-Lagrangian integration scheme is presented. The momentum equations are solved with the traditional semi-Lagrangian gridpoint form. The explicit continuity equation is solved using a cell-integrated semi-Lagrangian scheme, and the semi-implicit part is designed such that the resulting elliptic equation is on the same form as for the traditional semi-Lagrangian gridpoint system. The accuracy of the model is assessed by running standard test cases adapted to a limited-area domain. The accuracy and efficiency of the new model is comparable to traditional semi-Lagrangian methods.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A locally mass conservative shallow-water model using a two-time-level, semi-implicit, semi-Lagrangian integration scheme is presented. The momentum equations are solved with the traditional semi-Lagrangian gridpoint form. The explicit continuity equation is solved using a cell-integrated semi-Lagrangian scheme, and the semi-implicit part is designed such that the resulting elliptic equation is on the same form as for the traditional semi-Lagrangian gridpoint system. The accuracy of the model is assessed by running standard test cases adapted to a limited-area domain. The accuracy and efficiency of the new model is comparable to traditional semi-Lagrangian methods.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

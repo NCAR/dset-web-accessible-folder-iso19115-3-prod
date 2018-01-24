@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:14.027327</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:26.746501</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -553,7 +553,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[Results of the comparison of carbon monoxide ground-based infrared solar spectroscopic measurements with data obtained during 1994 Measurement of Air Pollution From Space (MAPS) flights are presented. Spectroscopic measurements were performed correlatively with April and October MAPS flights by nine research groups from Belgium, Canada, Germany, Japan, New Zealand, Russia, and the United States. Characterization of the techniques and error analysis were performed. The role of the CO a priori profile used in the retrieval was estimated. In most cases an agreement between spectroscopic and MAPS data is within estimated MAPS accuracy of +/-10%.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

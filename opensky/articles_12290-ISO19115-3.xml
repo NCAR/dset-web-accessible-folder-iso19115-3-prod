@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:53.054099</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:34.804876</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>It is the purpose of this paper to propose a standard test case suite for two-dimensional transport schemes on the sphere intended to be used for model development and facilitating scheme intercomparison. The test cases are designed to assess important aspects of accuracy in geophysical fluid dynamics such as numerical order of convergence, "minimal" resolution, the ability of the transport scheme to preserve filaments, transport "rough" distributions, and to preserve pre-existing functional relations between species/tracers under challenging flow conditions. The experiments are designed to be easy to set up. They are specified in terms of two analytical wind fields (one non-divergent and one divergent) and four analytical initial conditions (varying from smooth to discontinuous). Both conventional error norms as well as novel mixing and filament preservation diagnostics are used that are easy to implement. The experiments pose different challenges for the range of transport approaches from Lagrangian to Eulerian. The mixing and filament preservation diagnostics do not require an analytical/reference solution, which is in contrast to standard error norms where a "true" solution is needed. Results using the CSLAM (Conservative Semi-Lagrangian Multi-tracer) scheme on the cubed-sphere are presented for reference and illustrative purposes.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[It is the purpose of this paper to propose a standard test case suite for two-dimensional transport schemes on the sphere intended to be used for model development and facilitating scheme intercomparison. The test cases are designed to assess important aspects of accuracy in geophysical fluid dynamics such as numerical order of convergence, "minimal" resolution, the ability of the transport scheme to preserve filaments, transport "rough" distributions, and to preserve pre-existing functional relations between species/tracers under challenging flow conditions. The experiments are designed to be easy to set up. They are specified in terms of two analytical wind fields (one non-divergent and one divergent) and four analytical initial conditions (varying from smooth to discontinuous). Both conventional error norms as well as novel mixing and filament preservation diagnostics are used that are easy to implement. The experiments pose different challenges for the range of transport approaches from Lagrangian to Eulerian. The mixing and filament preservation diagnostics do not require an analytical/reference solution, which is in contrast to standard error norms where a "true" solution is needed. Results using the CSLAM (Conservative Semi-Lagrangian Multi-tracer) scheme on the cubed-sphere are presented for reference and illustrative purposes.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

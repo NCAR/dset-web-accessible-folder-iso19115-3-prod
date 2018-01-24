@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:11.905850</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:58.572767</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Our global 3D simulations of convection and dynamo action in a Sun-like star reveal that persistent wreaths of strong magnetism can be built within the bulk of the convention zone. Here we examine the characteristics of buoyant magnetic structures that are self-consistently created by dynamo action and turbulent convective motions in a simulation with solar stratification but rotating at three times the current solar rate. These buoyant loops originate within sections of the magnetic wreaths in which turbulent flows amplify the fields to much higher values than is possible through laminar processes. These amplified portions can rise through the convective layer by a combination of magnetic buoyancy and advection by convective giant cells, forming buoyant loops. We measure statistical trends in the polarity, twist, and tilt of these loops. Loops are shown to preferentially arise in longitudinal patches somewhat reminiscent of active longitudes in the Sun, although broader in extent. We show that the strength of the axisymmetric toroidal field is not a good predictor of the production rate for buoyant loops or the amount of magnetic flux in the loops that are produced.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Our global 3D simulations of convection and dynamo action in a Sun-like star reveal that persistent wreaths of strong magnetism can be built within the bulk of the convention zone. Here we examine the characteristics of buoyant magnetic structures that are self-consistently created by dynamo action and turbulent convective motions in a simulation with solar stratification but rotating at three times the current solar rate. These buoyant loops originate within sections of the magnetic wreaths in which turbulent flows amplify the fields to much higher values than is possible through laminar processes. These amplified portions can rise through the convective layer by a combination of magnetic buoyancy and advection by convective giant cells, forming buoyant loops. We measure statistical trends in the polarity, twist, and tilt of these loops. Loops are shown to preferentially arise in longitudinal patches somewhat reminiscent of active longitudes in the Sun, although broader in extent. We show that the strength of the axisymmetric toroidal field is not a good predictor of the production rate for buoyant loops or the amount of magnetic flux in the loops that are produced.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

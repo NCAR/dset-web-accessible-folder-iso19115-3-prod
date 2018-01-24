@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:09.542222</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:33.343258</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A suite of eighteen simulations over the U.S. and Mexico, representing combinations of two mesoscale regional climate models (RCMs), two driving global general circulation models (GCMs), and the historical and four future anthropogenic forcings were intercompared. The RCMs' downscaling reduces significantly driving GCMs' present-climate biases and narrows inter-model differences in representing climate sensitivity and hence in simulating the present and future climates. Very high spatial pattern correlations of the RCM minus GCM differences in precipitation and surface temperature between the present and future climates indicate that major model present-climate biases are systematically propagated into future-climate projections at regional scales. The total impacts of the biases on trend projections also depend strongly on regions and cannot be linearly removed. The result suggests that the nested RCM-GCM approach that offers skill enhancement in representing the present climate also likely provides higher credibility in downscaling the future climate projection.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A suite of eighteen simulations over the U.S. and Mexico, representing combinations of two mesoscale regional climate models (RCMs), two driving global general circulation models (GCMs), and the historical and four future anthropogenic forcings were intercompared. The RCMs' downscaling reduces significantly driving GCMs' present-climate biases and narrows inter-model differences in representing climate sensitivity and hence in simulating the present and future climates. Very high spatial pattern correlations of the RCM minus GCM differences in precipitation and surface temperature between the present and future climates indicate that major model present-climate biases are systematically propagated into future-climate projections at regional scales. The total impacts of the biases on trend projections also depend strongly on regions and cannot be linearly removed. The result suggests that the nested RCM-GCM approach that offers skill enhancement in representing the present climate also likely provides higher credibility in downscaling the future climate projection.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

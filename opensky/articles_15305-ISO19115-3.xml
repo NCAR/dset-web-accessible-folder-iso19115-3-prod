@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:37.086640</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:32.964519</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>International Group on Attribution of Climate-Related Events (ACE); Boulder, Colorado, 26 January 2009; Climate change is likely to be manifested on societies around the world mainly through changes in extremes. As a result, the scientific community faces an increasing demand for regularly updated appraisals of evolving climate conditions and extreme weather. Such information would be immensely beneficial for adaptation planning. A group of climate scientists representing the United Kingdom, the United States, Australia, Canada, and South Africa assembled on 26 January 2009 at the National Center for Atmospheric Research (NCAR), in Colorado, to discuss how to meet this challenge. This first meeting of the International Group on Attribution of Climate-Related Events (ACE) was sponsored by the Science and Innovation Network of the U.K. Foreign and Commonwealth Office (FCO) and NCAR and was organized in collaboration with the U.S. National Oceanic and Atmospheric Administration (NOAA), the Met Office Hadley Centre, and the University of Oxford.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[International Group on Attribution of Climate-Related Events (ACE); Boulder, Colorado, 26 January 2009; Climate change is likely to be manifested on societies around the world mainly through changes in extremes. As a result, the scientific community faces an increasing demand for regularly updated appraisals of evolving climate conditions and extreme weather. Such information would be immensely beneficial for adaptation planning. A group of climate scientists representing the United Kingdom, the United States, Australia, Canada, and South Africa assembled on 26 January 2009 at the National Center for Atmospheric Research (NCAR), in Colorado, to discuss how to meet this challenge. This first meeting of the International Group on Attribution of Climate-Related Events (ACE) was sponsored by the Science and Innovation Network of the U.K. Foreign and Commonwealth Office (FCO) and NCAR and was organized in collaboration with the U.S. National Oceanic and Atmospheric Administration (NOAA), the Met Office Hadley Centre, and the University of Oxford.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:07.323799</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:17.353484</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper analyzes the effects of the solar rotational (27-day) irradiance variations on the chemical composition and temperature of the stratosphere, mesosphere and lower thermosphere as simulated by the three-dimensional chemistry-climate model HAMMONIA. Different methods are used to analyze the model results, including high resolution spectral and cross-spectral techniques. To force the simulations, an idealized irradiance variation with a constant period of 27 days (apparent solar rotation period) and with constant amplitude is used. While the calculated thermal and chemical responses are very distinct and permanent in the upper atmosphere, the responses in the stratosphere and mesosphere vary considerably in time despite the constant forcing. The responses produced by the model exhibit a non-linear behavior: in general, the response sensitivities (not amplitudes) decrease with increasing amplitude of the forcing. In the extratropics the responses are, in general, seasonally dependent with frequently stronger sensitivities in winter than in summer. Amplitude and phase lag of the ozone response in the tropical stratosphere and lower mesosphere are in satisfactory agreement with available observations. The agreement between the calculated and observed temperature response is generally worse than in the case of ozone.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper analyzes the effects of the solar rotational (27-day) irradiance variations on the chemical composition and temperature of the stratosphere, mesosphere and lower thermosphere as simulated by the three-dimensional chemistry-climate model HAMMONIA. Different methods are used to analyze the model results, including high resolution spectral and cross-spectral techniques. To force the simulations, an idealized irradiance variation with a constant period of 27 days (apparent solar rotation period) and with constant amplitude is used. While the calculated thermal and chemical responses are very distinct and permanent in the upper atmosphere, the responses in the stratosphere and mesosphere vary considerably in time despite the constant forcing. The responses produced by the model exhibit a non-linear behavior: in general, the response sensitivities (not amplitudes) decrease with increasing amplitude of the forcing. In the extratropics the responses are, in general, seasonally dependent with frequently stronger sensitivities in winter than in summer. Amplitude and phase lag of the ozone response in the tropical stratosphere and lower mesosphere are in satisfactory agreement with available observations. The agreement between the calculated and observed temperature response is generally worse than in the case of ozone.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

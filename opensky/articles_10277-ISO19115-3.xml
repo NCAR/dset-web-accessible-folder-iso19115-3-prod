@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:21.154414</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:50.382208</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Fourier-based pseudospectral (PS) methods have been used since the 1970s for obtaining spectrally accurate solutions to PDEs in periodic geometries. Radial basis functions (RBFs) were introduced about the same time for interpolation on scattered nodes in irregular geometries. As was later recognized, they can also be used for accurate numerical solution of PDEs. Although the main strength of RBFs lies in their outstanding geometric flexibility, offering possibilities of spectral accuracy also over irregularly shaped finite domains, it is still of interest to compare them against Fourier-based PS methods in the extremely simple geometries (infinite or periodic domains) where the latter can also be used. Mostly by means of heuristic arguments and graphical illustrations based on Fourier analysis and numerical experiments, we show that there are notable differences (more pronounced in increasing numbers of dimensions) in how the two spectral approaches approximate derivatives.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Fourier-based pseudospectral (PS) methods have been used since the 1970s for obtaining spectrally accurate solutions to PDEs in periodic geometries. Radial basis functions (RBFs) were introduced about the same time for interpolation on scattered nodes in irregular geometries. As was later recognized, they can also be used for accurate numerical solution of PDEs. Although the main strength of RBFs lies in their outstanding geometric flexibility, offering possibilities of spectral accuracy also over irregularly shaped finite domains, it is still of interest to compare them against Fourier-based PS methods in the extremely simple geometries (infinite or periodic domains) where the latter can also be used. Mostly by means of heuristic arguments and graphical illustrations based on Fourier analysis and numerical experiments, we show that there are notable differences (more pronounced in increasing numbers of dimensions) in how the two spectral approaches approximate derivatives.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:02.504597</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:10.653621</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this study, we compare specific humidity profiles derived from Constellation Observing System for Meteorology, Ionosphere, and Climate (COSMIC) radio occultation (RO) from August to November 2006 with those from different types of radiosonde and from ECMWF global analysis. Comparisons show that COSMIC specific humidity data agree well with ECMWF analysis over different regions of the world for both day and night times. On the contrary, evaluation against COSMIC specific humidity shows a distinct dry bias of Shang-E radiosonde (China) and an obvious wet bias of VIZ-type (USA). No obvious specific humidity biases are found for MRZ (Russia) and MEISEI (Japan) radiosondes. These results demonstrate the usefulness of COSMIC water vapor for quantifying the dry/wet biases among different sensor types.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this study, we compare specific humidity profiles derived from Constellation Observing System for Meteorology, Ionosphere, and Climate (COSMIC) radio occultation (RO) from August to November 2006 with those from different types of radiosonde and from ECMWF global analysis. Comparisons show that COSMIC specific humidity data agree well with ECMWF analysis over different regions of the world for both day and night times. On the contrary, evaluation against COSMIC specific humidity shows a distinct dry bias of Shang-E radiosonde (China) and an obvious wet bias of VIZ-type (USA). No obvious specific humidity biases are found for MRZ (Russia) and MEISEI (Japan) radiosondes. These results demonstrate the usefulness of COSMIC water vapor for quantifying the dry/wet biases among different sensor types.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

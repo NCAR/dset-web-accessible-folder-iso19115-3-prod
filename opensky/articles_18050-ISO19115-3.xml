@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:17.057132</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:31.368944</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -234,7 +234,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The air quality in large urbanized regions represents one of the major threats to the public and the ecosystems health. A number of harmful compounds emitted to the atmosphere from the various human activities increase the risk of having undesired illnesses, and possible death. Secondary air pollutants in both, air and aerosol phase, contribute to worsening this situation. on the other hand, there is an increasing recognition that air quality and climate change are strongly connected. Ozone plays an important role in this connection, apart from being by itself a greenhouse gas. This interaction is expected to evolve in response to changes in man-made emissions of gas precursors and to changes in physical climate. In this paper, a general scheme of the tropospheric ozone formation will be presented, as well as the current results from the MILAGRO field campaign took place in the Mexico Megacity in 2006.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The air quality in large urbanized regions represents one of the major threats to the public and the ecosystems health. A number of harmful compounds emitted to the atmosphere from the various human activities increase the risk of having undesired illnesses, and possible death. Secondary air pollutants in both, air and aerosol phase, contribute to worsening this situation. on the other hand, there is an increasing recognition that air quality and climate change are strongly connected. Ozone plays an important role in this connection, apart from being by itself a greenhouse gas. This interaction is expected to evolve in response to changes in man-made emissions of gas precursors and to changes in physical climate. In this paper, a general scheme of the tropospheric ozone formation will be presented, as well as the current results from the MILAGRO field campaign took place in the Mexico Megacity in 2006.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

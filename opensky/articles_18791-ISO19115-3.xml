@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:32.091885</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:54.371940</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Atmospheric rivers are recognized as major contributors to the poleward transport of water vapor. Upon reaching land, these phenomena also play a critical role in extreme precipitation and flooding events. The Pineapple Express (PE) is defined as an atmospheric river extending out of the deep tropics and reaching the west coast of North America. Community Climate System Model (CCSM4) high-resolution ensemble simulations for the twentieth and 21st centuries are diagnosed to identify the PE. Analysis of the twentieth century simulations indicated that the CCSM4 accurately captures the spatial and temporal climatology of the PE. Analysis of the end 21st century simulations indicates a significant increase in storm duration and intensity of precipitation associated with landfall of the PE. Only a modest increase in the number of atmospheric rivers of a few percent is projected for the end of 21st century.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Atmospheric rivers are recognized as major contributors to the poleward transport of water vapor. Upon reaching land, these phenomena also play a critical role in extreme precipitation and flooding events. The Pineapple Express (PE) is defined as an atmospheric river extending out of the deep tropics and reaching the west coast of North America. Community Climate System Model (CCSM4) high-resolution ensemble simulations for the twentieth and 21st centuries are diagnosed to identify the PE. Analysis of the twentieth century simulations indicated that the CCSM4 accurately captures the spatial and temporal climatology of the PE. Analysis of the end 21st century simulations indicates a significant increase in storm duration and intensity of precipitation associated with landfall of the PE. Only a modest increase in the number of atmospheric rivers of a few percent is projected for the end of 21st century.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:22.316918</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:52.011157</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper presents monthly variations of the midlatitude summer nighttime anomaly (MSNA) of the ionosphere for the first time by global observations of the FORMOSAT-3/COSMIC (F3/C) mission. The anomaly is characterized by the greater nighttime (1800 LT ~ 0200 LT) ionospheric electron density than during daytime (0800 ~ 1800 LT) at middle latitudes during months around June and December solstices. The anomaly shown during December solstice was known as the Weddell Sea Anomaly (WSA) occurring around the Antarctica and nearby the Pacific Ocean. This paper demonstrates that the WSA-like feature also exists in the Northern Hemisphere and is most prominent near the Northeast Asia, Europe/Africa, and Central Pacific longitudes around June solstice. In both hemispheres, the anomalies with similar electron density characteristics and variations caused by the similar mechanism prompts us to name this phenomenon the MSNA. The monthly F3/C observations indicate that the anomaly appears as the most prominent structure of the global ionosphere around midnight hours.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper presents monthly variations of the midlatitude summer nighttime anomaly (MSNA) of the ionosphere for the first time by global observations of the FORMOSAT-3/COSMIC (F3/C) mission. The anomaly is characterized by the greater nighttime (1800 LT ~ 0200 LT) ionospheric electron density than during daytime (0800 ~ 1800 LT) at middle latitudes during months around June and December solstices. The anomaly shown during December solstice was known as the Weddell Sea Anomaly (WSA) occurring around the Antarctica and nearby the Pacific Ocean. This paper demonstrates that the WSA-like feature also exists in the Northern Hemisphere and is most prominent near the Northeast Asia, Europe/Africa, and Central Pacific longitudes around June solstice. In both hemispheres, the anomalies with similar electron density characteristics and variations caused by the similar mechanism prompts us to name this phenomenon the MSNA. The monthly F3/C observations indicate that the anomaly appears as the most prominent structure of the global ionosphere around midnight hours.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

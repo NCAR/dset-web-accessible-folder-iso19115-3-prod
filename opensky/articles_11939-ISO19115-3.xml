@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:44.252224</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:23.399532</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Disturbances by insects have considerable effect on the heterogeneity of forested landscapes in North America. Responding to calls for bringing human dimensions of landscape disturbance and heterogeneity into ecological assessments and management strategies, this paper explores linkages between biophysical, socioeconomic, and perceptual aspects of a mountain pine beetle (MPB) (Dendroctonus ponderosae) outbreak in north central Colorado. Findings are presented from surveys conducted with residents of nine Colorado communities and variations in local perceptions of MPB risks and forest management attitudes are compared to indices of tree mortality and amenity characteristics. Findings suggest respondents from lower amenity communities with more recent emphasis on resource extraction and higher tree mortality had significantly higher risk perceptions of some MPB impacts, lower trust in federal forest management, and higher faith in forest industry and specific industry options than those from higher amenity communities with less tree mortality. While not implying these contextual influences fully explain such perceptual dimensions, this paper explores possible implications of heterogeneity across human landscapes for improving the saliency and efficiency of regional forest management and planning.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Disturbances by insects have considerable effect on the heterogeneity of forested landscapes in North America. Responding to calls for bringing human dimensions of landscape disturbance and heterogeneity into ecological assessments and management strategies, this paper explores linkages between biophysical, socioeconomic, and perceptual aspects of a mountain pine beetle (MPB) (Dendroctonus ponderosae) outbreak in north central Colorado. Findings are presented from surveys conducted with residents of nine Colorado communities and variations in local perceptions of MPB risks and forest management attitudes are compared to indices of tree mortality and amenity characteristics. Findings suggest respondents from lower amenity communities with more recent emphasis on resource extraction and higher tree mortality had significantly higher risk perceptions of some MPB impacts, lower trust in federal forest management, and higher faith in forest industry and specific industry options than those from higher amenity communities with less tree mortality. While not implying these contextual influences fully explain such perceptual dimensions, this paper explores possible implications of heterogeneity across human landscapes for improving the saliency and efficiency of regional forest management and planning.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

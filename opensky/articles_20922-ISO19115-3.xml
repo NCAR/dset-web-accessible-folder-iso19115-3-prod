@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:53.971070</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:27.819663</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Turbulence is argued to play a crucial role in cloud droplet growth. The combined problem of turbulence and cloud droplet growth is numerically challenging. Here an Eulerian scheme based on the Smoluchowski equation is compared with two Lagrangian superparticle (or superdroplet) schemes in the presence of condensation and collection. The growth processes are studied either separately or in combination using either two-dimensional turbulence, a steady flow or just gravitational acceleration without gas flow. Good agreement between the different schemes for the time evolution of the size spectra is observed in the presence of gravity or turbulence. The Lagrangian superparticle schemes are found to be superior over the Eulerian one in terms of computational performance. However, it is shown that the use of interpolation schemes such as the cloud-in-cell algorithm is detrimental in connection with superparticle or superdroplet approaches. Furthermore, the use of symmetric over asymmetric collection schemes is shown to reduce the amount of scatter in the results. For the Eulerian scheme, gravitational collection is rather sensitive to the mass bin resolution, but not so in the case with turbulence.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Turbulence is argued to play a crucial role in cloud droplet growth. The combined problem of turbulence and cloud droplet growth is numerically challenging. Here an Eulerian scheme based on the Smoluchowski equation is compared with two Lagrangian superparticle (or superdroplet) schemes in the presence of condensation and collection. The growth processes are studied either separately or in combination using either two-dimensional turbulence, a steady flow or just gravitational acceleration without gas flow. Good agreement between the different schemes for the time evolution of the size spectra is observed in the presence of gravity or turbulence. The Lagrangian superparticle schemes are found to be superior over the Eulerian one in terms of computational performance. However, it is shown that the use of interpolation schemes such as the cloud-in-cell algorithm is detrimental in connection with superparticle or superdroplet approaches. Furthermore, the use of symmetric over asymmetric collection schemes is shown to reduce the amount of scatter in the results. For the Eulerian scheme, gravitational collection is rather sensitive to the mass bin resolution, but not so in the case with turbulence.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

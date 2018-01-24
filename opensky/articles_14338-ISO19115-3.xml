@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:28.369942</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:20.385661</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Discoveries in the geosciences are increasingly taking place across traditional disciplinary boundaries. The EarthCube program, a community-driven project supported by the U.S. National Science Foundation, is developing an information- and tool-sharing framework to bridge between disciplines and unlock the modern geosciences' transformative potential.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Discoveries in the geosciences are increasingly taking place across traditional disciplinary boundaries. The EarthCube program, a community-driven project supported by the U.S. National Science Foundation, is developing an information- and tool-sharing framework to bridge between disciplines and unlock the modern geosciences' transformative potential.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

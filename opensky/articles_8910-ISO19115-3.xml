@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:16.800519</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:43.905094</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Cross-beam wind is usually estimated using a full correlation analysis (FCA) method applied to signals from spaced antennas. In this paper we present a cross-correlation ratio (CCR) method for wind measurements. The CCR method is illustrated using theory, and data obtained with the National Center for Atmospheric Research's multiple antenna profiling radar. The standard errors of estimated cross-beam wind using CCR and a FCA are studied based on a rigorous analysis of the variance of the cross-correlation estimates. The results of the analysis are compared with previous works. It is shown that the current method is easy to implement and has smaller error for receiving antenna spacing small compared to the transmitting antenna dimensions.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Cross-beam wind is usually estimated using a full correlation analysis (FCA) method applied to signals from spaced antennas. In this paper we present a cross-correlation ratio (CCR) method for wind measurements. The CCR method is illustrated using theory, and data obtained with the National Center for Atmospheric Research's multiple antenna profiling radar. The standard errors of estimated cross-beam wind using CCR and a FCA are studied based on a rigorous analysis of the variance of the cross-correlation estimates. The results of the analysis are compared with previous works. It is shown that the current method is easy to implement and has smaller error for receiving antenna spacing small compared to the transmitting antenna dimensions.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:51.059897</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:23.293215</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -328,7 +328,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study explores the role of the stratosphere as a source of seasonal predictability of surface climate over Northern Hemisphere extratropics both in the observations and climate model predictions. A suite of numerical experiments, including climate simulations and retrospective forecasts, are set up to isolate the role of the stratosphere in seasonal predictive skill of extratropical near-surface land temperature. It is shown that most of the lead-0-month spring predictive skill of land temperature over extratropics, particularly over northern Eurasia, stems from stratospheric initialization. It is further revealed that this predictive skill of extratropical land temperature arises from skillful prediction of the Arctic Oscillation (AO). The dynamical connection between the stratosphere and troposphere is also demonstrated by the significant correlation between the stratospheric polar vortex and sea level pressure anomalies, as well as the migration of the stratospheric zonal wind anomalies to the lower troposphere.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study explores the role of the stratosphere as a source of seasonal predictability of surface climate over Northern Hemisphere extratropics both in the observations and climate model predictions. A suite of numerical experiments, including climate simulations and retrospective forecasts, are set up to isolate the role of the stratosphere in seasonal predictive skill of extratropical near-surface land temperature. It is shown that most of the lead-0-month spring predictive skill of land temperature over extratropics, particularly over northern Eurasia, stems from stratospheric initialization. It is further revealed that this predictive skill of extratropical land temperature arises from skillful prediction of the Arctic Oscillation (AO). The dynamical connection between the stratosphere and troposphere is also demonstrated by the significant correlation between the stratospheric polar vortex and sea level pressure anomalies, as well as the migration of the stratospheric zonal wind anomalies to the lower troposphere.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

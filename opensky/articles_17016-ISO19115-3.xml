@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:55.245474</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:00.233998</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A second-order diffusion scheme is developed for the discontinuous Galerkin (DG) global shallow-water model. The shallow-water equations are discretized on the cubed sphere tiled with quadrilateral elements relying on a nonorthogonal curvilinear coordinate system. In the viscous shallow-water model the diffusion terms (viscous fluxes) are approximated with two different approaches: 1) the element-wise localized discretization without considering the interelement contributions and 2) the discretization based on the local discontinuous Galerkin (LDG) method. In the LDG formulation the advection-diffusion equation is solved as a first-order system. All of the curvature terms resulting from the cubed-sphere geometry are incorporated into the first-order system. The effectiveness of each diffusion scheme is studied using the standard shallowwater test cases. The approach of element-wise localized discretization of the diffusion term is easy to implement but found to be less effective, and with relatively high diffusion coefficients, it can adversely affect the solution. The shallow-water tests show that the LDG scheme converges monotonically and that the rate of convergence is dependent on the coefficient of diffusion. Also the LDG scheme successfully eliminates smallscale noise, and the simulated results are smooth and comparable to the reference solution.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A second-order diffusion scheme is developed for the discontinuous Galerkin (DG) global shallow-water model. The shallow-water equations are discretized on the cubed sphere tiled with quadrilateral elements relying on a nonorthogonal curvilinear coordinate system. In the viscous shallow-water model the diffusion terms (viscous fluxes) are approximated with two different approaches: 1) the element-wise localized discretization without considering the interelement contributions and 2) the discretization based on the local discontinuous Galerkin (LDG) method. In the LDG formulation the advection-diffusion equation is solved as a first-order system. All of the curvature terms resulting from the cubed-sphere geometry are incorporated into the first-order system. The effectiveness of each diffusion scheme is studied using the standard shallowwater test cases. The approach of element-wise localized discretization of the diffusion term is easy to implement but found to be less effective, and with relatively high diffusion coefficients, it can adversely affect the solution. The shallow-water tests show that the LDG scheme converges monotonically and that the rate of convergence is dependent on the coefficient of diffusion. Also the LDG scheme successfully eliminates smallscale noise, and the simulated results are smooth and comparable to the reference solution.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

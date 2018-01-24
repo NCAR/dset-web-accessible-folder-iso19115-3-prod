@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:57.982540</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:41.095261</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -343,7 +343,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper presents a review of the software currently used in climate modelling in general and in CMIP5 in particular to couple the numerical codes representing the different components of the Earth System. The coupling technologies presented show common features, such as the ability to communicate and regrid data, and also offer different functions and implementations. Design characteristics of the different approaches are discussed as well as future challenges arising from the increasing complexity of scientific problems and computing platforms.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper presents a review of the software currently used in climate modelling in general and in CMIP5 in particular to couple the numerical codes representing the different components of the Earth System. The coupling technologies presented show common features, such as the ability to communicate and regrid data, and also offer different functions and implementations. Design characteristics of the different approaches are discussed as well as future challenges arising from the increasing complexity of scientific problems and computing platforms.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

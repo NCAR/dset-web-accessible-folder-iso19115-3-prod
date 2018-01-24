@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:15.464929</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:41.121358</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study investigates processes leading to regional cooling in global warming experiments conducted with the NCAR fully coupled Community Climate System Model (CCSM3). While several previous studies have investigated regional cooling in the South Pacific sector of the Southern Ocean, the mechanism leading to this response remains unclear. We find that changes in ocean circulation offer the key to understanding the regional cooling. The regional cooling in the South Pacific sector of the Southern Ocean, especially the area north of the Ross Sea, results mainly through an advective mechanism. The ocean topography contributes strongly to the change of ocean circulation through changes in bottom vortex stretching associated with a decrease in the Antarctic Circumpolar Current transport.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

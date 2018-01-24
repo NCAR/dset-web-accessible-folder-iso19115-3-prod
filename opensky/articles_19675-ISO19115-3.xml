@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:47.013596</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:17.420147</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We investigate how sea surface temperatures (SSTs) around Antarctica respond to the Southern Annular Mode (SAM) on multiple timescales. To that end we examine the relationship between SAM and SST within unperturbed preindustrial control simulations of coupled general circulation models (GCMs) included in the Climate Modeling Intercomparison Project phase 5 (CMIP5). We develop a technique to extract the response of the Southern Ocean SST (55A degrees S-70A degrees S) to a hypothetical step increase in the SAM index. We demonstrate that in many GCMs, the expected SST step response function is nonmonotonic in time. Following a shift to a positive SAM anomaly, an initial cooling regime can transition into surface warming around Antarctica. However, there are large differences across the CMIP5 ensemble. In some models the step response function never changes sign and cooling persists, while in other GCMs the SST anomaly crosses over from negative to positive values only 3 years after a step increase in the SAM. This intermodel diversity can be related to differences in the models' climatological thermal ocean stratification in the region of seasonal sea ice around Antarctica. Exploiting this relationship, we use observational data for the time-mean meridional and vertical temperature gradients to constrain the real Southern Ocean response to SAM on fast and slow timescales.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We investigate how sea surface temperatures (SSTs) around Antarctica respond to the Southern Annular Mode (SAM) on multiple timescales. To that end we examine the relationship between SAM and SST within unperturbed preindustrial control simulations of coupled general circulation models (GCMs) included in the Climate Modeling Intercomparison Project phase 5 (CMIP5). We develop a technique to extract the response of the Southern Ocean SST (55A degrees S-70A degrees S) to a hypothetical step increase in the SAM index. We demonstrate that in many GCMs, the expected SST step response function is nonmonotonic in time. Following a shift to a positive SAM anomaly, an initial cooling regime can transition into surface warming around Antarctica. However, there are large differences across the CMIP5 ensemble. In some models the step response function never changes sign and cooling persists, while in other GCMs the SST anomaly crosses over from negative to positive values only 3 years after a step increase in the SAM. This intermodel diversity can be related to differences in the models' climatological thermal ocean stratification in the region of seasonal sea ice around Antarctica. Exploiting this relationship, we use observational data for the time-mean meridional and vertical temperature gradients to constrain the real Southern Ocean response to SAM on fast and slow timescales.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

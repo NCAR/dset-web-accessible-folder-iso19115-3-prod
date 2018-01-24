@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:39.789650</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:17.024196</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -403,7 +403,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper presents recent efforts to understand the relative accuracies of different instrumentation and gauges with various windshield configurations to measure snowfall. Results from the National Center for Atmospheric Research (NCAR) Marshall Field Site will be highlighted. This site hosts a test bed to assess various solid precipitation measurement techniques and is a joint collaboration between the National Oceanic and Atmospheric Administration (NOAA), NCAR, the National Weather Service (NWS), and Federal Aviation Administration (FAA). The collaboration involves testing new gauges and other solid precipitation measurement techniques in comparison with World Meteorological Organization (WMO) reference snowfall measurements. This assessment is critical for any ongoing studies and applications, such as climate monitoring and aircraft deicing, that rely on accurate and consistent precipitation measurements.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper presents recent efforts to understand the relative accuracies of different instrumentation and gauges with various windshield configurations to measure snowfall. Results from the National Center for Atmospheric Research (NCAR) Marshall Field Site will be highlighted. This site hosts a test bed to assess various solid precipitation measurement techniques and is a joint collaboration between the National Oceanic and Atmospheric Administration (NOAA), NCAR, the National Weather Service (NWS), and Federal Aviation Administration (FAA). The collaboration involves testing new gauges and other solid precipitation measurement techniques in comparison with World Meteorological Organization (WMO) reference snowfall measurements. This assessment is critical for any ongoing studies and applications, such as climate monitoring and aircraft deicing, that rely on accurate and consistent precipitation measurements.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:48.245056</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:19.114220</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Ionospheric conductivity plays an important role in the magnetosphere-ionosphere coupling. The altitudinal distribution of Pedersen conductivity gives us a rough idea about the altitudinal distribution of Joule heating at high latitudes, which is of great significance regarding the response of upper atmosphere to geomagnetic energy inputs. Based on the electron density profiles derived from the Constellation Observing System for Meteorology, Ionosphere, and Climate measurements during 2009-2014, Pedersen conductivity has been estimated. A climatologic study of the height-integrated Pedersen conductivity in both E (100-150 km) and F (150-600km) regions, i.e., Sigma(PE) and Sigma(PF), and their ratio (gamma(P)=Sigma(PE)/Sigma(PF)) under different solar and geomagnetic conditions has been conducted. Both Sigma(PE) and Sigma(PF) increase with F-10.7 and Ap indices. Their ratio is smaller at higher solar flux but larger under more disturbed geomagnetic conditions. Meanwhile, an interhemispheric asymmetry has been identified in the Ap and F-10.7 dependencies of gamma(P), which also varies with local time. These results will help to improve our understanding of the variations of the altitudinal energy distribution under different solar and geomagnetic conditions and the interhemispheric asymmetry of the high-latitude electrodynamics.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Ionospheric conductivity plays an important role in the magnetosphere-ionosphere coupling. The altitudinal distribution of Pedersen conductivity gives us a rough idea about the altitudinal distribution of Joule heating at high latitudes, which is of great significance regarding the response of upper atmosphere to geomagnetic energy inputs. Based on the electron density profiles derived from the Constellation Observing System for Meteorology, Ionosphere, and Climate measurements during 2009-2014, Pedersen conductivity has been estimated. A climatologic study of the height-integrated Pedersen conductivity in both E (100-150 km) and F (150-600km) regions, i.e., Sigma(PE) and Sigma(PF), and their ratio (gamma(P)=Sigma(PE)/Sigma(PF)) under different solar and geomagnetic conditions has been conducted. Both Sigma(PE) and Sigma(PF) increase with F-10.7 and Ap indices. Their ratio is smaller at higher solar flux but larger under more disturbed geomagnetic conditions. Meanwhile, an interhemispheric asymmetry has been identified in the Ap and F-10.7 dependencies of gamma(P), which also varies with local time. These results will help to improve our understanding of the variations of the altitudinal energy distribution under different solar and geomagnetic conditions and the interhemispheric asymmetry of the high-latitude electrodynamics.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

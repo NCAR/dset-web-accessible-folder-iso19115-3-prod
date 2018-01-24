@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:13.964630</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:01.404841</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Tidal harmonic analysis simulations along with simulations spanning four specific historical time periods in 2003 and 2004 were conducted to test the performance of a northern Gulf of Mexico tidal model. A recently developed method for detecting inundated areas based on integrated remotely sensed data (i.e., Radarsat-1, aerial imagery, LiDAR, Landsat 7 ETM+) was applied to assess the performance of the tidal model. The analysis demonstrates the applicability of the method and its agreement with traditional performance assessment techniques such as harmonic resynthesis and water level time series analysis. Based on the flooded/non-flooded coastal areas estimated by the integrated remotely sensed data, the model is able to adequately reproduce the extent of inundation within four sample areas from the coast along the Florida panhandle, correctly identifying areas as wet or dry over 85% of the time. Comparisons of the tidal model inundation to synoptic (point-in-time) inundation areas generated from the remotely sensed data generally agree with the results of the traditional performance assessment techniques. Moreover, this approach is able to illustrate the spatial distribution of model inundation accuracy allowing for targeted refinement of model parameters.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Tidal harmonic analysis simulations along with simulations spanning four specific historical time periods in 2003 and 2004 were conducted to test the performance of a northern Gulf of Mexico tidal model. A recently developed method for detecting inundated areas based on integrated remotely sensed data (i.e., Radarsat-1, aerial imagery, LiDAR, Landsat 7 ETM+) was applied to assess the performance of the tidal model. The analysis demonstrates the applicability of the method and its agreement with traditional performance assessment techniques such as harmonic resynthesis and water level time series analysis. Based on the flooded/non-flooded coastal areas estimated by the integrated remotely sensed data, the model is able to adequately reproduce the extent of inundation within four sample areas from the coast along the Florida panhandle, correctly identifying areas as wet or dry over 85% of the time. Comparisons of the tidal model inundation to synoptic (point-in-time) inundation areas generated from the remotely sensed data generally agree with the results of the traditional performance assessment techniques. Moreover, this approach is able to illustrate the spatial distribution of model inundation accuracy allowing for targeted refinement of model parameters.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

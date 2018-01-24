@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:18.525293</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:07.212568</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The late twentieth century response of the South Asian monsoon to changes in anthropogenic aerosols from local (i.e., South Asia) and remote (i.e., outside South Asia) sources was investigated using historical simulations with a state-of-the-art climate model. The observed summertime drying over India is replaced by widespread wettening once local aerosol emissions are kept at preindustrial levels while all the other forcings evolve. Constant remote aerosol emissions partially suppress the precipitation decrease. While predominant precipitation changes over India are thus associated with local aerosols, remote aerosols contribute as well, especially in favoring an earlier monsoon onset in June and enhancing summertime rainfall over the northwestern regions. Conversely, temperature and near-surface circulation changes over South Asia are more effectively driven by remote aerosols. These changes are reflected into northward cross-equatorial anomalies in the atmospheric energy transport induced by both local and, to a greater extent, remote aerosols.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The late twentieth century response of the South Asian monsoon to changes in anthropogenic aerosols from local (i.e., South Asia) and remote (i.e., outside South Asia) sources was investigated using historical simulations with a state-of-the-art climate model. The observed summertime drying over India is replaced by widespread wettening once local aerosol emissions are kept at preindustrial levels while all the other forcings evolve. Constant remote aerosol emissions partially suppress the precipitation decrease. While predominant precipitation changes over India are thus associated with local aerosols, remote aerosols contribute as well, especially in favoring an earlier monsoon onset in June and enhancing summertime rainfall over the northwestern regions. Conversely, temperature and near-surface circulation changes over South Asia are more effectively driven by remote aerosols. These changes are reflected into northward cross-equatorial anomalies in the atmospheric energy transport induced by both local and, to a greater extent, remote aerosols.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

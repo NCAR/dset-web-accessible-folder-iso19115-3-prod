@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:22.265470</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:39.310297</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Numerous components of the Arctic freshwater system (atmosphere, ocean, cryosphere, and terrestrial hydrology) have experienced large changes over the past few decades, and these changes are projected to amplify further in the future. Observations are particularly sparse, in both time and space, in the polar regions. Hence, modeling systems have been widely used and are a powerful tool to gain understanding on the functioning of the Arctic freshwater system and its integration within the global Earth system and climate. Here we present a review of modeling studies addressing some aspect of the Arctic freshwater system. Through illustrative examples, we point out the value of using a hierarchy of models with increasing complexity and component interactions, in order to dismantle the important processes at play for the variability and changes of the different components of the Arctic freshwater system and the interplay between them. We discuss past and projected changes for the Arctic freshwater system and explore the sources of uncertainty associated with these model results. We further elaborate on some missing processes that should be included in future generations of Earth system models and highlight the importance of better quantification and understanding of natural variability, among other factors, for improved predictions of Arctic freshwater system change.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Numerous components of the Arctic freshwater system (atmosphere, ocean, cryosphere, and terrestrial hydrology) have experienced large changes over the past few decades, and these changes are projected to amplify further in the future. Observations are particularly sparse, in both time and space, in the polar regions. Hence, modeling systems have been widely used and are a powerful tool to gain understanding on the functioning of the Arctic freshwater system and its integration within the global Earth system and climate. Here we present a review of modeling studies addressing some aspect of the Arctic freshwater system. Through illustrative examples, we point out the value of using a hierarchy of models with increasing complexity and component interactions, in order to dismantle the important processes at play for the variability and changes of the different components of the Arctic freshwater system and the interplay between them. We discuss past and projected changes for the Arctic freshwater system and explore the sources of uncertainty associated with these model results. We further elaborate on some missing processes that should be included in future generations of Earth system models and highlight the importance of better quantification and understanding of natural variability, among other factors, for improved predictions of Arctic freshwater system change.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

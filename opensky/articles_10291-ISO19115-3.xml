@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:21.385697</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:50.736980</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -523,7 +523,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The second phase of the Global Land-Atmosphere Coupling Experiment (GLACE-2) is aimed at quantifying, with a suite of long-range forecast systems, the degree to which realistic land surface initialization contributes to the skill of subseasonal precipitation and air temperature forecasts. Results, which focus here on North America, show significant contributions to temperature prediction skill out to two months across large portions of the continent. For precipitation forecasts, contributions to skill are much weaker but are still significant out to 45 days in some locations. Skill levels increase markedly when calculations are conditioned on the magnitude of the initial soil moisture anomaly.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The second phase of the Global Land-Atmosphere Coupling Experiment (GLACE-2) is aimed at quantifying, with a suite of long-range forecast systems, the degree to which realistic land surface initialization contributes to the skill of subseasonal precipitation and air temperature forecasts. Results, which focus here on North America, show significant contributions to temperature prediction skill out to two months across large portions of the continent. For precipitation forecasts, contributions to skill are much weaker but are still significant out to 45 days in some locations. Skill levels increase markedly when calculations are conditioned on the magnitude of the initial soil moisture anomaly.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

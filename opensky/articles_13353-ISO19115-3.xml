@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:18.589072</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:07.295452</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Extratropical atmospheric variability can impact tropical climate in the Pacific sector via the Pacific Meridional Modes (PMMs). The South PMM (SPMM) has a larger equatorial signature than the North PMM (NPMM) for the same amount of extratropical variability. Here we explain this interhemispheric asymmetry using an atmospheric general circulation model coupled to a slab ocean model. By imposing an anomalous interhemispheric heating gradient, we strengthen the northeasterly trades and weaken the southeasterly trades, shifting the Intertropical Convergence Zone south of the equator. As a result, the SPMM no longer influences the equatorial region while the NPMM shows strengthened linkages to the central-western equatorial Pacific. By demonstrating that background winds determine the propagation of the wind-evaporation-sea surface temperature feedback fundamental for the PMMs, we conclude that the interhemispheric asymmetry between the PMMs is largely attributed to the asymmetric mean trades in the Pacific. The results have implications for both paleoclimate studies and model development.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Extratropical atmospheric variability can impact tropical climate in the Pacific sector via the Pacific Meridional Modes (PMMs). The South PMM (SPMM) has a larger equatorial signature than the North PMM (NPMM) for the same amount of extratropical variability. Here we explain this interhemispheric asymmetry using an atmospheric general circulation model coupled to a slab ocean model. By imposing an anomalous interhemispheric heating gradient, we strengthen the northeasterly trades and weaken the southeasterly trades, shifting the Intertropical Convergence Zone south of the equator. As a result, the SPMM no longer influences the equatorial region while the NPMM shows strengthened linkages to the central-western equatorial Pacific. By demonstrating that background winds determine the propagation of the wind-evaporation-sea surface temperature feedback fundamental for the PMMs, we conclude that the interhemispheric asymmetry between the PMMs is largely attributed to the asymmetric mean trades in the Pacific. The results have implications for both paleoclimate studies and model development.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

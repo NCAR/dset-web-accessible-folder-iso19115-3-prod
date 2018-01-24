@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:33.090131</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:55.914553</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -249,7 +249,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>As traffic patterns and network topologies become more and more complicated in current enterprise data centers and TOP500 supercomputers, the probability of network congestion increases. If no countermeasures are taken, network congestion causes long communication delays and degrades network performance. A congestion control mechanism is often provided to reduce the consequences of congestion. However, it is usually difficult to configure and activate a congestion control mechanism in production clusters and supercomputers due to concerns that it may negatively impact jobs if the mechanism is not appropriately configured. Therefore, simulations for these situations are necessary to identify congestion points and sources, and more importantly, to determine optimal settings that can be utilized to reduce congestion in those complicated networks. In this paper, we use OMNeT++ to implement the IEEE 802.1Qbb Priority-based Flow Control (PFC) and RoCEv2 Congestion Management (RCM) in order to simulate clusters with RoCEv2 interconnects.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[As traffic patterns and network topologies become more and more complicated in current enterprise data centers and TOP500 supercomputers, the probability of network congestion increases. If no countermeasures are taken, network congestion causes long communication delays and degrades network performance. A congestion control mechanism is often provided to reduce the consequences of congestion. However, it is usually difficult to configure and activate a congestion control mechanism in production clusters and supercomputers due to concerns that it may negatively impact jobs if the mechanism is not appropriately configured. Therefore, simulations for these situations are necessary to identify congestion points and sources, and more importantly, to determine optimal settings that can be utilized to reduce congestion in those complicated networks. In this paper, we use OMNeT++ to implement the IEEE 802.1Qbb Priority-based Flow Control (PFC) and RoCEv2 Congestion Management (RCM) in order to simulate clusters with RoCEv2 interconnects.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

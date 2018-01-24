@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:52.957113</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:26.192777</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -328,7 +328,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The diversity in hydrologic models has historically led to great controversy on the "correct" approach to process-based hydrologic modeling, with debates centered on the adequacy of process parameterizations, data limitations and uncertainty, and computational constraints on model analysis. In this paper, we revisit key modeling challenges on requirements to (1) define suitable model equations, (2) define adequate model parameters, and (3) cope with limitations in computing power. We outline the historical modeling challenges, provide examples of modeling advances that address these challenges, and define outstanding research needs. We illustrate how modeling advances have been made by groups using models of different type and complexity, and we argue for the need to more effectively use our diversity of modeling approaches in order to advance our collective quest for physically realistic hydrologic models.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The diversity in hydrologic models has historically led to great controversy on the "correct" approach to process-based hydrologic modeling, with debates centered on the adequacy of process parameterizations, data limitations and uncertainty, and computational constraints on model analysis. In this paper, we revisit key modeling challenges on requirements to (1) define suitable model equations, (2) define adequate model parameters, and (3) cope with limitations in computing power. We outline the historical modeling challenges, provide examples of modeling advances that address these challenges, and define outstanding research needs. We illustrate how modeling advances have been made by groups using models of different type and complexity, and we argue for the need to more effectively use our diversity of modeling approaches in order to advance our collective quest for physically realistic hydrologic models.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:21.211453</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:37.654330</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -493,7 +493,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The second Meteor Crater Experiment (METCRAX II) was conducted in October 2013 at Arizona's Meteor Crater. The experiment was designed to investigate nighttime downslope windstorm-type flows that form regularly above the inner southwest sidewall of the 1.2-km diameter crater as a southwesterly mesoscale katabatic flow cascades over the crater rim. The objective of METCRAX II is to determine the causes of these strong, intermittent, and turbulent inflows that bring warm-air intrusions into the southwest part of the crater. This article provides an overview of the scientific goals of the experiment; summarizes the measurements, the crater topography, and the synoptic meteorology of the study period; and presents initial analysis results.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The second Meteor Crater Experiment (METCRAX II) was conducted in October 2013 at Arizona's Meteor Crater. The experiment was designed to investigate nighttime downslope windstorm-type flows that form regularly above the inner southwest sidewall of the 1.2-km diameter crater as a southwesterly mesoscale katabatic flow cascades over the crater rim. The objective of METCRAX II is to determine the causes of these strong, intermittent, and turbulent inflows that bring warm-air intrusions into the southwest part of the crater. This article provides an overview of the scientific goals of the experiment; summarizes the measurements, the crater topography, and the synoptic meteorology of the study period; and presents initial analysis results.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

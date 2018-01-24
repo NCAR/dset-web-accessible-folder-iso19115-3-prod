@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:07.327190</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:53.078115</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The daily amplitude of the solar quiet (Sq) magnetic variation of the horizontal intensity, H, of observatories at low and midlatitudes is analyzed, in search of significant long-term trends. These trends are expected based on secular variations of the Earth's magnetic field (B) and increasing concentrations of greenhouse gases which can affect Sq for instance through their effect on ionospheric conductivities and E-region electron concentration. The hourly horizontal geomagnetic field component, H, measured at Apia, Fredericksburg, Hermanus, Bangui, and Trivandrum was analyzed for the period 1960-2000. The solar activity effect was filtered out from the daily Sq amplitude of H, and then linear trends were calculated and compared to trend values obtained from the Coupled Magnetosphere-Ionosphere-Thermosphere model. Linear trends were calculated separately for periods of different secular trends in the magnetic field intensity, B. We found significant trends in experimental data for Apia, Fredericksburg, Hermanus, and for the period 1960-1983 for Bangui. There is reasonable quantitative agreement between experimental and simulated trends, and a qualitative agreement with trends expected from the secular trend in B.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The daily amplitude of the solar quiet (Sq) magnetic variation of the horizontal intensity, H, of observatories at low and midlatitudes is analyzed, in search of significant long-term trends. These trends are expected based on secular variations of the Earth's magnetic field (B) and increasing concentrations of greenhouse gases which can affect Sq for instance through their effect on ionospheric conductivities and E-region electron concentration. The hourly horizontal geomagnetic field component, H, measured at Apia, Fredericksburg, Hermanus, Bangui, and Trivandrum was analyzed for the period 1960-2000. The solar activity effect was filtered out from the daily Sq amplitude of H, and then linear trends were calculated and compared to trend values obtained from the Coupled Magnetosphere-Ionosphere-Thermosphere model. Linear trends were calculated separately for periods of different secular trends in the magnetic field intensity, B. We found significant trends in experimental data for Apia, Fredericksburg, Hermanus, and for the period 1960-1983 for Bangui. There is reasonable quantitative agreement between experimental and simulated trends, and a qualitative agreement with trends expected from the secular trend in B.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

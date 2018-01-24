@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:44.282965</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:23.441942</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Weather modification is widely carried out in China. It is important to develop an operational model for weather modification to predict the microphysical features of cloud and precipitation and to help locate possible seeding areas. A two-moment microphysics scheme is developed using a quasi-implicit calculation method. The scheme predicts the evolution of mass as well as the number densities of the five hydrometeor types. Some microphysical processes are specified. The scheme is implemented with mesoscale models that have been run operationally for weather modification in China.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Weather modification is widely carried out in China. It is important to develop an operational model for weather modification to predict the microphysical features of cloud and precipitation and to help locate possible seeding areas. A two-moment microphysics scheme is developed using a quasi-implicit calculation method. The scheme predicts the evolution of mass as well as the number densities of the five hydrometeor types. Some microphysical processes are specified. The scheme is implemented with mesoscale models that have been run operationally for weather modification in China.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

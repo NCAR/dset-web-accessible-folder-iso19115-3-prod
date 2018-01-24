@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:58.599403</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:05.063379</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -204,7 +204,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Climate models have become an important tool in the study of climate and climate change, and ensemble experiments consisting of multiple climate-model runs are used in studying and quantifying the uncertainty in climate-model output. However, there are often only a limited number of model runs available for a particular experiment, and one of the statistical challenges is to characterize the distribution of the model output. To that end, we have developed a multivariate hierarchical approach, at the heart of which is a new representation of a multivariate Markov random field. This approach allows for flexible modeling of the multivariate spatial dependencies, including the cross-dependencies between variables. We demonstrate this statistical model on an ensemble arising from a regional-climate-model experiment over the western United States, and we focus on the projected change in seasonal temperature and precipitation over the next 50 years.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Climate models have become an important tool in the study of climate and climate change, and ensemble experiments consisting of multiple climate-model runs are used in studying and quantifying the uncertainty in climate-model output. However, there are often only a limited number of model runs available for a particular experiment, and one of the statistical challenges is to characterize the distribution of the model output. To that end, we have developed a multivariate hierarchical approach, at the heart of which is a new representation of a multivariate Markov random field. This approach allows for flexible modeling of the multivariate spatial dependencies, including the cross-dependencies between variables. We demonstrate this statistical model on an ensemble arising from a regional-climate-model experiment over the western United States, and we focus on the projected change in seasonal temperature and precipitation over the next 50 years.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

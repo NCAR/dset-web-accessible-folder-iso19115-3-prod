@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:50.902107</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:23.075583</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Oceanic bubbles play an important role in the air-sea exchange of weakly soluble gases at moderate to high wind speeds. A Lagrangian bubble model embedded in a large eddy simulation model is developed to study bubbles and their influence on dissolved gases in the upper ocean. The transient evolution of mixed-layer dissolved oxygen and nitrogen gases at Ocean Station Papa (50 degrees N, 145 degrees W) during a winter storm is reproduced with the model. Among different physical processes, gas bubbles are the most important in elevating dissolved gas concentrations during the storm, while atmospheric pressure governs the variability of gas saturation anomaly (the relative departure of dissolved gas concentration from the saturation concentration). For the same wind speed, bubble-mediated gas fluxes are larger during rising wind with smaller wave age than during falling wind with larger wave age. Wave conditions are the primary cause for the bubble gas flux difference: when wind strengthens, waves are less-developed with respect to wind, resulting in more frequent large breaking waves. Bubble generation in large breaking waves is favorable for a large bubble-mediated gas flux. The wave-age dependence is not included in any existing bubble-mediated gas flux parameterizations.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Oceanic bubbles play an important role in the air-sea exchange of weakly soluble gases at moderate to high wind speeds. A Lagrangian bubble model embedded in a large eddy simulation model is developed to study bubbles and their influence on dissolved gases in the upper ocean. The transient evolution of mixed-layer dissolved oxygen and nitrogen gases at Ocean Station Papa (50 degrees N, 145 degrees W) during a winter storm is reproduced with the model. Among different physical processes, gas bubbles are the most important in elevating dissolved gas concentrations during the storm, while atmospheric pressure governs the variability of gas saturation anomaly (the relative departure of dissolved gas concentration from the saturation concentration). For the same wind speed, bubble-mediated gas fluxes are larger during rising wind with smaller wave age than during falling wind with larger wave age. Wave conditions are the primary cause for the bubble gas flux difference: when wind strengthens, waves are less-developed with respect to wind, resulting in more frequent large breaking waves. Bubble generation in large breaking waves is favorable for a large bubble-mediated gas flux. The wave-age dependence is not included in any existing bubble-mediated gas flux parameterizations.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

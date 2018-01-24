@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:08.799372</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:32.348241</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The 24 June 2006 Boulder hailstorm produced very heavy precipitation including disklike hailstones that grew with low density. These disklike hailstones, 4-5 cm in diameter, are unusual, and some of them appear to have accumulated graupel while aloft. A large amount of very fine-grained slush was left on the ground along with the hail. The hail and the great amount of slush suggest that most of the hydrometeor growth in the cloud was by low- or very-low-density riming. Consistent with that, the radar data suggest that the storm updraft had substantially depleted liquid water content. There is evidence that low-density hydrometeor growth within storms may be considerably more frequent than is commonly suspected.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The 24 June 2006 Boulder hailstorm produced very heavy precipitation including disklike hailstones that grew with low density. These disklike hailstones, 4-5 cm in diameter, are unusual, and some of them appear to have accumulated graupel while aloft. A large amount of very fine-grained slush was left on the ground along with the hail. The hail and the great amount of slush suggest that most of the hydrometeor growth in the cloud was by low- or very-low-density riming. Consistent with that, the radar data suggest that the storm updraft had substantially depleted liquid water content. There is evidence that low-density hydrometeor growth within storms may be considerably more frequent than is commonly suspected.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

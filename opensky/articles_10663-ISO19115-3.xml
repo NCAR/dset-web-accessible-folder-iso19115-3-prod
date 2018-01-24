@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:30.227021</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:03.551745</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>As part of the NASA's INTEX-B mission, the NASA DC-8 and NSF C-130 conducted three wing-tip to wing-tip comparison flights. The intercomparison flights sampled a variety of atmospheric conditions (polluted urban, non-polluted, marine boundary layer, clean and polluted free troposphere). These comparisons form a basis to establish data consistency, but also should also be viewed as a continuation of efforts aiming to better understand and reduce measurement differences as identified in earlier field intercomparison exercises. This paper provides a comprehensive overview of 140 intercomparisons of data collected as well as a record of the measurement consistency demonstrated during INTEX-B. It is the primary goal to provide necessary information for the future research to determine if the observations from different INTEX-B platforms/instrument are consistent within the PI reported uncertainties and used in integrated analysis. This paper may also contribute to the formulation strategy for future instrument developments. For interpretation and most effective use of these results, the reader is strongly urged to consult with the instrument principle investigator.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[As part of the NASA's INTEX-B mission, the NASA DC-8 and NSF C-130 conducted three wing-tip to wing-tip comparison flights. The intercomparison flights sampled a variety of atmospheric conditions (polluted urban, non-polluted, marine boundary layer, clean and polluted free troposphere). These comparisons form a basis to establish data consistency, but also should also be viewed as a continuation of efforts aiming to better understand and reduce measurement differences as identified in earlier field intercomparison exercises. This paper provides a comprehensive overview of 140 intercomparisons of data collected as well as a record of the measurement consistency demonstrated during INTEX-B. It is the primary goal to provide necessary information for the future research to determine if the observations from different INTEX-B platforms/instrument are consistent within the PI reported uncertainties and used in integrated analysis. This paper may also contribute to the formulation strategy for future instrument developments. For interpretation and most effective use of these results, the reader is strongly urged to consult with the instrument principle investigator.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

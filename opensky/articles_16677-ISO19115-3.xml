@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:47.849134</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:48.990854</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Storm surge is dependent on wind direction, with maximum surge heights occurring when strong winds blow onshore. It is less obvious what happens when a port city is situated at the end of a long narrow gulf, like Venice at the northwestern end of the Adriatic Sea. Does the narrow marine approach to the port city limit the dangerous wind direction to a span of only a few degrees? This modeling study shows that the response in surge height to wind direction is a sinusoidal curve for port cities at the end of a long inlet, as well as for cities exposed along a straight coastline. Surge height depends on the cosine of the angle between the wind direction and the major axis of the narrow gulf. There is no special protection from storm surge afforded by a narrow ocean-going approach to a port city.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Storm surge is dependent on wind direction, with maximum surge heights occurring when strong winds blow onshore. It is less obvious what happens when a port city is situated at the end of a long narrow gulf, like Venice at the northwestern end of the Adriatic Sea. Does the narrow marine approach to the port city limit the dangerous wind direction to a span of only a few degrees? This modeling study shows that the response in surge height to wind direction is a sinusoidal curve for port cities at the end of a long inlet, as well as for cities exposed along a straight coastline. Surge height depends on the cosine of the angle between the wind direction and the major axis of the narrow gulf. There is no special protection from storm surge afforded by a narrow ocean-going approach to a port city.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

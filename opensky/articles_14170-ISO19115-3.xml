@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:24.378819</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:15.120834</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Part I of this paper presents the results from a series of plume-tracing flights over the Medicine Bow and Sierra Madre Ranges in south-central Wyoming. These flights, conducted during February and early March of 2011, were part of the Wyoming Weather Modification Pilot Project. Effective targeting of ground-based silver iodide plumes to supercooled clouds has long been a problem for winter orographic cloud-seeding projects. Surface-based ice nucleus (IN) measurements made at a fixed location near the Medicine Bow Range target area had confirmed the effective transport of IN plumes in many cases, but not all. Airborne plume tracing, undertaken to further illuminate the processes involved, provided additional insight into the plume behavior while providing physical measurements that were later compared with large-eddy-simulation modeling (Part II). It was found that the plumes were most often encountered along the flight paths set out in the experimental designs and, in the absence of convection, appear to be mostly confined to the lowest 600 m above the highest terrain. All passes above 600 m above ground level revealed IN concentrations greater than background levels, however. An estimate of IN flux measured over the Medicine Bow Range was approximately 85% of that produced by the five ground-based IN generators active at the time.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Part I of this paper presents the results from a series of plume-tracing flights over the Medicine Bow and Sierra Madre Ranges in south-central Wyoming. These flights, conducted during February and early March of 2011, were part of the Wyoming Weather Modification Pilot Project. Effective targeting of ground-based silver iodide plumes to supercooled clouds has long been a problem for winter orographic cloud-seeding projects. Surface-based ice nucleus (IN) measurements made at a fixed location near the Medicine Bow Range target area had confirmed the effective transport of IN plumes in many cases, but not all. Airborne plume tracing, undertaken to further illuminate the processes involved, provided additional insight into the plume behavior while providing physical measurements that were later compared with large-eddy-simulation modeling (Part II). It was found that the plumes were most often encountered along the flight paths set out in the experimental designs and, in the absence of convection, appear to be mostly confined to the lowest 600 m above the highest terrain. All passes above 600 m above ground level revealed IN concentrations greater than background levels, however. An estimate of IN flux measured over the Medicine Bow Range was approximately 85% of that produced by the five ground-based IN generators active at the time.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

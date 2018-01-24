@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:29.984273</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:50.959747</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Confusion exists regarding the tropospheric circulation response to volcanic eruptions, with models and observations seeming to disagree on the sign of the response. The forced Southern Hemisphere circulation response to the eruptions of Pinatubo and El Chichon is shown to be a robust positive annular mode, using over 200 ensemble members from 38 climate models. It is demonstrated that the models and observations are not at odds, but rather, internal climate variability is large and can overwhelm the forced response. It is further argued that the state of the El Nino-Southern Oscillation can at least partially explain the sign of the observed anomalies and may account for the perceived discrepancy between model and observational studies. The eruptions of both El Chichon and Pinatubo occurred during El Nino events, and it is demonstrated that the Southern Annular Mode anomalies following volcanic eruptions are weaker during El Nino events compared to La Nina events.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Confusion exists regarding the tropospheric circulation response to volcanic eruptions, with models and observations seeming to disagree on the sign of the response. The forced Southern Hemisphere circulation response to the eruptions of Pinatubo and El Chichon is shown to be a robust positive annular mode, using over 200 ensemble members from 38 climate models. It is demonstrated that the models and observations are not at odds, but rather, internal climate variability is large and can overwhelm the forced response. It is further argued that the state of the El Nino-Southern Oscillation can at least partially explain the sign of the observed anomalies and may account for the perceived discrepancy between model and observational studies. The eruptions of both El Chichon and Pinatubo occurred during El Nino events, and it is demonstrated that the Southern Annular Mode anomalies following volcanic eruptions are weaker during El Nino events compared to La Nina events.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

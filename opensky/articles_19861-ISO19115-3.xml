@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:51.660847</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:24.193172</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -328,7 +328,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Dual-polarization scanning radar measurements, air temperature soundings, and a polarimetric radarbased particle identification scheme are used to generate maps and probability density functions (PDFs) of the ice water path (IWP) in Hurricanes Arthur (2014) and Irene (2011) at landfall. The IWP is separated into the contribution from small ice (i. e., ice crystals), termed small-particle IWP, and large ice (i. e., graupel and snow), termed large-particle IWP. Vertically profiling radar data from Hurricane Arthur suggest that the small ice particles detected by the scanning radar have fall velocities mostly greater than 0.25ms 21 and that the particle identification scheme is capable of distinguishing between small and large ice particles in a mean sense. The IWP maps and PDFs reveal that the total and large-particle IWPs range up to 10 kgm 22, with the largest values confined to intense convective precipitation within the rainbands and eyewall. Small-particle IWP remains mostly,4 kgm 22, with the largest small-particle IWP values collocated with maxima in the total IWP. PDFs of the small-to-total IWP ratio have shapes that depend on the precipitation type (i. e., intense convective, stratiform, or weak-echo precipitation). The IWP ratio distribution is narrowest (broadest) in intense convective (weak echo) precipitation and peaks at a ratio of about 0.1 (0.3).</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Dual-polarization scanning radar measurements, air temperature soundings, and a polarimetric radarbased particle identification scheme are used to generate maps and probability density functions (PDFs) of the ice water path (IWP) in Hurricanes Arthur (2014) and Irene (2011) at landfall. The IWP is separated into the contribution from small ice (i. e., ice crystals), termed small-particle IWP, and large ice (i. e., graupel and snow), termed large-particle IWP. Vertically profiling radar data from Hurricane Arthur suggest that the small ice particles detected by the scanning radar have fall velocities mostly greater than 0.25ms 21 and that the particle identification scheme is capable of distinguishing between small and large ice particles in a mean sense. The IWP maps and PDFs reveal that the total and large-particle IWPs range up to 10 kgm 22, with the largest values confined to intense convective precipitation within the rainbands and eyewall. Small-particle IWP remains mostly,4 kgm 22, with the largest small-particle IWP values collocated with maxima in the total IWP. PDFs of the small-to-total IWP ratio have shapes that depend on the precipitation type (i. e., intense convective, stratiform, or weak-echo precipitation). The IWP ratio distribution is narrowest (broadest) in intense convective (weak echo) precipitation and peaks at a ratio of about 0.1 (0.3).]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

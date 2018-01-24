@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:19.631662</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:50.330987</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -553,7 +553,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[Test beds have emerged as a critical mechanism linking weather research with forecasting operations. The U.S. Weather Research Program (USWRP) was formed in the 1990s to help identify key gaps in research related to major weather prediction problems and the role of observations and numerical models. This planning effort ultimately revealed the need for greater capacity and new approaches to improve the connectivity between the research and forecasting enterprise. Out of this developed the seeds for what is now termed test beds. While many individual projects, and even more broadly the NOAA/National Weather Service (NWS) Modernization, were successful in advancing weather prediction services, it was recognized that specific forecast problems warranted a more focused and elevated level of effort. The USWRP helped develop these concepts with science teams and provided seed funding for several of the test beds described. Based on the varying NOAA mission requirements for forecasting, differences in the organizational structure and methods used to provide those services, and differences in the state of the science related to those forecast challenges, test beds have taken on differing characteristics, strategies, and priorities. Current test bed efforts described have all emerged between 2000 and 2011 and focus on hurricanes (Joint Hurricane Testbed), precipitation (Hydrometeorology Testbed), satellite data assimilation (Joint Center for Satellite Data Assimilation), severe weather (Hazardous Weather Testbed), satellite data support for severe weather prediction (Short-Term Prediction Research and Transition Center), mesoscale modeling (Developmental Testbed Center), climate forecast products (Climate Testbed), testing and evaluation of satellite capabilities [Geostationary Operational Environmental Satellite-R Series (GOES-R) Proving Ground], aviation applications (Aviation Weather Testbed), and observing system experiments (OSSE Testbed).]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

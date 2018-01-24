@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:37.852759</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:34.061988</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Field and lab measurements suggest that low-molecular weight (MW) organic acids and bases exist in accumulation and nucleation mode particles, despite their relatively high pure-liquid vapor pressures. The mechanism(s) by which such compounds contribute to the mass growth of existing aerosol particles and newly formed particles has not been thoroughly explored. One mechanism by which low-MW compounds may contribute to new particle growth is through the formation of organic salts. In this paper we use thermodynamic modeling to explore the potential for organic salt formation by atmospherically relevant organic acids and bases for two system types: one in which the relative contribution of ammonia vs. amines in forming organic salts was evaluated, the other in which the decrease in volatility of organic acids and bases due to organic salt formation was assessed. The modeling approach employed relied heavily on group contribution and other estimation methods for necessary physical and chemical parameters. The results of this work suggest that amines may be an important contributor to organic salt formation, and that experimental data are greatly needed to improve our understanding of organic salt formation in atmospherically relevant systems and to accurately predict the potential contribution of such salts to new particle growth.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Field and lab measurements suggest that low-molecular weight (MW) organic acids and bases exist in accumulation and nucleation mode particles, despite their relatively high pure-liquid vapor pressures. The mechanism(s) by which such compounds contribute to the mass growth of existing aerosol particles and newly formed particles has not been thoroughly explored. One mechanism by which low-MW compounds may contribute to new particle growth is through the formation of organic salts. In this paper we use thermodynamic modeling to explore the potential for organic salt formation by atmospherically relevant organic acids and bases for two system types: one in which the relative contribution of ammonia vs. amines in forming organic salts was evaluated, the other in which the decrease in volatility of organic acids and bases due to organic salt formation was assessed. The modeling approach employed relied heavily on group contribution and other estimation methods for necessary physical and chemical parameters. The results of this work suggest that amines may be an important contributor to organic salt formation, and that experimental data are greatly needed to improve our understanding of organic salt formation in atmospherically relevant systems and to accurately predict the potential contribution of such salts to new particle growth.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:18.939480</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:34.192287</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -354,7 +354,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>As a response to water shortages in Southeast Queensland brought about by reduced rainfall and increasing population, the Queensland government decided to explore the potential for cloud seeding to enhance rainfall. A cloud seeding feasibility study was conducted in the Southeast Queensland region December 2007-March 2008 and again from October 2008-February 2009. In both seasons of the field effort, radar measurements and in situ aircraft microphysical data were collected and an exploratory randomized seeding study was initiated. Climatology analyses established the weather regimes responsible for the regional rainfall. Results indicate that most deep convection in the region has a strong warm rain formation component, except for early summer storms with higher cloud bases. Initial statistical analyses of the randomized seeding experiment suggest that hygroscopic seeding may potentially increase rainfall, consistent with previous experiments; however, the robustness of the results is limited by the small sample size.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[As a response to water shortages in Southeast Queensland brought about by reduced rainfall and increasing population, the Queensland government decided to explore the potential for cloud seeding to enhance rainfall. A cloud seeding feasibility study was conducted in the Southeast Queensland region December 2007-March 2008 and again from October 2008-February 2009. In both seasons of the field effort, radar measurements and in situ aircraft microphysical data were collected and an exploratory randomized seeding study was initiated. Climatology analyses established the weather regimes responsible for the regional rainfall. Results indicate that most deep convection in the region has a strong warm rain formation component, except for early summer storms with higher cloud bases. Initial statistical analyses of the randomized seeding experiment suggest that hygroscopic seeding may potentially increase rainfall, consistent with previous experiments; however, the robustness of the results is limited by the small sample size.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

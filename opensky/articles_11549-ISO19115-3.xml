@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:35.870183</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:11.519975</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this paper, the Kalman filter is used to retrieve the electron density profile along the tangent points by assimilating the slant total electron content data observed during a radio occultation (RO) event into an empirical background model. The RO data observed by COSMIC satellites on day of year 266 in 2009 are selected to do both the simulation work and the real data retrieval test. The results show that the data assimilation technique can improve the electron density retrieval in comparison with the Abel inversion. It is less influenced by the ionospheric inhomogeneity than the Abel method. Some pseudo-large-scale features made by the Abel retrieval, such as the plasma cave underneath the equatorial ionization anomaly region and the three peaks along the latitude direction in the E layer, disappear in the data assimilation retrieval results. Independent validation by ground-based ionosonde observations confirms the improvement of data assimilation retrieval below the F2 peak. In addition, some potential research on RO data assimilation is also discussed.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this paper, the Kalman filter is used to retrieve the electron density profile along the tangent points by assimilating the slant total electron content data observed during a radio occultation (RO) event into an empirical background model. The RO data observed by COSMIC satellites on day of year 266 in 2009 are selected to do both the simulation work and the real data retrieval test. The results show that the data assimilation technique can improve the electron density retrieval in comparison with the Abel inversion. It is less influenced by the ionospheric inhomogeneity than the Abel method. Some pseudo-large-scale features made by the Abel retrieval, such as the plasma cave underneath the equatorial ionization anomaly region and the three peaks along the latitude direction in the E layer, disappear in the data assimilation retrieval results. Independent validation by ground-based ionosonde observations confirms the improvement of data assimilation retrieval below the F2 peak. In addition, some potential research on RO data assimilation is also discussed.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

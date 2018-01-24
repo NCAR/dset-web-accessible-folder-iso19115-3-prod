@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:53.293753</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:57.236827</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -358,7 +358,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Most atmospheric motions of different spatial scales and precipitation are closely related to phase transitions in clouds. The continuously increasing resolution of large-scale and mesoscale atmospheric models makes it feasible to treat the evolution of individual clouds. The explicit treatment of clouds requires the simulation of cloud microphysics. Two main approaches describing cloud microphysical properties and processes have been developed in the past four and a half decades: bulk microphysics parameterization and spectral (bin) microphysics (SBM). The development and utilization of both represent an important step forward in cloud modeling. This study presents a detailed survey of the physical basis and the applications of both bulk microphysics parameterization and SBM. The results obtained from simulations of a wide range of atmospheric phenomena, from tropical cyclones through Arctic clouds using these two approaches are compared. Advantages and disadvantages, as well as lines of future development for these methods are discussed.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Most atmospheric motions of different spatial scales and precipitation are closely related to phase transitions in clouds. The continuously increasing resolution of large-scale and mesoscale atmospheric models makes it feasible to treat the evolution of individual clouds. The explicit treatment of clouds requires the simulation of cloud microphysics. Two main approaches describing cloud microphysical properties and processes have been developed in the past four and a half decades: bulk microphysics parameterization and spectral (bin) microphysics (SBM). The development and utilization of both represent an important step forward in cloud modeling. This study presents a detailed survey of the physical basis and the applications of both bulk microphysics parameterization and SBM. The results obtained from simulations of a wide range of atmospheric phenomena, from tropical cyclones through Arctic clouds using these two approaches are compared. Advantages and disadvantages, as well as lines of future development for these methods are discussed.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:11.274668</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:22.969925</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -583,7 +583,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Atmospheric composition is governed by the interplay of emissions, chemistry, deposition, and transport. Substantial questions surround each of these processes, especially in forested environments with strong biogenic emissions. Utilizing aircraft observations acquired over a forest in the southeast U.S., we calculate eddy covariance fluxes for a suite of reactive gases and apply the synergistic information derived from this analysis to quantify emission and deposition fluxes, oxidant concentrations, aerosol uptake coefficients, and other key parameters. Evaluation of results against state-of-the-science models and parameterizations provides insight into our current understanding of this system and frames future observational priorities. As a near-direct measurement of fundamental process rates, airborne fluxes offer a new tool to improve biogenic and anthropogenic emissions inventories, photochemical mechanisms, and deposition parameterizations</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Atmospheric composition is governed by the interplay of emissions, chemistry, deposition, and transport. Substantial questions surround each of these processes, especially in forested environments with strong biogenic emissions. Utilizing aircraft observations acquired over a forest in the southeast U.S., we calculate eddy covariance fluxes for a suite of reactive gases and apply the synergistic information derived from this analysis to quantify emission and deposition fluxes, oxidant concentrations, aerosol uptake coefficients, and other key parameters. Evaluation of results against state-of-the-science models and parameterizations provides insight into our current understanding of this system and frames future observational priorities. As a near-direct measurement of fundamental process rates, airborne fluxes offer a new tool to improve biogenic and anthropogenic emissions inventories, photochemical mechanisms, and deposition parameterizations]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

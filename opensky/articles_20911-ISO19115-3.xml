@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:53.594884</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:27.265800</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This special collection includes 31 research papers investigating geospace system responses to the geomagnetic storms during the St. Patrick's Days of 17 March 2013 and 2015. It covers observation, data assimilation, and modeling aspects of the storm time phenomena and their associated physical processes. The ionosphere and thermosphere as well as their coupling to the magnetosphere are clearly the main subject areas addressed. This collection provides a comprehensive picture of the geospace response to these two major storms. We provide some highlights of these studies in six specific areas: (1) global and magnetosphere/plasmasphere perspectives, (2) high-latitude responses, (3) subauroral and midlatitude processes, (4) effects of prompt penetration electric fields and disturbance dynamo electric fields, (5) effects of neutral dynamics and perturbation, and (6) storm effects on plasma bubbles and irregularities. We also discuss areas of future challenges and the ways to move forward in advancing our understanding of the geospace storm time behavior and space weather effects.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This special collection includes 31 research papers investigating geospace system responses to the geomagnetic storms during the St. Patrick's Days of 17 March 2013 and 2015. It covers observation, data assimilation, and modeling aspects of the storm time phenomena and their associated physical processes. The ionosphere and thermosphere as well as their coupling to the magnetosphere are clearly the main subject areas addressed. This collection provides a comprehensive picture of the geospace response to these two major storms. We provide some highlights of these studies in six specific areas: (1) global and magnetosphere/plasmasphere perspectives, (2) high-latitude responses, (3) subauroral and midlatitude processes, (4) effects of prompt penetration electric fields and disturbance dynamo electric fields, (5) effects of neutral dynamics and perturbation, and (6) storm effects on plasma bubbles and irregularities. We also discuss areas of future challenges and the ways to move forward in advancing our understanding of the geospace storm time behavior and space weather effects.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

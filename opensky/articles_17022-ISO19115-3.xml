@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:55.306989</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:00.316798</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In an effort to study the applicability of adaptive mesh refinement (AMR) techniques to atmospheric models, an interpolation-based spectral element shallow-water model on a cubed-sphere grid is compared to a block-structured finite-volume method in latitude-longitude geometry. Both models utilize a nonconforming adaptation approach that doubles the resolution at fine-coarse mesh interfaces. The underlying AMR libraries are quad-tree based and ensure that neighboring regions can only differ by one refinement level. The models are compared via selected test cases from a standard test suite for the shallow-water equations, and via a barotropic instability test. These tests comprise the passive advection of a cosine bell and slotted cylinder, a steady-state geostrophic flow, a flow over an idealized mountain, a Rossby-Haurwitz wave, and the evolution of a growing barotropic wave. Both static and dynamics adaptations are evaluated, which reveal the strengths and weaknesses of the AMR techniques. Overall, the AMR simulations show that both models successfully place static and dynamic adaptations in local regions without requiring a fine grid in the global domain. The adaptive grids reliably track features of interests without visible distortions or noise at mesh interfaces. Simple threshold adaptation criteria for the geopotential height and the relative vorticity are assessed.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In an effort to study the applicability of adaptive mesh refinement (AMR) techniques to atmospheric models, an interpolation-based spectral element shallow-water model on a cubed-sphere grid is compared to a block-structured finite-volume method in latitude-longitude geometry. Both models utilize a nonconforming adaptation approach that doubles the resolution at fine-coarse mesh interfaces. The underlying AMR libraries are quad-tree based and ensure that neighboring regions can only differ by one refinement level. The models are compared via selected test cases from a standard test suite for the shallow-water equations, and via a barotropic instability test. These tests comprise the passive advection of a cosine bell and slotted cylinder, a steady-state geostrophic flow, a flow over an idealized mountain, a Rossby-Haurwitz wave, and the evolution of a growing barotropic wave. Both static and dynamics adaptations are evaluated, which reveal the strengths and weaknesses of the AMR techniques. Overall, the AMR simulations show that both models successfully place static and dynamic adaptations in local regions without requiring a fine grid in the global domain. The adaptive grids reliably track features of interests without visible distortions or noise at mesh interfaces. Simple threshold adaptation criteria for the geopotential height and the relative vorticity are assessed.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

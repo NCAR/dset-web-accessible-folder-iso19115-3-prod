@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:15.930991</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:41.864418</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -358,7 +358,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[Isotopic ozone lines of (OOO)-O-16-O-16-O-17 and (OOO)-O-16-O-17-O-16 in the 5 mum region are identified for the first time in balloon-borne high-resolution (0.003 cm(-1)) solar absorption spectra. A few of these lines also are observed in ground-based spectra. These lines need to be included in analysis of atmospheric absorption spectra, in addition to the recently identified (OOO)-O-16-O-16-O-18, (OOO)-O-16-O-18-O-16 and (OCS)-O-16-C-12-S-34 lines in this region. (C) 2002 Elsevier Science Ltd. All rights reserved.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

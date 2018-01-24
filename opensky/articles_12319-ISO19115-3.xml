@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:19.042290</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:35.671201</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[Aerosols have important effects on the Earth's radiative balance and are normally included in simulations of present day climate. For simulations of present day or recent past climates, observational information can be used to constrain spatiotemporal variability in aerosol loading. For the deep past, aerosol changes are generally ignored. Here we describe how to use the Community Climate System Model version 4 (CCSM4), standard boundary conditions for a deep time climate simulation, and pre-industrial emissions information to generate a paleogeographic aerosol prescription. This prescription is then applied to a previously published simulation of the Late Permian (251 Ma) to evaluate the how the model climate is affected by the new aerosol prescription relative to the aerosol distribution originally imposed. The new aerosol prescription results in a broadly warmer and wetter climate with a somewhat stronger Pangaean monsoon. Using spatiotemporally varying and speciated aerosol is equivalent to reducing the optical depth of a uniform background aerosol with sulfate-like properties by similar to 30-50%.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

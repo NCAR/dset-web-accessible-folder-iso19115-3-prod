@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:08.895933</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:32.487621</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Landfalling Typhoon Saomai (2006) was observed by the CINRAD WSR-98D radar on the southeast coast of China. This study documents the formation and evolution of a concentric eyewall episode using the axisymmetric circulation derived from the ground-based velocity track display technique. Saomai's outer eyewall formed after reaching its peak intensity, ~5 hours before landfall. Updraft, tangential wind maximum and shallow low-level inflow coincided with the high reflectivity and voriticity ring in both inner and outer eyewalls, surrounding a moat region characterized by weak downward motion and lower reflectivity. The subsidence and rain-free moat region between the two eyewalls was filled with rain and upward motion prior to landfall, indicating a breakdown in the outer eyewall which was a barrier to radial inflow. Meanwhile, the outer vorticity maximum flattened and the central pressure dropped 9 hPa. The eyewall replacement cycle didn't complete probably due to the landfall.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Landfalling Typhoon Saomai (2006) was observed by the CINRAD WSR-98D radar on the southeast coast of China. This study documents the formation and evolution of a concentric eyewall episode using the axisymmetric circulation derived from the ground-based velocity track display technique. Saomai's outer eyewall formed after reaching its peak intensity, ~5 hours before landfall. Updraft, tangential wind maximum and shallow low-level inflow coincided with the high reflectivity and voriticity ring in both inner and outer eyewalls, surrounding a moat region characterized by weak downward motion and lower reflectivity. The subsidence and rain-free moat region between the two eyewalls was filled with rain and upward motion prior to landfall, indicating a breakdown in the outer eyewall which was a barrier to radial inflow. Meanwhile, the outer vorticity maximum flattened and the central pressure dropped 9 hPa. The eyewall replacement cycle didn't complete probably due to the landfall.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:06.102136</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:28.505570</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -418,7 +418,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A workshop on the use of Global Positioning System (GPS) measurements in weather and climate with emphasis on water vapor determination, was organized by the National Environmental Research Council's (NERC) Environmental Systems Science Centre (ESSC), at the University of Reading, Reading, United Kingdom, and took place there 29 - 31 August 2001. This paper gives a broad overview and general background of the use of GPS data for weather and climate. It outlines the objectives of the workshop and presents ongoing national, regional, and international activities both for ground-based and satellite-based systems. This includes work in the United States, China, and Japan, and different European efforts, including activities under European Community programs. Data assimilation of GPS data for weather prediction and climate is discussed as are ways in which to develop GPS-based systems to become an integrated part of the World Weather Watch. This includes ways of systematically using GPS data from the international geodetic network for climate monitoring purposes.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A workshop on the use of Global Positioning System (GPS) measurements in weather and climate with emphasis on water vapor determination, was organized by the National Environmental Research Council's (NERC) Environmental Systems Science Centre (ESSC), at the University of Reading, Reading, United Kingdom, and took place there 29 - 31 August 2001. This paper gives a broad overview and general background of the use of GPS data for weather and climate. It outlines the objectives of the workshop and presents ongoing national, regional, and international activities both for ground-based and satellite-based systems. This includes work in the United States, China, and Japan, and different European efforts, including activities under European Community programs. Data assimilation of GPS data for weather prediction and climate is discussed as are ways in which to develop GPS-based systems to become an integrated part of the World Weather Watch. This includes ways of systematically using GPS data from the international geodetic network for climate monitoring purposes.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

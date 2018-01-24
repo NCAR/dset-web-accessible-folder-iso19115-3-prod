@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:51.281702</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:32.545564</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The concept of geoengineering by marine cloud brightening is based on seeding marine stratocumulus clouds with sub-micrometer sea-salt particles to enhance the cloud droplet number concentration and cloud albedo, thereby producing a climate cooling effect. The efficacy of this as a strategy for global cooling rests on the extent to which aerosol-perturbed marine clouds will respond with increased albedo. Ship tracks, quasi-linear cloud features prevalent in oceanic regions impacted by ship exhaust, are a well-known manifestation of the effect of aerosol injection on marine clouds. We present here an analysis of the albedo responses in ship tracks, based on in situ aircraft measurements and three years of satellite observations of 589 individual ship tracks. It is found that the sign (increase or decrease) and magnitude of the albedo response in ship tracks depends on the mesoscale cloud structure, the free tropospheric humidity, and cloud top height. In a closed cell structure (cloud cells ringed by a perimeter of clear air), nearly 30% of ship tracks exhibited a decreased albedo. Detailed cloud responses must be accounted for in global studies of the potential efficacy of sea-spray geoengineering as a means to counteract global warming.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The concept of geoengineering by marine cloud brightening is based on seeding marine stratocumulus clouds with sub-micrometer sea-salt particles to enhance the cloud droplet number concentration and cloud albedo, thereby producing a climate cooling effect. The efficacy of this as a strategy for global cooling rests on the extent to which aerosol-perturbed marine clouds will respond with increased albedo. Ship tracks, quasi-linear cloud features prevalent in oceanic regions impacted by ship exhaust, are a well-known manifestation of the effect of aerosol injection on marine clouds. We present here an analysis of the albedo responses in ship tracks, based on in situ aircraft measurements and three years of satellite observations of 589 individual ship tracks. It is found that the sign (increase or decrease) and magnitude of the albedo response in ship tracks depends on the mesoscale cloud structure, the free tropospheric humidity, and cloud top height. In a closed cell structure (cloud cells ringed by a perimeter of clear air), nearly 30% of ship tracks exhibited a decreased albedo. Detailed cloud responses must be accounted for in global studies of the potential efficacy of sea-spray geoengineering as a means to counteract global warming.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:28.127069</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:20.077510</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Since 1995, the Coupled Model Intercomparison Project (CMIP) has coordinated climate model experiments involving multiple international modeling teams. Through CMIP, climate modelers and scientists from around the world have analyzed and compared state-of-the-art climate model simulations to gain insights into the processes, mechanisms, and consequences of climate variability and climate change. This has led to a better understanding of past, present, and future climate, and CMIP model experiments have routinely been the basis for future climate change assessments made by the Intergovernmental Panel on Climate Change (IPCC) [e.g., IPCC, 2013, and references therein].</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Since 1995, the Coupled Model Intercomparison Project (CMIP) has coordinated climate model experiments involving multiple international modeling teams. Through CMIP, climate modelers and scientists from around the world have analyzed and compared state-of-the-art climate model simulations to gain insights into the processes, mechanisms, and consequences of climate variability and climate change. This has led to a better understanding of past, present, and future climate, and CMIP model experiments have routinely been the basis for future climate change assessments made by the Intergovernmental Panel on Climate Change (IPCC) [e.g., IPCC, 2013, and references therein].]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

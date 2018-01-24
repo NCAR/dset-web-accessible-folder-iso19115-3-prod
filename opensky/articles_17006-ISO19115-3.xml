@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:55.149394</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:00.106828</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>[1] Stochastic weather generators are commonly used to generate scenarios of climate variability or change on a daily timescale. So the realistic modeling of extreme events is essential. Presently, parametric weather generators do not produce a heavy enough upper tail for the distribution of daily precipitation amount, whereas those based on resampling have inherent limitations in representing extremes. Regarding this issue, we first describe advanced statistical tools from ultimate and penultimate extreme value theory to analyze and model extremal behavior of precipitation intensity (i.e., nonzero amount), which, although interesting in their own right, are mainly used to motivate approaches to improve the treatment of extremes within a weather generator framework. To this end we propose and discuss several possible approaches, none of which resolves the problem at hand completely, but at least one of them (i.e., a hybrid technique with a gamma distribution for low to moderate intensities and a generalized Pareto distribution for high intensities) can lead to a substantial improvement. An alternative approach, based on fitting the stretched exponential (or Weibull) distribution to either all or only high intensities, is found difficult to implement in practice.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[[1] Stochastic weather generators are commonly used to generate scenarios of climate variability or change on a daily timescale. So the realistic modeling of extreme events is essential. Presently, parametric weather generators do not produce a heavy enough upper tail for the distribution of daily precipitation amount, whereas those based on resampling have inherent limitations in representing extremes. Regarding this issue, we first describe advanced statistical tools from ultimate and penultimate extreme value theory to analyze and model extremal behavior of precipitation intensity (i.e., nonzero amount), which, although interesting in their own right, are mainly used to motivate approaches to improve the treatment of extremes within a weather generator framework. To this end we propose and discuss several possible approaches, none of which resolves the problem at hand completely, but at least one of them (i.e., a hybrid technique with a gamma distribution for low to moderate intensities and a generalized Pareto distribution for high intensities) can lead to a substantial improvement. An alternative approach, based on fitting the stretched exponential (or Weibull) distribution to either all or only high intensities, is found difficult to implement in practice.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

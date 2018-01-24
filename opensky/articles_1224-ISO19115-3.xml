@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:04.384014</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:25.700983</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>After a brief presentation of Sq and L electric current systems deduced from geomagnetic data, electric conductivities and wind models in the dynamo region are discussed. It is then shown that the solar negative-mode thermal diurnal tide and the lunar semidiurnal gravitational tide having a phase shift with altitudes produce the best fit Sq and L current systems, respectively. Distributions of electrostatic fields are computed, and electromagnetic drift speeds in the ionospheric F region are also examined. These calculated values agree well with observed results.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[After a brief presentation of Sq and L electric current systems deduced from geomagnetic data, electric conductivities and wind models in the dynamo region are discussed. It is then shown that the solar negative-mode thermal diurnal tide and the lunar semidiurnal gravitational tide having a phase shift with altitudes produce the best fit Sq and L current systems, respectively. Distributions of electrostatic fields are computed, and electromagnetic drift speeds in the ionospheric F region are also examined. These calculated values agree well with observed results.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

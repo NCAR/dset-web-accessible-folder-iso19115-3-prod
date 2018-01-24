@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:06.321875</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:51.758417</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -523,7 +523,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Community Earth System Model (CESM) is a flexible and extensible community tool used to investigate a diverse set of Earth system interactions across multiple time and space scales. This global coupled model significantly extends its predecessor, the Community Climate System Model, by incorporating new Earth system simulation capabilities. These comprise the ability to simulate biogeochemical cycles, including those of carbon and nitrogen, a variety of atmospheric chemistry options, the Greenland Ice Sheet, and an atmosphere that extends to the lower thermosphere. These and other new model capabilities are enabling investigations into a wide range of pressing scientific questions, providing new foresight into possible future climates and increasing our collective knowledge about the behavior and interactions of the Earth system. Simulations with numerous configurations of the CESM have been provided to phase 5 of the Coupled Model Intercomparison Project (CMIP5) and are being analyzed by the broad community of scientists. Additionally, the model source code and associated documentation are freely available to the scientific community to use for Earth system studies, making it a true community tool. This article describes this Earth system model and its various possible configurations, and highlights a number of its scientific capabilities.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Community Earth System Model (CESM) is a flexible and extensible community tool used to investigate a diverse set of Earth system interactions across multiple time and space scales. This global coupled model significantly extends its predecessor, the Community Climate System Model, by incorporating new Earth system simulation capabilities. These comprise the ability to simulate biogeochemical cycles, including those of carbon and nitrogen, a variety of atmospheric chemistry options, the Greenland Ice Sheet, and an atmosphere that extends to the lower thermosphere. These and other new model capabilities are enabling investigations into a wide range of pressing scientific questions, providing new foresight into possible future climates and increasing our collective knowledge about the behavior and interactions of the Earth system. Simulations with numerous configurations of the CESM have been provided to phase 5 of the Coupled Model Intercomparison Project (CMIP5) and are being analyzed by the broad community of scientists. Additionally, the model source code and associated documentation are freely available to the scientific community to use for Earth system studies, making it a true community tool. This article describes this Earth system model and its various possible configurations, and highlights a number of its scientific capabilities.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

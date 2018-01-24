@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:49.987370</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:52.265566</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>An analog-based ensemble model output statistics (EMOS) is proposed to improve EMOS for the calibration of ensemble forecasts. Given a set of analog predictors and corresponding weights, which are optimized with a brute-force continuous ranked probability score (CRPS) minimization, forecasts similar to a current ensemble forecast (i.e., analogs) are searched. The best analogs and the corresponding observations form the training dataset for estimating the EMOS coefficients. To test the new approach for renewable energy applications, wind speed measurements at 100-m height from six measurement towers and wind ensemble forecasts at 100-m height from the European Centre for Medium-Range Weather Forecasts (ECMWF) Ensemble Prediction System (EPS) are used. The analog-based EMOS is compared against EMOS, an adaptive and recursive wind vector calibration (AUV), and an analog ensemble applied to ECMWF EPS. It is shown that the analog-based EMOS outperforms EMOS, AUV, and the analog ensemble at all measurement sites in terms of CRPS and Brier score for common and rare events. The CRPS improvements relative to EMOS reach up to 11% and are statistically significant at almost all sites. The reliability of the analog-based EMOS ensemble for rare events is better compared to EMOS and AUV and is similar compared to the analog ensemble.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[An analog-based ensemble model output statistics (EMOS) is proposed to improve EMOS for the calibration of ensemble forecasts. Given a set of analog predictors and corresponding weights, which are optimized with a brute-force continuous ranked probability score (CRPS) minimization, forecasts similar to a current ensemble forecast (i.e., analogs) are searched. The best analogs and the corresponding observations form the training dataset for estimating the EMOS coefficients. To test the new approach for renewable energy applications, wind speed measurements at 100-m height from six measurement towers and wind ensemble forecasts at 100-m height from the European Centre for Medium-Range Weather Forecasts (ECMWF) Ensemble Prediction System (EPS) are used. The analog-based EMOS is compared against EMOS, an adaptive and recursive wind vector calibration (AUV), and an analog ensemble applied to ECMWF EPS. It is shown that the analog-based EMOS outperforms EMOS, AUV, and the analog ensemble at all measurement sites in terms of CRPS and Brier score for common and rare events. The CRPS improvements relative to EMOS reach up to 11% and are statistically significant at almost all sites. The reliability of the analog-based EMOS ensemble for rare events is better compared to EMOS and AUV and is similar compared to the analog ensemble.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

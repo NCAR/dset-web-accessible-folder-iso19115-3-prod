@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:36.244938</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:01.063555</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -219,7 +219,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The National Center for Atmospheric Research (NCAR) operated an Integrated Sounding System (ISS) in Miami, Florida, for the CPS (Clouds and Precipitation Study) in late summer 2008. The study, being lead by PIs from the University of Miami, used a variety of vertically pointing radars and disdrometers to examine tropical precipitating clouds. The NCAR ISS used the MAPR (Mulitple Antenna Profiling Radar), a highly modified 915 MHz wind profiler capable of making very rapid wind measurements using spaced antenna techniques. The ISS also included a CL-31 ceilometer, GPS radiosonde sounding system and a surface meteorology station. During the course of the two month study, rain bands from four named tropical storms as well as many smaller storms and squalls, passed over the site. Examples of observations from the ISS will be presented, including the rapid variations in wind and precip seen by MAPR as the rain bands and their associated wind gusts passed over the radar.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The National Center for Atmospheric Research (NCAR) operated an Integrated Sounding System (ISS) in Miami, Florida, for the CPS (Clouds and Precipitation Study) in late summer 2008. The study, being lead by PIs from the University of Miami, used a variety of vertically pointing radars and disdrometers to examine tropical precipitating clouds. The NCAR ISS used the MAPR (Mulitple Antenna Profiling Radar), a highly modified 915 MHz wind profiler capable of making very rapid wind measurements using spaced antenna techniques. The ISS also included a CL-31 ceilometer, GPS radiosonde sounding system and a surface meteorology station. During the course of the two month study, rain bands from four named tropical storms as well as many smaller storms and squalls, passed over the site. Examples of observations from the ISS will be presented, including the rapid variations in wind and precip seen by MAPR as the rain bands and their associated wind gusts passed over the radar.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

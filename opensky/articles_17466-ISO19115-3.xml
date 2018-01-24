@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:06.136278</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:15.694482</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -418,7 +418,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Weather Research and Forecasting (WRF) model-based variational data assimilation system (WRF-Var) has been extended from three- to four-dimensional variational data assimilation (WRF 4D-Var) to meet the increasing demand for improving initial model states in multiscale numerical simulations and forecasts. The initial goals of this development include operational applications and support to the research community. The formulation of WRF 4D-Var is described in this paper. WRF 4D-Var uses the WRF model as a constraint to impose a dynamic balance on the assimilation. It is shown to implicitly evolve the background error covariance and to produce the flow-dependent nature of the analysis increments. Preliminary results from real-data 4D-Var experiments in a quasi-operational setting are presented and the potential of WRF 4D-Var in research and operational applications are demonstrated. A wider distribution of the system to the research community will further develop its capabilities and to encourage testing under different weather conditions and model configurations.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Weather Research and Forecasting (WRF) model-based variational data assimilation system (WRF-Var) has been extended from three- to four-dimensional variational data assimilation (WRF 4D-Var) to meet the increasing demand for improving initial model states in multiscale numerical simulations and forecasts. The initial goals of this development include operational applications and support to the research community. The formulation of WRF 4D-Var is described in this paper. WRF 4D-Var uses the WRF model as a constraint to impose a dynamic balance on the assimilation. It is shown to implicitly evolve the background error covariance and to produce the flow-dependent nature of the analysis increments. Preliminary results from real-data 4D-Var experiments in a quasi-operational setting are presented and the potential of WRF 4D-Var in research and operational applications are demonstrated. A wider distribution of the system to the research community will further develop its capabilities and to encourage testing under different weather conditions and model configurations.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

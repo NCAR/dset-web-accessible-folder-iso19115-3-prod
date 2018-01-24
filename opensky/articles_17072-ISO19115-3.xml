@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:56.582947</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:02.177912</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Hyperspectral infrared (IR) sounders, such as the Atmospheric Infrared Sounder (AIRS) and the Infrared Atmospheric Sounding Interferometer (IASI), provide unprecedented global atmospheric temperature and moisture soundings with high vertical resolution and accuracy. In this paper, the authors investigate whether advanced IR soundings of water vapor and temperature observations can improve the analysis of a tropical cyclone vortex and the forecast of rapid intensification of a tropical cyclone. Both the IR water vapor and temperature soundings significantly improve the typhoon vortex in the analysis and the forecast of the rapid intensification of Typhoon Sinlaku (2008). The typhoon track forecast is also substantially improved when the full spatial resolution AIRS soundings are assimilated. This study demonstrates the potential important application of high spatial and hyperspectral IR soundings in forecasting tropical cyclones.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Hyperspectral infrared (IR) sounders, such as the Atmospheric Infrared Sounder (AIRS) and the Infrared Atmospheric Sounding Interferometer (IASI), provide unprecedented global atmospheric temperature and moisture soundings with high vertical resolution and accuracy. In this paper, the authors investigate whether advanced IR soundings of water vapor and temperature observations can improve the analysis of a tropical cyclone vortex and the forecast of rapid intensification of a tropical cyclone. Both the IR water vapor and temperature soundings significantly improve the typhoon vortex in the analysis and the forecast of the rapid intensification of Typhoon Sinlaku (2008). The typhoon track forecast is also substantially improved when the full spatial resolution AIRS soundings are assimilated. This study demonstrates the potential important application of high spatial and hyperspectral IR soundings in forecasting tropical cyclones.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

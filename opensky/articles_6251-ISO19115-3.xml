@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:09.265053</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:33.018734</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Climatologies of the regional, seasonal, and temporal distributions of upper-level (18 000-60 000-ft MSL) turbulence over the contiguous United States (CONUS) are constructed using pilot reports (PIREPs) of aircraft turbulence encounters. The PIREP database used contains over two million entries, and encompasses 12 complete years of data, from January 1994 through December 2005. In spite of known variability in pilot reporting practices, it was found that PIREPs are very consistent among themselves for the null and moderate-or-greater (MOG) intensity categories. Air traffic pattern biases were accounted for by considering only statistics of MOG/total report ratios. Over the CONUS, regional maxima are evident in MOG/total ratios over mountainous regions in the west, over the south and southeast, and over the North Atlantic seaboard. Some additional investigations are presented to help to identify possible origins of the turbulence using a smaller time interval of PIREPs in comparison with archived 20-km Rapid Update Cycle (RUC) NWP model analyses, satellite and radar-based cloud-top and cloud-base analyses, and lightning flash data, as well as topography statistics.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Climatologies of the regional, seasonal, and temporal distributions of upper-level (18 000-60 000-ft MSL) turbulence over the contiguous United States (CONUS) are constructed using pilot reports (PIREPs) of aircraft turbulence encounters. The PIREP database used contains over two million entries, and encompasses 12 complete years of data, from January 1994 through December 2005. In spite of known variability in pilot reporting practices, it was found that PIREPs are very consistent among themselves for the null and moderate-or-greater (MOG) intensity categories. Air traffic pattern biases were accounted for by considering only statistics of MOG/total report ratios. Over the CONUS, regional maxima are evident in MOG/total ratios over mountainous regions in the west, over the south and southeast, and over the North Atlantic seaboard. Some additional investigations are presented to help to identify possible origins of the turbulence using a smaller time interval of PIREPs in comparison with archived 20-km Rapid Update Cycle (RUC) NWP model analyses, satellite and radar-based cloud-top and cloud-base analyses, and lightning flash data, as well as topography statistics.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

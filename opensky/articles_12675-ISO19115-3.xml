@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:01.787714</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:46.064622</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Community Climate System Model, version 4 (CCSM4) is used to assess the climate impact of wind-generated near-inertial waves (NIWs). Even with high-frequency coupling, CCSM4 underestimates the strength of NIWs, so that a parameterization for NIWs is developed and included into CCSM4. Numerous assumptions enter this parameterization, the core of which is that the NIW velocity signal is detected during the model integration, and amplified in the shear computation of the ocean surface boundary layer module. It is found that NIWs deepen the ocean mixed layer by up to 30%, but they contribute little to the ventilation and mixing of the ocean below the thermocline. However, the deepening of the tropical mixed layer by NIWs leads to a change in tropical sea surface temperature and precipitation. Atmospheric teleconnections then change the global sea level pressure fields so that the midlatitude westerlies become weaker. Unfortunately, the magnitude of the real air-sea flux of NIW energy is poorly constrained by observations; this makes the quantitative assessment of their climate impact rather uncertain. Thus, a major result of the present study is that because of its importance for global climate the uncertainty in the observed tropical NIW energy has to be reduced.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Community Climate System Model, version 4 (CCSM4) is used to assess the climate impact of wind-generated near-inertial waves (NIWs). Even with high-frequency coupling, CCSM4 underestimates the strength of NIWs, so that a parameterization for NIWs is developed and included into CCSM4. Numerous assumptions enter this parameterization, the core of which is that the NIW velocity signal is detected during the model integration, and amplified in the shear computation of the ocean surface boundary layer module. It is found that NIWs deepen the ocean mixed layer by up to 30%, but they contribute little to the ventilation and mixing of the ocean below the thermocline. However, the deepening of the tropical mixed layer by NIWs leads to a change in tropical sea surface temperature and precipitation. Atmospheric teleconnections then change the global sea level pressure fields so that the midlatitude westerlies become weaker. Unfortunately, the magnitude of the real air-sea flux of NIW energy is poorly constrained by observations; this makes the quantitative assessment of their climate impact rather uncertain. Thus, a major result of the present study is that because of its importance for global climate the uncertainty in the observed tropical NIW energy has to be reduced.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

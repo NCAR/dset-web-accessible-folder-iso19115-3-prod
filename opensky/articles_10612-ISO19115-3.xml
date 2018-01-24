@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:29.365721</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:02.336389</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Weather Research and Forecasting (WRF) model is employed as a nested regional climate model to study the effect of a giant wind farm on warm-season precipitation in the eastern two-thirds of the USA. The boundary conditions to WRF are supplied by 62 years of NCEP/NCAR global reanalysis. In the model, the presence of a mid-west wind farm, either giant or small, can have an enormous impact on the weather and the rainfall amount for one season, consistent with the known sensitivity of long-term weather forecasts to initial conditions. The effect on climate is less. In the average precipitation of 62 warms seasons, there is a statistically-significant 1.0% enhancement of precipitation in a multi-state area surrounding and to the south-east of the wind farm.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Weather Research and Forecasting (WRF) model is employed as a nested regional climate model to study the effect of a giant wind farm on warm-season precipitation in the eastern two-thirds of the USA. The boundary conditions to WRF are supplied by 62 years of NCEP/NCAR global reanalysis. In the model, the presence of a mid-west wind farm, either giant or small, can have an enormous impact on the weather and the rainfall amount for one season, consistent with the known sensitivity of long-term weather forecasts to initial conditions. The effect on climate is less. In the average precipitation of 62 warms seasons, there is a statistically-significant 1.0% enhancement of precipitation in a multi-state area surrounding and to the south-east of the wind farm.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

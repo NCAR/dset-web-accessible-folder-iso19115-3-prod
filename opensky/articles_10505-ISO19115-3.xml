@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:26.860451</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:58.651994</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Juneau, Alaska, airport vicinity experiences frequent episodes of moderate and severe turbulence, which affect arriving and departing air traffic. The Federal Aviation Administration funded the National Center for Atmospheric Research to develop a warning system, consisting of carefully placed anemometers and wind profilers, along with data communications, an algorithm, and display, to warn pilots of potentially hazardous situations. The system uses regressions based on comparisons of research aircraft data with measurements from the ground-based sensors to estimate the turbulence intensity along selected flight paths. This paper describes the development of the turbulence warning system, from meteorological characteristics through sensor placement, algorithm construction and evaluation, and display design. The discussion includes how best estimates of winds were made in adverse meteorological and topographic conditions, how turbulence was calculated from aircraft conducting various flight maneuvers, how bad data were identified and removed from the system, how the regressors were selected, and the skill of the system.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Juneau, Alaska, airport vicinity experiences frequent episodes of moderate and severe turbulence, which affect arriving and departing air traffic. The Federal Aviation Administration funded the National Center for Atmospheric Research to develop a warning system, consisting of carefully placed anemometers and wind profilers, along with data communications, an algorithm, and display, to warn pilots of potentially hazardous situations. The system uses regressions based on comparisons of research aircraft data with measurements from the ground-based sensors to estimate the turbulence intensity along selected flight paths. This paper describes the development of the turbulence warning system, from meteorological characteristics through sensor placement, algorithm construction and evaluation, and display design. The discussion includes how best estimates of winds were made in adverse meteorological and topographic conditions, how turbulence was calculated from aircraft conducting various flight maneuvers, how bad data were identified and removed from the system, how the regressors were selected, and the skill of the system.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

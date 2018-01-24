@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:21.872950</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:13.807637</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[Recent papers by the authors demonstrated the possible influence of initial errors of small amplitude and scale on the numerical prediction of the surprise'' snowstorm of 24 - 25 January 2000. They found that initial errors grew rapidly at scales below 200 km, and that the rapid error growth was dependent on moist processes. In an attempt to generalize these results from a single case study, the present paper studies the error growth in an idealized baroclinic wave amplifying in a conditionally unstable atmosphere. The present results show that without the effects of moisture, there is little error growth in the short-term (0 - 36 h) forecast error ( starting from random noise), even though the basic jet used here produces a rapidly growing synoptic-scale disturbance. With the effect of moisture included, the error is characterized by upscale growth, basically as found by the authors in their study of the numerical prediction of the surprise snowstorm.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

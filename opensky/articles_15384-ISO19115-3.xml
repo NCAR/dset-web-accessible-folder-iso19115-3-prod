@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:38.718706</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:35.337585</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Two flaws in the semi-Lagrangian algorithm originally implemented as an optional dynamical core in the NCAR Community Atmosphere Model (CAM3.1) are exposed by steady-state and baroclinic instability test cases. Remedies are demonstrated and have been incorporated in the dynamical core. One consequence of the first flaw is an erroneous damping of the speed of a zonally uniform zonal wind undergoing advection by a zonally uniform zonal flow field. It results from projecting the transported vector wind expressed in unit vectors at the arrival point to the surface of the sphere and is eliminated by rotating the vector to be parallel to the surface. The second flaw is the formulation of an a posteriori energy fixer that, although small, systematically affects the temperature field and leads to an incorrect evolution of the growing baroclinic wave. That fixer restores the total energy at each time step by changing the provisional forecast temperature proportionally to the magnitude of the temperature change at that time step. Two other fixers are introduced that do not exhibit the flaw. One changes the provisional temperature everywhere by an additive constant, and the other changes it proportionally by a multiplicative constant.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Two flaws in the semi-Lagrangian algorithm originally implemented as an optional dynamical core in the NCAR Community Atmosphere Model (CAM3.1) are exposed by steady-state and baroclinic instability test cases. Remedies are demonstrated and have been incorporated in the dynamical core. One consequence of the first flaw is an erroneous damping of the speed of a zonally uniform zonal wind undergoing advection by a zonally uniform zonal flow field. It results from projecting the transported vector wind expressed in unit vectors at the arrival point to the surface of the sphere and is eliminated by rotating the vector to be parallel to the surface. The second flaw is the formulation of an a posteriori energy fixer that, although small, systematically affects the temperature field and leads to an incorrect evolution of the growing baroclinic wave. That fixer restores the total energy at each time step by changing the provisional forecast temperature proportionally to the magnitude of the temperature change at that time step. Two other fixers are introduced that do not exhibit the flaw. One changes the provisional temperature everywhere by an additive constant, and the other changes it proportionally by a multiplicative constant.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:06.987881</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:52.659594</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The mounting and critical need for scientific data curation professionals was the impetus for the Data Curation Education in Research Centers (DCERC) program. DCERC is developing a sustainable and transferable model for educating Library and Information Science (LIS) students in data curation through field experiences in research and data centers. DCERC has established and implemented a graduate research and education program bringing students into the real world of scientific data curation, where they engage with current practices and challenges, and share their developing expertise and research. The DCERC partner institutions are developing and evaluating this model with the intention of scaling the program to a larger cadre of partners and participants. This paper reports on progress in the early phases of the model development.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The mounting and critical need for scientific data curation professionals was the impetus for the Data Curation Education in Research Centers (DCERC) program. DCERC is developing a sustainable and transferable model for educating Library and Information Science (LIS) students in data curation through field experiences in research and data centers. DCERC has established and implemented a graduate research and education program bringing students into the real world of scientific data curation, where they engage with current practices and challenges, and share their developing expertise and research. The DCERC partner institutions are developing and evaluating this model with the intention of scaling the program to a larger cadre of partners and participants. This paper reports on progress in the early phases of the model development.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

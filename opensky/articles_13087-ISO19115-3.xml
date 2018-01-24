@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:12.380026</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:59.208449</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this paper, a modified probability-matching technique is developed for ensemble-based quantitative precipitation forecasts (QPFs) associated with landfalling typhoons over Taiwan. The main features of this technique include a resampling of the ensemble realizations, a rainfall pattern adjustment, and a bias correction. Using this technique, a synthetic ensemble is created for the purpose of rainfall prediction from a large-size (32 members), low-resolution (36 km) ensemble and a small-size (8 members), high-resolution (4 km) ensemble. The rainfall pattern is adjusted based on the precipitation distribution of the 36- and 4-km ensembles. A bias-correction scheme is then applied to remove the known systematic bias from the resampled 4-km ensemble realizations as part of the probability-matching procedure. The modified probability-matching scheme is shown to substantially reduce or eliminate the intrinsic model rainfall bias and to provide better QPF guidance. The encouraging results suggest that this modified probability-matching technique is a useful tool for the QPF of the topography-enhanced typhoon heavy rainfall over Taiwan using ensemble forecasts at dual resolutions.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this paper, a modified probability-matching technique is developed for ensemble-based quantitative precipitation forecasts (QPFs) associated with landfalling typhoons over Taiwan. The main features of this technique include a resampling of the ensemble realizations, a rainfall pattern adjustment, and a bias correction. Using this technique, a synthetic ensemble is created for the purpose of rainfall prediction from a large-size (32 members), low-resolution (36 km) ensemble and a small-size (8 members), high-resolution (4 km) ensemble. The rainfall pattern is adjusted based on the precipitation distribution of the 36- and 4-km ensembles. A bias-correction scheme is then applied to remove the known systematic bias from the resampled 4-km ensemble realizations as part of the probability-matching procedure. The modified probability-matching scheme is shown to substantially reduce or eliminate the intrinsic model rainfall bias and to provide better QPF guidance. The encouraging results suggest that this modified probability-matching technique is a useful tool for the QPF of the topography-enhanced typhoon heavy rainfall over Taiwan using ensemble forecasts at dual resolutions.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

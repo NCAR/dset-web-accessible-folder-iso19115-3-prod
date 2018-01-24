@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:27.876152</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:47.777727</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Despite awareness in the geosciences that our field has a substantial lack of diversity in our workforce and student body, and countless efforts to broaden participation, graduate enrollment in the atmospheric sciences by students who are from traditionally underrepresented groups (i.e., African American, Hispanic, and American Indian students) is only slowly increasing, from 6% in 2005 to about 8.5% currently. In 2005, the Department of Atmospheric Science at Colorado State University (CSU) had a minority enrollment of 3.5%, which was lower than the national enrollment statistics of 6.0%. Through a concerted effort to better reflect the demographic makeup of the United States, the department now boasts a figure closer to 16%. Our students do cutting-edge research, participate in field campaigns, and are actively involved in professional societies, such as the American Meteorological Society (AMS). We expect that many of our students will become faculty or researchers and hopefully will mentor students themselves one day. Our article highlights the strategic initiative we have used to increase the diversity in atmospheric science, in hopes that our findings can present a model that can be replicated in other geoscience departments across the nation.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Despite awareness in the geosciences that our field has a substantial lack of diversity in our workforce and student body, and countless efforts to broaden participation, graduate enrollment in the atmospheric sciences by students who are from traditionally underrepresented groups (i.e., African American, Hispanic, and American Indian students) is only slowly increasing, from 6% in 2005 to about 8.5% currently. In 2005, the Department of Atmospheric Science at Colorado State University (CSU) had a minority enrollment of 3.5%, which was lower than the national enrollment statistics of 6.0%. Through a concerted effort to better reflect the demographic makeup of the United States, the department now boasts a figure closer to 16%. Our students do cutting-edge research, participate in field campaigns, and are actively involved in professional societies, such as the American Meteorological Society (AMS). We expect that many of our students will become faculty or researchers and hopefully will mentor students themselves one day. Our article highlights the strategic initiative we have used to increase the diversity in atmospheric science, in hopes that our findings can present a model that can be replicated in other geoscience departments across the nation.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

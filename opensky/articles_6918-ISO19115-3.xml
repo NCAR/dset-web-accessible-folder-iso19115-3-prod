@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:10.035173</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:34.065555</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Dual-wavelength ratio (DWR) techniques offer the prospect of producing high-resolution mapping of cloud microphysical properties, including retrievals of cloud liquid water content (LWC) from reflectivity measured by millimeter-wavelength radars. Unfortunately, noise and artifacts in the DWR require smoothing to obtain physically realistic values of LWC with a concomitant loss of resolution. Factors that cause inaccuracy in the retrieved LWC include uncertainty in gas and liquid water attenuation coefficients, Mie scattering due to large water droplets or ice particles, corruption of the radar reflectivities by noise and nonatmospheric returns, and artifacts due to mismatched radar illumination volumes. The error analysis presented here consists of both analytic and heuristic arguments; it is illustrated using data from the Mount Washington Icing Sensors Project (MWISP) and from an idealized simulation. In addition to offering insight into design considerations for a DWR system, some results suggest methods that may mitigate some of these sources of error for existing systems and datasets.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Dual-wavelength ratio (DWR) techniques offer the prospect of producing high-resolution mapping of cloud microphysical properties, including retrievals of cloud liquid water content (LWC) from reflectivity measured by millimeter-wavelength radars. Unfortunately, noise and artifacts in the DWR require smoothing to obtain physically realistic values of LWC with a concomitant loss of resolution. Factors that cause inaccuracy in the retrieved LWC include uncertainty in gas and liquid water attenuation coefficients, Mie scattering due to large water droplets or ice particles, corruption of the radar reflectivities by noise and nonatmospheric returns, and artifacts due to mismatched radar illumination volumes. The error analysis presented here consists of both analytic and heuristic arguments; it is illustrated using data from the Mount Washington Icing Sensors Project (MWISP) and from an idealized simulation. In addition to offering insight into design considerations for a DWR system, some results suggest methods that may mitigate some of these sources of error for existing systems and datasets.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

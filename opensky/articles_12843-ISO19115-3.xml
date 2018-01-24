@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:05.877958</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:51.210324</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>One of the more critical issues in a changing climate is the behavior of extreme weather events, such as severe tornadic storms as seen recently in Moore and El Reno, Oklahoma. It is generally thought that such events would increase under a changing climate. How to evaluate this extreme behavior is a topic currently under much debate and investigation. One approach is to look at the behavior of large scale indicators of severe weather. The use of the generalized extreme value distribution for annual maxima is explored for a combination product of convective available potential energy and wind shear. Results from this initial study show successful modeling and high quantile prediction using extreme value methods. Predicted large scale values are consistent across different extreme value modeling frameworks, and a general increase over time in predicted values is indicated. A case study utilizing this methodology considers the large scale atmospheric indicators for the region of Moore, Oklahoma for Class EF5 tornadoes on May 3, 1999 and more recently on May 20, 2013, and for the class EF5 storm in El Reno, Oklahoma on May 31, 2013.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[One of the more critical issues in a changing climate is the behavior of extreme weather events, such as severe tornadic storms as seen recently in Moore and El Reno, Oklahoma. It is generally thought that such events would increase under a changing climate. How to evaluate this extreme behavior is a topic currently under much debate and investigation. One approach is to look at the behavior of large scale indicators of severe weather. The use of the generalized extreme value distribution for annual maxima is explored for a combination product of convective available potential energy and wind shear. Results from this initial study show successful modeling and high quantile prediction using extreme value methods. Predicted large scale values are consistent across different extreme value modeling frameworks, and a general increase over time in predicted values is indicated. A case study utilizing this methodology considers the large scale atmospheric indicators for the region of Moore, Oklahoma for Class EF5 tornadoes on May 3, 1999 and more recently on May 20, 2013, and for the class EF5 storm in El Reno, Oklahoma on May 31, 2013.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

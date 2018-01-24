@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:05.426779</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:50.575003</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The hydrostatic and nonhydrostatic atmospheric solvers within the Model for Prediction Across Scales (MPAS) are tested using an extension of Jablonowski and Williamson baroclinic wave test case that includes moisture. This study uses the dry test case to verify the correctness of the solver formulation and coding by comparing results from the two different MPAS solvers and from the global version of the Advanced Research Weather Research and Forecasting Model (ARW-WRF). A normal mode initialization is used in the Jablonowski and Williamson test, and the most unstable mode is found to be wavenumber 9. The three solvers produce very similar normal mode structures and nonlinear baroclinic wave evolutions. Solutions produced using MPAS variable-resolution meshes are quite similar to the results from the quasi-uniform mesh with equivalent resolution. Importantly, the small-scale flow features are better resolved in the fine-resolution region and there is no apparent wave distortion in the fine-to-coarse mesh transition region, thus demonstrating the potential value of MPAS for multiscale flow simulation.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The hydrostatic and nonhydrostatic atmospheric solvers within the Model for Prediction Across Scales (MPAS) are tested using an extension of Jablonowski and Williamson baroclinic wave test case that includes moisture. This study uses the dry test case to verify the correctness of the solver formulation and coding by comparing results from the two different MPAS solvers and from the global version of the Advanced Research Weather Research and Forecasting Model (ARW-WRF). A normal mode initialization is used in the Jablonowski and Williamson test, and the most unstable mode is found to be wavenumber 9. The three solvers produce very similar normal mode structures and nonlinear baroclinic wave evolutions. Solutions produced using MPAS variable-resolution meshes are quite similar to the results from the quasi-uniform mesh with equivalent resolution. Importantly, the small-scale flow features are better resolved in the fine-resolution region and there is no apparent wave distortion in the fine-to-coarse mesh transition region, thus demonstrating the potential value of MPAS for multiscale flow simulation.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:20.137136</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:58.741843</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[The discontinuous Galerkin (DG) method is high order, conservative, and offers excellent parallel efficiency. However, when there are discontinuities in the solution, the DG transport scheme generates spurious oscillations that reduce the quality of the numerical solution. For applications such as the atmospheric tracer transport modeling, a nonoscillatory, positivity-preserving solution is a basic requirement. To suppress the oscillations in the DG solution, a limiter based on the Hermite-Weighted Essentially Nonoscillatory (H-WENO) method has been implemented for a third-order DG transport scheme. However, the H-WENO limiter can still produce wiggles with small amplitudes in the solutions, but this issue has been addressed by combining the limiter with a bound-preserving (BP) filter. The BP filter is local and easy to implement and can be used for making the solution strictly positivity preserving. The DG scheme combined with the limiter and filter preserves the accuracy of the numerical solution in the smooth regions while effectively eliminating overshoots and undershoots. The resulting nonoscillatory DG scheme is third-order accurate (P-2-DG) and based on the modal discretization. The 2D Cartesian scheme is further extended to the cubed-sphere geometry, which employs nonorthogonal, curvilinear coordinates. The accuracy and effectiveness of the limiter and filter are demonstrated with several benchmark tests on both the Cartesian and spherical geometries.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

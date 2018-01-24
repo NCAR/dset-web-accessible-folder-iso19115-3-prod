@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:47.562969</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:27.739483</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The physical mechanisms determining the shape of the surface wind speed probability density function over complex terrain are investigated using observations from a dense mesoscale network and a high spatial resolution mesoscale simulation for the 1992 to 2005 period. Results indicate that the atmospheric stability plays a major role in controlling the shape of the wind speed distribution but its effects are strongly modulated by the contribution of different atmospheric scales of motion such as the mesoscale or synoptic scale. The local topographic features further modulate the relative contribution of each mechanism. As a consequence of the complicated interaction of these atmospheric processes the surface wind speed distribution can present a complicated shape that is not always expected to fit a unimodal Weibull type distribution over complex terrain regions.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The physical mechanisms determining the shape of the surface wind speed probability density function over complex terrain are investigated using observations from a dense mesoscale network and a high spatial resolution mesoscale simulation for the 1992 to 2005 period. Results indicate that the atmospheric stability plays a major role in controlling the shape of the wind speed distribution but its effects are strongly modulated by the contribution of different atmospheric scales of motion such as the mesoscale or synoptic scale. The local topographic features further modulate the relative contribution of each mechanism. As a consequence of the complicated interaction of these atmospheric processes the surface wind speed distribution can present a complicated shape that is not always expected to fit a unimodal Weibull type distribution over complex terrain regions.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

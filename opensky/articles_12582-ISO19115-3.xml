@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:59.290842</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:42.835253</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A three-dimensional simulation of a supercell storm is performed with a nonhydrostatic model based on a hybrid isentropic-sigma vertical coordinate. The coordinate is a terrain-following, height-based coordinate near the surface that smoothly transitions to potential temperature with height. Using isentropic coordinates provides the advantage of having zero cross-coordinate vertical mass flux for adiabatic flow, which virtually eliminates the numerical error in the vertical transport. The model uses an adaptive grid algorithm by which the coordinate surfaces may deviate from their target isentropes to maintain a sufficiently smooth mesh, while allowing the turbulence and vertical motion associated with convection to develop. The storm simulated by the hybrid-coordinate model compares well with simulations by Eulerian-coordinate models, but with the key difference being that the cross-coordinate mass flux is significantly smaller in much of the domain with the hybrid-coordinate model. A semi-implicit time-differencing scheme for numerically stabilizing vertically propagating acoustic modes in isentropic coordinates is also presented in the paper.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A three-dimensional simulation of a supercell storm is performed with a nonhydrostatic model based on a hybrid isentropic-sigma vertical coordinate. The coordinate is a terrain-following, height-based coordinate near the surface that smoothly transitions to potential temperature with height. Using isentropic coordinates provides the advantage of having zero cross-coordinate vertical mass flux for adiabatic flow, which virtually eliminates the numerical error in the vertical transport. The model uses an adaptive grid algorithm by which the coordinate surfaces may deviate from their target isentropes to maintain a sufficiently smooth mesh, while allowing the turbulence and vertical motion associated with convection to develop. The storm simulated by the hybrid-coordinate model compares well with simulations by Eulerian-coordinate models, but with the key difference being that the cross-coordinate mass flux is significantly smaller in much of the domain with the hybrid-coordinate model. A semi-implicit time-differencing scheme for numerically stabilizing vertically propagating acoustic modes in isentropic coordinates is also presented in the paper.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

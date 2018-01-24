@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:31.415361</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:05.197630</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We assess model capability in simulating thermospheric response to recurrent geomagnetic forcing driven by modulations in the solar wind speed and the interplanetary magnetic field. Neutral density and nitric oxide (NO) cooling rates are simulated for the declining phase of solar cycle 23. The simulated results are compared to neutral density derived from satellite drag and to NO cooling measured by the Thermosphere Ionosphere Mesosphere Energetics and Dynamics (TIMED) sounding of the atmosphere using broadband emission radiometry (SABER) instrument. Model-data comparisons show good agreement between the model and the measurements for multiday oscillations, as well as good agreement for longer-term variations. The simulations demonstrate that the multiday oscillation of density is globally distributed in the upper thermosphere but restricted to high latitudes in the lower thermosphere. The density variation in the upper thermosphere exhibits less latitude dependence than the temperature variation because of the effects of composition changes. Model simulations also show that NO density and temperature play primary roles in the multiday oscillation of NO cooling rates.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We assess model capability in simulating thermospheric response to recurrent geomagnetic forcing driven by modulations in the solar wind speed and the interplanetary magnetic field. Neutral density and nitric oxide (NO) cooling rates are simulated for the declining phase of solar cycle 23. The simulated results are compared to neutral density derived from satellite drag and to NO cooling measured by the Thermosphere Ionosphere Mesosphere Energetics and Dynamics (TIMED) sounding of the atmosphere using broadband emission radiometry (SABER) instrument. Model-data comparisons show good agreement between the model and the measurements for multiday oscillations, as well as good agreement for longer-term variations. The simulations demonstrate that the multiday oscillation of density is globally distributed in the upper thermosphere but restricted to high latitudes in the lower thermosphere. The density variation in the upper thermosphere exhibits less latitude dependence than the temperature variation because of the effects of composition changes. Model simulations also show that NO density and temperature play primary roles in the multiday oscillation of NO cooling rates.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

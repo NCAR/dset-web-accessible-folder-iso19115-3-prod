@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:53.524306</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:27.160879</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -358,7 +358,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Water Resources Research (WRR) continues to evolve as the team of international editors begins a new 4 year term of service. In this Editorial we summarize the importance of WRR in the hydrologic sciences, the challenges ahead, and the plans for the future of the journal.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Water Resources Research (WRR) continues to evolve as the team of international editors begins a new 4 year term of service. In this Editorial we summarize the importance of WRR in the hydrologic sciences, the challenges ahead, and the plans for the future of the journal.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:52.782983</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:56.494737</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Contemporary ecological models of health prominently feature the natural environment as fundamental to the ecosystem services that support human life, health, and well-being. The natural environment encompasses and permeates all other spheres of influence on health. Reviews of the natural environment and health literature have tended, at times intentionally, to focus on a limited subset of ecosystem services as well as health benefits stemming from the presence, and access and exposure to, green infrastructure. The sweeping influence of green infrastructure on the myriad ecosystem services essential to health has therefore often been underrepresented. This survey of the literature aims to provide a more comprehensive picture--in the form of a primer--of the many simultaneously acting health co-benefits of green infrastructure. It is hoped that a more accurately exhaustive list of benefits will not only instigate further research into the health co-benefits of green infrastructure but also promote consilience in the many fields, including public health, that must be involved in the landscape conservation necessary to protect and improve health and well-being.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Contemporary ecological models of health prominently feature the natural environment as fundamental to the ecosystem services that support human life, health, and well-being. The natural environment encompasses and permeates all other spheres of influence on health. Reviews of the natural environment and health literature have tended, at times intentionally, to focus on a limited subset of ecosystem services as well as health benefits stemming from the presence, and access and exposure to, green infrastructure. The sweeping influence of green infrastructure on the myriad ecosystem services essential to health has therefore often been underrepresented. This survey of the literature aims to provide a more comprehensive picture--in the form of a primer--of the many simultaneously acting health co-benefits of green infrastructure. It is hoped that a more accurately exhaustive list of benefits will not only instigate further research into the health co-benefits of green infrastructure but also promote consilience in the many fields, including public health, that must be involved in the landscape conservation necessary to protect and improve health and well-being.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

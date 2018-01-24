@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:17.637608</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:06.200387</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Simulations of observed convective systems with the Advanced Research Weather Research and Forecasting (ARW-WRF) model are used to test the influence of the large-scale lower stratosphere stability environment on the vertical extent of convective overshooting and transport above the extratropical tropopause. Three unique environments are identified (double tropopause, stratospheric intrusion, and single tropopause), and representative cases with comparable magnitudes of convective available potential energy are selected for simulation. Convective injection into the extratropical lower stratosphere is found to be deepest for the double-tropopause case (up to 4 km above the lapse-rate tropopause) and at comparable altitudes for the remaining cases (up to 2 km above the lapse-rate tropopause). All simulations show evidence of gravity wave breaking near the overshooting convective top, consistent with the identification of its role as a transport mechanism in previous studies. Simulations for the double-tropopause case, however, also show evidence of direct mixing of the overshooting top into the lower stratosphere, which is responsible for the highest levels of injection in that case. In addition, the choice of bulk microphysical parameterization for ARW-WRF simulations is found to have little impact on the transport characteristics for each case.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Simulations of observed convective systems with the Advanced Research Weather Research and Forecasting (ARW-WRF) model are used to test the influence of the large-scale lower stratosphere stability environment on the vertical extent of convective overshooting and transport above the extratropical tropopause. Three unique environments are identified (double tropopause, stratospheric intrusion, and single tropopause), and representative cases with comparable magnitudes of convective available potential energy are selected for simulation. Convective injection into the extratropical lower stratosphere is found to be deepest for the double-tropopause case (up to 4 km above the lapse-rate tropopause) and at comparable altitudes for the remaining cases (up to 2 km above the lapse-rate tropopause). All simulations show evidence of gravity wave breaking near the overshooting convective top, consistent with the identification of its role as a transport mechanism in previous studies. Simulations for the double-tropopause case, however, also show evidence of direct mixing of the overshooting top into the lower stratosphere, which is responsible for the highest levels of injection in that case. In addition, the choice of bulk microphysical parameterization for ARW-WRF simulations is found to have little impact on the transport characteristics for each case.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:36.322115</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:12.067910</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study examines simulated typhoon sensitivities to spectral nudging (SN) to investigate the effects on values added by regional climate models, which are not properly resolved by low-resolution global models. SN is suitably modified to mitigate its negative effects while maintaining the positive effects, and the effects of the modified SN are investigated through seasonal simulations. In the sensitivity experiments to nudging intervals of SN, the tracks of simulated typhoons are improved as the SN effect increases; however, the intensities of the simulated typhoons decrease due to the suppression of the typhoon developing process by SN. To avoid such suppression, SN is applied at intermittent intervals only when the deviation between the large-scale driving forcing and the model solution is large. In seasonal simulations, intermittent SN is applied for only 7% of the total time steps; however, this results in not only maintaining the large-scale features of monsoon circulation and precipitation corresponding to observations but also improving the intensification of mesoscale features by reducing the suppression.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study examines simulated typhoon sensitivities to spectral nudging (SN) to investigate the effects on values added by regional climate models, which are not properly resolved by low-resolution global models. SN is suitably modified to mitigate its negative effects while maintaining the positive effects, and the effects of the modified SN are investigated through seasonal simulations. In the sensitivity experiments to nudging intervals of SN, the tracks of simulated typhoons are improved as the SN effect increases; however, the intensities of the simulated typhoons decrease due to the suppression of the typhoon developing process by SN. To avoid such suppression, SN is applied at intermittent intervals only when the deviation between the large-scale driving forcing and the model solution is large. In seasonal simulations, intermittent SN is applied for only 7% of the total time steps; however, this results in not only maintaining the large-scale features of monsoon circulation and precipitation corresponding to observations but also improving the intensification of mesoscale features by reducing the suppression.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

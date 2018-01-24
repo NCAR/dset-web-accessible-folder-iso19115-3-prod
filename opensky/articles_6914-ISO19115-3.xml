@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:09.976561</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:33.977057</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We use a planar linear grating with varied line-space grooves to introduce a tailored one-dimensional phase variation profile that results in an aberrated point-spread function at the focal plane. A design procedure for the period chirp map for such gratings is developed. As an example, we present theoretical and experimental results on a mechanically ruled, varied line-space echelle grating in single-mode fiber-coupled optical multiplexers in the wavelength region of 1545 nm. The varied line-space grating changes the multiplexer's Gaussian spectral response function to a flat-top dependence with reduced sensitivity to source laser wavelength drift.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We use a planar linear grating with varied line-space grooves to introduce a tailored one-dimensional phase variation profile that results in an aberrated point-spread function at the focal plane. A design procedure for the period chirp map for such gratings is developed. As an example, we present theoretical and experimental results on a mechanically ruled, varied line-space echelle grating in single-mode fiber-coupled optical multiplexers in the wavelength region of 1545 nm. The varied line-space grating changes the multiplexer's Gaussian spectral response function to a flat-top dependence with reduced sensitivity to source laser wavelength drift.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

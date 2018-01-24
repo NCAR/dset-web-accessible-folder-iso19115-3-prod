@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:31.940262</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:05.955343</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -219,7 +219,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Interactions between Antarctic sea ice and synoptic activity in the circumpolar trough have been investigated using meteorological data from European Centre for Medium-Range Weather Forecasts (ECMWF) Interim Re-analysis and sea-ice data from passive-microwave measurements. Total Antarctic sea-ice extent does not show large interannual variations. However, large differences are observed on a regional/monthly scale, depending on prevailing winds and currents, and thus on the prevailing synoptic situations. The sea-ice edge is also a preferred region for cyclogenesis due to the strong meridional temperature gradient (high baroclinicity) in that area. The motivation for this study was to gain a better understanding of the interaction between sea-ice extent and the general atmospheric flow, particularly the frequency of warm-air intrusions into the interior of the Antarctic continent, since this influences precipitation seasonality and must be taken into account for a correct climatic interpretation of ice cores. Two case studies of extraordinary sea-ice concentration anomalies in relation to the prevailing atmospheric conditions are presented. However, both strong positive and negative anomalies can be related to warm biases in ice cores (indicated by stable-isotope ratios), especially in connection with the negative phase of the Southern Annular Mode.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Interactions between Antarctic sea ice and synoptic activity in the circumpolar trough have been investigated using meteorological data from European Centre for Medium-Range Weather Forecasts (ECMWF) Interim Re-analysis and sea-ice data from passive-microwave measurements. Total Antarctic sea-ice extent does not show large interannual variations. However, large differences are observed on a regional/monthly scale, depending on prevailing winds and currents, and thus on the prevailing synoptic situations. The sea-ice edge is also a preferred region for cyclogenesis due to the strong meridional temperature gradient (high baroclinicity) in that area. The motivation for this study was to gain a better understanding of the interaction between sea-ice extent and the general atmospheric flow, particularly the frequency of warm-air intrusions into the interior of the Antarctic continent, since this influences precipitation seasonality and must be taken into account for a correct climatic interpretation of ice cores. Two case studies of extraordinary sea-ice concentration anomalies in relation to the prevailing atmospheric conditions are presented. However, both strong positive and negative anomalies can be related to warm biases in ice cores (indicated by stable-isotope ratios), especially in connection with the negative phase of the Southern Annular Mode.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

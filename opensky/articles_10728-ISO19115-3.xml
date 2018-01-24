@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:31.740639</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:05.688337</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Langmuir circulation (LC) is a turbulent process driven by wind and surface waves that plays a key role in transferring momentum, heat, and mass in the oceanic surface layer. On the coastal shelves the largest-scale LC span the whole water column and thus couple the surface and bottom boundary layers and enhance turbulent mixing. Observations and large eddy simulations (LES) of a shallow coastal ocean demonstrate that these relatively large scale Langmuir cells are strongly influenced by crosswind tidal currents. Two mechanisms by which crosswind tidal shear may distort and disrupt Langmuir cells are proposed. The first mechanism involves cell shearing due to differential advection across the whole cell. For the second mechanism, middepth vertical LC currents advect sheared mean crosswind current, leading to the attraction of upwelling and downwelling regions, so that LC cells are unsustainable when both regions overlap. Scaling arguments indicate that LC cells are more susceptible to crosswind shear distortion for smaller LC surface velocity convergence and greater cell aspect ratio (vertical to horizontal LC scale), which is consistent with the results obtained from the observations and LES. These results imply that scaling of LC characteristics in a coastal ocean differs from that in the open ocean, which has important practical implications for parameterizing enhanced mixing due to LC.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Langmuir circulation (LC) is a turbulent process driven by wind and surface waves that plays a key role in transferring momentum, heat, and mass in the oceanic surface layer. On the coastal shelves the largest-scale LC span the whole water column and thus couple the surface and bottom boundary layers and enhance turbulent mixing. Observations and large eddy simulations (LES) of a shallow coastal ocean demonstrate that these relatively large scale Langmuir cells are strongly influenced by crosswind tidal currents. Two mechanisms by which crosswind tidal shear may distort and disrupt Langmuir cells are proposed. The first mechanism involves cell shearing due to differential advection across the whole cell. For the second mechanism, middepth vertical LC currents advect sheared mean crosswind current, leading to the attraction of upwelling and downwelling regions, so that LC cells are unsustainable when both regions overlap. Scaling arguments indicate that LC cells are more susceptible to crosswind shear distortion for smaller LC surface velocity convergence and greater cell aspect ratio (vertical to horizontal LC scale), which is consistent with the results obtained from the observations and LES. These results imply that scaling of LC characteristics in a coastal ocean differs from that in the open ocean, which has important practical implications for parameterizing enhanced mixing due to LC.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

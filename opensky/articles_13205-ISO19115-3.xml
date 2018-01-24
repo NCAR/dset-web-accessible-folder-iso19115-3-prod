@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:14.791399</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:02.598480</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This letter documents the development and validation of a climate-driven, southwestern-US-wide water resources planning model that is being used to explore the implications of extended drought and climate warming on the allocation of water among competing uses. These model uses include a separate accounting for irrigated agriculture; municipal indoor use based on local population and per-capita consumption; climate-driven municipal outdoor turf and amenity watering; and thermoelectric cooling. The model simulates the natural and managed flows of rivers throughout the southwest, including the South Platte, the Arkansas, the Colorado, the Green, the Salt, the Sacramento, the San Joaquin, the Owens, and more than 50 others. Calibration was performed on parameters of land cover, snow accumulation and melt, and water capacity and hydraulic conductivity of soil horizons. Goodness of fit statistics and other measures of performance are shown for a select number of locations and are used to summarize the model's ability to represent monthly streamflow, reservoir storages, surface and ground water deliveries, etc, under 1980-2010 levels of sectoral water use.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This letter documents the development and validation of a climate-driven, southwestern-US-wide water resources planning model that is being used to explore the implications of extended drought and climate warming on the allocation of water among competing uses. These model uses include a separate accounting for irrigated agriculture; municipal indoor use based on local population and per-capita consumption; climate-driven municipal outdoor turf and amenity watering; and thermoelectric cooling. The model simulates the natural and managed flows of rivers throughout the southwest, including the South Platte, the Arkansas, the Colorado, the Green, the Salt, the Sacramento, the San Joaquin, the Owens, and more than 50 others. Calibration was performed on parameters of land cover, snow accumulation and melt, and water capacity and hydraulic conductivity of soil horizons. Goodness of fit statistics and other measures of performance are shown for a select number of locations and are used to summarize the model's ability to represent monthly streamflow, reservoir storages, surface and ground water deliveries, etc, under 1980-2010 levels of sectoral water use.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:25.252076</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:56.411968</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Motivated by a significant potential for retrieving atmospheric ozone profile information from advanced satellite infrared sounders, this study investigates various methods to optimize ozone retrievals. A set of retrieval experiments has been performed to assess the impact of different background states (or the a priori states) and retrieval algorithms on the retrieved ozone profiles in the upper troposphere and lower stratosphere (UTLS) using Atmospheric Infrared Sounder (AIRS) measurements. A new tropopause-based ozone climatology, using publicly available global ozonesonde data to construct the a priori state, is described. Comparisons are made with the AIRS version 5 (v5) ozone climatology. The authors also present the result of a newly implemented optimal estimation (OE) algorithm and compare it to the current AIRS science team (AST) algorithm used in version 5. The ozone climatology using tropopause-referenced coordinates better preserves the shape and the magnitude of the ozone gradient across the tropopause, especially in the extratropical region. The results of the retrieval experiments indicate that the tropopause-referenced climatology not only helps to optimize the use of instrument sensitivity in the UTLS region, but it also provides better constraints to the OE algorithm.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Motivated by a significant potential for retrieving atmospheric ozone profile information from advanced satellite infrared sounders, this study investigates various methods to optimize ozone retrievals. A set of retrieval experiments has been performed to assess the impact of different background states (or the a priori states) and retrieval algorithms on the retrieved ozone profiles in the upper troposphere and lower stratosphere (UTLS) using Atmospheric Infrared Sounder (AIRS) measurements. A new tropopause-based ozone climatology, using publicly available global ozonesonde data to construct the a priori state, is described. Comparisons are made with the AIRS version 5 (v5) ozone climatology. The authors also present the result of a newly implemented optimal estimation (OE) algorithm and compare it to the current AIRS science team (AST) algorithm used in version 5. The ozone climatology using tropopause-referenced coordinates better preserves the shape and the magnitude of the ozone gradient across the tropopause, especially in the extratropical region. The results of the retrieval experiments indicate that the tropopause-referenced climatology not only helps to optimize the use of instrument sensitivity in the UTLS region, but it also provides better constraints to the OE algorithm.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

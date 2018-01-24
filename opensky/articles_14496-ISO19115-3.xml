@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:32.055327</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:25.670526</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A new method is presented for cloud detection and the retrieval of three-dimensional cloud fraction from satellite infrared radiances. This method, called multivariate minimum residual (MMR), is inspired by the minimum residual technique by Eyre and Menzel and is especially suitable for exploiting the large number of channels from hyperspectral infrared sounders. Its accuracy is studied in a theoretical framework where the observations and the numerical model are supposed perfect. Of particular interest is the number of independent information that can be found on the cloud according to the number of channels used. The technical implementation of the method is also briefly discussed. The MMR scheme is validated with the Atmospheric Infrared Sounder (AIRS) instrument using simulated observations. This new method is compared with the cloud-detection scheme from McNally and Watts that is operational at the European Centre for Medium-Range Weather Forecasts (ECMWF) and considered to be the state of the art in cloud detection for hyperspectral infrared sounders</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A new method is presented for cloud detection and the retrieval of three-dimensional cloud fraction from satellite infrared radiances. This method, called multivariate minimum residual (MMR), is inspired by the minimum residual technique by Eyre and Menzel and is especially suitable for exploiting the large number of channels from hyperspectral infrared sounders. Its accuracy is studied in a theoretical framework where the observations and the numerical model are supposed perfect. Of particular interest is the number of independent information that can be found on the cloud according to the number of channels used. The technical implementation of the method is also briefly discussed. The MMR scheme is validated with the Atmospheric Infrared Sounder (AIRS) instrument using simulated observations. This new method is compared with the cloud-detection scheme from McNally and Watts that is operational at the European Centre for Medium-Range Weather Forecasts (ECMWF) and considered to be the state of the art in cloud detection for hyperspectral infrared sounders]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

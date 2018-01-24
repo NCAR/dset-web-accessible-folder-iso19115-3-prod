@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:42.195979</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:40.474079</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study investigates the cost of soil carbon sequestration in the Midwest US. The model addresses several missing components in earlier analyses: the link between the residue level choice and carbon payments, crop rotations, carbon loss when shifting from conservation to conventional tillage and the spatial pattern of carbon sequestration across different soil types. The results suggest that for $100 per metric ton of carbon, 1.5 million metric tons of carbon could be sequestered per year on the 19.9 million hectares of cropland in the study region. These estimates suggest less carbon potential than existing studies because the opportunity costs associated with conservation tillage are fairly high. Annual carbon rental payments are found to be more efficient, as expected, but for smaller programs, per hectare rental payments are not substantially more costly.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study investigates the cost of soil carbon sequestration in the Midwest US. The model addresses several missing components in earlier analyses: the link between the residue level choice and carbon payments, crop rotations, carbon loss when shifting from conservation to conventional tillage and the spatial pattern of carbon sequestration across different soil types. The results suggest that for $100 per metric ton of carbon, 1.5 million metric tons of carbon could be sequestered per year on the 19.9 million hectares of cropland in the study region. These estimates suggest less carbon potential than existing studies because the opportunity costs associated with conservation tillage are fairly high. Annual carbon rental payments are found to be more efficient, as expected, but for smaller programs, per hectare rental payments are not substantially more costly.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

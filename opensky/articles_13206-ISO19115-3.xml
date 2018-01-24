@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:14.822695</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:02.641722</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Cities around the world are increasingly developing plans to adapt to the consequences of climate change. These plans will have important consequences for urban populations because they are likely to reshape and reconfigure urban infrastructures, services, and decision making processes. It is critical that these adaptation plans are developed in a way that is just. Criteria was developed that can be used to assess justice in adaptation so that the processes, priorities, and impacts address the needs of the most vulnerable urban populations. Further, mechanisms are outlined that have been proposed as responsible for producing urban injustice. The justice criteria are applied to the case of adaptation planning in Delhi and the extent to which poor and informal populations are included and affected by this planning. The analysis shows that adaptation planning in Delhi does not meet the justice criteria in part because of a lack of capacity and the political economy of poverty in the city. The criteria for justice and mechanisms of injustice offer an important step toward developing a greater understanding of not only whether city-level adaptation planning is just, but also why it is or is not.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Cities around the world are increasingly developing plans to adapt to the consequences of climate change. These plans will have important consequences for urban populations because they are likely to reshape and reconfigure urban infrastructures, services, and decision making processes. It is critical that these adaptation plans are developed in a way that is just. Criteria was developed that can be used to assess justice in adaptation so that the processes, priorities, and impacts address the needs of the most vulnerable urban populations. Further, mechanisms are outlined that have been proposed as responsible for producing urban injustice. The justice criteria are applied to the case of adaptation planning in Delhi and the extent to which poor and informal populations are included and affected by this planning. The analysis shows that adaptation planning in Delhi does not meet the justice criteria in part because of a lack of capacity and the political economy of poverty in the city. The criteria for justice and mechanisms of injustice offer an important step toward developing a greater understanding of not only whether city-level adaptation planning is just, but also why it is or is not.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:34.453013</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:58.074196</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -174,7 +174,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We describe the primary observational features of solar cycles, as seen in the photosphere, and review progress made over the past sixty years to simulate and predict these features using magneto-hydrodynamic dynamo models. The focus is on the so-called Babcock-Leighton flux-transport (BLFT) dynamo models, calibrated for the Sun, which so far have been the most successful in simulation, and the only ones tested for prediction. The proposed 21st century strategy for progress emphasizes the need (a) to use modern data assimilation techniques, so successful for Earth's atmosphere simulation and prediction, to exploit all available solar observations, and (b) to generalize BLFT dynamo models to 3D to simulate and predict longitude-dependent cycle features. The 3D models must include (a) global HD and MHD instabilities in the solar tachocline, which probably create spatial patterns and time dependence that is reflected in surface observations, such as active longitudes, and (b) processes that capture the statistics and effects of emerging active regions that are tilted with respect to latitude circles, in order to accurately represent the surface source of poloidal fields, whose transport to the poles is responsible for polar field reversals.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We describe the primary observational features of solar cycles, as seen in the photosphere, and review progress made over the past sixty years to simulate and predict these features using magneto-hydrodynamic dynamo models. The focus is on the so-called Babcock-Leighton flux-transport (BLFT) dynamo models, calibrated for the Sun, which so far have been the most successful in simulation, and the only ones tested for prediction. The proposed 21st century strategy for progress emphasizes the need (a) to use modern data assimilation techniques, so successful for Earth's atmosphere simulation and prediction, to exploit all available solar observations, and (b) to generalize BLFT dynamo models to 3D to simulate and predict longitude-dependent cycle features. The 3D models must include (a) global HD and MHD instabilities in the solar tachocline, which probably create spatial patterns and time dependence that is reflected in surface observations, such as active longitudes, and (b) processes that capture the statistics and effects of emerging active regions that are tilted with respect to latitude circles, in order to accurately represent the surface source of poloidal fields, whose transport to the poles is responsible for polar field reversals.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

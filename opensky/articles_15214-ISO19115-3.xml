@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:35.164219</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:29.983188</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -174,7 +174,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Obituary of John W. Firor, a former Director of the High Altitude Observatory and the National Center for Atmospheric Research, and a founder of the Solar Physics Division of the American Astronomical Society.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Obituary of John W. Firor, a former Director of the High Altitude Observatory and the National Center for Atmospheric Research, and a founder of the Solar Physics Division of the American Astronomical Society.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

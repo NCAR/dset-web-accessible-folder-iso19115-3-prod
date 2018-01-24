@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:24.992567</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:56.055132</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We examine the responses of the mesosphere and lower thermosphere (MLT) temperatures to gravity waves (GWs) during stratospheric sudden warming (SSW) using TIME-GCM through modifying GW parameters. Our study confirms that the height of GW forcing region is mainly determined by GW amplitude and wavelength, and its vertical depth is closely tied to the spectral width of GW phase speed. The GW forcing controls the pattern and strength of residual circulation and thereby the characteristics of the MLT cooling and warming regions. The planetary wave (PW) forcing in the MLT also affects the vertical depth and magnitude of MLT temperature anomalies through further modifying the residual circulation. These PWs in MLT are likely generated in-situ by the GW forcing at high latitudes. Therefore, the mechanisms of GW controlling the MLT temperature during a SSW are directly through GW forcing and indirectly through generating PWs in-situ.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We examine the responses of the mesosphere and lower thermosphere (MLT) temperatures to gravity waves (GWs) during stratospheric sudden warming (SSW) using TIME-GCM through modifying GW parameters. Our study confirms that the height of GW forcing region is mainly determined by GW amplitude and wavelength, and its vertical depth is closely tied to the spectral width of GW phase speed. The GW forcing controls the pattern and strength of residual circulation and thereby the characteristics of the MLT cooling and warming regions. The planetary wave (PW) forcing in the MLT also affects the vertical depth and magnitude of MLT temperature anomalies through further modifying the residual circulation. These PWs in MLT are likely generated in-situ by the GW forcing at high latitudes. Therefore, the mechanisms of GW controlling the MLT temperature during a SSW are directly through GW forcing and indirectly through generating PWs in-situ.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

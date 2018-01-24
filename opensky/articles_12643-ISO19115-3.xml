@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:00.927948</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:44.924845</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Smerdon et al. report two errors in the climate model grid data used in previous pseudoproxy-based climate reconstruction experiments that do not impact the main conclusions of those works. The errors did not occur in subsequent works and therefore have no impact on the results presented therein. Results presented here for the Climate System Model (CSM) using multiple pseudoproxy noise realizations show that the quantitative differences between the incorrect and corrected results are within the expected variability of the noise realizations. It should also be made clear that the climate reconstruction method used in Smerdon et al. to illustrate the nature of the errors, the Regularized Expectation Maximization method with Ridge Regression (RegEM-Ridge), is known to produce climate reconstructions with considerable variance loss and has been superseded by RegEM-TTLS (TTLS indicates truncated total least squares).</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Smerdon et al. report two errors in the climate model grid data used in previous pseudoproxy-based climate reconstruction experiments that do not impact the main conclusions of those works. The errors did not occur in subsequent works and therefore have no impact on the results presented therein. Results presented here for the Climate System Model (CSM) using multiple pseudoproxy noise realizations show that the quantitative differences between the incorrect and corrected results are within the expected variability of the noise realizations. It should also be made clear that the climate reconstruction method used in Smerdon et al. to illustrate the nature of the errors, the Regularized Expectation Maximization method with Ridge Regression (RegEM-Ridge), is known to produce climate reconstructions with considerable variance loss and has been superseded by RegEM-TTLS (TTLS indicates truncated total least squares).]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

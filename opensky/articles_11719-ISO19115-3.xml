@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:39.756641</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:16.976806</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In areas of heavy precipitation, condensed water species can add significant mass to an atmospheric column. This mass can create positive pressure anomalies of up to several hPa at the surface. This pressure is expected to force a divergent component in the low-level flow that may have an impact on the evolution of the precipitating system. In this study we examine results from a cloud resolving model simulation of tropical convection to estimate the pressure induced by condensates. A simple parameterization of this condensate loading as a function of surface rain rate is derived and implemented in the National Center for Atmospheric Research's Community Atmosphere Model version 5 (CAM5). Our results suggest that at horizontal resolutions of 25 km condensate loading is an important factor in controlling the frequency of intense rain rates in the model.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In areas of heavy precipitation, condensed water species can add significant mass to an atmospheric column. This mass can create positive pressure anomalies of up to several hPa at the surface. This pressure is expected to force a divergent component in the low-level flow that may have an impact on the evolution of the precipitating system. In this study we examine results from a cloud resolving model simulation of tropical convection to estimate the pressure induced by condensates. A simple parameterization of this condensate loading as a function of surface rain rate is derived and implemented in the National Center for Atmospheric Research's Community Atmosphere Model version 5 (CAM5). Our results suggest that at horizontal resolutions of 25 km condensate loading is an important factor in controlling the frequency of intense rain rates in the model.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

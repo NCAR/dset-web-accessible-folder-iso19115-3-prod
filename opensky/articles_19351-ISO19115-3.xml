@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:39.502967</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:06.186873</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -358,7 +358,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Global atmospheric concentrations of methane (CH4), a powerful greenhouse gas, are increasing, but because there are many natural and anthropogenic sources of CH4, it is difficult to assess which sources may be increasing in magnitude. Here we present a data set of delta H-2-CH4 measurements of individual sources and air in the Colorado Front Range, USA. We show that delta H-2-CH4, but not delta C-13, signatures are consistent in air sampled downwind of landfills, cattle feedlots, and oil and gas wells in the region. Applying these source signatures to air in ground and aircraft samples indicates that at least 50% of CH4 emitted in the region is biogenic, perhaps because regulatory restrictions on leaking oil and natural gas wells are helping to reduce this source of CH4. Source apportionment tracers such as delta H-2 may help close the gap between CH4 observations and inventories, which may underestimate biogenic as well as thermogenic sources.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Global atmospheric concentrations of methane (CH4), a powerful greenhouse gas, are increasing, but because there are many natural and anthropogenic sources of CH4, it is difficult to assess which sources may be increasing in magnitude. Here we present a data set of delta H-2-CH4 measurements of individual sources and air in the Colorado Front Range, USA. We show that delta H-2-CH4, but not delta C-13, signatures are consistent in air sampled downwind of landfills, cattle feedlots, and oil and gas wells in the region. Applying these source signatures to air in ground and aircraft samples indicates that at least 50% of CH4 emitted in the region is biogenic, perhaps because regulatory restrictions on leaking oil and natural gas wells are helping to reduce this source of CH4. Source apportionment tracers such as delta H-2 may help close the gap between CH4 observations and inventories, which may underestimate biogenic as well as thermogenic sources.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

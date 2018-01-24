@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:41.642071</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:09.395388</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A cycling run, which began 36 h before the model forecast, was employed to assimilate special Terrain-influenced Monsoon Rainfall Experiment (TiMREX) soundings, Global Telecommunications System (GTS) data, and Constellation Observing System for Meteorology, Ionosphere and Climate (COSMIC) global positioning system (GPS) radio occultation (RO) refractivity profiles to improve the model initial conditions provided by the National Centers for Environmental Prediction (NCEP) Global Forecast System (GFS) to study a coastal, heavy rainfall event over southwestern Taiwan during 15-16 June 2008. The 36-h cycling run with data assimilation (DA_ALL_DATArun) has a positive impact on the depiction of subsynoptic flow in the model initial conditions at 1200 UTC 15 June, including the warm moist tongue and southwesterly monsoon flow over the open ocean. Furthermore, the cold pool caused by the evaporative cooling of antecedent rains and orographic blocking over southwestern Taiwan are better resolved in the nested high-resolution domain in the DA_ALL_DATA run as compared to the initial conditions provided by the NCEP GFS. As a result, the heavy rainfall along the southwestern coast and afternoon localized heavy rainfall over northern Taiwan are better predicted in the DA_ALL_DATA run.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A cycling run, which began 36 h before the model forecast, was employed to assimilate special Terrain-influenced Monsoon Rainfall Experiment (TiMREX) soundings, Global Telecommunications System (GTS) data, and Constellation Observing System for Meteorology, Ionosphere and Climate (COSMIC) global positioning system (GPS) radio occultation (RO) refractivity profiles to improve the model initial conditions provided by the National Centers for Environmental Prediction (NCEP) Global Forecast System (GFS) to study a coastal, heavy rainfall event over southwestern Taiwan during 15-16 June 2008. The 36-h cycling run with data assimilation (DA_ALL_DATArun) has a positive impact on the depiction of subsynoptic flow in the model initial conditions at 1200 UTC 15 June, including the warm moist tongue and southwesterly monsoon flow over the open ocean. Furthermore, the cold pool caused by the evaporative cooling of antecedent rains and orographic blocking over southwestern Taiwan are better resolved in the nested high-resolution domain in the DA_ALL_DATA run as compared to the initial conditions provided by the NCEP GFS. As a result, the heavy rainfall along the southwestern coast and afternoon localized heavy rainfall over northern Taiwan are better predicted in the DA_ALL_DATA run.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

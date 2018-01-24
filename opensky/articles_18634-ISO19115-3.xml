@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:28.037684</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:48.011094</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper reports double-peak subauroral ion drifts (DSAIDs), which is unique subset of subauroral ion drifts (SAIDs). A statistical analysis has been carried out for the first time with a database of 454 DSAID events identified from Defense Meteorological Satellite Program observations from 1987 to 2012. Both case studies and statistical analyses show that the two velocity peaks of DSAIDs are associated with two ion temperature peaks and two region-2 field-aligned currents (R2-FACs) peaks in the midlatitude ionospheric trough located in the low-conductance subauroral region. DSAIDs are regional and vary significantly with magnetic local time. DSAIDs can evolve from/to SAIDs during their lifetimes, which are from several minutes to tens of minutes. Comparisons between the ionospheric parameters of DSAIDs and SAIDs indicate that double-layer region-2 field-aligned currents (R2-FACs) may be the main driver of DSAIDs. It is also found that DSAIDs happen during more disturbed conditions compared with SAIDs.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper reports double-peak subauroral ion drifts (DSAIDs), which is unique subset of subauroral ion drifts (SAIDs). A statistical analysis has been carried out for the first time with a database of 454 DSAID events identified from Defense Meteorological Satellite Program observations from 1987 to 2012. Both case studies and statistical analyses show that the two velocity peaks of DSAIDs are associated with two ion temperature peaks and two region-2 field-aligned currents (R2-FACs) peaks in the midlatitude ionospheric trough located in the low-conductance subauroral region. DSAIDs are regional and vary significantly with magnetic local time. DSAIDs can evolve from/to SAIDs during their lifetimes, which are from several minutes to tens of minutes. Comparisons between the ionospheric parameters of DSAIDs and SAIDs indicate that double-layer region-2 field-aligned currents (R2-FACs) may be the main driver of DSAIDs. It is also found that DSAIDs happen during more disturbed conditions compared with SAIDs.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

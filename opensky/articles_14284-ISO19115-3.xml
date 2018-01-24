@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:27.312672</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:18.918416</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper introduces a framework for estimating stationary and non-stationary return levels, return periods, and risks of climatic extremes using Bayesian inference. This framework is implemented in the Non-stationary Extreme Value Analysis (NEVA) software package, explicitly designed to facilitate analysis of extremes in the geosciences. In a Bayesian approach, NEVA estimates the extreme value parameters with a Differential Evolution Markov Chain (DE-MC) approach for global optimization over the parameter space. NEVA includes posterior probability intervals (uncertainty bounds) of estimated return levels through Bayesian inference, with its inherent advantages in uncertainty quantification. The software presents the results of non-stationary extreme value analysis using various exceedance probability methods. We evaluate both stationary and non-stationary components of the package for a case study consisting of annual temperature maxima for a gridded global temperature dataset. The results show that NEVA can reliably describe extremes and their return levels.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper introduces a framework for estimating stationary and non-stationary return levels, return periods, and risks of climatic extremes using Bayesian inference. This framework is implemented in the Non-stationary Extreme Value Analysis (NEVA) software package, explicitly designed to facilitate analysis of extremes in the geosciences. In a Bayesian approach, NEVA estimates the extreme value parameters with a Differential Evolution Markov Chain (DE-MC) approach for global optimization over the parameter space. NEVA includes posterior probability intervals (uncertainty bounds) of estimated return levels through Bayesian inference, with its inherent advantages in uncertainty quantification. The software presents the results of non-stationary extreme value analysis using various exceedance probability methods. We evaluate both stationary and non-stationary components of the package for a case study consisting of annual temperature maxima for a gridded global temperature dataset. The results show that NEVA can reliably describe extremes and their return levels.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

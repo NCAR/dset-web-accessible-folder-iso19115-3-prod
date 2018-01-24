@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:21.463010</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:40.908508</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[A solar-viewing Fourier transform spectrometer (FTS) at Thule, Greenland (76.5 degrees N, 68.8 degrees W, 225 m MSL), has been in operation as part of the Network for the Detection of Atmospheric Composition Change [NDACC; formerly the Network for the Detection of Stratospheric Change (NDSC)] since 1999. Observations have been made, on average, 77 days yr(-1) during the 8 months, excluding polar night. The semiautonomous operation of the instrument, including its associated optical, cryogenic, and control systems, is of primary importance to acquiring long-term data records efficiently and is herein described. Discussed in this paper are the data processing and spectra analysis methodology that are used to convert the measured interferograms into geophysical data products. Vertical profile retrievals derived from the high-resolution solar absorption spectra use the optimal estimation method. Total column amounts then represent the integration of these vertical profiles. As an example of this process, results are presented for daily average total column amounts of HF, HCl, ClONO2, and CCl2F2 from 2001 through 2007. The means of unperturbed summertime observations are used in a preliminary study of their annual trends.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

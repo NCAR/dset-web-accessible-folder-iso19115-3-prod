@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:16.563587</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:43.535357</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>An unprecedented dataset of category-5 Hurricane Isabel was collected on 12-14 September 2003. This two-part series focuses on novel dynamical and thermodynamical aspects of Isabel's inner-core structure on 13 September. In Part I, using a composite of dropwindsonde and in situ aircraft data, the authors suggested that the axisymmetric structure of Isabel showed that the storm was superintense. Mesocyclones seen clearly in satellite imagery within the eye of Hurricane Isabel are hypothesized to mix high-entropy air at low levels in the eye into the eyewall, stimulating explosive convective development and a concomitant local horizontal wind acceleration. Part II focuses on a unique set of observations into an extraordinary small- (miso) scale cyclonic feature inside of the inner edge of the eyewall of Hurricane Isabel. A dropwindsonde released into this feature measured the strongest known horizontal wind in a tropical cyclone. This particular observation is discussed in the context of concurrent observations from airborne Doppler radar and other airborne instruments. These observations show wind even stronger than the system-scale superintense wind suggested in Part I. Speculation on the frequency of occurrence of these "little whirls" and their potentially catastrophic impacts are presented.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[An unprecedented dataset of category-5 Hurricane Isabel was collected on 12-14 September 2003. This two-part series focuses on novel dynamical and thermodynamical aspects of Isabel's inner-core structure on 13 September. In Part I, using a composite of dropwindsonde and in situ aircraft data, the authors suggested that the axisymmetric structure of Isabel showed that the storm was superintense. Mesocyclones seen clearly in satellite imagery within the eye of Hurricane Isabel are hypothesized to mix high-entropy air at low levels in the eye into the eyewall, stimulating explosive convective development and a concomitant local horizontal wind acceleration. Part II focuses on a unique set of observations into an extraordinary small- (miso) scale cyclonic feature inside of the inner edge of the eyewall of Hurricane Isabel. A dropwindsonde released into this feature measured the strongest known horizontal wind in a tropical cyclone. This particular observation is discussed in the context of concurrent observations from airborne Doppler radar and other airborne instruments. These observations show wind even stronger than the system-scale superintense wind suggested in Part I. Speculation on the frequency of occurrence of these "little whirls" and their potentially catastrophic impacts are presented.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

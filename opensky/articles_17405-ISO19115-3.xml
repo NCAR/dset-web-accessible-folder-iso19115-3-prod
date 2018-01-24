@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:04.749636</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:13.673921</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -328,7 +328,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>On the basis of the TIDI mesospheric and lower thermospheric neutral wind observations from 2002 (March) to 2007 (June), we analyze the interannual variations of nonmigrating diurnal tides from eastward zonal wave number 3 (E3) to westward zonal wave number 3 (W3). We focus on possible QBO-related variations in these nonmigrating diurnal tide components. We found: (1) a strong reverse QBO effect on the W2 meridional diurnal tide in the September equinox and the December solstice, which suggests a W2 source of nonlinear interaction between planetary wave 1 and the migrating diurnal tide; (2) the QBO effect on the peak height during the June solstice on the E3 zonal diurnal tide; (3) several nonmigrating tide components (E3, E2, E1, W3 meridional, and W3 zonal) with similar eastward phase QBO enhancement during the March equinox to the migrating diurnal tide, although to a lesser degree from 2002 to 2005; (4) the QBO effects, in some cases, during 2006 and 2007 are either less or opposite those observed between 2002 and 2005.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[On the basis of the TIDI mesospheric and lower thermospheric neutral wind observations from 2002 (March) to 2007 (June), we analyze the interannual variations of nonmigrating diurnal tides from eastward zonal wave number 3 (E3) to westward zonal wave number 3 (W3). We focus on possible QBO-related variations in these nonmigrating diurnal tide components. We found: (1) a strong reverse QBO effect on the W2 meridional diurnal tide in the September equinox and the December solstice, which suggests a W2 source of nonlinear interaction between planetary wave 1 and the migrating diurnal tide; (2) the QBO effect on the peak height during the June solstice on the E3 zonal diurnal tide; (3) several nonmigrating tide components (E3, E2, E1, W3 meridional, and W3 zonal) with similar eastward phase QBO enhancement during the March equinox to the migrating diurnal tide, although to a lesser degree from 2002 to 2005; (4) the QBO effects, in some cases, during 2006 and 2007 are either less or opposite those observed between 2002 and 2005.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

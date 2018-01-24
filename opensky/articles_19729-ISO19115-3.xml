@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:48.321987</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:19.215731</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>An algorithm to consistently couple a conservative semi-Lagrangian finite-volume transport scheme with a spectral element (SE) dynamical core is presented. The semi-Lagrangian finite-volume scheme is the Conservative Semi-Lagrangian Multitracer (CSLAM), and the SE dynamical core is the National Center for Atmospheric Research (NCAR)'s Community Atmosphere Model-Spectral Elements (CAM-SE). The primary motivation for coupling CSLAM with CAM-SE is to accelerate tracer transport for multitracer applications. The coupling algorithm result is an inherently mass-conservative, shape-preserving, and consistent (for a constant mixing ratio, the CSLAM solution reduces to the SE solution for air mass) transport that is efficient and accurate. This is achieved by first deriving formulas for diagnosing SE airmass flux through the CSLAM control volume faces. Thereafter, the upstream Lagrangian CSLAM areas are iteratively perturbed to match the diagnosed SE airmass flux, resulting in an equivalent upstream Lagrangian grid that spans the sphere without gaps or overlaps (without using an expensive search algorithm). This new CSLAM algorithm is not specific to airmass fluxes provided by CAM-SE but applies to any airmass fluxes that satisfy the Lipshitz criterion and for which the Courant number is less than one.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[An algorithm to consistently couple a conservative semi-Lagrangian finite-volume transport scheme with a spectral element (SE) dynamical core is presented. The semi-Lagrangian finite-volume scheme is the Conservative Semi-Lagrangian Multitracer (CSLAM), and the SE dynamical core is the National Center for Atmospheric Research (NCAR)'s Community Atmosphere Model-Spectral Elements (CAM-SE). The primary motivation for coupling CSLAM with CAM-SE is to accelerate tracer transport for multitracer applications. The coupling algorithm result is an inherently mass-conservative, shape-preserving, and consistent (for a constant mixing ratio, the CSLAM solution reduces to the SE solution for air mass) transport that is efficient and accurate. This is achieved by first deriving formulas for diagnosing SE airmass flux through the CSLAM control volume faces. Thereafter, the upstream Lagrangian CSLAM areas are iteratively perturbed to match the diagnosed SE airmass flux, resulting in an equivalent upstream Lagrangian grid that spans the sphere without gaps or overlaps (without using an expensive search algorithm). This new CSLAM algorithm is not specific to airmass fluxes provided by CAM-SE but applies to any airmass fluxes that satisfy the Lipshitz criterion and for which the Courant number is less than one.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

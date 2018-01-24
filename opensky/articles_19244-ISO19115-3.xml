@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:36.786773</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:01.979593</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The FORWARD SolarSoft IDL package is a community resource for model-data comparison, with a particular emphasis on analyzing coronal magnetic fields. FORWARD allows the synthesis of coronal polarimetric signals at visible, infrared, and radio frequencies, and will soon be augmented for ultraviolet polarimetry. In this paper we focus on observations of the infrared (IR) forbidden lines of Fe XIII, and describe how FORWARD may be used to directly access these data from the Mauna Loa Solar Observatory Coronal Multi-channel Polarimeter (MLSO/CoMP), to put them in the context of other space- and ground-based observations, and to compare them to synthetic observables generated from magnetohydrodynamic (MHD) models.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The FORWARD SolarSoft IDL package is a community resource for model-data comparison, with a particular emphasis on analyzing coronal magnetic fields. FORWARD allows the synthesis of coronal polarimetric signals at visible, infrared, and radio frequencies, and will soon be augmented for ultraviolet polarimetry. In this paper we focus on observations of the infrared (IR) forbidden lines of Fe XIII, and describe how FORWARD may be used to directly access these data from the Mauna Loa Solar Observatory Coronal Multi-channel Polarimeter (MLSO/CoMP), to put them in the context of other space- and ground-based observations, and to compare them to synthetic observables generated from magnetohydrodynamic (MHD) models.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

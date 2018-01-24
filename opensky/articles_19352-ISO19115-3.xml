@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:39.536063</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:06.233400</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>To better understand global mean sea level (GMSL) as an indicator of climate variability and change, contributions to its interannual variation are quantified in the Community Earth System Model (CESM) Large Ensemble and Last Millennium Ensemble. Consistent with expectations, the El Nioo/Southern Oscillation (ENSO) is found to exert a strong influence due to variability in rainfall over land (PL) and terrestrial water storage (TWS). Other important contributors include changes in ocean heat content (OHC) and precipitable water (PW). The temporal evolution of individual contributing terms is documented. The magnitude of peak GMSL anomalies associated with ENSO generally are of the order of 0.5 mm.K-1 with significant inter-event variability, with a standard deviation (sigma) that is about half as large The results underscore the exceptional rarity of the 2010/2011 La Nioa-related GMSL drop and estimate the frequency of such an event to be about only once in every 75 years. In addition to ENSO, major volcanic eruptions are found to be a key driver of interannual variability. Associated GMSL variability contrasts with that of ENSO as TWS and PW anomalies initially offset the drop due to OHC reductions but short-lived relative to them. Responses up to 25 mm are estimated for the largest eruptions of the Last Millennium.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[To better understand global mean sea level (GMSL) as an indicator of climate variability and change, contributions to its interannual variation are quantified in the Community Earth System Model (CESM) Large Ensemble and Last Millennium Ensemble. Consistent with expectations, the El Nioo/Southern Oscillation (ENSO) is found to exert a strong influence due to variability in rainfall over land (PL) and terrestrial water storage (TWS). Other important contributors include changes in ocean heat content (OHC) and precipitable water (PW). The temporal evolution of individual contributing terms is documented. The magnitude of peak GMSL anomalies associated with ENSO generally are of the order of 0.5 mm.K-1 with significant inter-event variability, with a standard deviation (sigma) that is about half as large The results underscore the exceptional rarity of the 2010/2011 La Nioa-related GMSL drop and estimate the frequency of such an event to be about only once in every 75 years. In addition to ENSO, major volcanic eruptions are found to be a key driver of interannual variability. Associated GMSL variability contrasts with that of ENSO as TWS and PW anomalies initially offset the drop due to OHC reductions but short-lived relative to them. Responses up to 25 mm are estimated for the largest eruptions of the Last Millennium.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

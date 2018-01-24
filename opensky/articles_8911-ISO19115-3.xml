@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:16.829652</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:43.948640</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A method for calibrating radar reflectivity using polarization radar measurements in rain is described. Accurate calibration of radar reflectivity is essential for obtaining reliable rain rate estimation. In the case of polarization radar, rain rate can be independently estimated using power and phase measurements. Thus phase measurement can be estimated from power measurements. Comparison of the direct estimate of propagation phase (m) measurement, which is unaffected by absolute calibration of the radar system, with the estimated propagation phase (e) from power measurements is the basis for the calibration method. Polarization measurements such as reflectivity (Z), differential reflectivity (ZDR), and differential propagation phase (DP) are sensitive to drop size distribution (DSD) and mean drop shape. It is important to devise a calibration technique relatively unperturbed by changes in DSD and drop shape. Statistical fluctuation in e is derived to estimate the accuracy of the calibration procedure, raindrop shape, and attenuation. The proposed method is applied for calibrating reflectivity measurements of the National Center for Atmospheric Research (NCAR) S-band polarization radar (S-Pol) in midlatitude, subtropical, and tropical rain events.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A method for calibrating radar reflectivity using polarization radar measurements in rain is described. Accurate calibration of radar reflectivity is essential for obtaining reliable rain rate estimation. In the case of polarization radar, rain rate can be independently estimated using power and phase measurements. Thus phase measurement can be estimated from power measurements. Comparison of the direct estimate of propagation phase (m) measurement, which is unaffected by absolute calibration of the radar system, with the estimated propagation phase (e) from power measurements is the basis for the calibration method. Polarization measurements such as reflectivity (Z), differential reflectivity (ZDR), and differential propagation phase (DP) are sensitive to drop size distribution (DSD) and mean drop shape. It is important to devise a calibration technique relatively unperturbed by changes in DSD and drop shape. Statistical fluctuation in e is derived to estimate the accuracy of the calibration procedure, raindrop shape, and attenuation. The proposed method is applied for calibrating reflectivity measurements of the National Center for Atmospheric Research (NCAR) S-band polarization radar (S-Pol) in midlatitude, subtropical, and tropical rain events.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

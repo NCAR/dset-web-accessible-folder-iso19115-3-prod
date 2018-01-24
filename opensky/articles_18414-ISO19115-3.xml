@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:22.747745</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:40.048414</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -343,7 +343,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this Commentary, we argue that it is possible to improve the physical realism of hydrologic models by making better use of existing hydrologic theory. We address the following questions: (1) what are some key elements of current hydrologic theory; (2) how can those elements best be incorporated where they may be missing in current models; and (3) how can we evaluate competing hydrologic theories across scales and locations? We propose that hydrologic science would benefit from a model-based community synthesis effort to reframe, integrate, and evaluate different explanations of hydrologic behavior, and provide a controlled avenue to find where understanding falls short.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this Commentary, we argue that it is possible to improve the physical realism of hydrologic models by making better use of existing hydrologic theory. We address the following questions: (1) what are some key elements of current hydrologic theory; (2) how can those elements best be incorporated where they may be missing in current models; and (3) how can we evaluate competing hydrologic theories across scales and locations? We propose that hydrologic science would benefit from a model-based community synthesis effort to reframe, integrate, and evaluate different explanations of hydrologic behavior, and provide a controlled avenue to find where understanding falls short.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

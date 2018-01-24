@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:22.008279</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:19.149675</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[The sensitivity of tropical cyclone intensity to ventilation of cooler, drier air into the inner core is examined using an axisymmetric tropical cyclone model with parameterized ventilation. Sufficiently strong ventilation induces cooling of the upper-level warm core, a shift in the secondary circulation radially outward, and a decrease in the simulated intensity. Increasing the strength of the ventilation and placing the ventilation at middle to lower levels results in a greater decrease in the quasi-steady intensity, whereas upper-level ventilation has little effect on the intensity. For strong ventilation, an oscillatory intensity regime materializes and is tied to transient convective bursts and strong downdrafts into the boundary layer.', The sensitivity of tropical cyclone intensity to ventilation can be viewed in the context of the mechanical efficiency of the inner core or a modified thermal wind relation. In the former, ventilation decreases the mechanical efficiency, as the generation of available potential energy is wasted by entropy mixing above the boundary layer. In the latter, ventilation weakens the eyewall entropy front, resulting in a decrease in the intensity by thermal wind arguments.', The experiments also support the existence of a threshold ventilation beyond which a tropical cyclone cannot be maintained. Downdrafts overwhelm surface fluxes, leading to a precipitous drop in intensity and a severe degradation of structure in such a scenario. For a given amount of ventilation below the threshold, there exists a minimum initial intensity necessary for intensification to the quasi-steady intensity.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

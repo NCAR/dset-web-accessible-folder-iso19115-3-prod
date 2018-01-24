@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:53.404752</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:27.000276</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study explores the first application of an analog-based method to downscale precipitation estimates from a regional reanalysis. The utilized analog ensemble (AnEn) approach defines a metric with which a set of analogs (i.e., the ensemble) can be sampled from the observations in the training period. From the determined AnEn estimates, the uncertainty of the generated precipitation time series also can easily be assessed. The study investigates tuning parameters of AnEn, such as the choice of predictors or the ensemble size, to optimize the performance. The approach is implemented and tuned on the basis of a set of over 700 rain gauges with 6-hourly measurements for Germany and a 6.2-km regional reanalysis for Europe, which provides the predictors. The obtained AnEn estimates are evaluated against the observations over a 4-yr verification period. With respect to deterministic quality, the results show that AnEn is able to outperform the reanalysis itself depending on location and precipitation intensity. Further, AnEn produces superior results in probabilistic measures against a random-ensemble approach as well as a logistic regression. As a proof of concept, the described implementation allows for the estimation of synthetic probabilistic observation time series for periods for which measurements are not available.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study explores the first application of an analog-based method to downscale precipitation estimates from a regional reanalysis. The utilized analog ensemble (AnEn) approach defines a metric with which a set of analogs (i.e., the ensemble) can be sampled from the observations in the training period. From the determined AnEn estimates, the uncertainty of the generated precipitation time series also can easily be assessed. The study investigates tuning parameters of AnEn, such as the choice of predictors or the ensemble size, to optimize the performance. The approach is implemented and tuned on the basis of a set of over 700 rain gauges with 6-hourly measurements for Germany and a 6.2-km regional reanalysis for Europe, which provides the predictors. The obtained AnEn estimates are evaluated against the observations over a 4-yr verification period. With respect to deterministic quality, the results show that AnEn is able to outperform the reanalysis itself depending on location and precipitation intensity. Further, AnEn produces superior results in probabilistic measures against a random-ensemble approach as well as a logistic regression. As a proof of concept, the described implementation allows for the estimation of synthetic probabilistic observation time series for periods for which measurements are not available.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

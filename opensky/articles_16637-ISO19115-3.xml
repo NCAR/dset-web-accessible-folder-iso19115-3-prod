@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:46.976579</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:47.705522</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Past studies have described large-scale sea level pressure (SLP) variations in the Southern Hemisphere that lead to El Nino-Southern Oscillation (ENSO) warm and cold events (WE and CE). By relying on this description and the importance of the related variability in the lead up to WE and CE, Southern Hemisphere SLP variations in May-June-July (MJJ) are shown here to be excellent predictors for the peak warm/cold events in sea-surface temperatures (SST) and sea level pressure that mark the mature phase of a warm/cold event in November-January of the same year. Cyclostationary empirical orthogonal functions (CSEOFs) are used to extract the variability associated with this description of SLP evolution leading to extreme events, underscoring the importance of this signal in the build-up to ENSO events. Using the CSEOF decomposition, an MJJ precursor is established and shown to precede impending warm and cold events in the past sixty years. Furthermore, the precursor developed in this study would have suggested that a significant WE for the latter half of 2014 was unlikely.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Past studies have described large-scale sea level pressure (SLP) variations in the Southern Hemisphere that lead to El Nino-Southern Oscillation (ENSO) warm and cold events (WE and CE). By relying on this description and the importance of the related variability in the lead up to WE and CE, Southern Hemisphere SLP variations in May-June-July (MJJ) are shown here to be excellent predictors for the peak warm/cold events in sea-surface temperatures (SST) and sea level pressure that mark the mature phase of a warm/cold event in November-January of the same year. Cyclostationary empirical orthogonal functions (CSEOFs) are used to extract the variability associated with this description of SLP evolution leading to extreme events, underscoring the importance of this signal in the build-up to ENSO events. Using the CSEOF decomposition, an MJJ precursor is established and shown to precede impending warm and cold events in the past sixty years. Furthermore, the precursor developed in this study would have suggested that a significant WE for the latter half of 2014 was unlikely.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

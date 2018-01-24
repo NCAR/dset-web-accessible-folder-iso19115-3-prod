@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:20.981292</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:50.116597</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Automated flask sampling aboard small charter aircraft has been proposed as a low-cost, reliable method to greatly increase the density of measurements of CO2 mixing ratios in continental regions in order to provide data for assessment of global and regional CO2 budgets. We use data from the CO2 Budget and Rectification-Airborne 2000 campaign over North America to study the feasibility of using discrete (flask) sampling to determine column mean CO2 in the lowest 4 km of the atmosphere. To simulate flask sampling, data were selected from profiles of CO2 measured continuously with an onboard (in situ) analyzer. We find that midday column means can be determined without bias relative to true column means measured by the in situ analyzer to within 0.15 and better than 0.10 ppm by using 10 and 20 instantaneously collected flask samples, respectively. More precise results can be obtained by using a flask sampling strategy that linearly integrates over portions of the air column. Using less than 8-10 flasks can lead to significant sampling bias for some common profile shapes. Sampling prior to the breakup of the nocturnal stable layer will generally lead to large sampling bias because of the inability of aircraft to probe large CO2 gradients that often exist very close to the ground at night and during the early morning.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Automated flask sampling aboard small charter aircraft has been proposed as a low-cost, reliable method to greatly increase the density of measurements of CO2 mixing ratios in continental regions in order to provide data for assessment of global and regional CO2 budgets. We use data from the CO2 Budget and Rectification-Airborne 2000 campaign over North America to study the feasibility of using discrete (flask) sampling to determine column mean CO2 in the lowest 4 km of the atmosphere. To simulate flask sampling, data were selected from profiles of CO2 measured continuously with an onboard (in situ) analyzer. We find that midday column means can be determined without bias relative to true column means measured by the in situ analyzer to within 0.15 and better than 0.10 ppm by using 10 and 20 instantaneously collected flask samples, respectively. More precise results can be obtained by using a flask sampling strategy that linearly integrates over portions of the air column. Using less than 8-10 flasks can lead to significant sampling bias for some common profile shapes. Sampling prior to the breakup of the nocturnal stable layer will generally lead to large sampling bias because of the inability of aircraft to probe large CO2 gradients that often exist very close to the ground at night and during the early morning.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

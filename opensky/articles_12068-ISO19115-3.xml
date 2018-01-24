@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:47.406160</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:27.565492</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>North Atlantic atmospheric blocking conditions explain part of the winter climate variability in Europe, being associated with anomalous cold winter temperatures. In this study, the generalized extreme value (GEV) distribution is fitted to monthly minima of European winter 6-hourly minimum temperatures from the ECHAM5/MPI-OM global climate model simulations and the ECMWF reanalysis product known as ERA-40, with an indicator for atmospheric blocking conditions being used as covariate. It is demonstrated that relating the location and scale parameter of the GEV distribution to atmospheric blocking improves the fit to extreme minimum temperatures in large areas of Europe. The climate model simulations agree reasonably with ERA-40 in the present climate (1961-2000). Under the influence of atmospheric blocking, a decrease in the 0.95th quantiles of extreme minimum temperatures can be distinguished. This cooling effect of atmospheric blocking is, however, diminished in future climate simulations because of a shift in blocking location, and thus reduces the chances of very cold winters in northeastern parts of Europe.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[North Atlantic atmospheric blocking conditions explain part of the winter climate variability in Europe, being associated with anomalous cold winter temperatures. In this study, the generalized extreme value (GEV) distribution is fitted to monthly minima of European winter 6-hourly minimum temperatures from the ECHAM5/MPI-OM global climate model simulations and the ECMWF reanalysis product known as ERA-40, with an indicator for atmospheric blocking conditions being used as covariate. It is demonstrated that relating the location and scale parameter of the GEV distribution to atmospheric blocking improves the fit to extreme minimum temperatures in large areas of Europe. The climate model simulations agree reasonably with ERA-40 in the present climate (1961-2000). Under the influence of atmospheric blocking, a decrease in the 0.95th quantiles of extreme minimum temperatures can be distinguished. This cooling effect of atmospheric blocking is, however, diminished in future climate simulations because of a shift in blocking location, and thus reduces the chances of very cold winters in northeastern parts of Europe.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

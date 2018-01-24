@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:09.246313</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:55.298512</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Highly accurate and stable observations -- beyond those provided by routine weather monitoring -- are essential for understanding the behavior of the climate system, developing and validating Earth system models, and attributing extreme weather events and long-term trends to causes [National Research Council, 2012; Trenberth et al., 2013]. In parallel with an exploding volume of climate data, ready access to data in user-friendly formats is important to an expanding number and increasing diversity of individuals worldwide across public, private, and academic sectors [Overpeck et al., 2011].</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Highly accurate and stable observations -- beyond those provided by routine weather monitoring -- are essential for understanding the behavior of the climate system, developing and validating Earth system models, and attributing extreme weather events and long-term trends to causes [National Research Council, 2012; Trenberth et al., 2013]. In parallel with an exploding volume of climate data, ready access to data in user-friendly formats is important to an expanding number and increasing diversity of individuals worldwide across public, private, and academic sectors [Overpeck et al., 2011].]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

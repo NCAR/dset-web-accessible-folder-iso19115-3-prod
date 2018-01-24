@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:13.614316</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:39.366601</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Airborne radar analysis of a mesovortex that developed near the apex of a bow echo is presented. The mesovortex was shown to play a critical role in determining the location of intense "straight-line" wind damage at the surface. The perturbation pressure gradient force (in natural coordinates) along the parcel path accelerated the horizontal winds; however, intense mesovortices modified the low-level outflow and largely determined the locations where the strongest winds occurred. Regions of maximum winds are accounted for as a superposition of the vortex and the flow in which it is embedded. The strongest winds occur on the side of the vortex where translation and rotation effects are in the same direction. This model explains the observed tongue of high wind speeds that were confined to the periphery of the mesovortex. The origin of the mesovortex is also examined. Similarities and differences of this bow echo event with recent modeling studies are presented.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Airborne radar analysis of a mesovortex that developed near the apex of a bow echo is presented. The mesovortex was shown to play a critical role in determining the location of intense "straight-line" wind damage at the surface. The perturbation pressure gradient force (in natural coordinates) along the parcel path accelerated the horizontal winds; however, intense mesovortices modified the low-level outflow and largely determined the locations where the strongest winds occurred. Regions of maximum winds are accounted for as a superposition of the vortex and the flow in which it is embedded. The strongest winds occur on the side of the vortex where translation and rotation effects are in the same direction. This model explains the observed tongue of high wind speeds that were confined to the periphery of the mesovortex. The origin of the mesovortex is also examined. Similarities and differences of this bow echo event with recent modeling studies are presented.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

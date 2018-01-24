@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:55.654369</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:38.186976</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We investigate the effect of stratospheric ozone recovery on Antarctic sea ice in the next half-century, by comparing two ensembles of integrations of the Whole Atmosphere Community Climate Model, from 2001 to 2065. One ensemble is performed by specifying all forcings as per the Representative Concentration Pathway 4.5; the second ensemble is identical in all respects, except for the surface concentrations of ozone depleting substances, which are held fixed at year 2000 levels, thus preventing stratospheric ozone recovery. Sea ice extent declines in both ensembles, as a consequence of increasing greenhouse gas concentrations. However, we find that sea ice loss is ~33% greater for the ensemble in which stratospheric ozone recovery does not take place, and that this effect is statistically significant. Our results, which confirm a previous study dealing with ozone depletion, suggest that ozone recovery will substantially mitigate Antarctic sea ice loss in the coming decades.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We investigate the effect of stratospheric ozone recovery on Antarctic sea ice in the next half-century, by comparing two ensembles of integrations of the Whole Atmosphere Community Climate Model, from 2001 to 2065. One ensemble is performed by specifying all forcings as per the Representative Concentration Pathway 4.5; the second ensemble is identical in all respects, except for the surface concentrations of ozone depleting substances, which are held fixed at year 2000 levels, thus preventing stratospheric ozone recovery. Sea ice extent declines in both ensembles, as a consequence of increasing greenhouse gas concentrations. However, we find that sea ice loss is ~33% greater for the ensemble in which stratospheric ozone recovery does not take place, and that this effect is statistically significant. Our results, which confirm a previous study dealing with ozone depletion, suggest that ozone recovery will substantially mitigate Antarctic sea ice loss in the coming decades.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

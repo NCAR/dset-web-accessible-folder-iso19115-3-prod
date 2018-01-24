@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:52.987647</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:34.723297</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Through the adoption of a bidimensional blocking index based on geopotential height, it is shown that the blocking frequency over Greenland is not only a key element in describing the North Atlantic Oscillation (NAO) index, but it also operates as an essential element in modulating its pattern. When Greenland blocking is lower than average, the first Empirical Orthogonal Function (EOF) of the 500 hPa geopotential height over the Euro-Atlantic region no longer resembles the NAO. Moreover, the typical trimodal variability observed in the Atlantic eddy-driven jet stream is reduced to a bimodal variability. Consistent with this result, we link the eastward displacement of the NAO pattern observed in recent years to the decreasing frequency of Greenland Blocking. Considering the large bias seen in the simulated blocking frequency in climate models, such strong coupling might have important consequences in the analysis of the NAO in climate simulations.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Through the adoption of a bidimensional blocking index based on geopotential height, it is shown that the blocking frequency over Greenland is not only a key element in describing the North Atlantic Oscillation (NAO) index, but it also operates as an essential element in modulating its pattern. When Greenland blocking is lower than average, the first Empirical Orthogonal Function (EOF) of the 500 hPa geopotential height over the Euro-Atlantic region no longer resembles the NAO. Moreover, the typical trimodal variability observed in the Atlantic eddy-driven jet stream is reduced to a bimodal variability. Consistent with this result, we link the eastward displacement of the NAO pattern observed in recent years to the decreasing frequency of Greenland Blocking. Considering the large bias seen in the simulated blocking frequency in climate models, such strong coupling might have important consequences in the analysis of the NAO in climate simulations.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

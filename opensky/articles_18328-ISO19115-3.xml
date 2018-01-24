@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:20.816148</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:37.006462</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Ensemble Kalman filters are widely used for data assimilation in large geophysical models. Good results with affordable ensemble sizes require enhancements to the basic algorithms to deal with insufficient ensemble variance and spurious ensemble correlations between observations and state variables. These challenges are often dealt with by using inflation and localization algorithms. A new method for understanding and reducing some ensemble filter errors is introduced and tested. The method assumes that sampling error due to small ensemble size is the primary source of error. Sampling error in the ensemble correlations between observations and state variables is reduced by estimating the distribution of correlations as part of the ensemble filter algorithm. This correlation error reduction (CER) algorithm can produce high-quality ensemble assimilations in low-order models without using any a priori localization like a specified localization function. The method is also applied in an observing system simulation experiment with a very coarse resolution dry atmospheric general circulation model. This demonstrates that the algorithm provides insight into the need for localization in large geophysical applications, suggesting that sampling error may be a primary cause in some cases.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Ensemble Kalman filters are widely used for data assimilation in large geophysical models. Good results with affordable ensemble sizes require enhancements to the basic algorithms to deal with insufficient ensemble variance and spurious ensemble correlations between observations and state variables. These challenges are often dealt with by using inflation and localization algorithms. A new method for understanding and reducing some ensemble filter errors is introduced and tested. The method assumes that sampling error due to small ensemble size is the primary source of error. Sampling error in the ensemble correlations between observations and state variables is reduced by estimating the distribution of correlations as part of the ensemble filter algorithm. This correlation error reduction (CER) algorithm can produce high-quality ensemble assimilations in low-order models without using any a priori localization like a specified localization function. The method is also applied in an observing system simulation experiment with a very coarse resolution dry atmospheric general circulation model. This demonstrates that the algorithm provides insight into the need for localization in large geophysical applications, suggesting that sampling error may be a primary cause in some cases.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

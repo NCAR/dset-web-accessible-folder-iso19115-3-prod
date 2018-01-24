@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:29.708985</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:02.812750</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Real-Time Four-Dimensional Data Assimilation (RT-FDDA) system is used for orographic snowpack enhancement. The model has three nested domains with the grid spacing of 18, 6 and 2 km. To evaluate the simulations of winter orographic clouds and precipitation, comparisons are made between model simulations and observations to determine how the model simulates the cloud distribution, cloud height, cloud vertical profiles and snow precipitation. The simulated results of the 02:00 UTC cycling with 2-km resolution are used in the comparison. The observations include SNOTEL, ceilometer, sounding and satellite data, from the ground to air. The verification of these observations indicates that the Weather Research and Forecast (WRF) RT-FDDA system provides good simulations. It is better to use data within the forecast period of 2-16 h simulations. Although the horizontal wind component near the ground has some bias, and the simulated clouds are a little higher and have a little more coverage than observed, the simulated precipitation is a little weaker than observed. The results of the comparison show that the WRF RT-FDDA model provides good simulations and can be used in orographic cloud seeding.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Real-Time Four-Dimensional Data Assimilation (RT-FDDA) system is used for orographic snowpack enhancement. The model has three nested domains with the grid spacing of 18, 6 and 2 km. To evaluate the simulations of winter orographic clouds and precipitation, comparisons are made between model simulations and observations to determine how the model simulates the cloud distribution, cloud height, cloud vertical profiles and snow precipitation. The simulated results of the 02:00 UTC cycling with 2-km resolution are used in the comparison. The observations include SNOTEL, ceilometer, sounding and satellite data, from the ground to air. The verification of these observations indicates that the Weather Research and Forecast (WRF) RT-FDDA system provides good simulations. It is better to use data within the forecast period of 2-16 h simulations. Although the horizontal wind component near the ground has some bias, and the simulated clouds are a little higher and have a little more coverage than observed, the simulated precipitation is a little weaker than observed. The results of the comparison show that the WRF RT-FDDA model provides good simulations and can be used in orographic cloud seeding.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

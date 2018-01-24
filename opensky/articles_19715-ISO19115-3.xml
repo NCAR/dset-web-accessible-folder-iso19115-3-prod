@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:47.898854</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:18.628141</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Geospace phenomena such as the aurora, plasma motion, ionospheric currents and associated magnetic field disturbances are highly organized by Earth's main magnetic field. This is due to the fact that the charged particles that comprise space plasma can move almost freely along magnetic field lines, but not across them. For this reason it is sensible to present such phenomena relative to Earth's magnetic field. A large variety of magnetic coordinate systems exist, designed for different purposes and regions, ranging from the magnetopause to the ionosphere. In this paper we review the most common magnetic coordinate systems and describe how they are defined, where they are used, and how to convert between them. The definitions are presented based on the spherical harmonic expansion coefficients of the International Geomagnetic Reference Field (IGRF) and, in some of the coordinate systems, the position of the Sun which we show how to calculate from the time and date. The most detailed coordinate systems take the full IGRF into account and define magnetic latitude and longitude such that they are constant along field lines. These coordinate systems, which are useful at ionospheric altitudes, are non-orthogonal. We show how to handle vectors and vector calculus in such coordinates, and discuss how systematic errors may appear if this is not done correctly.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Geospace phenomena such as the aurora, plasma motion, ionospheric currents and associated magnetic field disturbances are highly organized by Earth's main magnetic field. This is due to the fact that the charged particles that comprise space plasma can move almost freely along magnetic field lines, but not across them. For this reason it is sensible to present such phenomena relative to Earth's magnetic field. A large variety of magnetic coordinate systems exist, designed for different purposes and regions, ranging from the magnetopause to the ionosphere. In this paper we review the most common magnetic coordinate systems and describe how they are defined, where they are used, and how to convert between them. The definitions are presented based on the spherical harmonic expansion coefficients of the International Geomagnetic Reference Field (IGRF) and, in some of the coordinate systems, the position of the Sun which we show how to calculate from the time and date. The most detailed coordinate systems take the full IGRF into account and define magnetic latitude and longitude such that they are constant along field lines. These coordinate systems, which are useful at ionospheric altitudes, are non-orthogonal. We show how to handle vectors and vector calculus in such coordinates, and discuss how systematic errors may appear if this is not done correctly.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

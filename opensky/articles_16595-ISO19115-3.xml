@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:45.985216</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:46.165719</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Van Allen Probes spacecraft have provided detailed observations of the energetic particles and fields environment for coronal mass ejection (CME)-shock-driven storms in 2012 to 2013 which have now been modeled with MHD test particle simulations. The Van Allen Probes orbital plane longitude moved from the dawn sector in 2012 to near midnight and prenoon for equinoctial storms of 2013, providing particularly good measurements of the inductive electric field response to magnetopause compression for the 8 October 2013 CME-shock-driven storm. An abrupt decrease in the outer boundary of outer zone electrons coincided with inward motion of the magnetopause for both 17 March and 8 October 2013 storms, as was the case for storms shortly after launch. Modeling magnetopause dropout events in 2013 with electric field diagnostics that were not available for storms immediately following launch have improved our understanding of the complex role that ULF waves play in radial transport during such events.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Van Allen Probes spacecraft have provided detailed observations of the energetic particles and fields environment for coronal mass ejection (CME)-shock-driven storms in 2012 to 2013 which have now been modeled with MHD test particle simulations. The Van Allen Probes orbital plane longitude moved from the dawn sector in 2012 to near midnight and prenoon for equinoctial storms of 2013, providing particularly good measurements of the inductive electric field response to magnetopause compression for the 8 October 2013 CME-shock-driven storm. An abrupt decrease in the outer boundary of outer zone electrons coincided with inward motion of the magnetopause for both 17 March and 8 October 2013 storms, as was the case for storms shortly after launch. Modeling magnetopause dropout events in 2013 with electric field diagnostics that were not available for storms immediately following launch have improved our understanding of the complex role that ULF waves play in radial transport during such events.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

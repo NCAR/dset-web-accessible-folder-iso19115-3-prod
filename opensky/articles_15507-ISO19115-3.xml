@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:41.389218</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:39.366185</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The potential effects of Greenland Ice Sheet (GrIS) melting on the Atlantic meridional overturning circulation (MOC) and global climate in the 21st century are assessed using the Community Climate System Model version 3 with prescribed rates of GrIS melting. Only when GrIS melting flux is strong enough to be able to produce net freshwater gain in upper subpolar North Atlantic does the MOC weaken further in the 21st century. Otherwise this additional melting flux does not alter the MOC much relative to the simulation without this added flux. The weakened MOC doesn't make the late 21st century global climate cooler than the late 20th century, but does reduce the magnitude of the warming in the northern high latitudes by a few degrees. Moreover, the additional dynamic sea level rise due to this weakened MOC could potentially aggravate the sea level problem near the northeast North America coast.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The potential effects of Greenland Ice Sheet (GrIS) melting on the Atlantic meridional overturning circulation (MOC) and global climate in the 21st century are assessed using the Community Climate System Model version 3 with prescribed rates of GrIS melting. Only when GrIS melting flux is strong enough to be able to produce net freshwater gain in upper subpolar North Atlantic does the MOC weaken further in the 21st century. Otherwise this additional melting flux does not alter the MOC much relative to the simulation without this added flux. The weakened MOC doesn't make the late 21st century global climate cooler than the late 20th century, but does reduce the magnitude of the warming in the northern high latitudes by a few degrees. Moreover, the additional dynamic sea level rise due to this weakened MOC could potentially aggravate the sea level problem near the northeast North America coast.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:53.828425</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:58.123177</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this study, we employed the National Center for Atmospheric Research Thermosphere Ionosphere Electrodynamics General Circulation Model (TIEGCM) and the extended Canadian Middle Atmosphere Model (eCMAM) to investigate the role of the migrating terdiurnal tide on the formation and variation of the thermosphere midnight temperature maximum (MTM) and midnight mass density maximum (MDM). The migrating terdiurnal tide from the eCMAM was applied at the TIEGCM's lower boundary, along with the migrating diurnal and semidiurnal tides from the Global-Scale Wave Model. Several numerical experiments with different combinations of tidal forcing at the TIEGCM's lower boundary were carried out to determine the contribution of each tide to MTM/MDM. We found that the interplay between diurnal, semidiurnal, and terdiurnal tides determines the formation of MTM/MDM and their structure in the upper thermosphere. The decrease of thermospheric mass density after MDM reaches its maximum at ~02:00 local time is mainly controlled by the terdiurnal tide. Furthermore, we examined the generation mechanisms of the migrating terdiurnal tide in the upper thermosphere and found that they come from three sources: upward propagation from the lower thermosphere, in situ generation via nonlinear interaction, and thermal excitation.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this study, we employed the National Center for Atmospheric Research Thermosphere Ionosphere Electrodynamics General Circulation Model (TIEGCM) and the extended Canadian Middle Atmosphere Model (eCMAM) to investigate the role of the migrating terdiurnal tide on the formation and variation of the thermosphere midnight temperature maximum (MTM) and midnight mass density maximum (MDM). The migrating terdiurnal tide from the eCMAM was applied at the TIEGCM's lower boundary, along with the migrating diurnal and semidiurnal tides from the Global-Scale Wave Model. Several numerical experiments with different combinations of tidal forcing at the TIEGCM's lower boundary were carried out to determine the contribution of each tide to MTM/MDM. We found that the interplay between diurnal, semidiurnal, and terdiurnal tides determines the formation of MTM/MDM and their structure in the upper thermosphere. The decrease of thermospheric mass density after MDM reaches its maximum at ~02:00 local time is mainly controlled by the terdiurnal tide. Furthermore, we examined the generation mechanisms of the migrating terdiurnal tide in the upper thermosphere and found that they come from three sources: upward propagation from the lower thermosphere, in situ generation via nonlinear interaction, and thermal excitation.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

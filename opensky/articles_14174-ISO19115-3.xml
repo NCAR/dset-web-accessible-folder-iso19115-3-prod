@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:24.505824</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:15.300711</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Using a regional model initial condition ensemble, this study quantifies the magnitude of internal variability of North Atlantic tropical cyclone frequency for a case study year and identifies potential physical sources. For tropical cyclone formations from easterly waves, the simulated internal variability of tropical cyclone frequency for 1998 is approximately two fifths of the total (externally forced and internal) variability of observed tropical cyclone frequency. The simulated internal variability of tropical cyclone frequency is found to arise in approximately equal measure from variability of easterly wave occurrence and development and variability of the transition from incipient warm cores to tropical cyclones. Variable interaction between developing tropical cyclones and vertical wind shear associated with upper level cyclones is identified as a potentially important contributing factor to tropical cyclone internal variability.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Using a regional model initial condition ensemble, this study quantifies the magnitude of internal variability of North Atlantic tropical cyclone frequency for a case study year and identifies potential physical sources. For tropical cyclone formations from easterly waves, the simulated internal variability of tropical cyclone frequency for 1998 is approximately two fifths of the total (externally forced and internal) variability of observed tropical cyclone frequency. The simulated internal variability of tropical cyclone frequency is found to arise in approximately equal measure from variability of easterly wave occurrence and development and variability of the transition from incipient warm cores to tropical cyclones. Variable interaction between developing tropical cyclones and vertical wind shear associated with upper level cyclones is identified as a potentially important contributing factor to tropical cyclone internal variability.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:23.046271</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:40.515542</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Climate models exhibit a wide range in latitudinal position of the Southern Hemisphere westerly jet. Previous work has demonstrated, in the annual mean, that models with lower latitude jets, exhibit greater poleward jet shifts under climate forcings. It has been argued that this behavior is due to stronger eddy/mean flow feedbacks in models with lower latitude jets, as inferred from the timescale of the Southern Annular Mode (SAM). Here we revisit this question with a focus on seasonality. Using a larger set of models and forcing scenarios from the Coupled Model Intercomparison Project, phase 5, we find that the jet position/jet shift relationship is strong in winter but insignificant in summer, whereas the model spread in SAM timescales arises primarily in summer, with winter timescales similar across models. The results, therefore, question previous interpretations and motivate an improved understanding of the spread in model behavior.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Climate models exhibit a wide range in latitudinal position of the Southern Hemisphere westerly jet. Previous work has demonstrated, in the annual mean, that models with lower latitude jets, exhibit greater poleward jet shifts under climate forcings. It has been argued that this behavior is due to stronger eddy/mean flow feedbacks in models with lower latitude jets, as inferred from the timescale of the Southern Annular Mode (SAM). Here we revisit this question with a focus on seasonality. Using a larger set of models and forcing scenarios from the Coupled Model Intercomparison Project, phase 5, we find that the jet position/jet shift relationship is strong in winter but insignificant in summer, whereas the model spread in SAM timescales arises primarily in summer, with winter timescales similar across models. The results, therefore, question previous interpretations and motivate an improved understanding of the spread in model behavior.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

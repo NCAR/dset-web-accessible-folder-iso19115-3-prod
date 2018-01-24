@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:44.610025</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:13.720136</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this study, we examine the potential of snow water equivalent data assimilation (DA) using the ensemble Kalman filter (EnKF) to improve seasonal streamflow predictions. There are several goals of this study. First, we aim to examine some empirical aspects of the EnKF, namely the observational uncertainty estimates and the observation transformation operator. Second, we use a newly created ensemble forcing dataset to develop ensemble model states that provide an estimate of model state uncertainty. Third, we examine the impact of varying the observation and model state uncertainty on forecast skill. We use basins from the Pacific Northwest, Rocky Mountains, and California in the western United States with the coupled Snow-17 and Sacramento Soil Moisture Accounting (SAC-SMA) models. We find that most EnKF implementation variations result in improved streamflow prediction, but the methodological choices in the examined components impact predictive performance in a non-uniform way across the basins. Finally, basins with relatively higher calibrated model performance (&gt; 0.80 NSE) without DA generally have lesser improvement with DA, while basins with poorer historical model performance show greater improvements.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this study, we examine the potential of snow water equivalent data assimilation (DA) using the ensemble Kalman filter (EnKF) to improve seasonal streamflow predictions. There are several goals of this study. First, we aim to examine some empirical aspects of the EnKF, namely the observational uncertainty estimates and the observation transformation operator. Second, we use a newly created ensemble forcing dataset to develop ensemble model states that provide an estimate of model state uncertainty. Third, we examine the impact of varying the observation and model state uncertainty on forecast skill. We use basins from the Pacific Northwest, Rocky Mountains, and California in the western United States with the coupled Snow-17 and Sacramento Soil Moisture Accounting (SAC-SMA) models. We find that most EnKF implementation variations result in improved streamflow prediction, but the methodological choices in the examined components impact predictive performance in a non-uniform way across the basins. Finally, basins with relatively higher calibrated model performance (&gt; 0.80 NSE) without DA generally have lesser improvement with DA, while basins with poorer historical model performance show greater improvements.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

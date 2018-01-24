@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:23.750881</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:41.583253</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Uncertainty in cumulus convection parameterization is one of the most important causes of model climate drift through interactions between large-scale background and local convection that use empirically set parameters. Without addressing the large-scale feedback, the calibrated parameter values within a convection scheme are usually not optimal for a climate model. This study first designs a multiple-column atmospheric model that includes large-scale feedbacks for cumulus convection and then explores the role of large-scale feedbacks in cumulus convection parameter estimation using an ensemble filter. The performance of convection parameter estimation with or without the presence of large-scale feedback is examined. It is found that including large-scale feedbacks in cumulus convection parameter estimation can significantly improve the estimation quality. This is because large-scale feedbacks help transform local convection uncertainties into global climate sensitivities, and including these feedbacks enhances the statistical representation of the relationship between parameters and state variables. The results of this study provide insights for further understanding of climate drift induced from imperfect cumulus convection parameterization, which may help improve climate modeling.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Uncertainty in cumulus convection parameterization is one of the most important causes of model climate drift through interactions between large-scale background and local convection that use empirically set parameters. Without addressing the large-scale feedback, the calibrated parameter values within a convection scheme are usually not optimal for a climate model. This study first designs a multiple-column atmospheric model that includes large-scale feedbacks for cumulus convection and then explores the role of large-scale feedbacks in cumulus convection parameter estimation using an ensemble filter. The performance of convection parameter estimation with or without the presence of large-scale feedback is examined. It is found that including large-scale feedbacks in cumulus convection parameter estimation can significantly improve the estimation quality. This is because large-scale feedbacks help transform local convection uncertainties into global climate sensitivities, and including these feedbacks enhances the statistical representation of the relationship between parameters and state variables. The results of this study provide insights for further understanding of climate drift induced from imperfect cumulus convection parameterization, which may help improve climate modeling.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

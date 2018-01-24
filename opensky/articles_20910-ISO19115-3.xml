@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:53.560310</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:27.213560</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We examine a suite of journal-level productivity and citation statistics for six leading hydrology journals in order to help authors understand the robustness and meaning of journal impact factors. The main results are (1) the probability distribution of citations is remarkably homogenous across hydrology journals; (2) hydrology papers tend to have a long-lasting impact, with a large fraction of papers cited after the 2 year window used to calculate the journal impact factor; and (3) journal impact factors are characterized by substantial year-to-year variability (especially for smaller journals), primarily because a small number of highly cited papers have a large influence on the journal impact factor. Consequently, the ranking of hydrology journals with respect to the journal impact factor in a given year does not have much information content. These results highlight problems in using citation data to evaluate hydrologic science. We hope that this analysis helps authors better understand journal-level citation statistics, and also helps improve research assessments in institutions and funding agencies.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We examine a suite of journal-level productivity and citation statistics for six leading hydrology journals in order to help authors understand the robustness and meaning of journal impact factors. The main results are (1) the probability distribution of citations is remarkably homogenous across hydrology journals; (2) hydrology papers tend to have a long-lasting impact, with a large fraction of papers cited after the 2 year window used to calculate the journal impact factor; and (3) journal impact factors are characterized by substantial year-to-year variability (especially for smaller journals), primarily because a small number of highly cited papers have a large influence on the journal impact factor. Consequently, the ranking of hydrology journals with respect to the journal impact factor in a given year does not have much information content. These results highlight problems in using citation data to evaluate hydrologic science. We hope that this analysis helps authors better understand journal-level citation statistics, and also helps improve research assessments in institutions and funding agencies.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

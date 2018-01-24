@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:57.527679</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:03.529499</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The European Center for Medium-Range Weather Forecast (ECMWF) Re-Analysis (ERA-40) and the National Centers for Environmental Prediction-National Center for Atmospheric Research (NCEP-NCAR) ECMWF (ERA-40) and NCEP-NCAR reanalysis data were compared with Antarctic station observations, including surface-layer and upper-layer atmospheric observations, on intraseasonal and interannual timescales. At the interannual timescale, atmospheric pressure at different height levels in the ERA-40 data are in better agreement with observed pressure than that in the NCEP-NCAR reanalysis data. ERA-40 reanalysis also outperforms NCEP-NCAR reanalysis in atmospheric temperature, except in the surface layer where the biases are somewhat larger. The wind velocity fields in both datasets do not agree well with surface- and upper-layer atmospheric observations. At intraseasonal timescales, both datasets capture the observed intraseasonal variability in pressure and temperature during austral winter.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The European Center for Medium-Range Weather Forecast (ECMWF) Re-Analysis (ERA-40) and the National Centers for Environmental Prediction-National Center for Atmospheric Research (NCEP-NCAR) ECMWF (ERA-40) and NCEP-NCAR reanalysis data were compared with Antarctic station observations, including surface-layer and upper-layer atmospheric observations, on intraseasonal and interannual timescales. At the interannual timescale, atmospheric pressure at different height levels in the ERA-40 data are in better agreement with observed pressure than that in the NCEP-NCAR reanalysis data. ERA-40 reanalysis also outperforms NCEP-NCAR reanalysis in atmospheric temperature, except in the surface layer where the biases are somewhat larger. The wind velocity fields in both datasets do not agree well with surface- and upper-layer atmospheric observations. At intraseasonal timescales, both datasets capture the observed intraseasonal variability in pressure and temperature during austral winter.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

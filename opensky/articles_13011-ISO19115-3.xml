@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:10.617671</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:56.872184</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We review methods to measure magnetic fields within the corona using the polarized light in magnetic-dipole (M1) lines. We are particularly interested in both the global magnetic-field evolution over a solar cycle, and the local storage of magnetic free energy within coronal plasmas. We address commonly held skepticisms concerning angular ambiguities and line-of-sight confusion. We argue that ambiguities are, in principle, no worse than more familiar remotely sensed photospheric vector fields, and that the diagnosis of M1 line data would benefit from simultaneous observations of EUV lines. Based on calculations and data from eclipses, we discuss the most promising lines and different approaches that might be used. We point to the S-like [Fe xi] line (J=2 to J=1) at 789.2 nm as a prime target line (for the Advanced Technology Solar Telescope (ATST) for example) to augment the hotter 1074.7 and 1079.8 nm Si-like lines of [Fe xiii] currently observed by the Coronal Multi-channel Polarimeter (CoMP). Significant breakthroughs will be made possible with the new generation of coronagraphs, in three distinct ways: i) through single-point inversions (which encompasses also the analysis of MHD wave modes), ii) using direct comparisons of synthetic MHD or force-free models with polarization data, and iii) using tomographic techniques.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We review methods to measure magnetic fields within the corona using the polarized light in magnetic-dipole (M1) lines. We are particularly interested in both the global magnetic-field evolution over a solar cycle, and the local storage of magnetic free energy within coronal plasmas. We address commonly held skepticisms concerning angular ambiguities and line-of-sight confusion. We argue that ambiguities are, in principle, no worse than more familiar remotely sensed photospheric vector fields, and that the diagnosis of M1 line data would benefit from simultaneous observations of EUV lines. Based on calculations and data from eclipses, we discuss the most promising lines and different approaches that might be used. We point to the S-like [Fe xi] line (J=2 to J=1) at 789.2 nm as a prime target line (for the Advanced Technology Solar Telescope (ATST) for example) to augment the hotter 1074.7 and 1079.8 nm Si-like lines of [Fe xiii] currently observed by the Coronal Multi-channel Polarimeter (CoMP). Significant breakthroughs will be made possible with the new generation of coronagraphs, in three distinct ways: i) through single-point inversions (which encompasses also the analysis of MHD wave modes), ii) using direct comparisons of synthetic MHD or force-free models with polarization data, and iii) using tomographic techniques.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

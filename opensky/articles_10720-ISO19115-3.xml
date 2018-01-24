@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:31.556055</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:05.394583</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We introduce the Chromospheric Telescope (ChroTel) at the Observatorio del Teide in Izana on Tenerife as a new multi-wavelength imaging telescope for full-disk synoptic observations of the solar chromosphere. We describe the design of the instrument and summarize its performance during the first one and a half years of operation. We present a method to derive line-of-sight velocity maps of the full solar disk from filtergrams taken in and near the He I infrared line at 10830 \AA.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We introduce the Chromospheric Telescope (ChroTel) at the Observatorio del Teide in Izana on Tenerife as a new multi-wavelength imaging telescope for full-disk synoptic observations of the solar chromosphere. We describe the design of the instrument and summarize its performance during the first one and a half years of operation. We present a method to derive line-of-sight velocity maps of the full solar disk from filtergrams taken in and near the He I infrared line at 10830 \AA.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

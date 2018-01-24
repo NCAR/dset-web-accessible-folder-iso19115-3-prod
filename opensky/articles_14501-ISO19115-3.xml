@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:32.177749</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:25.863400</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Regional convection-permitting model simulations of cloud populations observed during the 2011 Atmospheric Radiation Measurement (ARM) Madden-Julian Oscillation Investigation Experiment/Dynamics of the Madden-Julian Oscillation Experiment (AMIE/DYNAMO) field campaign are evaluated against ground-based radar and ship-based observations. Sensitivity of model simulated reflectivity, surface rain rate, and cold pool statistics to variations of raindrop breakup/self-collection parameters in four state-of-the-art two-moment bulk microphysics schemes in the Weather Research and Forecasting (WRF) model is examined. The model simulations generally overestimate reflectivity from large and deep convective cells, and underestimate stratiform rain and the frequency of cold pools. In the sensitivity experiments, introduction of more aggressive raindrop breakup or decreasing the self-collection efficiency increases the cold pool occurrence frequency in all of the simulations, and slightly reduces the reflectivity and precipitation statistics bias in some schemes but has little effect on the overall mean surface precipitation. Both the radar observations and model simulations of cloud populations show an approximate power law relationship between convective echo-top height and equivalent convective cell radius.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Regional convection-permitting model simulations of cloud populations observed during the 2011 Atmospheric Radiation Measurement (ARM) Madden-Julian Oscillation Investigation Experiment/Dynamics of the Madden-Julian Oscillation Experiment (AMIE/DYNAMO) field campaign are evaluated against ground-based radar and ship-based observations. Sensitivity of model simulated reflectivity, surface rain rate, and cold pool statistics to variations of raindrop breakup/self-collection parameters in four state-of-the-art two-moment bulk microphysics schemes in the Weather Research and Forecasting (WRF) model is examined. The model simulations generally overestimate reflectivity from large and deep convective cells, and underestimate stratiform rain and the frequency of cold pools. In the sensitivity experiments, introduction of more aggressive raindrop breakup or decreasing the self-collection efficiency increases the cold pool occurrence frequency in all of the simulations, and slightly reduces the reflectivity and precipitation statistics bias in some schemes but has little effect on the overall mean surface precipitation. Both the radar observations and model simulations of cloud populations show an approximate power law relationship between convective echo-top height and equivalent convective cell radius.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

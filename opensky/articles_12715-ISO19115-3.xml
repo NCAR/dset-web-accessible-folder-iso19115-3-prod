@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:02.502184</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:46.959490</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this study, we propose a generalized stability indicator, L, for a slowly evolving and quasi-steady Atlantic meridional overturning circulation (AMOC), which represents a feedback related to the AMOC and its associated freshwater transport within the Atlantic basin. As an improvement from previous indicators for the AMOC in equilibrium, this generalized indicator does not require a divergence-free freshwater transport in the Atlantic for a collapsed AMOC, which enables it to correctly monitor the AMOC stability through the AMOC hysteresis loop in the coupled atmosphere-ocean general circulation models. From the simulation, the indicator L suggests that the AMOC is in a stable regime, with single equilibrium under the present-day and the Last Glacial Maximum (LGM) climates. However, under the present-day climate, a Bering Strait (BS) closure will diminish the freshwater outflow from the North Atlantic into the Arctic as the AMOC collapses, resulting in a freshwater convergence in the Atlantic basin and making the AMOC reside in a stable collapsed state, i.e., the AMOC exhibits characteristics of multiple equilibria. Further analysis shows that the BS effect is much reduced under the LGM climate. This generalized indicator L has great implications for paleoclimate studies in understanding the abrupt climate change due to the instability of the AMOC.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this study, we propose a generalized stability indicator, L, for a slowly evolving and quasi-steady Atlantic meridional overturning circulation (AMOC), which represents a feedback related to the AMOC and its associated freshwater transport within the Atlantic basin. As an improvement from previous indicators for the AMOC in equilibrium, this generalized indicator does not require a divergence-free freshwater transport in the Atlantic for a collapsed AMOC, which enables it to correctly monitor the AMOC stability through the AMOC hysteresis loop in the coupled atmosphere-ocean general circulation models. From the simulation, the indicator L suggests that the AMOC is in a stable regime, with single equilibrium under the present-day and the Last Glacial Maximum (LGM) climates. However, under the present-day climate, a Bering Strait (BS) closure will diminish the freshwater outflow from the North Atlantic into the Arctic as the AMOC collapses, resulting in a freshwater convergence in the Atlantic basin and making the AMOC reside in a stable collapsed state, i.e., the AMOC exhibits characteristics of multiple equilibria. Further analysis shows that the BS effect is much reduced under the LGM climate. This generalized indicator L has great implications for paleoclimate studies in understanding the abrupt climate change due to the instability of the AMOC.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

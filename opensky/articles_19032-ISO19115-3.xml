@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:36.276815</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:01.112572</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The atmospheric limb sounding technique based on the Global Positioning System (GPS) has been shown to be accurate and of very high vertical resolution. The fact that the GPS radio occultation (RO) technique is not affected by clouds or precipitation, has no instrument drift, and requires no calibration makes it ideally suited for climate monitoring and global weather prediction. The Constellation Observing System for Meteorology, Ionosphere, and Climate (ROCSAT-3/COSMIC) mission will be launched in late 2005, and will provide ~2,500 GPS radio occultation soundings per day to support operational weather prediction, climate analysis, and ionospheric research. Other radio occultation missions are expected to coincide with COSMIC promising additional data. In this paper, we provide status overview of the COSMIC mission, describe its science goals, and review selected GPS RO studies that are relevant to weather prediction and climate analysis.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The atmospheric limb sounding technique based on the Global Positioning System (GPS) has been shown to be accurate and of very high vertical resolution. The fact that the GPS radio occultation (RO) technique is not affected by clouds or precipitation, has no instrument drift, and requires no calibration makes it ideally suited for climate monitoring and global weather prediction. The Constellation Observing System for Meteorology, Ionosphere, and Climate (ROCSAT-3/COSMIC) mission will be launched in late 2005, and will provide ~2,500 GPS radio occultation soundings per day to support operational weather prediction, climate analysis, and ionospheric research. Other radio occultation missions are expected to coincide with COSMIC promising additional data. In this paper, we provide status overview of the COSMIC mission, describe its science goals, and review selected GPS RO studies that are relevant to weather prediction and climate analysis.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

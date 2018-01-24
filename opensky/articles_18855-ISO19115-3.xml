@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:33.644599</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:56.835109</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>During the winter of 2015, there was a strong El Nino (ENSO) event, resulting in significant anomalies for meteorological conditions in China. Analysis shows that the meteorological conditions in December 2015 (compared to December 2014) had several important anomalies, including the following: (1) the surface southeasterly winds were significantly enhanced in the North China Plain (NCP); (2) the precipitation was increased in the south of eastern China; and (3) the wind speeds were decreased in the middle-north of eastern China, while slightly increased in the south of eastern China. These meteorological anomalies produced important impacts on the aerosol pollution in eastern China. In the NCP region, the PM2.5 concentrations were significantly increased, with a maximum increase of 80-100 mu g m(-3). A global chemical/transport model (MOZART-4) was applied to study the individual contribution of the changes in winds and precipitation to PM2.5 concentrations. This study suggests that the 2015El Nino event had significant effects on air pollution in eastern China, especially in the NCP region, including the capital city of Beijing, in which aerosol pollution was significantly enhanced in the already heavily polluted capital city of China.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[During the winter of 2015, there was a strong El Nino (ENSO) event, resulting in significant anomalies for meteorological conditions in China. Analysis shows that the meteorological conditions in December 2015 (compared to December 2014) had several important anomalies, including the following: (1) the surface southeasterly winds were significantly enhanced in the North China Plain (NCP); (2) the precipitation was increased in the south of eastern China; and (3) the wind speeds were decreased in the middle-north of eastern China, while slightly increased in the south of eastern China. These meteorological anomalies produced important impacts on the aerosol pollution in eastern China. In the NCP region, the PM2.5 concentrations were significantly increased, with a maximum increase of 80-100 mu g m(-3). A global chemical/transport model (MOZART-4) was applied to study the individual contribution of the changes in winds and precipitation to PM2.5 concentrations. This study suggests that the 2015El Nino event had significant effects on air pollution in eastern China, especially in the NCP region, including the capital city of Beijing, in which aerosol pollution was significantly enhanced in the already heavily polluted capital city of China.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

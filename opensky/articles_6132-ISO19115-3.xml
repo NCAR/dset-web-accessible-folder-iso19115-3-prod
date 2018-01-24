@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:14.232038</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:29.403855</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[A variational scheme for the analysis of low-level wind data is presented, and its performance during a recent field experiment is described. The analysis scheme finds an optimal fit to the data and a background field under the constraints of a dry boundary layer model. The scheme was run at the Sydney 2000 Forecast Demonstration Project and assimilated data from two Doppler radars, a surface mesonet, and a boundary layer profiler. With a few exceptions, the analysis system ran reliably over the 6-month period of the project, providing wind fields every 10 min. Described herein is the performance of the system in tracking a number of different phenomena, including sea breezes, a southerly change, and the low-level convergence associated with a severe tornadic hailstorm. Finally, the analyzed wind fields are verified using independent aircraft data and compared with winds calculated by the more traditional dual-Doppler approach.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

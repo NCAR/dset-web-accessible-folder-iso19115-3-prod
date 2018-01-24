@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:26.643797</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:58.365701</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -189,7 +189,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This was published as a section in "The State of the Climate in 2009", a Special Supplement edition of the Bulletin of the American Meteorological Society.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This was published as a section in "The State of the Climate in 2009", a Special Supplement edition of the Bulletin of the American Meteorological Society.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:58.077760</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:41.223558</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study presents a method for comparing convection-permitting model simulations to radar observations using an innovative object-based approach. The method uses the automated cell-tracking algorithm, Thunderstorm Identification Tracking Analysis and Nowcasting (TITAN), to identify individual convective cells and determine their properties. Cell properties are identified in the same way for model and radar data, facilitating comparison of their statistical distributions. The method is applied to simulations of tropical convection during the Tropical Warm Pool-International Cloud Experiment (TWP-ICE) using the Weather Research and Forecasting Model, and compared to data from a ground-based radar. Simulations with different microphysics and model resolution are also conducted. Among other things, the comparisons between the model and the radar elucidate model errors in the depth and size of convective cells. On average, simulated convective cells reached higher altitudes than the observations. Also, when using a low reflectivity (25 dBZ) threshold to define convective cells, the model underestimates the size of the largest cells in the observed population. Some of these differences are alleviated with a change of microphysics scheme and higher model resolution, demonstrating the utility of this method for assessing model changes.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study presents a method for comparing convection-permitting model simulations to radar observations using an innovative object-based approach. The method uses the automated cell-tracking algorithm, Thunderstorm Identification Tracking Analysis and Nowcasting (TITAN), to identify individual convective cells and determine their properties. Cell properties are identified in the same way for model and radar data, facilitating comparison of their statistical distributions. The method is applied to simulations of tropical convection during the Tropical Warm Pool-International Cloud Experiment (TWP-ICE) using the Weather Research and Forecasting Model, and compared to data from a ground-based radar. Simulations with different microphysics and model resolution are also conducted. Among other things, the comparisons between the model and the radar elucidate model errors in the depth and size of convective cells. On average, simulated convective cells reached higher altitudes than the observations. Also, when using a low reflectivity (25 dBZ) threshold to define convective cells, the model underestimates the size of the largest cells in the observed population. Some of these differences are alleviated with a change of microphysics scheme and higher model resolution, demonstrating the utility of this method for assessing model changes.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:43.068132</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:41.796969</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This is the second part of a study that examines spiral rainbands in a numerical simulation of Hurricane Bill (2009). This paper evaluates whether the propagation of inner rainbands in the Hurricane Bill simulation is consistent with previously proposed hypotheses. Results indicate that the propagation of inner rainbands is not consistent with gravity waves, vortex Rossby waves, or squall lines. An alternative hypothesis is offered, arguing that inner rainbands are simply convective clouds that are advected by the rapidly rotating tropical cyclone wind field while being deformed into spiral shapes. A summary and a discussion of the results of both Parts I and II are provided.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This is the second part of a study that examines spiral rainbands in a numerical simulation of Hurricane Bill (2009). This paper evaluates whether the propagation of inner rainbands in the Hurricane Bill simulation is consistent with previously proposed hypotheses. Results indicate that the propagation of inner rainbands is not consistent with gravity waves, vortex Rossby waves, or squall lines. An alternative hypothesis is offered, arguing that inner rainbands are simply convective clouds that are advected by the rapidly rotating tropical cyclone wind field while being deformed into spiral shapes. A summary and a discussion of the results of both Parts I and II are provided.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

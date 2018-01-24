@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:14.129686</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:40.077836</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Satellite data from the Atmospheric Infrared Sounder (AIRS) is analyzed to examine regions of the upper troposphere that are supersaturated: where the relative humidity (RH) is greater than 100%. AIRS data compare well to other in situ and satellite observations of RH and provide daily global coverage up to 200 hPa, though satellite observations of supersaturation are highly uncertain. The climatology of supersaturation is analyzed statistically to understand where supersaturation occurs and how frequently. Supersaturation occurs in humid regions of the upper tropical tropopause near convection 10%-20% of the time at 200 hPa. Supersaturation is very frequent in the extratropical upper troposphere, occurring 20%-40% of the time, and over 50% of the time in storm track regions below the tropopause. The annual cycle of supersaturation is consistent for the 2.5 yr of data analyzed. More supersaturation is seen in the Southern Hemisphere midlatitudes, which may be attributed to higher temperature variance.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Satellite data from the Atmospheric Infrared Sounder (AIRS) is analyzed to examine regions of the upper troposphere that are supersaturated: where the relative humidity (RH) is greater than 100%. AIRS data compare well to other in situ and satellite observations of RH and provide daily global coverage up to 200 hPa, though satellite observations of supersaturation are highly uncertain. The climatology of supersaturation is analyzed statistically to understand where supersaturation occurs and how frequently. Supersaturation occurs in humid regions of the upper tropical tropopause near convection 10%-20% of the time at 200 hPa. Supersaturation is very frequent in the extratropical upper troposphere, occurring 20%-40% of the time, and over 50% of the time in storm track regions below the tropopause. The annual cycle of supersaturation is consistent for the 2.5 yr of data analyzed. More supersaturation is seen in the Southern Hemisphere midlatitudes, which may be attributed to higher temperature variance.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

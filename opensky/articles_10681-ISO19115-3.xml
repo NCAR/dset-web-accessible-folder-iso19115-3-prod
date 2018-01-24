@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:30.635311</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:04.137157</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Magnetospheric substorms are a key manifestation of the transfer of energy from the solar wind to the Earth. Substorms consist of a loading of energy from the solar wind via magnetic reconnection and then a rapid release of that energy. One of the results of this energy release is the intense brightening of the aurora observed in the Earth's high-latitude regions. At some point, the dissipation of energy peaks and the system recovers. This paper focuses on addressing the question of what causes the transition to the recovery phase of the substorm typically defined by the retreat of the substorm magnetic reconnection site, or neutral line, in the magnetotail. One suggested hypothesis is that the expansion of the dipolarization of the magnetic field in the inner magnetosphere causes the neutral line to move tailward. We use the Lyon-Fedder-Mobarry magnetohydrodynamic code to model seven substorms to examine what causes the neutral line retreat in the simulation. We conclude that while the simulation reproduces the substorms with the loading and unloading of energy, the retreat of the neutral line is a directly driven process that is controlled by the solar wind.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Magnetospheric substorms are a key manifestation of the transfer of energy from the solar wind to the Earth. Substorms consist of a loading of energy from the solar wind via magnetic reconnection and then a rapid release of that energy. One of the results of this energy release is the intense brightening of the aurora observed in the Earth's high-latitude regions. At some point, the dissipation of energy peaks and the system recovers. This paper focuses on addressing the question of what causes the transition to the recovery phase of the substorm typically defined by the retreat of the substorm magnetic reconnection site, or neutral line, in the magnetotail. One suggested hypothesis is that the expansion of the dipolarization of the magnetic field in the inner magnetosphere causes the neutral line to move tailward. We use the Lyon-Fedder-Mobarry magnetohydrodynamic code to model seven substorms to examine what causes the neutral line retreat in the simulation. We conclude that while the simulation reproduces the substorms with the loading and unloading of energy, the retreat of the neutral line is a directly driven process that is controlled by the solar wind.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

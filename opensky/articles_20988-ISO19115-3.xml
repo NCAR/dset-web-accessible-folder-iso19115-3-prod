@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:55.311957</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:29.801590</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Triple collocation has found widespread application in the hydrological sciences because it provides information about the errors in our measurements without requiring that we have any direct access to the true value of the variable being measured. Triple collocation derives variance-covariance relationships between three or more independent measurement sources and an indirectly observed truth variable in the case where the measurement operators are additive. We generalize that theory to arbitrary observation operators by deriving nonparametric analogues to the total error and total correlation statistics as integrations of divergences from conditional to marginal probability ratios. The nonparametric solution to the full measurement problem is underdetermined, and we therefore retrieve conservative bounds on the theoretical total nonparametric error and correlation statistics. We examine the application of both linear and non-linear triple collocation to synthetic examples and to a real-data test case related to evaluating space-borne soil moisture retrievals using sparse monitoring networks and dynamical process models.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Triple collocation has found widespread application in the hydrological sciences because it provides information about the errors in our measurements without requiring that we have any direct access to the true value of the variable being measured. Triple collocation derives variance-covariance relationships between three or more independent measurement sources and an indirectly observed truth variable in the case where the measurement operators are additive. We generalize that theory to arbitrary observation operators by deriving nonparametric analogues to the total error and total correlation statistics as integrations of divergences from conditional to marginal probability ratios. The nonparametric solution to the full measurement problem is underdetermined, and we therefore retrieve conservative bounds on the theoretical total nonparametric error and correlation statistics. We examine the application of both linear and non-linear triple collocation to synthetic examples and to a real-data test case related to evaluating space-borne soil moisture retrievals using sparse monitoring networks and dynamical process models.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

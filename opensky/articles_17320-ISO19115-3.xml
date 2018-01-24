@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:02.567013</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:10.737666</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>New approaches for observing the moist troposphere using radio occultation (RO) signals transformed to impact parameter representation by radio-holographic (RH) methods are presented. Large changes in the RH bending angle are used as indicators of significant vertical refractivity gradients that often occur on top of the atmospheric boundary layer (ABL), convective cloud layers such as the trade-wind inversion, and other moist layers in the free troposphere. RH amplitude fluctuations are used as an indicator of turbulence in the moist troposphere. The approaches are demonstrated using RO data from the Constellation Observing System for Meteorology, Ionosphere and Climate (COSMIC) mission from September 2006. The global distributions of the ABL depths and tops of moist convective layers derived from COSMIC RO data correspond generally to the observed locations and structures of the Intertropical Convergence Zone and adjacent sub-tropical regions. The approaches are suitable for investigations of the temporal and spatial ABL variability.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[New approaches for observing the moist troposphere using radio occultation (RO) signals transformed to impact parameter representation by radio-holographic (RH) methods are presented. Large changes in the RH bending angle are used as indicators of significant vertical refractivity gradients that often occur on top of the atmospheric boundary layer (ABL), convective cloud layers such as the trade-wind inversion, and other moist layers in the free troposphere. RH amplitude fluctuations are used as an indicator of turbulence in the moist troposphere. The approaches are demonstrated using RO data from the Constellation Observing System for Meteorology, Ionosphere and Climate (COSMIC) mission from September 2006. The global distributions of the ABL depths and tops of moist convective layers derived from COSMIC RO data correspond generally to the observed locations and structures of the Intertropical Convergence Zone and adjacent sub-tropical regions. The approaches are suitable for investigations of the temporal and spatial ABL variability.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

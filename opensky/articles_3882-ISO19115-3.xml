@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:04.822664</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:26.554449</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Numerical experiments in this study show that the tidal wind may have strong impacts on the stability of the gravity wave and therefore significantly affects the breaking of the gravity wave. This enhances the local dynamical cooling and turbulence heating, and produces descending heating/cooling structures, which are similar to recent lidar observations. The propagating phase of such structures is dependent on the descending phase of the tidal wave and the gravity wave breaking level. The maximum heating corresponds closely with a negative or positive shear of the accelerated flow, depending on the gravity wave propagation direction.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Numerical experiments in this study show that the tidal wind may have strong impacts on the stability of the gravity wave and therefore significantly affects the breaking of the gravity wave. This enhances the local dynamical cooling and turbulence heating, and produces descending heating/cooling structures, which are similar to recent lidar observations. The propagating phase of such structures is dependent on the descending phase of the tidal wave and the gravity wave breaking level. The maximum heating corresponds closely with a negative or positive shear of the accelerated flow, depending on the gravity wave propagation direction.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

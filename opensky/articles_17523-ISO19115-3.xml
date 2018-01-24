@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:07.576476</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:17.713515</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper summarizes a number of best-practices associated with the use of numerical models of the atmosphere, and is motivated by the rapid growth in the number of model users, who have a range of scientific and technical preparations. An underlying important message is that models are complex and imperfect tools, and model users must be aware of their strengths and weaknesses, and be thorough in the process of model configuration and verification.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper summarizes a number of best-practices associated with the use of numerical models of the atmosphere, and is motivated by the rapid growth in the number of model users, who have a range of scientific and technical preparations. An underlying important message is that models are complex and imperfect tools, and model users must be aware of their strengths and weaknesses, and be thorough in the process of model configuration and verification.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

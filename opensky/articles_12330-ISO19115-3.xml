@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:54.027914</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:36.075778</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Results from a suite of ensembles of twenty-first-century climate projections made using the Community Climate System Model, version 4 (CCSM4) are analyzed to document model bias and to explore possible future changes in air temperature, precipitation, and snow cover over North America. Large biases still exist in all analyzed fields in this version of the model, and the necessary assumption in future climate projections is therefore that the bias persists into the future, such that the differences in a field between two time periods are meaningful indications of potential changes. Projected temperature increases show strong regional patterns with spatial similarities for all the emissions scenarios considered, although there are considerable differences in the magnitude of the projected change. Projections indicate an increase in total precipitation over much of North America for all emissions scenarios, with the exception of the Southwest United States. All of North America except parts of northern Canada shows a projected decrease in snow cover over the twenty-first century.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Results from a suite of ensembles of twenty-first-century climate projections made using the Community Climate System Model, version 4 (CCSM4) are analyzed to document model bias and to explore possible future changes in air temperature, precipitation, and snow cover over North America. Large biases still exist in all analyzed fields in this version of the model, and the necessary assumption in future climate projections is therefore that the bias persists into the future, such that the differences in a field between two time periods are meaningful indications of potential changes. Projected temperature increases show strong regional patterns with spatial similarities for all the emissions scenarios considered, although there are considerable differences in the magnitude of the projected change. Projections indicate an increase in total precipitation over much of North America for all emissions scenarios, with the exception of the Southwest United States. All of North America except parts of northern Canada shows a projected decrease in snow cover over the twenty-first century.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

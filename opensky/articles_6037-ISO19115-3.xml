@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:05.115194</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:27.063792</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A new approach for modeling the spatial dependence in rainfall occurrence is proposed. Being motivated by a technique for coupling Markov chains in interacting particle systems, it differs from existing approaches that only attempt to reproduce pairwise spatial correlations of rainfall occurrences or apply complex nonlinear models. It has the advantage of directly modeling the joint dependence among Markov chains for rainfall occurrence at multisites in a parsimonious manner. The proposed approach is integrated into a simple multisite rainfall generator, with rainfall amount at an individual site modeled by a chain-dependent process. This generator is applied to estimate the spatial dependence in daily rainfall at a small number of sites within a catchment in New Zealand. In this case study, besides the spatial correlation in rainfall occurrence, the joint probability distribution of rainfall occurrence and the spatial correlation of rainfall intensity are also simulated reasonably well.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A new approach for modeling the spatial dependence in rainfall occurrence is proposed. Being motivated by a technique for coupling Markov chains in interacting particle systems, it differs from existing approaches that only attempt to reproduce pairwise spatial correlations of rainfall occurrences or apply complex nonlinear models. It has the advantage of directly modeling the joint dependence among Markov chains for rainfall occurrence at multisites in a parsimonious manner. The proposed approach is integrated into a simple multisite rainfall generator, with rainfall amount at an individual site modeled by a chain-dependent process. This generator is applied to estimate the spatial dependence in daily rainfall at a small number of sites within a catchment in New Zealand. In this case study, besides the spatial correlation in rainfall occurrence, the joint probability distribution of rainfall occurrence and the spatial correlation of rainfall intensity are also simulated reasonably well.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

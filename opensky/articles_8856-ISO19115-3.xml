@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:15.659823</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:42.273443</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Airborne measurements over the northern Pacific are evaluated to characterize properties of black carbon (BC) in cirrus crystal residuals and background aerosols in the upper troposphere. Although the mass and number concentrations of BC were 7-25 times lower in crystal residuals than in particles outside of cloud, twice as many of the residuals (31%) contained BC compared to 17% of the particles in cloud-free air. In addition the average mass equivalent diameter (MED) of BC was 10% larger in crystal residuals than in particles outside of cloud. These differences in crystal residuals compared to the background aerosols suggest that inertial scavenging is a significant mechanism for removing BC compared to removal by nucleation. The scavenging efficiency, calculated as the BC mass in condensed cloud water, ranged from 7-44 ng of carbon per gram of water, consistent with previous studies in marine stratus clouds.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Airborne measurements over the northern Pacific are evaluated to characterize properties of black carbon (BC) in cirrus crystal residuals and background aerosols in the upper troposphere. Although the mass and number concentrations of BC were 7-25 times lower in crystal residuals than in particles outside of cloud, twice as many of the residuals (31%) contained BC compared to 17% of the particles in cloud-free air. In addition the average mass equivalent diameter (MED) of BC was 10% larger in crystal residuals than in particles outside of cloud. These differences in crystal residuals compared to the background aerosols suggest that inertial scavenging is a significant mechanism for removing BC compared to removal by nucleation. The scavenging efficiency, calculated as the BC mass in condensed cloud water, ranged from 7-44 ng of carbon per gram of water, consistent with previous studies in marine stratus clouds.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

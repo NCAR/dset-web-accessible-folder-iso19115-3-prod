@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:51.213942</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:32.457423</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Ching and Carter (1974) reported an equatorial bugle of midnight mass density at about 230 km on the basis of ion gauge measurements in April 1972. However, since then few succeeding studies of the variation of equatorial mass density in this region have been pursued. In this report, observations from the Satellite Electrostatic Triaxial Accelerometer (SETA) satellite during 1 September 1983 to 31 October 1983 are used to examine the variations of the equatorial density at around 210 km for the daytime (1030 LT) and nighttime (2230 LT) sectors. It is found that mass densities show an equatorial trough around the geographic equator and two crests aside the trough during both daytime and nighttime. The thermosphere-ionosphere-mesosphere-electrodynamics general circulation model (TIMEGCM) reproduces the features seen in the SETA data. Our simulation reveals that the observed double-hump structures in both daytime and nighttime sectors are mainly associated with the tides excited locally in the lower and middle thermosphere region, although they are modulated by the tides originating from the lower atmosphere.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Ching and Carter (1974) reported an equatorial bugle of midnight mass density at about 230 km on the basis of ion gauge measurements in April 1972. However, since then few succeeding studies of the variation of equatorial mass density in this region have been pursued. In this report, observations from the Satellite Electrostatic Triaxial Accelerometer (SETA) satellite during 1 September 1983 to 31 October 1983 are used to examine the variations of the equatorial density at around 210 km for the daytime (1030 LT) and nighttime (2230 LT) sectors. It is found that mass densities show an equatorial trough around the geographic equator and two crests aside the trough during both daytime and nighttime. The thermosphere-ionosphere-mesosphere-electrodynamics general circulation model (TIMEGCM) reproduces the features seen in the SETA data. Our simulation reveals that the observed double-hump structures in both daytime and nighttime sectors are mainly associated with the tides excited locally in the lower and middle thermosphere region, although they are modulated by the tides originating from the lower atmosphere.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

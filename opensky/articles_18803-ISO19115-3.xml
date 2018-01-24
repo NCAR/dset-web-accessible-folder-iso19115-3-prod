@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:32.469790</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:54.902350</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We use data from the Aeronomy of Ice in the Mesosphere mission and simulations using the Whole Atmosphere Community Climate Model to determine the impact of the 23-30 January 2012 solar proton event (SPE) on polar mesospheric clouds (PMCs) and mesospheric water vapor. We see a small heating and loss of ice mass on 26 January that is consistent with prior results but is not statistically significant. We also find a previously unreported but statistically significant similar to 10% increase in ice mass and in water vapor in the sublimation area in the model that occurs in the 7 to 14days following the start of the event. The magnitude of the response to the January 2012 SPE is small compared to other sources of variability like gravity waves and planetary waves; however, sensitivity tests suggest that with larger SPEs this delayed increase in ice mass will increase, while there is little change in the loss of ice mass early in the event. The PMC response to SPEs in models is dependent on the gravity wave parameterization, and temperature anomalies from SPEs may be useful in evaluating and tuning gravity wave parameterizations.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We use data from the Aeronomy of Ice in the Mesosphere mission and simulations using the Whole Atmosphere Community Climate Model to determine the impact of the 23-30 January 2012 solar proton event (SPE) on polar mesospheric clouds (PMCs) and mesospheric water vapor. We see a small heating and loss of ice mass on 26 January that is consistent with prior results but is not statistically significant. We also find a previously unreported but statistically significant similar to 10% increase in ice mass and in water vapor in the sublimation area in the model that occurs in the 7 to 14days following the start of the event. The magnitude of the response to the January 2012 SPE is small compared to other sources of variability like gravity waves and planetary waves; however, sensitivity tests suggest that with larger SPEs this delayed increase in ice mass will increase, while there is little change in the loss of ice mass early in the event. The PMC response to SPEs in models is dependent on the gravity wave parameterization, and temperature anomalies from SPEs may be useful in evaluating and tuning gravity wave parameterizations.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

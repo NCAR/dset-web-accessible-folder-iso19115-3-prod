@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:06.301676</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:15.911679</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Herein the authors introduce the Snowflake Video Imager (SVI), which is a new instrument for characterizing frozen precipitation. An SVI utilizes a video camera with sufficient frame rate, pixels, and shutter speed to record thousands of snowflake images. The camera housing and lighting produce little airflow distortion, so SVI data are quite representative of natural conditions, which is important for volumetric data products such as snowflake size distributions. Long-duration, unattended operation of an SVI is feasible because datalogging software provides data compression and the hardware can operate for months in harsh winter conditions. Details of SVI hardware and field operation are given. Snowflake size distributions (SSDs) from a storm near Boulder, Colorado, are computed. An SVI is an imaging system, so SVI data can be utilized to compute diverse data products for various applications. In this paper, the authors present visualizations of frozen particles (i.e., snowflake aggregates as well as individual crystals), which provide insight into the weather conditions such as temperature, humidity, and winds.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Herein the authors introduce the Snowflake Video Imager (SVI), which is a new instrument for characterizing frozen precipitation. An SVI utilizes a video camera with sufficient frame rate, pixels, and shutter speed to record thousands of snowflake images. The camera housing and lighting produce little airflow distortion, so SVI data are quite representative of natural conditions, which is important for volumetric data products such as snowflake size distributions. Long-duration, unattended operation of an SVI is feasible because datalogging software provides data compression and the hardware can operate for months in harsh winter conditions. Details of SVI hardware and field operation are given. Snowflake size distributions (SSDs) from a storm near Boulder, Colorado, are computed. An SVI is an imaging system, so SVI data can be utilized to compute diverse data products for various applications. In this paper, the authors present visualizations of frozen particles (i.e., snowflake aggregates as well as individual crystals), which provide insight into the weather conditions such as temperature, humidity, and winds.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

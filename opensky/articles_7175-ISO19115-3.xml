@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:13.074012</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:38.558481</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Recently observed trends in the tropical cyclone record are assessed in the context of potential sampling biases. Multi-member syntheses of the hurricane record are created and subjected to time-varying sampling rates and intensity-specific biases to assess the biases' ability to induce spurious trends. While simple linear trends in sampling frequency can be imposed that account for the observed trends in major storms, the same biases result in trends in weaker storms that are significantly at odds with observations. Moreover, it is found that intensity specific biases, which must invariably contribute to prolonged storm durations for weaker categories, are inconsistent with observations. It is concluded therefore that the proposed sampling deficiencies are unable to account fully for recently reported trends, either individually or when considered in tandem. The finding of positive trends must therefore either be robust or result from complex, and as of yet unexplained, sampling biases.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Recently observed trends in the tropical cyclone record are assessed in the context of potential sampling biases. Multi-member syntheses of the hurricane record are created and subjected to time-varying sampling rates and intensity-specific biases to assess the biases' ability to induce spurious trends. While simple linear trends in sampling frequency can be imposed that account for the observed trends in major storms, the same biases result in trends in weaker storms that are significantly at odds with observations. Moreover, it is found that intensity specific biases, which must invariably contribute to prolonged storm durations for weaker categories, are inconsistent with observations. It is concluded therefore that the proposed sampling deficiencies are unable to account fully for recently reported trends, either individually or when considered in tandem. The finding of positive trends must therefore either be robust or result from complex, and as of yet unexplained, sampling biases.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:55.277474</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:00.274681</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A high-order monotone and conservative cascade remapping algorithm between spherical grids (CaRS) is developed. This algorithm is specifically designed to remap between the cubed-sphere and regular latitude-longitude grids. The remapping approach is based on the conservative cascade method in which a two-dimensional remapping problem is split into two one-dimensional problems. This allows for easy implementation of high-order subgrid-cell reconstructions as well as the application of advanced monotone filters. The accuracy of CaRS is assessed by remapping analytic fields from the regular latitude-longitude grid to the cubed-sphere grid. In terms of standard error measures, CaRS is found to be competitive relative to an existing algorithm when regridding from a fine to a coarse grid and more accurate when regridding from a coarse to a fine grid.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A high-order monotone and conservative cascade remapping algorithm between spherical grids (CaRS) is developed. This algorithm is specifically designed to remap between the cubed-sphere and regular latitude-longitude grids. The remapping approach is based on the conservative cascade method in which a two-dimensional remapping problem is split into two one-dimensional problems. This allows for easy implementation of high-order subgrid-cell reconstructions as well as the application of advanced monotone filters. The accuracy of CaRS is assessed by remapping analytic fields from the regular latitude-longitude grid to the cubed-sphere grid. In terms of standard error measures, CaRS is found to be competitive relative to an existing algorithm when regridding from a fine to a coarse grid and more accurate when regridding from a coarse to a fine grid.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:14.567491</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:36.814561</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Antarctic ozone hole demonstrates large-scale, man-made affects on our atmosphere. Surface observations now show that human produced ozone-depleting substances (ODSs) are declining. The ozone hole should soon start to diminish because of this decline. We demonstrate a parametric model of ozone hole area that is based upon a new algorithm for estimating chlorine and bromine levels over Antarctica and late spring Antarctic stratospheric temperatures. This model explains 95% of the ozone hole area's variance. We then use future ODS levels to predict ozone hole recovery. Full recovery to 1980 levels will occur around 2068 and the area will very slowly decline between 2001 and 2017. Detection of a statistically significant decrease of area will not occur until about 2024. We further show that nominal Antarctic stratospheric greenhouse gas forced temperature change should have a small impact on the ozone hole.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

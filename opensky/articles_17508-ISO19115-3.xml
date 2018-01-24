@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:07.293975</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:17.301705</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Whole Atmosphere Community Climate Model, version 3 (WACCM3) is a state-of-the-art climate model extending from the Earth's surface to the lower thermosphere. In this paper we present a detailed climatology of the dynamics of the middle atmosphere as represented by WACCM3 at various horizontal resolutions and compare them to observations. In addition to the mean climatological fields, we examine in detail the middle atmospheric momentum budget as well as several lower and upper atmosphere coupling phenomena including stratospheric sudden warmings, the 2-day wave, and the migrating diurnal tide. We find that in large part, differences between WACCM3 and observations and the mean state of the model at various horizontal resolutions are related to gravity wave drag, which is parameterized in WACCM3 (and similar models). All three lower and upper atmosphere coupling processes examined show high sensitivity to the model's resolution.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Whole Atmosphere Community Climate Model, version 3 (WACCM3) is a state-of-the-art climate model extending from the Earth's surface to the lower thermosphere. In this paper we present a detailed climatology of the dynamics of the middle atmosphere as represented by WACCM3 at various horizontal resolutions and compare them to observations. In addition to the mean climatological fields, we examine in detail the middle atmospheric momentum budget as well as several lower and upper atmosphere coupling phenomena including stratospheric sudden warmings, the 2-day wave, and the migrating diurnal tide. We find that in large part, differences between WACCM3 and observations and the mean state of the model at various horizontal resolutions are related to gravity wave drag, which is parameterized in WACCM3 (and similar models). All three lower and upper atmosphere coupling processes examined show high sensitivity to the model's resolution.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:42.548666</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:41.002736</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Projections of future climate conditions are carried out by many research institutions, each with their own general circulation model to do so. The projections are additionally subjected to distinct anthropogenic forcings, specified by future greenhouse gas emissions scenarios. These two factors, together with their temporal effects and interaction, create several potential sources of variation in final climate projection output. Multilevel statistical models, and specifically multilevel ANOVA, have come to be widely used for many reasons, not least of which is their ability to comprehensively assess many different sources of variation. In this article, a Bayesian multilevel ANOVA approach is applied to climate projections to assess each of these sources of variation, estimate the uncertainty regarding the assessment, and to allow comparison across all sources. The data originate from phase three of the Coupled Model Intercomparison Project (CMIP3), consisting of 11 circulation models and three emissions scenarios over nine decadal time periods for boreal summer and winter. Data from the next phase, CMIP5, is now becoming available. As this approach towards ANOVA is relatively novel, and particularly so for spatial data, a short discussion of conventional ANOVA and the new methodology is provided.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Projections of future climate conditions are carried out by many research institutions, each with their own general circulation model to do so. The projections are additionally subjected to distinct anthropogenic forcings, specified by future greenhouse gas emissions scenarios. These two factors, together with their temporal effects and interaction, create several potential sources of variation in final climate projection output. Multilevel statistical models, and specifically multilevel ANOVA, have come to be widely used for many reasons, not least of which is their ability to comprehensively assess many different sources of variation. In this article, a Bayesian multilevel ANOVA approach is applied to climate projections to assess each of these sources of variation, estimate the uncertainty regarding the assessment, and to allow comparison across all sources. The data originate from phase three of the Coupled Model Intercomparison Project (CMIP3), consisting of 11 circulation models and three emissions scenarios over nine decadal time periods for boreal summer and winter. Data from the next phase, CMIP5, is now becoming available. As this approach towards ANOVA is relatively novel, and particularly so for spatial data, a short discussion of conventional ANOVA and the new methodology is provided.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

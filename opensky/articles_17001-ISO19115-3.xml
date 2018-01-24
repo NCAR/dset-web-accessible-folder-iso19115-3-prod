@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:55.055799</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:59.973037</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Atmospheric Carbon Monoxide (CO) provides a window on the chemistry of the atmosphere since it is one of few chemical constituents that can be remotely sensed, and it can be used to determine budgets of other greenhouse gases such as ozone and OH radicals. Remote sensing platforms in geostationary Earth orbit will soon provide regional observations of CO at several vertical layers with high spatial and temporal resolution. However, cloudy locations cannot be observed and estimates of the complete CO concentration fields have to be estimated based on the cloud-free observations. The current state-of-the-art solution of this interpolation problem is to combine cloud-free observations with prior information, computed by a deterministic physical model, which might introduce uncertainties that do not derive from data. While sharing features with the physical model, this paper suggests a Bayesian hierarchical model to estimate the complete CO concentration fields. The paper also provides a direct comparison to state-of-the-art methods. To our knowledge, such a model and comparison have not been considered before.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Atmospheric Carbon Monoxide (CO) provides a window on the chemistry of the atmosphere since it is one of few chemical constituents that can be remotely sensed, and it can be used to determine budgets of other greenhouse gases such as ozone and OH radicals. Remote sensing platforms in geostationary Earth orbit will soon provide regional observations of CO at several vertical layers with high spatial and temporal resolution. However, cloudy locations cannot be observed and estimates of the complete CO concentration fields have to be estimated based on the cloud-free observations. The current state-of-the-art solution of this interpolation problem is to combine cloud-free observations with prior information, computed by a deterministic physical model, which might introduce uncertainties that do not derive from data. While sharing features with the physical model, this paper suggests a Bayesian hierarchical model to estimate the complete CO concentration fields. The paper also provides a direct comparison to state-of-the-art methods. To our knowledge, such a model and comparison have not been considered before.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

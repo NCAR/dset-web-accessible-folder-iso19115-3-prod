@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:42.627209</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:21.061726</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The momentum budget of the migrating diurnal tide (DW1) at the vernal equinox is studied using the Whole Atmosphere Community Climate Model, version 4 (WACCM4). Classical tidal theory provides an appropriate first-order prediction of the DW1 structure, while gravity wave (GW) forcing and advection are the two most dominant terms in the momentum equation that account for the discrepancies between classical tidal theory and the calculation based on the full primitive equations. It differs from the conclusion by McLandress (2002a) that the parameterized GW effect is substantially weaker than advection terms based on the Canadian Middle Atmosphere Model (CMAM). In the region where DW1 maintains a large amplitude, GW forcing in the wave breaking region always damps DW1 and advances its phase. The linear advection largely determined by the latitudinal shear of the zonal mean zonal wind makes a dominant contribution to the phase change of DW1 in the zonal wind compared to the GW forcing and nonlinear advection. However, nonlinear advection is more important than GW forcing and linear advection in modulating the amplitude and phase of DW1 in the meridional wind. The DW1 amplitudes in temperature and winds are smaller than the TIMED observations, suggesting that GW forcing is overestimated in the WACCM4 and results in a large damping of DW1.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The momentum budget of the migrating diurnal tide (DW1) at the vernal equinox is studied using the Whole Atmosphere Community Climate Model, version 4 (WACCM4). Classical tidal theory provides an appropriate first-order prediction of the DW1 structure, while gravity wave (GW) forcing and advection are the two most dominant terms in the momentum equation that account for the discrepancies between classical tidal theory and the calculation based on the full primitive equations. It differs from the conclusion by McLandress (2002a) that the parameterized GW effect is substantially weaker than advection terms based on the Canadian Middle Atmosphere Model (CMAM). In the region where DW1 maintains a large amplitude, GW forcing in the wave breaking region always damps DW1 and advances its phase. The linear advection largely determined by the latitudinal shear of the zonal mean zonal wind makes a dominant contribution to the phase change of DW1 in the zonal wind compared to the GW forcing and nonlinear advection. However, nonlinear advection is more important than GW forcing and linear advection in modulating the amplitude and phase of DW1 in the meridional wind. The DW1 amplitudes in temperature and winds are smaller than the TIMED observations, suggesting that GW forcing is overestimated in the WACCM4 and results in a large damping of DW1.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

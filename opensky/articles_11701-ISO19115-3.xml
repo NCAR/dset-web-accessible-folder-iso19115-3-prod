@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:39.299302</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:16.342927</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Turbulence is a well-known hazard to aviation that is responsible for numerous injuries each year, with occasional fatalities, and is the underlying cause of many people's fear of air travel. Not only are turbulence encounters a safety issue, they also result in millions of dollars of operational costs to airlines, leading to increased costs passed on to the consumer. For these reasons, pilots, dispatchers, and air traffic controllers attempt to avoid turbulence wherever possible. Accurate forecasting of aviation-scale turbulence has been hampered in part by a lack of understanding of the underlying dynamical processes. However, more precise observations of turbulence encounters together with recent research into turbulence generation processes is helping to elucidate the detailed dynamical processes involved and is laying the foundation for improved turbulence forecasting and avoidance. In this paper we briefly review some of the more important recent observational, theoretical, and modeling results related to turbulence at cruise altitudes for commercial aircraft (i.e., the upper troposphere and lower stratosphere), and their implications for aviation turbulence forecasting.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Turbulence is a well-known hazard to aviation that is responsible for numerous injuries each year, with occasional fatalities, and is the underlying cause of many people's fear of air travel. Not only are turbulence encounters a safety issue, they also result in millions of dollars of operational costs to airlines, leading to increased costs passed on to the consumer. For these reasons, pilots, dispatchers, and air traffic controllers attempt to avoid turbulence wherever possible. Accurate forecasting of aviation-scale turbulence has been hampered in part by a lack of understanding of the underlying dynamical processes. However, more precise observations of turbulence encounters together with recent research into turbulence generation processes is helping to elucidate the detailed dynamical processes involved and is laying the foundation for improved turbulence forecasting and avoidance. In this paper we briefly review some of the more important recent observational, theoretical, and modeling results related to turbulence at cruise altitudes for commercial aircraft (i.e., the upper troposphere and lower stratosphere), and their implications for aviation turbulence forecasting.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

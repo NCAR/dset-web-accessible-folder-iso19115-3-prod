@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:20.914504</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:37.163169</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The role of convective parameterizations at high horizontal resolution and their impacts on clouds, circulation, and precipitation processes represent large uncertainties in atmospheric general circulation models (AGCMs). As the statistical equilibrium in which radiative cooling is balanced by convective heating, radiative-convective equilibrium (RCE) offers a simplified framework to investigate such uncertainties. The Community Atmosphere Model 5 is configured in a RCE setup that consists of an ocean-covered planet with diurnally varying, spatially uniform insolation with no rotation effects. A series of simulations are performed in which the planetary radius is incrementally reduced. Because of the homogeneity of the setup, the effect is to reduce grid spacing, mimicking increased resolution without increasing the number of grid points. The results suggest that the reduced planet approach is able to reproduce the behavior of convection from full high-resolution simulations. At grid spacing less than 20 km, convective motions are predominantly produced by resolved scales.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The role of convective parameterizations at high horizontal resolution and their impacts on clouds, circulation, and precipitation processes represent large uncertainties in atmospheric general circulation models (AGCMs). As the statistical equilibrium in which radiative cooling is balanced by convective heating, radiative-convective equilibrium (RCE) offers a simplified framework to investigate such uncertainties. The Community Atmosphere Model 5 is configured in a RCE setup that consists of an ocean-covered planet with diurnally varying, spatially uniform insolation with no rotation effects. A series of simulations are performed in which the planetary radius is incrementally reduced. Because of the homogeneity of the setup, the effect is to reduce grid spacing, mimicking increased resolution without increasing the number of grid points. The results suggest that the reduced planet approach is able to reproduce the behavior of convection from full high-resolution simulations. At grid spacing less than 20 km, convective motions are predominantly produced by resolved scales.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:15.992013</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:04.143672</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The ability of the Weather Research and Forecasting (WRF) model to reproduce the surface wind direction over complex terrain is examined. A simulation spanning a winter season at a high horizontal resolution of 2 km is compared with wind direction records from a surface observational network located in the northeastern Iberian Peninsula. A previous evaluation has shown the ability of WRF to reproduce the wind speed over the region once the effects of the subgrid-scale topography are parameterized. Hence, the current investigation complements the previous findings, providing information about the model's ability to reproduce the direction of the surface flow. The differences between the observations and the model are quantified in terms of scores explicitly designed to handle the circular nature of the wind direction. Results show that the differences depend on the wind speed. The larger the wind speed is, the smaller are the wind direction differences. Areas with more complex terrain show larger systematic differences between model and observations; in these areas, a statistical correction is shown to help. The importance of the grid point selected for the comparison with observations is also analyzed. A careful selection is relevant to reducing comparative problems over complex terrain.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The ability of the Weather Research and Forecasting (WRF) model to reproduce the surface wind direction over complex terrain is examined. A simulation spanning a winter season at a high horizontal resolution of 2 km is compared with wind direction records from a surface observational network located in the northeastern Iberian Peninsula. A previous evaluation has shown the ability of WRF to reproduce the wind speed over the region once the effects of the subgrid-scale topography are parameterized. Hence, the current investigation complements the previous findings, providing information about the model's ability to reproduce the direction of the surface flow. The differences between the observations and the model are quantified in terms of scores explicitly designed to handle the circular nature of the wind direction. Results show that the differences depend on the wind speed. The larger the wind speed is, the smaller are the wind direction differences. Areas with more complex terrain show larger systematic differences between model and observations; in these areas, a statistical correction is shown to help. The importance of the grid point selected for the comparison with observations is also analyzed. A careful selection is relevant to reducing comparative problems over complex terrain.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

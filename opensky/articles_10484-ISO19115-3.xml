@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:26.241067</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:57.800412</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -313,7 +313,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A large wintertime increase in pollutants has been observed over the eastern parts of the Indo Gangetic Plains. We use improved version 4 carbon monoxide (CO) retrievals from the Measurements of Pollution in the Troposphere (MOPITT) along with latest version 3 aerosol data from the Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations (CALIPSO) lidar instrument and the tropospheric ozone residual products to characterize this pollution pool. The feature is seen primarily in the lower troposphere from about November to February with strong concomitant increases in CO and aerosol optical depth (AOD). The signature of the feature is also observed in tropospheric ozone column data. The height resolved aerosol data from CALIPSO confirm the trapping of the pollution pool at the lowest altitudes. The observations indicate that MOPITT can capture this low altitude phenomenon even in winter conditions as indicated by the averaging kernels.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A large wintertime increase in pollutants has been observed over the eastern parts of the Indo Gangetic Plains. We use improved version 4 carbon monoxide (CO) retrievals from the Measurements of Pollution in the Troposphere (MOPITT) along with latest version 3 aerosol data from the Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observations (CALIPSO) lidar instrument and the tropospheric ozone residual products to characterize this pollution pool. The feature is seen primarily in the lower troposphere from about November to February with strong concomitant increases in CO and aerosol optical depth (AOD). The signature of the feature is also observed in tropospheric ozone column data. The height resolved aerosol data from CALIPSO confirm the trapping of the pollution pool at the lowest altitudes. The observations indicate that MOPITT can capture this low altitude phenomenon even in winter conditions as indicated by the averaging kernels.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

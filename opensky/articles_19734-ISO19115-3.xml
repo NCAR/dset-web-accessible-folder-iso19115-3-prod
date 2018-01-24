@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:48.492043</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:19.416321</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Influences of large-scale flow variations on the track evolution of two typhoons, moderate Morakot (2009) and superintense Megi (2010), are investigated using the global variable-resolution model MPAS with a higher-resolution region of 15 km for the simulated typhoons. For Morakot, the associated track and extreme rainfall over southern Taiwan captured by MPAS compared well with the regional WRF simulations. To isolate the influences of various large-scale flows, three modes are filtered out from global reanalysis: the synoptic-scale mode, quasi-biweekly oscillation (QBW) mode, and the Madden-Julian oscillation (MJO) mode. In the absence of QBW or MJO, the simulated Morakot moves westward across Taiwan without the observed north turn after landfall. When the intensity of the MJO mode is increased by 50% in the experiment (MJO150%), a much earlier northward turn is induced. The simulated Morakot under the observed MJO lies in between MJO+50% and MJO-50% results.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Influences of large-scale flow variations on the track evolution of two typhoons, moderate Morakot (2009) and superintense Megi (2010), are investigated using the global variable-resolution model MPAS with a higher-resolution region of 15 km for the simulated typhoons. For Morakot, the associated track and extreme rainfall over southern Taiwan captured by MPAS compared well with the regional WRF simulations. To isolate the influences of various large-scale flows, three modes are filtered out from global reanalysis: the synoptic-scale mode, quasi-biweekly oscillation (QBW) mode, and the Madden-Julian oscillation (MJO) mode. In the absence of QBW or MJO, the simulated Morakot moves westward across Taiwan without the observed north turn after landfall. When the intensity of the MJO mode is increased by 50% in the experiment (MJO150%), a much earlier northward turn is induced. The simulated Morakot under the observed MJO lies in between MJO+50% and MJO-50% results.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

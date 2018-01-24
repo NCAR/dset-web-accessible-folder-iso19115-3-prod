@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:25.893704</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:57.287531</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this case study, numerical simulations using the Weather Research and Forecasting model (WRF) are performed for 3-4 May 2002, in which two propagating rain episodes occurred in successive days with close ties to the terrain of the Tibetan Plateau (TP) in East Asia. Through sensitivity tests, it is found that the eastern TP not only facilitated convective development in the afternoon but that the solenoidal circulation between this region and its leeside lowlands (near the Sichuan basin) also contributed to the longevity and farther downstream propagation of the episodes under prevailing westerly winds. Reversed every 12 h, the thermally driven circulation induced ascending motion near the eastern edge of the TP during daytime but over the leeside at night. The episode propagation in this case, as often observed, was in phase with the ascent, from eastern TP in the afternoon to the lee at night, indicating both enhancing and modulating effects of the solenoidal circulation.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this case study, numerical simulations using the Weather Research and Forecasting model (WRF) are performed for 3-4 May 2002, in which two propagating rain episodes occurred in successive days with close ties to the terrain of the Tibetan Plateau (TP) in East Asia. Through sensitivity tests, it is found that the eastern TP not only facilitated convective development in the afternoon but that the solenoidal circulation between this region and its leeside lowlands (near the Sichuan basin) also contributed to the longevity and farther downstream propagation of the episodes under prevailing westerly winds. Reversed every 12 h, the thermally driven circulation induced ascending motion near the eastern edge of the TP during daytime but over the leeside at night. The episode propagation in this case, as often observed, was in phase with the ascent, from eastern TP in the afternoon to the lee at night, indicating both enhancing and modulating effects of the solenoidal circulation.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

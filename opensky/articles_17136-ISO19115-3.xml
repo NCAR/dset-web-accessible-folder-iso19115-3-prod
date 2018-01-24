@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:58.257549</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:04.567197</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Trends in global oceanic heat content (OHC) over the late 20th century as simulated by climate models that incorporate all radiative forcing factors are smaller than the observed, but the causes are not clear. Given the cooling effect associated with increasing anthropogenic aerosols and natural forcing (i.e., volcanic aerosols), we examine their respective roles in the simulated global OHC trend and the associated ocean temperature structure, using targeted experiments from two models, designed to separate the individual impacts of these forcing components. We show that it is more likely that the indirect effect of aerosols, not volcanic aerosols alone, is the reason for the bulk of weaker modelled OHC trends. Further, anthropogenic aerosols are essential for simulating the structure of the observed temperature changes, including a concentrated cooling in the Southern Hemisphere subtropical latitudes, consistent with a more stable global Conveyer, a greater strengthening of the subtropical gyre circulation, and a stronger Southern Annular Mode trend in targeted experiments with anthropogenic aerosol forcing.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Trends in global oceanic heat content (OHC) over the late 20th century as simulated by climate models that incorporate all radiative forcing factors are smaller than the observed, but the causes are not clear. Given the cooling effect associated with increasing anthropogenic aerosols and natural forcing (i.e., volcanic aerosols), we examine their respective roles in the simulated global OHC trend and the associated ocean temperature structure, using targeted experiments from two models, designed to separate the individual impacts of these forcing components. We show that it is more likely that the indirect effect of aerosols, not volcanic aerosols alone, is the reason for the bulk of weaker modelled OHC trends. Further, anthropogenic aerosols are essential for simulating the structure of the observed temperature changes, including a concentrated cooling in the Southern Hemisphere subtropical latitudes, consistent with a more stable global Conveyer, a greater strengthening of the subtropical gyre circulation, and a stronger Southern Annular Mode trend in targeted experiments with anthropogenic aerosol forcing.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

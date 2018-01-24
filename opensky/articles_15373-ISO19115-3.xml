@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:38.502949</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:35.017567</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This paper provides the first three-dimensional description of the ionospheric density structure of the Weddell Sea Anomaly (WSA). The WSA is characterized by a nighttime ionospheric density greater than that in daytime in the Weddell Sea region around the Antarctic Peninsula during the southern hemisphere summer. It was first observed by ground-based ionosondes located in the Antarctica back in the 1950s and was further investigated by two-dimensional maps over the oceans using TEC measurements collected by the TOPEX/Poseidon recently. Although these TEC maps have provided two-dimensional views for tracking the time-evolution and spatial coverage of the WSA, the vertical distribution of this peculiar feature is still unavailable. With the vertical ionospheric density profiles observed by the FORMOSAT-3/COSMIC, three-dimensional density structure of the WSA is presented here for the first time. Meanwhile, a similar WSA signature is observed in the northern and eastern hemisphere during June solstice by both the GPS-TEC and the FORMOSAT-3/COSMIC electron density observations. From the observed altitudinal structure of the WSA during 1800 - 2400 LT and the similar feature occurred in the opposite hemisphere suggest that the southward offset of the magnetic equator with respect to the geographic equator plays a major role for the WSA formation.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This paper provides the first three-dimensional description of the ionospheric density structure of the Weddell Sea Anomaly (WSA). The WSA is characterized by a nighttime ionospheric density greater than that in daytime in the Weddell Sea region around the Antarctic Peninsula during the southern hemisphere summer. It was first observed by ground-based ionosondes located in the Antarctica back in the 1950s and was further investigated by two-dimensional maps over the oceans using TEC measurements collected by the TOPEX/Poseidon recently. Although these TEC maps have provided two-dimensional views for tracking the time-evolution and spatial coverage of the WSA, the vertical distribution of this peculiar feature is still unavailable. With the vertical ionospheric density profiles observed by the FORMOSAT-3/COSMIC, three-dimensional density structure of the WSA is presented here for the first time. Meanwhile, a similar WSA signature is observed in the northern and eastern hemisphere during June solstice by both the GPS-TEC and the FORMOSAT-3/COSMIC electron density observations. From the observed altitudinal structure of the WSA during 1800 - 2400 LT and the similar feature occurred in the opposite hemisphere suggest that the southward offset of the magnetic equator with respect to the geographic equator plays a major role for the WSA formation.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

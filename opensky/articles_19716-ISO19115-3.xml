@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:47.930991</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:18.671155</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We consider the observational basis for the belief that flare ribbons in the chromosphere result from energy transport from the overlying corona. We study ribbons of small flares using magnetic and intensity data from the Hinode, Solar Dynamics Observatory, and IRIS missions. While most ribbons appear connected to the corona and overlie regions of significant vertical magnetic field, we examine one ribbon with no clear evidence for such connections. Evolving horizontal magnetic fields seen with Hinode suggest that reconnection with preexisting fields below the corona can explain the data. The identification of just one, albeit small, ribbon, with no apparent connection to the corona, leads us to conclude that at least two mechanisms are responsible for the heating that leads to flare ribbon emission.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We consider the observational basis for the belief that flare ribbons in the chromosphere result from energy transport from the overlying corona. We study ribbons of small flares using magnetic and intensity data from the Hinode, Solar Dynamics Observatory, and IRIS missions. While most ribbons appear connected to the corona and overlie regions of significant vertical magnetic field, we examine one ribbon with no clear evidence for such connections. Evolving horizontal magnetic fields seen with Hinode suggest that reconnection with preexisting fields below the corona can explain the data. The identification of just one, albeit small, ribbon, with no apparent connection to the corona, leads us to conclude that at least two mechanisms are responsible for the heating that leads to flare ribbon emission.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

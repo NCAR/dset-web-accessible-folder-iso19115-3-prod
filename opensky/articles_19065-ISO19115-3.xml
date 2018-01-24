@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:36.341996</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:01.213420</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A recently discovered transform approach allows a large class of PDEs to be solved in terms of boundary and/or contour integrals. We introduce here a spectrally accurate numerical discretization of this approach for the case of Laplace's equation on a polygonal domain, and compare it against an also spectrally accurate implementation of the traditional boundary integral formulation.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A recently discovered transform approach allows a large class of PDEs to be solved in terms of boundary and/or contour integrals. We introduce here a spectrally accurate numerical discretization of this approach for the case of Laplace's equation on a polygonal domain, and compare it against an also spectrally accurate implementation of the traditional boundary integral formulation.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

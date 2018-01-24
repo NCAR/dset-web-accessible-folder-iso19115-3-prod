@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:52.676427</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:25.725714</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Geostationary Operational Environmental Satellite (GOES) imager data could provide a continuous image of the evolutionary pattern of severe weather phenomena with its high spatial and temporal resolution. The capability to assimilate the GOES imager radiances has been developed within the Weather Research and Forecasting model's data assimilation system. Compared to the benchmark experiment with no GOES imager data, the impact of assimilating GOES imager radiances on the analysis and forecast of convective process over Mexico in 7-10 March 2016 was assessed through analysis/ forecast cycling experiments using rapid refresh assimilation system with hybrid-3DEnVar scheme. With GOES imager radiance assimilation, better analyses were obtained in terms of the humidity, temperature, and simulated water vapor channel brightness temperature distribution. Positive forecast impacts from assimilating GOES imager radiance were seen when verified against the Tropospheric Airborne Meteorological Data Reporting observation, GOES imager observation, and Mexico station precipitation data.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Geostationary Operational Environmental Satellite (GOES) imager data could provide a continuous image of the evolutionary pattern of severe weather phenomena with its high spatial and temporal resolution. The capability to assimilate the GOES imager radiances has been developed within the Weather Research and Forecasting model's data assimilation system. Compared to the benchmark experiment with no GOES imager data, the impact of assimilating GOES imager radiances on the analysis and forecast of convective process over Mexico in 7-10 March 2016 was assessed through analysis/ forecast cycling experiments using rapid refresh assimilation system with hybrid-3DEnVar scheme. With GOES imager radiance assimilation, better analyses were obtained in terms of the humidity, temperature, and simulated water vapor channel brightness temperature distribution. Positive forecast impacts from assimilating GOES imager radiance were seen when verified against the Tropospheric Airborne Meteorological Data Reporting observation, GOES imager observation, and Mexico station precipitation data.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

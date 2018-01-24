@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:29.174659</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:21.501936</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The National Climatic Data Center and numerous other sources list the 15.20-in. (386 mm) rainfall observed at the Angoon, Alaska, cooperative weather station on 12 October 1982 as the state record for a single calendar-day precipitation amount. However, a close inspection of the precipitation data recorded during 1982 in Angoon reveals a pattern of suspect values, calling into question the validity of the data collected during this time period. Our analysis shows that errors may be present in the Angoon precipitation record, and therefore consideration should be given to removing those values from the official climate database. This study evaluates Angoon precipitation observations over a 12-month period starting in February 1982 using two objective analytical techniques (statistical and climatological) and a 2012 interview of the Angoon cooperative station observer during the time period in question. If the Angoon precipitation values are deemed erroneous, then the 12 October 1982 observation will no longer hold the distinction as the single largest precipitation event. The second place event is a 15.05 in. (382 mm) observation measured in Seward, Alaska, on 10 October 1986.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The National Climatic Data Center and numerous other sources list the 15.20-in. (386 mm) rainfall observed at the Angoon, Alaska, cooperative weather station on 12 October 1982 as the state record for a single calendar-day precipitation amount. However, a close inspection of the precipitation data recorded during 1982 in Angoon reveals a pattern of suspect values, calling into question the validity of the data collected during this time period. Our analysis shows that errors may be present in the Angoon precipitation record, and therefore consideration should be given to removing those values from the official climate database. This study evaluates Angoon precipitation observations over a 12-month period starting in February 1982 using two objective analytical techniques (statistical and climatological) and a 2012 interview of the Angoon cooperative station observer during the time period in question. If the Angoon precipitation values are deemed erroneous, then the 12 October 1982 observation will no longer hold the distinction as the single largest precipitation event. The second place event is a 15.05 in. (382 mm) observation measured in Seward, Alaska, on 10 October 1986.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:37.201963</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:33.144706</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Nearly all energy used for human purposes is dissipated as heat within Earth's land-atmosphere system. Thermal energy released from non-renewable sources is therefore a climate forcing term. Averaged globally, this forcing is only +0.028 W m??, but over the continental United States and western Europe, it is +0.39 and +0.68 W m??, respectively. Here, present and future global inventories of anthropogenic heat flux (AHF) are developed, and parameterizations derived for seasonal and diurnal flux cycles. Equilibrium climate experiments show statistically-significant continental-scale surface warming (0.4-0.9?C) produced by one 2100 AHF scenario, but not by current or 2040 estimates. However, significant increases in annual-mean temperature and planetary boundary layer (PBL) height occur over gridcells where present-day AHF exceeds 3.0 W m??. PBL expansion leads to a slight, but significant increase in atmospheric residence time of aerosols emitted from large-AHF regions. Hence, AHF may influence regional climate projections and contemporary chemistry-climate studies.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Nearly all energy used for human purposes is dissipated as heat within Earth's land-atmosphere system. Thermal energy released from non-renewable sources is therefore a climate forcing term. Averaged globally, this forcing is only +0.028 W m??, but over the continental United States and western Europe, it is +0.39 and +0.68 W m??, respectively. Here, present and future global inventories of anthropogenic heat flux (AHF) are developed, and parameterizations derived for seasonal and diurnal flux cycles. Equilibrium climate experiments show statistically-significant continental-scale surface warming (0.4-0.9?C) produced by one 2100 AHF scenario, but not by current or 2040 estimates. However, significant increases in annual-mean temperature and planetary boundary layer (PBL) height occur over gridcells where present-day AHF exceeds 3.0 W m??. PBL expansion leads to a slight, but significant increase in atmospheric residence time of aerosols emitted from large-AHF regions. Hence, AHF may influence regional climate projections and contemporary chemistry-climate studies.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

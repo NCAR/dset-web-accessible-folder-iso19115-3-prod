@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:39.519088</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:16.645212</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -193,7 +193,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The skill of six regional climate models (RCMs) in reproducing short-term (24-yr), observed, near-surface temperature trends when driven by reanalysis is examined. The RCMs are part of the North American Regional Climate Change Assessment Program (NARCCAP). If RCMs can reproduce observed temperature trends, then they are, in a way, demonstrating their ability to capture a type of climate change, which may be relevant to their ability to credibly simulate anthropogenic climate changes under future emission scenarios. This study finds that the NARCCAP RCMs can simulate some resolved-scale temperature trends, especially those seen recently in spring and, by and large, in winter. However, results in other seasons suggest that RCM performance in this measure may be dependent on the type and strength of the forcing behind the observed trends.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The skill of six regional climate models (RCMs) in reproducing short-term (24-yr), observed, near-surface temperature trends when driven by reanalysis is examined. The RCMs are part of the North American Regional Climate Change Assessment Program (NARCCAP). If RCMs can reproduce observed temperature trends, then they are, in a way, demonstrating their ability to capture a type of climate change, which may be relevant to their ability to credibly simulate anthropogenic climate changes under future emission scenarios. This study finds that the NARCCAP RCMs can simulate some resolved-scale temperature trends, especially those seen recently in spring and, by and large, in winter. However, results in other seasons suggest that RCM performance in this measure may be dependent on the type and strength of the forcing behind the observed trends.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:34.756049</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:29.391676</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -204,7 +204,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Simple rate equation models for subfilter-scale scalar and momentum fluxes have previously been developed for application in the so-called "terra incognita" of atmospheric simulations, where the model resolution is comparable to the scale of turbulence. The models performed well over land, but only the scalar flux model appeared to perform adequately over the ocean. Analysis of data from the Ocean Horizontal Array Turbulence Study (OHATS) reveals a need to account for the moving ocean-air interface in the subfilter stress model. The authors develop simple parameterizations for the effect of surface-induced pressure fluctuations on the subfilter stress, leading to good predictions of subfilter momentum flux both over land and in OHATS.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Simple rate equation models for subfilter-scale scalar and momentum fluxes have previously been developed for application in the so-called "terra incognita" of atmospheric simulations, where the model resolution is comparable to the scale of turbulence. The models performed well over land, but only the scalar flux model appeared to perform adequately over the ocean. Analysis of data from the Ocean Horizontal Array Turbulence Study (OHATS) reveals a need to account for the moving ocean-air interface in the subfilter stress model. The authors develop simple parameterizations for the effect of surface-induced pressure fluctuations on the subfilter stress, leading to good predictions of subfilter momentum flux both over land and in OHATS.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

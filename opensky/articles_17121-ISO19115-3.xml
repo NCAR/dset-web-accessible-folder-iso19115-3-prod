@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:57.899613</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:04.059048</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study addresses the land-atmospheric coupling strength by using long-term AmeriFlux data from a wide range of land covers and climate regimes to reconstitute the surface exchange coefficient, C h , which governs the total surface heat fluxes. For spring and summer, results show stronger coupling for tall canopy with C h values ten times larger than for shorter vegetation. Observed C h are then compared to values from the Noah land model. Results indicate that Noah underestimated (overestimated) C h for forest (grass and crops), implying an insufficient (too efficient) coupling for tall canopy (short canopy). This discrepancy is attributed to the treatment of the roughness length for heat. With modest adjustments, the Noah model can reproduce the observed C h . This study highlights the crucial role of treating the surface exchange processes in coupled land/weather/climate models and the need to use long-term flux data for different vegetation types and climate regimes to assess and mitigate their deficiencies.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study addresses the land-atmospheric coupling strength by using long-term AmeriFlux data from a wide range of land covers and climate regimes to reconstitute the surface exchange coefficient, C h , which governs the total surface heat fluxes. For spring and summer, results show stronger coupling for tall canopy with C h values ten times larger than for shorter vegetation. Observed C h are then compared to values from the Noah land model. Results indicate that Noah underestimated (overestimated) C h for forest (grass and crops), implying an insufficient (too efficient) coupling for tall canopy (short canopy). This discrepancy is attributed to the treatment of the roughness length for heat. With modest adjustments, the Noah model can reproduce the observed C h . This study highlights the crucial role of treating the surface exchange processes in coupled land/weather/climate models and the need to use long-term flux data for different vegetation types and climate regimes to assess and mitigate their deficiencies.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:56.120581</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:01.518058</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The tropical marine PBL under the influence of a deep convection system is investigated using a largedomain LES that resolves a wide range of scales, from mesoscale cloud clusters down to energy-containing turbulence. The simulated PBL is dominated by both turbulence and cloud-induced cold-pools. The variance of vertical velocity in the PBL resides mostly in the turbulence scales while that of water vapor mixing ratio resides mostly at the cold-pool scales; however, both turbulence and cold-pool scales contribute about equally to their covariance. The broad scale range of the LES flow field is decomposed into the filtered (i.e., cloud system) and the subfilter (i.e., small convection and turbulence) components using a Gaussian filter with various filter widths. Such decomposed flow fields are used to retrieve information of spatial distribution of the subfilter-scale fluxes and their relationship to the filtered field. This information is then used to evaluate the performance of an eddy-viscosity model commonly used in cloud-resolving models. The subfilter-scale fluxes computed from the eddy-viscosity model correlate reasonably with those retrieved from the LES in the lower cloud layer but not in the PBL; the correlation coefficients between the modeled and the retrieved fluxes are about 0.5 in the lower cloud layer but smaller than 0.2 in the PBL.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The tropical marine PBL under the influence of a deep convection system is investigated using a largedomain LES that resolves a wide range of scales, from mesoscale cloud clusters down to energy-containing turbulence. The simulated PBL is dominated by both turbulence and cloud-induced cold-pools. The variance of vertical velocity in the PBL resides mostly in the turbulence scales while that of water vapor mixing ratio resides mostly at the cold-pool scales; however, both turbulence and cold-pool scales contribute about equally to their covariance. The broad scale range of the LES flow field is decomposed into the filtered (i.e., cloud system) and the subfilter (i.e., small convection and turbulence) components using a Gaussian filter with various filter widths. Such decomposed flow fields are used to retrieve information of spatial distribution of the subfilter-scale fluxes and their relationship to the filtered field. This information is then used to evaluate the performance of an eddy-viscosity model commonly used in cloud-resolving models. The subfilter-scale fluxes computed from the eddy-viscosity model correlate reasonably with those retrieved from the LES in the lower cloud layer but not in the PBL; the correlation coefficients between the modeled and the retrieved fluxes are about 0.5 in the lower cloud layer but smaller than 0.2 in the PBL.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:55.024756</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:59.927328</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>An interdisciplinary approach to global change research is required for scientific advances that are both fundamental and relevant to real-world problems. The Aspen Global Change Institute (AGCI), under the leadership of director John Katzenberger, has provided global leadership for such interdisciplinary science over the past 25 years. From its first workshop, AGCI has brought together physical and social scientists researching the drivers of change, Earth system response, natural and human system impacts, and options for risk management. The sessions are small (usually around 30 participants), held in a retreat-like setting (recently in a tent near a stream), and long enough (a week or more) to allow communication, reflection, and planning. Landmark AGCI science sessions have frequently set the course of future global change research.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[An interdisciplinary approach to global change research is required for scientific advances that are both fundamental and relevant to real-world problems. The Aspen Global Change Institute (AGCI), under the leadership of director John Katzenberger, has provided global leadership for such interdisciplinary science over the past 25 years. From its first workshop, AGCI has brought together physical and social scientists researching the drivers of change, Earth system response, natural and human system impacts, and options for risk management. The sessions are small (usually around 30 participants), held in a retreat-like setting (recently in a tent near a stream), and long enough (a week or more) to allow communication, reflection, and planning. Landmark AGCI science sessions have frequently set the course of future global change research.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

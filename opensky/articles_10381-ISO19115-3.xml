@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:23.719735</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:54.213225</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Tri-axial accelerometer data from the Challenging Minisatellite Payload (CHAMP) satellite have revealed the thermospheric density and its variability in unprecedented detail. The data often contain regions of high density located in the cusp sector at high latitudes. In this paper we provide the first detailed explanation of a high latitude density enhancement observed by CHAMP, focusing on the August 24, 2005 interval. The Thermosphere Ionosphere Mesosphere Electrodynamics General Circulation Model (TIMEGCM) was driven by high-fidelity high-latitude inputs specified by the Assimilative Mapping of Ionospheric Electrodynamics (AMIE) algorithm, and reproduced the main features of the density enhancements. The TIMEGCM and AMIE provide a global framework for interpretation of the CHAMP densities. Our simulations reveal that the observed density enhancement in the dayside cusp region resulted from unexpectedly large amounts of energy entering the Ionosphere-Thermosphere system at cusp latitudes during an interval of strong (+20 nT) BY.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Tri-axial accelerometer data from the Challenging Minisatellite Payload (CHAMP) satellite have revealed the thermospheric density and its variability in unprecedented detail. The data often contain regions of high density located in the cusp sector at high latitudes. In this paper we provide the first detailed explanation of a high latitude density enhancement observed by CHAMP, focusing on the August 24, 2005 interval. The Thermosphere Ionosphere Mesosphere Electrodynamics General Circulation Model (TIMEGCM) was driven by high-fidelity high-latitude inputs specified by the Assimilative Mapping of Ionospheric Electrodynamics (AMIE) algorithm, and reproduced the main features of the density enhancements. The TIMEGCM and AMIE provide a global framework for interpretation of the CHAMP densities. Our simulations reveal that the observed density enhancement in the dayside cusp region resulted from unexpectedly large amounts of energy entering the Ionosphere-Thermosphere system at cusp latitudes during an interval of strong (+20 nT) BY.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

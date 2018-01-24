@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:49.706888</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:21.190405</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A large-eddy simulation (LES) framework with an "eddy injection'' technique has been developed that ensures a majority of turbulent kinetic energy in numerically simulated tornado-like vortices is represented by resolved eddies. This framework is used to explore the relationships between environmental forcing mechanisms, surface boundary conditions, and tornado vortex structure, intensity, and wind gusts. Similar to previous LES studies, results show that the maximum time-and azimuthal-mean tangential winds {V}(max) can be well in excess of the "thermodynamic speed limit,'' which is 66ms(-1) for most of the simulations. Specifically, fVgmax exceeds this speed by values ranging from 21% for a large, high-swirl vortex to 59% for a small, low-swirl vortex. Budgets of mean and eddy angular and radial momentum are used to show that resolved eddies in the tornado core act to reduce the wind speed at the location of fVgmax, although they do transport angular momentum downward into the lowest levels of the boundary layer, increasing lowlevel swirl.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A large-eddy simulation (LES) framework with an "eddy injection'' technique has been developed that ensures a majority of turbulent kinetic energy in numerically simulated tornado-like vortices is represented by resolved eddies. This framework is used to explore the relationships between environmental forcing mechanisms, surface boundary conditions, and tornado vortex structure, intensity, and wind gusts. Similar to previous LES studies, results show that the maximum time-and azimuthal-mean tangential winds {V}(max) can be well in excess of the "thermodynamic speed limit,'' which is 66ms(-1) for most of the simulations. Specifically, fVgmax exceeds this speed by values ranging from 21% for a large, high-swirl vortex to 59% for a small, low-swirl vortex. Budgets of mean and eddy angular and radial momentum are used to show that resolved eddies in the tornado core act to reduce the wind speed at the location of fVgmax, although they do transport angular momentum downward into the lowest levels of the boundary layer, increasing lowlevel swirl.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

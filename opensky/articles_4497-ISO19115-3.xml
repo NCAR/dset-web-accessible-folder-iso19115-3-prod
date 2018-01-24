@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:14.065416</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:26.796845</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[Results of a field experiment carried out in 1991 to gather upper-air data on the morning-glory environment are presented. The data include daily early morning radiosonde soundings from Burketown in north Queensland, Australia, for a 28-day period during the late dry season, together with pressure, Hind, temperature, and humidity data from a number of surface stations in the region. During the experiment, 16 morning glories were recorded. On all but one day, radiosonde soundings were carried out in the pre-morning-glory environment. On 7 days, additional soundings were carried out within an hour or two of the passage of a morning glory.', Soundings made on days on which morning glories were generated over Cape York Peninsula but failed to reach Burketown are compared with those on days when morning glories were recorded at Burketown. The comparison shows that the depth and strength of the surface-based inversion did not differ significantly and that the stratification of the almost neutral layer above the stable laver was similar on days with and without morning glories. An examination of the wind profiles is unrevealing and leads the authors to reject the hypothesis that the trapping of wave energy is the key factor that determines the longevity of the disturbances. That the leakiness of the wave-guide is not the only factor in the ability of disturbances to cover large distances from their place of origin is consistent with a numerical study by Noonan and Smith, which suggests that the morning-glory bore-wave system is formed and maintained by mesoscale circulations associated with the sea breezes over Cape York Peninsula.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:31.328907</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:24.598608</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We present and discuss discontinuous Galerkin (DG) schemes for dry and moist atmospheric flows in the mesoscale. We derive terrain-following coordinates on the sphere in strong-conservation form, which makes it possible to perform the computation on a Cartesian grid and yet conserves the momentum density on an f$f$-plane. A new DG model, i.e. DG-COSMO, is compared to the operational model COSMO of the Deutscher Wetterdienst (DWD). A simplified version of the suggested terrain-following coordinates is implemented in DG-COSMO and is compared against the DG dynamical core implemented within the DUNE framework, which uses unstructured grids to capture orography. Finally, a few idealised test cases, including 3d and moisture, are used for validation. In addition an estimate of efficiency for locally adaptive grids is derived for locally and non-locally occurring phenomena.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We present and discuss discontinuous Galerkin (DG) schemes for dry and moist atmospheric flows in the mesoscale. We derive terrain-following coordinates on the sphere in strong-conservation form, which makes it possible to perform the computation on a Cartesian grid and yet conserves the momentum density on an f$f$-plane. A new DG model, i.e. DG-COSMO, is compared to the operational model COSMO of the Deutscher Wetterdienst (DWD). A simplified version of the suggested terrain-following coordinates is implemented in DG-COSMO and is compared against the DG dynamical core implemented within the DUNE framework, which uses unstructured grids to capture orography. Finally, a few idealised test cases, including 3d and moisture, are used for validation. In addition an estimate of efficiency for locally adaptive grids is derived for locally and non-locally occurring phenomena.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

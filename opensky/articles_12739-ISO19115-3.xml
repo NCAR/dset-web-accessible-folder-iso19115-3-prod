@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:03.105025</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:47.760868</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The 2010 Concordiasi field experiment took place over Antarctica from September to December 2010. During Concordiasi, for the first time, 13 National Center for Atmospheric Research Driftsonde systems were launched from McMurdo station, ascended to the stratosphere, and then drifted with the winds. The Driftsonde provides a unique platform to release dropsondes that measure the atmosphere from the lower stratosphere to the surface in otherwise difficult to reach parts of the globe. A total of 639 soundings were obtained and provided unprecedented high quality profiles over Antarctica. The sounding temperature profiles are compared with matched profiles from ten satellite products. All satellite products except The Constellation Observing System for Meteorology, Ionosphere, and Climate (COSMIC) are consistent colder than the sounding data, with larger discrepancies over the Antarctic continent than the coast and ocean. The COSMIC data are in agreement with the sounding data and display no degradation over the continent.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The 2010 Concordiasi field experiment took place over Antarctica from September to December 2010. During Concordiasi, for the first time, 13 National Center for Atmospheric Research Driftsonde systems were launched from McMurdo station, ascended to the stratosphere, and then drifted with the winds. The Driftsonde provides a unique platform to release dropsondes that measure the atmosphere from the lower stratosphere to the surface in otherwise difficult to reach parts of the globe. A total of 639 soundings were obtained and provided unprecedented high quality profiles over Antarctica. The sounding temperature profiles are compared with matched profiles from ten satellite products. All satellite products except The Constellation Observing System for Meteorology, Ionosphere, and Climate (COSMIC) are consistent colder than the sounding data, with larger discrepancies over the Antarctic continent than the coast and ocean. The COSMIC data are in agreement with the sounding data and display no degradation over the continent.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

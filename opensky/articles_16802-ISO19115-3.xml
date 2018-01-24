@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:50.564413</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:53.079601</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Approaches for probability density function (pdf) development of future climate often assume that different climate models provide independent information, despite model similarities that stem from a common genealogy (models with shared code or developed at the same institution). Here we use an ensemble of projections from the Coupled Model Intercomparison Project Phase 5 to develop probabilistic climate information, with and without an accounting of intermodel correlations, for seven regions across the United States. We then use the pdfs to estimate midcentury climate-related risks to a water utility in one of the regions. We show that the variance of climate changes is underestimated across all regions if model correlations are ignored, and in some cases, the mean change shifts as well. When coupled with impact models of the hydrology and infrastructure of a water utility, the underestimated likelihood of large climate changes significantly alters the quantification of risk for water shortages by midcentury.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Approaches for probability density function (pdf) development of future climate often assume that different climate models provide independent information, despite model similarities that stem from a common genealogy (models with shared code or developed at the same institution). Here we use an ensemble of projections from the Coupled Model Intercomparison Project Phase 5 to develop probabilistic climate information, with and without an accounting of intermodel correlations, for seven regions across the United States. We then use the pdfs to estimate midcentury climate-related risks to a water utility in one of the regions. We show that the variance of climate changes is underestimated across all regions if model correlations are ignored, and in some cases, the mean change shifts as well. When coupled with impact models of the hydrology and infrastructure of a water utility, the underestimated likelihood of large climate changes significantly alters the quantification of risk for water shortages by midcentury.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

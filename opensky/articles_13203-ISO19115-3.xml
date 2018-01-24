@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:14.726921</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:02.513459</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The effects of drought are vast, but loss statistics often do not reflect the impacts on the tourism and recreation sector, which for many places is one of the most critical economic drivers. This is concerning because drought events are common across the globe, with varying frequency, duration, and intensity, and are therefore unavoidable. Over the years, drought conditions have been at record levels in many regions, causing deep societal and economic impacts. However, little research has been conducted on connections between tourism/recreation and drought, revealing a distinct disconnect between the tourism/recreation sector and drought management. To bridge this gap in the current understanding of, and approaches to, managing drought in the tourism/recreation sector, we present an interdisciplinary conceptual framework that integrates tourism/recreation into the drought management process to ensure sustainable economic development and community vitality. The model presented here promotes understanding of critical interactions through a bottom-up stakeholder engagement process balanced with formal top-down management approaches.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The effects of drought are vast, but loss statistics often do not reflect the impacts on the tourism and recreation sector, which for many places is one of the most critical economic drivers. This is concerning because drought events are common across the globe, with varying frequency, duration, and intensity, and are therefore unavoidable. Over the years, drought conditions have been at record levels in many regions, causing deep societal and economic impacts. However, little research has been conducted on connections between tourism/recreation and drought, revealing a distinct disconnect between the tourism/recreation sector and drought management. To bridge this gap in the current understanding of, and approaches to, managing drought in the tourism/recreation sector, we present an interdisciplinary conceptual framework that integrates tourism/recreation into the drought management process to ensure sustainable economic development and community vitality. The model presented here promotes understanding of critical interactions through a bottom-up stakeholder engagement process balanced with formal top-down management approaches.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

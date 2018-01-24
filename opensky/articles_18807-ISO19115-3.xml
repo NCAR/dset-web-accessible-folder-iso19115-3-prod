@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:32.571368</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:55.054110</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The effect of stratospheric ozone depletion on the Amundsen Sea Low (ASL), a climatological low-pressure center important for the climate of West Antarctica, remains uncertain. Using state-of-the-art climate models, we here show that stratospheric ozone depletion can cause a statistically significant deepening of the ASL in summer with an amplitude of approximately 1hPa per decade. We are able to attribute the modeled changes in the ASL to stratospheric ozone depletion by contrasting ensembles of historical integrations with and without a realistic ozone hole. In the presence of very large natural variability, the robustness of the ozone impact on the ASL is established by (1) examining ensembles of model runs to isolate the forced response, (2) repeating the analysis with two different climate models, and (3) considering the entire period of stratospheric ozone depletion, the beginning of which predates the satellite era by a couple of decades.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The effect of stratospheric ozone depletion on the Amundsen Sea Low (ASL), a climatological low-pressure center important for the climate of West Antarctica, remains uncertain. Using state-of-the-art climate models, we here show that stratospheric ozone depletion can cause a statistically significant deepening of the ASL in summer with an amplitude of approximately 1hPa per decade. We are able to attribute the modeled changes in the ASL to stratospheric ozone depletion by contrasting ensembles of historical integrations with and without a realistic ozone hole. In the presence of very large natural variability, the robustness of the ozone impact on the ASL is established by (1) examining ensembles of model runs to isolate the forced response, (2) repeating the analysis with two different climate models, and (3) considering the entire period of stratospheric ozone depletion, the beginning of which predates the satellite era by a couple of decades.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

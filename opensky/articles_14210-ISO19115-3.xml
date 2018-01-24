@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:25.387533</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:16.555222</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The introduction of gases and particulate contaminants in the atmosphere due to natural or human activities causes air pollution. The concentration and toxicity of these contaminants define air quality and in the long term contribute to climate change. Both air pollution and climate change influence each other through complex interactions in the atmosphere. This issue has 9 very interesting manuscripts, touching various aspects of air pollution and air quality and their impact on climate change.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The introduction of gases and particulate contaminants in the atmosphere due to natural or human activities causes air pollution. The concentration and toxicity of these contaminants define air quality and in the long term contribute to climate change. Both air pollution and climate change influence each other through complex interactions in the atmosphere. This issue has 9 very interesting manuscripts, touching various aspects of air pollution and air quality and their impact on climate change.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

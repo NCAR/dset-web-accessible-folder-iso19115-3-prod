@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:33.553794</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:08.300760</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Inhomogeneity in gridded meteorological data may arise from the inclusion of inhomogeneous station data or from aspects of the gridding procedure itself. However, the homogeneity of gridded datasets is rarely questioned, even though an analysis of trends or variability that uses inhomogeneous data could be misleading or even erroneous. Three gridded precipitation datasets that have been used in studies of the Upper Colorado River basin were tested for homogeneity in this study: that of Maurer et al., that of Beyene and Lettenmaier, and the Parameter Elevation Regressions on Independent Slopes Model (PRISM) dataset of Daly et al. Four absolute homogeneity tests were applied to annual precipitation amounts on a grid cell and on a hydrologic subregion spatial scale for the periods 1950-99 and 1916-2006. The analysis detects breakpoints in 1977 and 1978 at many locations in all three datasets that may be due to an anomalously rapid shift in the Pacific decadal oscillation. One dataset showed breakpoints in the 1940s that might be due to the widespread change in the number of available observing stations used as input for that dataset. The results also indicated that the time series from the three datasets are sufficiently homogeneous for variability analysis during the 1950-99 period when aggregated on a subregional scale.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Inhomogeneity in gridded meteorological data may arise from the inclusion of inhomogeneous station data or from aspects of the gridding procedure itself. However, the homogeneity of gridded datasets is rarely questioned, even though an analysis of trends or variability that uses inhomogeneous data could be misleading or even erroneous. Three gridded precipitation datasets that have been used in studies of the Upper Colorado River basin were tested for homogeneity in this study: that of Maurer et al., that of Beyene and Lettenmaier, and the Parameter Elevation Regressions on Independent Slopes Model (PRISM) dataset of Daly et al. Four absolute homogeneity tests were applied to annual precipitation amounts on a grid cell and on a hydrologic subregion spatial scale for the periods 1950-99 and 1916-2006. The analysis detects breakpoints in 1977 and 1978 at many locations in all three datasets that may be due to an anomalously rapid shift in the Pacific decadal oscillation. One dataset showed breakpoints in the 1940s that might be due to the widespread change in the number of available observing stations used as input for that dataset. The results also indicated that the time series from the three datasets are sufficiently homogeneous for variability analysis during the 1950-99 period when aggregated on a subregional scale.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:27.496779</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:59.558496</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The dynamical core of an atmospheric general circulation model is engineered to satisfy a delicate balance between numerical stability, computational cost, and an accurate representation of the equations of motion. It generally contains either explicitly added or inherent numerical diffusion mechanisms to control the build-up of energy or enstrophy at the smallest scales. The diffusion fosters computational stability and is sometimes also viewed as a substitute for unresolved subgrid-scale processes. A particular form of explicitly added diffusion is horizontal divergence damping. In this paper a von Neumann stability analysis of horizontal divergence damping on a latitude-longitude grid is performed. Stability restrictions are derived for the damping coefficients of both second and fourth-order divergence damping. The accuracy of the theoretical analysis is verified through the use of idealized dynamical core test cases that include the simulation of gravity waves and a baroclinic wave. The tests are applied to the infinite-volume dynamical core of NCAR's Community Atmosphere Model (CAM) version 5. Investigation of the amplification factor for the divergence damping mechanisms explains how small-scale meridional waves found in a baroclinic wave test case are not eliminated by the damping.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The dynamical core of an atmospheric general circulation model is engineered to satisfy a delicate balance between numerical stability, computational cost, and an accurate representation of the equations of motion. It generally contains either explicitly added or inherent numerical diffusion mechanisms to control the build-up of energy or enstrophy at the smallest scales. The diffusion fosters computational stability and is sometimes also viewed as a substitute for unresolved subgrid-scale processes. A particular form of explicitly added diffusion is horizontal divergence damping. In this paper a von Neumann stability analysis of horizontal divergence damping on a latitude-longitude grid is performed. Stability restrictions are derived for the damping coefficients of both second and fourth-order divergence damping. The accuracy of the theoretical analysis is verified through the use of idealized dynamical core test cases that include the simulation of gravity waves and a baroclinic wave. The tests are applied to the infinite-volume dynamical core of NCAR's Community Atmosphere Model (CAM) version 5. Investigation of the amplification factor for the divergence damping mechanisms explains how small-scale meridional waves found in a baroclinic wave test case are not eliminated by the damping.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

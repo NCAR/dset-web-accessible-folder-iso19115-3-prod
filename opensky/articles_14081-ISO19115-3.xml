@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:21.872348</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:11.752708</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -313,7 +313,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Spectrographic airglow measurements were made during an ionospheric modification experiment at High Frequency Active Auroral Research Program on 12 March 2013. Artificial airglow enhancements at 427.8, 557.7, 630.0, 777.4, and 844.6 nm were observed. On the basis of these emissions and using a methodology based on the method of Backus and Gilbert (1968, 1970), we estimate the suprathermal electron population and the subsequent equilibrium electron density profile, including contributions from electron impact ionization. We find that the airglow is consistent with heater-induced ionization in view of the spatial intermittency of the airglow.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Spectrographic airglow measurements were made during an ionospheric modification experiment at High Frequency Active Auroral Research Program on 12 March 2013. Artificial airglow enhancements at 427.8, 557.7, 630.0, 777.4, and 844.6 nm were observed. On the basis of these emissions and using a methodology based on the method of Backus and Gilbert (1968, 1970), we estimate the suprathermal electron population and the subsequent equilibrium electron density profile, including contributions from electron impact ionization. We find that the airglow is consistent with heater-induced ionization in view of the spatial intermittency of the airglow.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

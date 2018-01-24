@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:20.598080</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:10.095740</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Several recent efforts to estimate Earth's equilibrium climate sensitivity (ECS) focus on identifying quantities in the current climate which are skillful predictors of ECS yet can be constrained by observations. This study automates the search for observable predictors using data from phase 5 of the Coupled Model Intercomparison Project. The primary focus of this paper is assessing statistical significance of the resulting predictive relationships. Failure to account for dependence between models, variables, locations, and seasons is shown to yield misleading results. A new technique for testing the field significance of data-mined correlations which avoids these problems is presented. Using this new approach, all 41,741 relationships we tested were found to be explainable by chance. This leads us to conclude that data mining is best used to identify potential relationships which are then validated or discarded using physically based hypothesis testing.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Several recent efforts to estimate Earth's equilibrium climate sensitivity (ECS) focus on identifying quantities in the current climate which are skillful predictors of ECS yet can be constrained by observations. This study automates the search for observable predictors using data from phase 5 of the Coupled Model Intercomparison Project. The primary focus of this paper is assessing statistical significance of the resulting predictive relationships. Failure to account for dependence between models, variables, locations, and seasons is shown to yield misleading results. A new technique for testing the field significance of data-mined correlations which avoids these problems is presented. Using this new approach, all 41,741 relationships we tested were found to be explainable by chance. This leads us to conclude that data mining is best used to identify potential relationships which are then validated or discarded using physically based hypothesis testing.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

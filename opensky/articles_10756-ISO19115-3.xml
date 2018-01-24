@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:32.384657</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:06.580060</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Recent work indicates that climate models have a positive bias in the strength of the winter-time low-level temperature inversion over the high-latitude northern hemisphere. It has been argued this bias leads to underestimates of the Arctic's surface temperature response to anthropogenic forcing. Here the bias in inversion strength is revisited. The spatial distribution of low-level stability is found to be bimodal in climate models and observational reanalysis products, with low-level inversions represented by a stable primary mode over the interior Arctic Ocean and adjacent continents, and a secondary unstable mode over the Atlantic Ocean. Averaging over these differing conditions is detrimental to understanding the origins of the inversion strength bias. While nearly all of the 21 models examined overestimate the area-average inversion strength, conditionally sampling the two modes shows about half the models are biased because of the relative partitioning of the modes and half because of biases within the stable mode.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Recent work indicates that climate models have a positive bias in the strength of the winter-time low-level temperature inversion over the high-latitude northern hemisphere. It has been argued this bias leads to underestimates of the Arctic's surface temperature response to anthropogenic forcing. Here the bias in inversion strength is revisited. The spatial distribution of low-level stability is found to be bimodal in climate models and observational reanalysis products, with low-level inversions represented by a stable primary mode over the interior Arctic Ocean and adjacent continents, and a secondary unstable mode over the Atlantic Ocean. Averaging over these differing conditions is detrimental to understanding the origins of the inversion strength bias. While nearly all of the 21 models examined overestimate the area-average inversion strength, conditionally sampling the two modes shows about half the models are biased because of the relative partitioning of the modes and half because of biases within the stable mode.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

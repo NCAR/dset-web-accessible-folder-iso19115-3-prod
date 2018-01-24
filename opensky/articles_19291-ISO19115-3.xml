@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:37.718020</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:03.398147</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A recent paper in Journal of Geophysical Research-Oceans connects recent changes in atmospheric circulation to poleward movement and intensification of western boundary currents. Causes and characteristics of past and future trends in surface wind stress and western boundary currents are discussed here.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A recent paper in Journal of Geophysical Research-Oceans connects recent changes in atmospheric circulation to poleward movement and intensification of western boundary currents. Causes and characteristics of past and future trends in surface wind stress and western boundary currents are discussed here.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

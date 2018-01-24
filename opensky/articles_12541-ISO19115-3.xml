@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:58.456195</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:41.703425</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We describe implementation and demonstration of a polarization technique adapted for lidar to measure all unique elements of the volume backscatter phase matrix. This capability allows for detection of preferential orientation within a scattering volume, and may improve scattering inversions on oriented ice crystals. The technique is enabled using a Mueller formalism commonly employed in polarimetry, which does not require the lidar instrument be polarization preserving. Instead, the accuracy of the polarization measurements are limited by the accuracy of the instrument characterization. A high spectral resolution lidar at the National Center for Atmospheric Research was modified to demonstrate this polarization technique. Two observations where the instrument is tilted off zenith are presented. In the first case, the lidar detects flattened large raindrops oriented along the same direction due to drag forces from falling. The second case is an ice cloud approximately 5 km above lidar base that contains preferentially oriented ice crystals in a narrow altitude band.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We describe implementation and demonstration of a polarization technique adapted for lidar to measure all unique elements of the volume backscatter phase matrix. This capability allows for detection of preferential orientation within a scattering volume, and may improve scattering inversions on oriented ice crystals. The technique is enabled using a Mueller formalism commonly employed in polarimetry, which does not require the lidar instrument be polarization preserving. Instead, the accuracy of the polarization measurements are limited by the accuracy of the instrument characterization. A high spectral resolution lidar at the National Center for Atmospheric Research was modified to demonstrate this polarization technique. Two observations where the instrument is tilted off zenith are presented. In the first case, the lidar detects flattened large raindrops oriented along the same direction due to drag forces from falling. The second case is an ice cloud approximately 5 km above lidar base that contains preferentially oriented ice crystals in a narrow altitude band.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

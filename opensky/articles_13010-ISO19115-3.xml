@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:10.582041</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:56.831876</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Coronal Multichannel Polarimeter (CoMP) measures not only the polarization of coronal emission, but also the full radiance profiles of coronal emission lines. For the first time, CoMP observations provide high-cadence image sequences of the coronal line intensity, Doppler shift, and line width simultaneously over a large field of view. By studying the Doppler shift and line width we may explore more of the physical processes of the initiation and propagation of coronal mass ejections (CMEs). Here we identify a list of CMEs observed by CoMP and present the first results of these observations. Our preliminary analysis shows that CMEs are usually associated with greatly increased Doppler shift and enhanced line width. These new observations provide not only valuable information to constrain CME models and probe various processes during the initial propagation of CMEs in the low corona, but also offer a possible cost-effective and low-risk means of space-weather monitoring.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Coronal Multichannel Polarimeter (CoMP) measures not only the polarization of coronal emission, but also the full radiance profiles of coronal emission lines. For the first time, CoMP observations provide high-cadence image sequences of the coronal line intensity, Doppler shift, and line width simultaneously over a large field of view. By studying the Doppler shift and line width we may explore more of the physical processes of the initiation and propagation of coronal mass ejections (CMEs). Here we identify a list of CMEs observed by CoMP and present the first results of these observations. Our preliminary analysis shows that CMEs are usually associated with greatly increased Doppler shift and enhanced line width. These new observations provide not only valuable information to constrain CME models and probe various processes during the initial propagation of CMEs in the low corona, but also offer a possible cost-effective and low-risk means of space-weather monitoring.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

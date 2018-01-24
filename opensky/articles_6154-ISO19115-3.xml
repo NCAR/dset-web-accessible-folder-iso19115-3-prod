@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:07.186604</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:30.003703</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A four-dimensional variational data assimilation system consisting of a three-dimensional time-dependent cloud model with both liquid and ice phase microphysics parameterization was used to assimilate radar data into a cloud model. Data of a severe thunderstorm observed during the Cooperative Huntsville Meteorological Experiment project were assimilated and results compared to a conventional analysis. The analysis system was able to retrieve all the prominent features of the storm, but differed in some of the details. However, the consistency of this retrieval dataset lent credence to the results. It was found that the algorithm was very sensitive to several coefficients in the microphysical and turbulence parameterizations. Simulations proved to be unable to reproduce the evolution of the observed storm even with parameterization coefficients set at values that produce reasonable storm evolutions. This result has implications for short-range forecasting of convective events. Such forecasts require initial fields that currently can only be derived from observations such as used in this study. The problems with assimilating radar observations point to additional work to design parameterizations that allow models to more accurately simulate actual observed storms.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A four-dimensional variational data assimilation system consisting of a three-dimensional time-dependent cloud model with both liquid and ice phase microphysics parameterization was used to assimilate radar data into a cloud model. Data of a severe thunderstorm observed during the Cooperative Huntsville Meteorological Experiment project were assimilated and results compared to a conventional analysis. The analysis system was able to retrieve all the prominent features of the storm, but differed in some of the details. However, the consistency of this retrieval dataset lent credence to the results. It was found that the algorithm was very sensitive to several coefficients in the microphysical and turbulence parameterizations. Simulations proved to be unable to reproduce the evolution of the observed storm even with parameterization coefficients set at values that produce reasonable storm evolutions. This result has implications for short-range forecasting of convective events. Such forecasts require initial fields that currently can only be derived from observations such as used in this study. The problems with assimilating radar observations point to additional work to design parameterizations that allow models to more accurately simulate actual observed storms.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

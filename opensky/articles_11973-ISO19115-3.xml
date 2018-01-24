@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:44.966134</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:24.443826</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We examine the decomposition of forced Taylor-Green and Arn'old-Beltrami-Childress (ABC) flows into coherent and incoherent components using an orthonormal wavelet decomposition. We ask whether wavelet coefficient thresholding based on the Donoho-Johnstone criterion can extract a coherent vortex signal while leaving behind Gaussian random noise. We find that no threshold yields a strictly Gaussian incoherent component, and that the most Gaussian incoherent flow is found for data compression lower than that achieved with the fully iterated Donoho-Johnstone threshold. Moreover, even at such low compression, the incoherent component shows clear signs of large-scale spatial correlations that are signatures of the forcings used to drive the flows.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We examine the decomposition of forced Taylor-Green and Arn'old-Beltrami-Childress (ABC) flows into coherent and incoherent components using an orthonormal wavelet decomposition. We ask whether wavelet coefficient thresholding based on the Donoho-Johnstone criterion can extract a coherent vortex signal while leaving behind Gaussian random noise. We find that no threshold yields a strictly Gaussian incoherent component, and that the most Gaussian incoherent flow is found for data compression lower than that achieved with the fully iterated Donoho-Johnstone threshold. Moreover, even at such low compression, the incoherent component shows clear signs of large-scale spatial correlations that are signatures of the forcings used to drive the flows.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

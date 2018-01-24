@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:34.767579</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:09.976750</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Tropopause polar vortices are coherent circulation features based on the tropopause in polar regions. They are a common feature of the Arctic, with typical radii less than 1500 km and lifetimes that may exceed 1 month. The Arctic is a particularly favorable region for these features due to isolation from the horizontal wind shear associated with the midlatitude jet stream, which may destroy the vortical circulation. Intensification of cyclonic tropopause polar vortices is examined here using an Ertel potential vorticity framework to test the hypothesis that there is an average tendency for diabatic effects to intensify the vortices due to enhanced upper-tropospheric radiative cooling within the vortices. Data for the analysis are derived from numerical simulations of a large sample of observed cyclonic vortices over the Canadian Arctic. Results show that there is on average a net tendency to create potential vorticity in the vortex, and hence intensify cyclones, and that the tendency is radiatively driven. While the effects of latent heating are considerable, they are smaller in magnitude, and all other diabatic processes have a negligible effect on vortex intensity.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Tropopause polar vortices are coherent circulation features based on the tropopause in polar regions. They are a common feature of the Arctic, with typical radii less than 1500 km and lifetimes that may exceed 1 month. The Arctic is a particularly favorable region for these features due to isolation from the horizontal wind shear associated with the midlatitude jet stream, which may destroy the vortical circulation. Intensification of cyclonic tropopause polar vortices is examined here using an Ertel potential vorticity framework to test the hypothesis that there is an average tendency for diabatic effects to intensify the vortices due to enhanced upper-tropospheric radiative cooling within the vortices. Data for the analysis are derived from numerical simulations of a large sample of observed cyclonic vortices over the Canadian Arctic. Results show that there is on average a net tendency to create potential vorticity in the vortex, and hence intensify cyclones, and that the tendency is radiatively driven. While the effects of latent heating are considerable, they are smaller in magnitude, and all other diabatic processes have a negligible effect on vortex intensity.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

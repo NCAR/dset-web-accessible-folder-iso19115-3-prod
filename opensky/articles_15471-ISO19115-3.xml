@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:40.545002</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:38.064954</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>It has been well established that the atmosphere is chaotic by nature and thus has a finite limit of predictability. The chaotic divergence of initial conditions and the predictability are explored here in the context of the whole atmosphere (from the ground to the thermosphere) using the NCAR Whole Atmosphere Community Climate Model (WACCM). From ensemble WACCM simulations, it is found that the early growth of differences in initial conditions is associated with gravity waves and it becomes apparent first in the upper atmosphere and progresses downward. The differences later become more profound on increasingly larger scales, and the growth rates of the differences change in various atmospheric regions and with seasons - corresponding closely with the strength of planetary waves. For example, in December-February the growth rates are largest in the northern and southern mesosphere and lower thermosphere and in the northern stratosphere, while smallest in the southern stratosphere. The growth rates, on the other hand, are not sensitive to the altitude where the small differences are introduced in the initial conditions or the physical nature of the differences. Furthermore, the growth rates in the middle and upper atmosphere are significantly reduced if the lower atmosphere is regularly reinitialized, and the reduction depends on the frequency and the altitude range of the reinitialization.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[It has been well established that the atmosphere is chaotic by nature and thus has a finite limit of predictability. The chaotic divergence of initial conditions and the predictability are explored here in the context of the whole atmosphere (from the ground to the thermosphere) using the NCAR Whole Atmosphere Community Climate Model (WACCM). From ensemble WACCM simulations, it is found that the early growth of differences in initial conditions is associated with gravity waves and it becomes apparent first in the upper atmosphere and progresses downward. The differences later become more profound on increasingly larger scales, and the growth rates of the differences change in various atmospheric regions and with seasons - corresponding closely with the strength of planetary waves. For example, in December-February the growth rates are largest in the northern and southern mesosphere and lower thermosphere and in the northern stratosphere, while smallest in the southern stratosphere. The growth rates, on the other hand, are not sensitive to the altitude where the small differences are introduced in the initial conditions or the physical nature of the differences. Furthermore, the growth rates in the middle and upper atmosphere are significantly reduced if the lower atmosphere is regularly reinitialized, and the reduction depends on the frequency and the altitude range of the reinitialization.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:15.342498</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:40.601966</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[Temperature trends derived from historical radiosonde data often show substantial differences compared to satellite measurements. These differences are especially large for stratospheric levels, and for data in the Tropics, where results are based on relatively few stations. Detailed comparisons of one radiosonde dataset with collocated satellite measurements from the Microwave Sounding Unit reveal time series differences that occur as step functions or jumps at many stations. These jumps occur at different times for different stations, suggesting that the differences are primarily related to problems in the radiosonde data, rather than in the satellite record. As a result of these jumps, the radiosondes exhibit systematic cooling biases relative to the satellites. A large number of the radiosonde stations in the Tropics are influenced by these biases, suggesting that cooling in the tropical lower stratosphere is substantially overestimated in these radiosonde data. Comparison of trends from stations with larger and smaller biases suggests the cooling bias extends into the tropical upper troposphere. Significant biases are observed in both daytime and nighttime radiosonde measurements.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

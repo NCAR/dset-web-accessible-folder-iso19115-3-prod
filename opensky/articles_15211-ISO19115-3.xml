@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:35.078769</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:29.856974</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We perform Empirical Orthogonal Function (EOF) analysis on 12 years of global GOME and SCIAMACHY formaldehyde (HCHO) column observations to determine the most significant spatial and temporal HCHO variations. In most regions, we find that HCHO variability is predominantly driven by seasonal variations of biogenic emissions and biomass burning. However, unusually low HCHO columns are consistently observed over the Amazon rainforest during the transition from the wet-to-dry seasons. We use MODIS leaf area and enhanced vegetation indices, to show variations in vegetation are consistent with the observed decrease in HCHO during this period (correlations of 0.69 and 0.67, respectively). Based on this evidence, we suggest isoprene emitting vegetation experience widespread leaf flushing (new leaf growth) prior to the dry season, resulting in a large-scale annual shutdown of Amazonian isoprene emissions.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We perform Empirical Orthogonal Function (EOF) analysis on 12 years of global GOME and SCIAMACHY formaldehyde (HCHO) column observations to determine the most significant spatial and temporal HCHO variations. In most regions, we find that HCHO variability is predominantly driven by seasonal variations of biogenic emissions and biomass burning. However, unusually low HCHO columns are consistently observed over the Amazon rainforest during the transition from the wet-to-dry seasons. We use MODIS leaf area and enhanced vegetation indices, to show variations in vegetation are consistent with the observed decrease in HCHO during this period (correlations of 0.69 and 0.67, respectively). Based on this evidence, we suggest isoprene emitting vegetation experience widespread leaf flushing (new leaf growth) prior to the dry season, resulting in a large-scale annual shutdown of Amazonian isoprene emissions.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

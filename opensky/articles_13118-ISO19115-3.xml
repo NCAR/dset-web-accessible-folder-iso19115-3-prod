@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-20T18:26:20.333887</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:59.936456</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -283,7 +283,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString><![CDATA[No abstract available.]]></gco:CharacterString>
+                <gco:CharacterString><![CDATA[The record-low thermospheric density during the last solar minimum has been reported and it has been mainly explained as the consequence of the anomalously low solar extreme ultraviolet (EUV) irradiance. In this study, we examined the variation of the energy budget to the Earth's upper atmosphere during last solar cycle from both solar EUV irradiance and geomagnetic energy, including Joule heating and particle precipitation. The globally integrated solar EUV power was calculated from the EUV flux model for aeronomic calculations (EUVAC) driven by the MgII index. The annal average of solar power in 2008 was 33 GW lower than that in 1996. The decrease of the globally integrated geomagnetic energy from 1996 to 2008 was close to 29 GW including 13 GW for Joule heating from Weimer (2005b) and 16 GW for particle precipitation from NOAA Polar-Orbiting Environmental Satellites (POES) measurements. Although the estimate of the solar EUV power and geomagnetic energy vary from model to model, the reduction of the geomagnetic energy was comparable to the solar EUV power. The Thermosphere Ionosphere Electrodynamic General Circulation Model (TIEGCM) simulations indicate that the solar irradiance and geomagnetic energy variations account for 3/4 and 1/4 of the total neutral density decrease in 2008, respectively.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

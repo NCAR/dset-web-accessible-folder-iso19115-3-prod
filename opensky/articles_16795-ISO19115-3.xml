@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:50.361631</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:52.782039</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The eruption of the Campanian Ignimbrite at ca. 40 ka coincided with the final decline of Neanderthals in Europe. Environmental stress associated with the eruption of the Campanian Ignimbrite has been invoked as a potential driver for this extinction as well as broader upheaval in Paleolithic societies. To test the climatic importance of the Campanian eruption, we used a three-dimensional sectional aerosol model to simulate the global aerosol cloud after release of 50 Tg and 200 Tg SO2 . We coupled aerosol properties to a comprehensive earth system model under last glacial conditions. We find that peak cooling and acid deposition lasted one to two years and that the most intense cooling sidestepped hominin population centers in Western Europe. We conclude that the environmental effects of the Campanian Ignimbrite eruption alone were insufficient to explain the ultimate demise of Neanderthals in Europe. Nonetheless, significant volcanic cooling during the years immediately following the eruption could have impacted the viability of already precarious populations and influenced many aspects of daily life for Neanderthals and anatomically modern humans.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The eruption of the Campanian Ignimbrite at ca. 40 ka coincided with the final decline of Neanderthals in Europe. Environmental stress associated with the eruption of the Campanian Ignimbrite has been invoked as a potential driver for this extinction as well as broader upheaval in Paleolithic societies. To test the climatic importance of the Campanian eruption, we used a three-dimensional sectional aerosol model to simulate the global aerosol cloud after release of 50 Tg and 200 Tg SO2 . We coupled aerosol properties to a comprehensive earth system model under last glacial conditions. We find that peak cooling and acid deposition lasted one to two years and that the most intense cooling sidestepped hominin population centers in Western Europe. We conclude that the environmental effects of the Campanian Ignimbrite eruption alone were insufficient to explain the ultimate demise of Neanderthals in Europe. Nonetheless, significant volcanic cooling during the years immediately following the eruption could have impacted the viability of already precarious populations and influenced many aspects of daily life for Neanderthals and anatomically modern humans.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

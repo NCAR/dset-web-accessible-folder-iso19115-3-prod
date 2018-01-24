@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:02.347433</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:10.437783</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>A new type of radio occultation (RO) data, recorded in open-loop (OL) mode from the SAC-C satellite, has been tested for monitoring refractivity in the Atmospheric Boundary Layer (ABL). Previously available RO signals, recorded in phase-locked loop mode were often unusable for sensing the lower troposphere (LT) or resulted in significant inversion errors, especially in the tropics. The OL RO signals allow sensing of the LT and accurate monitoring of the ABL and, especially, its depth. Comparison of RO-inverted refractivity profiles to ECMWF analysis and available radiosondes generally shows good agreement in the depth of the ABL. However, in a number of cases, ECMWF fails to reproduce the top of ABL. Future OL RO signals will provide information about the ABL depth which is an important parameter for weather prediction and climate monitoring.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[A new type of radio occultation (RO) data, recorded in open-loop (OL) mode from the SAC-C satellite, has been tested for monitoring refractivity in the Atmospheric Boundary Layer (ABL). Previously available RO signals, recorded in phase-locked loop mode were often unusable for sensing the lower troposphere (LT) or resulted in significant inversion errors, especially in the tropics. The OL RO signals allow sensing of the LT and accurate monitoring of the ABL and, especially, its depth. Comparison of RO-inverted refractivity profiles to ECMWF analysis and available radiosondes generally shows good agreement in the depth of the ABL. However, in a number of cases, ECMWF fails to reproduce the top of ABL. Future OL RO signals will provide information about the ABL depth which is an important parameter for weather prediction and climate monitoring.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

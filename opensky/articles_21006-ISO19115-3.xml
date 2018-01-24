@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:55.655038</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:30.306004</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -373,7 +373,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study intercompares, among five global models, the potential impacts of all commercial aircraft emissions worldwide on surface ozone and particulate matter (PM2.5). The models include climate-response models (CRMs) with interactive meteorology, chemical-transport models (CTMs) with prescribed meteorology, and models that integrate aspects of both. Model inputs are harmonized in an effort to achieve a consensus about the state of understanding of impacts of 2006 commercial aviation emissions. Models find that aircraft increase near-surface ozone (0.3 to 1.9% globally), with qualitatively similar spatial distributions, highest in the Northern Hemisphere. Annual changes in surface-level PM2.5 in the CTMs (0.14 to 0.4%) and CRMs (-1.9 to 1.2%) depend on differences in nonaircraft baseline aerosol fields among models and the inclusion of feedbacks between aircraft emissions and changes in meteorology. The CTMs tend to result in an increase in surface PM2.5 primarily over high-traffic regions in the North American midlatitudes. The CRMs, on the other hand, demonstrate the effects of aviation emissions on changing meteorological fields that result in large perturbations over regions where natural emissions (e.g., soil dust and sea spray) occur. The changes in ozone and PM2.5 found here may be used to contextualize previous estimates of impacts of aircraft emissions on human health.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[This study intercompares, among five global models, the potential impacts of all commercial aircraft emissions worldwide on surface ozone and particulate matter (PM2.5). The models include climate-response models (CRMs) with interactive meteorology, chemical-transport models (CTMs) with prescribed meteorology, and models that integrate aspects of both. Model inputs are harmonized in an effort to achieve a consensus about the state of understanding of impacts of 2006 commercial aviation emissions. Models find that aircraft increase near-surface ozone (0.3 to 1.9% globally), with qualitatively similar spatial distributions, highest in the Northern Hemisphere. Annual changes in surface-level PM2.5 in the CTMs (0.14 to 0.4%) and CRMs (-1.9 to 1.2%) depend on differences in nonaircraft baseline aerosol fields among models and the inclusion of feedbacks between aircraft emissions and changes in meteorology. The CTMs tend to result in an increase in surface PM2.5 primarily over high-traffic regions in the North American midlatitudes. The CRMs, on the other hand, demonstrate the effects of aviation emissions on changing meteorological fields that result in large perturbations over regions where natural emissions (e.g., soil dust and sea spray) occur. The changes in ozone and PM2.5 found here may be used to contextualize previous estimates of impacts of aircraft emissions on human health.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

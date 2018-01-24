@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:33.435842</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:08.121527</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -204,7 +204,7 @@
                     </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>In this paper the performance of Weather Research and Forecasting (WRF) model for simulation of heavy rainfall events in presence of monsoon depressions over the Indian monsoon region is investigated with different physics options. A number of experiments for forecasts up to 72 hours are performed with two nested domains at the resolution of 45 km and 15 km respectively. The study shows that WRF model is sensitive to the choice of convective scheme. Betts-Miller-Janjic (BMJ) cumulus scheme is found to produce better results compared to other cumulus schemes for the Indian monsoon region. The model is capable of capturing the movement of the monsoon depression with a lead time of 72 hours. The model is expected to be very useful for forecasting of rainfall and depression tracks in short range time scales over Indian monsoon region.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[In this paper the performance of Weather Research and Forecasting (WRF) model for simulation of heavy rainfall events in presence of monsoon depressions over the Indian monsoon region is investigated with different physics options. A number of experiments for forecasts up to 72 hours are performed with two nested domains at the resolution of 45 km and 15 km respectively. The study shows that WRF model is sensitive to the choice of convective scheme. Betts-Miller-Janjic (BMJ) cumulus scheme is found to produce better results compared to other cumulus schemes for the Indian monsoon region. The model is capable of capturing the movement of the monsoon depression with a lead time of 72 hours. The model is expected to be very useful for forecasting of rainfall and depression tracks in short range time scales over Indian monsoon region.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

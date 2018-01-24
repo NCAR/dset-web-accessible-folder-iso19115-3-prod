@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:21.816073</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:11.710434</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -358,7 +358,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Traditionally, the nowcasting of precipitation was conducted to a large extent by means of extrapolation of observations, especially of radar ref lectivity. In recent years, the blending of traditional extrapolation-based techniques with high-resolution numerical weather prediction (NWP) is gaining popularity in the nowcasting community. The increased need of NWP products in nowcasting applications poses great challenges to the NWP community because the nowcasting application of high-resolution NWP has higher requirements on the quality and content of the initial conditions compared to longer-range NWP. Considerable progress has been made in the use of NWP for nowcasting thanks to the increase in computational resources, advancement of high-resolution data assimilation techniques, and improvement of convective-permitting numerical modeling. This paper summarizes the recent progress and discusses some of the challenges for future advancement.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Traditionally, the nowcasting of precipitation was conducted to a large extent by means of extrapolation of observations, especially of radar ref lectivity. In recent years, the blending of traditional extrapolation-based techniques with high-resolution numerical weather prediction (NWP) is gaining popularity in the nowcasting community. The increased need of NWP products in nowcasting applications poses great challenges to the NWP community because the nowcasting application of high-resolution NWP has higher requirements on the quality and content of the initial conditions compared to longer-range NWP. Considerable progress has been made in the use of NWP for nowcasting thanks to the increase in computational resources, advancement of high-resolution data assimilation techniques, and improvement of convective-permitting numerical modeling. This paper summarizes the recent progress and discusses some of the challenges for future advancement.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

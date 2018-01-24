@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:35.645758</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:30.725495</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>There is a new perspective of a continuum of prediction problems, with a blurring of the distinction between short-term predictions and long-term climate projections. At the heart of this new perspective is the realization that all climate system predictions, regardless of time scale, share common processes and mechanisms; moreover, interactions across time and space scales are fundamental to the climate system itself. Further, just as seasonal-to-interannual predictions start from an estimate of the state of the climate system, there is a growing realization that decadal and longer-term climate predictions could be initialized with estimates of the current observed state of the atmosphere, oceans, cryosphere, and land surface. Even though the prediction problem itself is seamless, the best practical approach to it may be described as unified: models aimed at different time scales and phenomena may have large commonality but place emphasis on different aspects of the system. The potential benefits of this commonality are significant and include improved predictions on all time scales and stronger collaboration and shared knowledge, infrastructure, and technical capabilities among those in the weather and climate prediction communities.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[There is a new perspective of a continuum of prediction problems, with a blurring of the distinction between short-term predictions and long-term climate projections. At the heart of this new perspective is the realization that all climate system predictions, regardless of time scale, share common processes and mechanisms; moreover, interactions across time and space scales are fundamental to the climate system itself. Further, just as seasonal-to-interannual predictions start from an estimate of the state of the climate system, there is a growing realization that decadal and longer-term climate predictions could be initialized with estimates of the current observed state of the atmosphere, oceans, cryosphere, and land surface. Even though the prediction problem itself is seamless, the best practical approach to it may be described as unified: models aimed at different time scales and phenomena may have large commonality but place emphasis on different aspects of the system. The potential benefits of this commonality are significant and include improved predictions on all time scales and stronger collaboration and shared knowledge, infrastructure, and technical capabilities among those in the weather and climate prediction communities.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

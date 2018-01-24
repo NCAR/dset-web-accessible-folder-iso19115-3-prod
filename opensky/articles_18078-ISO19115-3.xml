@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:17.797278</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:32.494547</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Strong tropical cyclones often undergo eyewall replacement cycles that are accompanied by concentric eyewalls and/or rapid intensity changes while the secondary eyewall contracts radially inward and eventually replaces the inner eyewall. To the best of our knowledge, the only documented partial/incomplete tertiary eyewall has been mostly inferred from two-dimensional satellite images or one-dimensional aircraft flight-level measurements that can be regarded as indirect and tangential. This study presents the first high spatial and temporal resolution Doppler radar observations of a tertiary eyewall formation event in Typhoon Usagi (2013) over a 14-h time period before it makes landfall. The primary (tangential) and secondary (radial) circulations of Usagi deduced from the Ground-Based Velocity Track Display (GBVTD) methodology clearly portrayed three distinct axisymmetric maxima of radar reflectivity, tangential wind, vertical velocity, and vertical vorticity. Usagi's central pressure steadily deepened during the contraction of the secondary and tertiary eyewalls until the tertiary eyewall hit the coast of southeast China, which erminated the intensification of the storm.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Strong tropical cyclones often undergo eyewall replacement cycles that are accompanied by concentric eyewalls and/or rapid intensity changes while the secondary eyewall contracts radially inward and eventually replaces the inner eyewall. To the best of our knowledge, the only documented partial/incomplete tertiary eyewall has been mostly inferred from two-dimensional satellite images or one-dimensional aircraft flight-level measurements that can be regarded as indirect and tangential. This study presents the first high spatial and temporal resolution Doppler radar observations of a tertiary eyewall formation event in Typhoon Usagi (2013) over a 14-h time period before it makes landfall. The primary (tangential) and secondary (radial) circulations of Usagi deduced from the Ground-Based Velocity Track Display (GBVTD) methodology clearly portrayed three distinct axisymmetric maxima of radar reflectivity, tangential wind, vertical velocity, and vertical vorticity. Usagi's central pressure steadily deepened during the contraction of the secondary and tertiary eyewalls until the tertiary eyewall hit the coast of southeast China, which erminated the intensification of the storm.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

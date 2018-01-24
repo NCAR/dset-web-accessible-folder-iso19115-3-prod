@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:17.271607</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:44.611741</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>NCEP data and a NCAR TIME-GCM simulation are used to explore the dynamical coupling of the stratosphere and mesosphere during the 2002 Southern Hemisphere major stratospheric sudden warming. The analyses suggest the possibility of feedback interactions between the planetary wave forcing and the mesospheric/stratospheric mean state changes. Multiple strong planetary waves before the warming penetrate into the mesosphere and weaken the polar jet. They alter the wave transmission condition in favor of more upward-poleward propagation of the wave energy at progressively lower altitudes. The jet reversal and the planetary wave surf zone also descend from the mesosphere down to the stratosphere, making wave breaking more likely at decreasing altitudes with each wave episode. These changes in the wave transmission and breaking conditions in the mesosphere and stratosphere may be critical for the extensive major stratospheric warming.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[NCEP data and a NCAR TIME-GCM simulation are used to explore the dynamical coupling of the stratosphere and mesosphere during the 2002 Southern Hemisphere major stratospheric sudden warming. The analyses suggest the possibility of feedback interactions between the planetary wave forcing and the mesospheric/stratospheric mean state changes. Multiple strong planetary waves before the warming penetrate into the mesosphere and weaken the polar jet. They alter the wave transmission condition in favor of more upward-poleward propagation of the wave energy at progressively lower altitudes. The jet reversal and the planetary wave surf zone also descend from the mesosphere down to the stratosphere, making wave breaking more likely at decreasing altitudes with each wave episode. These changes in the wave transmission and breaking conditions in the mesosphere and stratosphere may be critical for the extensive major stratospheric warming.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

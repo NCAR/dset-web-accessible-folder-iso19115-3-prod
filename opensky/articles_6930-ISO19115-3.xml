@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:10.325118</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:42:34.488054</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The performance of two-way nesting for large eddy simulation (LES) of PBL turbulence is investigated using the Weather Research and Forecasting model framework. A pair of LES-within-LES experiments are performed where a finer-grid LES covering a smaller horizontal domain is nested inside a coarser-grid LES covering a larger horizontal domain. Both LESs are driven under the same environmental conditions, allowed to interact with each other, and expected to behave the same statistically. The first experiment of the free-convective PBL reveals a mean temperature bias between the two LES domains, which generates a nonzero mean vertical velocity in the nest domain while the mean vertical velocity averaged over the outer domain remains zero. The problem occurs when the horizontal extent of the nest domain is too small to capture an adequate sample of energy-containing eddies; this problem can be alleviated using a nest domain that is at least 5 times the PBL depth in both x and y. The second experiment of the neutral PBL exposes a bias in the prediction of the surface stress between the two LES domains, which is found due to the grid dependence of the Smagorinsky-type subgrid-scale (SGS) model. A new two-part SGS model is developed to solve this problem.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The performance of two-way nesting for large eddy simulation (LES) of PBL turbulence is investigated using the Weather Research and Forecasting model framework. A pair of LES-within-LES experiments are performed where a finer-grid LES covering a smaller horizontal domain is nested inside a coarser-grid LES covering a larger horizontal domain. Both LESs are driven under the same environmental conditions, allowed to interact with each other, and expected to behave the same statistically. The first experiment of the free-convective PBL reveals a mean temperature bias between the two LES domains, which generates a nonzero mean vertical velocity in the nest domain while the mean vertical velocity averaged over the outer domain remains zero. The problem occurs when the horizontal extent of the nest domain is too small to capture an adequate sample of energy-containing eddies; this problem can be alleviated using a nest domain that is at least 5 times the PBL depth in both x and y. The second experiment of the neutral PBL exposes a bias in the prediction of the surface stress between the two LES domains, which is found due to the grid dependence of the Smagorinsky-type subgrid-scale (SGS) model. A new two-part SGS model is developed to solve this problem.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

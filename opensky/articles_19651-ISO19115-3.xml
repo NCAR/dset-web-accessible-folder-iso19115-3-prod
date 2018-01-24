@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:46.448801</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:16.593408</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -253,7 +253,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>It is a common practice to use 3D General Circulation Models (GCM) with spatial resolution of a few hundred kilometers to simulate the climate of Earth-like exoplanets. The enhanced albedo effect of clouds is especially important for exoplanets in the habitable zones around M dwarfs that likely have fixed substellar regions and substantial cloud coverage. Here, we carry out mesoscale model simulations with 3 km spatial resolution driven by the initial and boundary conditions in a 3D GCM and find that it could significantly underestimate the spatial variability of both the incident short-wavelength radiation and the temperature at planet surface. Our findings suggest that mesoscale models with cloud-resolving capability be considered for future studies of exoplanet climate.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[It is a common practice to use 3D General Circulation Models (GCM) with spatial resolution of a few hundred kilometers to simulate the climate of Earth-like exoplanets. The enhanced albedo effect of clouds is especially important for exoplanets in the habitable zones around M dwarfs that likely have fixed substellar regions and substantial cloud coverage. Here, we carry out mesoscale model simulations with 3 km spatial resolution driven by the initial and boundary conditions in a 3D GCM and find that it could significantly underestimate the spatial variability of both the incident short-wavelength radiation and the temperature at planet surface. Our findings suggest that mesoscale models with cloud-resolving capability be considered for future studies of exoplanet climate.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

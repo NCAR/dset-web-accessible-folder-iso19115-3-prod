@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:39.992501</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:06.957831</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -553,7 +553,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Spatial and high-time-resolution properties of the velocities, magnetic field, and 3-D electric field within plasma turbulence are examined observationally using data from the Magnetospheric Multiscale mission. Observations from a Kelvin-Helmholtz instability (KHI) on the Earth's magnetopause are examined, which both provides a series of repeatable intervals to analyze, giving better statistics, and provides a first look at the properties of turbulence in the KHI. For the first time direct observations of both the high-frequency ion and electron velocity spectra are examined, showing differing ion and electron behavior at kinetic scales. Temporal spectra exhibit power law behavior with changes in slope near the ion gyrofrequency and lower hybrid frequency. The work provides the first observational evidence for turbulent intermittency and anisotropy consistent with quasi two-dimensional turbulence in association with the KHI. The behavior of kinetic-scale intermittency is found to have differences from previous studies of solar wind turbulence, leading to novel insights on the turbulent dynamics in the KHI.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Spatial and high-time-resolution properties of the velocities, magnetic field, and 3-D electric field within plasma turbulence are examined observationally using data from the Magnetospheric Multiscale mission. Observations from a Kelvin-Helmholtz instability (KHI) on the Earth's magnetopause are examined, which both provides a series of repeatable intervals to analyze, giving better statistics, and provides a first look at the properties of turbulence in the KHI. For the first time direct observations of both the high-frequency ion and electron velocity spectra are examined, showing differing ion and electron behavior at kinetic scales. Temporal spectra exhibit power law behavior with changes in slope near the ion gyrofrequency and lower hybrid frequency. The work provides the first observational evidence for turbulent intermittency and anisotropy consistent with quasi two-dimensional turbulence in association with the KHI. The behavior of kinetic-scale intermittency is found to have differences from previous studies of solar wind turbulence, leading to novel insights on the turbulent dynamics in the KHI.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

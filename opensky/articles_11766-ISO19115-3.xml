@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:38:40.604638</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:43:18.184738</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Climate change projections are often based on simulations from multiple global climate models and are presented as maps with some form of stippling or measure of robustness to indicate where different models agree on the projected anthropogenically forced changes. The criteria used to determine model agreement, however, often ignore the presence of natural internal variability. We demonstrate that this leads to misleading presentations of the degree of model consensus on the sign and magnitude of the change if the ratio of the signal from the externally forced change to internal variability is low. We present a simple alternative method of depicting multimodel projections which clearly separates lack of climate change signal from lack of model agreement by assessing the degree of consensus on the significance of the change as well as the sign of the change. Our results demonstrate that the common interpretation of lack of model agreement in precipitation projections is largely an artifact of the large noise from climate variability masking the signal, an issue exacerbated by performing analyses at the grid point scale. We argue that separating more clearly the case of lack of agreement from the case of lack of signal will add valuable information for stake-holders' decision making, since adaptation measures required in the two cases are potentially very different.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Climate change projections are often based on simulations from multiple global climate models and are presented as maps with some form of stippling or measure of robustness to indicate where different models agree on the projected anthropogenically forced changes. The criteria used to determine model agreement, however, often ignore the presence of natural internal variability. We demonstrate that this leads to misleading presentations of the degree of model consensus on the sign and magnitude of the change if the ratio of the signal from the externally forced change to internal variability is low. We present a simple alternative method of depicting multimodel projections which clearly separates lack of climate change signal from lack of model agreement by assessing the degree of consensus on the significance of the change as well as the sign of the change. Our results demonstrate that the common interpretation of lack of model agreement in precipitation projections is largely an artifact of the large noise from climate variability masking the signal, an issue exacerbated by performing analyses at the grid point scale. We argue that separating more clearly the case of lack of agreement from the case of lack of signal will add valuable information for stake-holders' decision making, since adaptation measures required in the two cases are potentially very different.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

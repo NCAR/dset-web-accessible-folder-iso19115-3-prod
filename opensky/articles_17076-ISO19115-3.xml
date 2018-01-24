@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:56.697196</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:02.346991</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Biomass burning in the Indochina Peninsula (Indochina) is one of the important ozone sources in the low troposphere over East Asia in springtime. Moderate Resolution Imaging Spectroradiometer (MODIS) data show that 20 000 or more active fire detections occurred annually in spring only from 2000 to 2007. In our tracer modeling study, we identify a new mechanism transporting the tracer over Indochina that is significantly different from the vertical transport mechanism over the equatorial areas such as Indonesia and Malaysia. Simulation results demonstrate that the leeside troughs over Indochina play a dominant role in the uplift of the tracer below 3 km, and that the strong westerlies prevailing above 3 km transport the tracer. These fundamental mechanisms have a major impact on the air quality downwind from Indochina over East Asia. The climatological importance of such a leeside trough is also discussed.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Biomass burning in the Indochina Peninsula (Indochina) is one of the important ozone sources in the low troposphere over East Asia in springtime. Moderate Resolution Imaging Spectroradiometer (MODIS) data show that 20 000 or more active fire detections occurred annually in spring only from 2000 to 2007. In our tracer modeling study, we identify a new mechanism transporting the tracer over Indochina that is significantly different from the vertical transport mechanism over the equatorial areas such as Indonesia and Malaysia. Simulation results demonstrate that the leeside troughs over Indochina play a dominant role in the uplift of the tracer below 3 km, and that the strong westerlies prevailing above 3 km transport the tracer. These fundamental mechanisms have a major impact on the air quality downwind from Indochina over East Asia. The climatological importance of such a leeside trough is also discussed.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

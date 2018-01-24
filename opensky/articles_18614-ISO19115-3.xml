@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:27.443410</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:47.129667</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Estimates of future flood hazards made under the assumption of stationary mean sea level are biased low due to sea-level rise (SLR). However, adjustments to flood return levels made assuming fixed increases of sea level are also inadequate when applied to sea level that is rising over time at an uncertain rate. SLR allowances--the height adjustment from historic flood levels that maintain under uncertainty the annual expected probability of flooding--are typically estimated independently of individual decision-makers' preferences, such as time horizon, risk tolerance, and confidence in SLR projections. We provide a framework of SLR allowances that employs complete probability distributions of local SLR and a range of user-defined flood risk management preferences. Given non-stationary and uncertain sea-level rise, these metrics provide estimates of flood protection heights and offsets for different planning horizons in coastal areas. We illustrate the calculation of various allowance types for a set of long-duration tide gauges along U.S. coastlines.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Estimates of future flood hazards made under the assumption of stationary mean sea level are biased low due to sea-level rise (SLR). However, adjustments to flood return levels made assuming fixed increases of sea level are also inadequate when applied to sea level that is rising over time at an uncertain rate. SLR allowances--the height adjustment from historic flood levels that maintain under uncertainty the annual expected probability of flooding--are typically estimated independently of individual decision-makers' preferences, such as time horizon, risk tolerance, and confidence in SLR projections. We provide a framework of SLR allowances that employs complete probability distributions of local SLR and a range of user-defined flood risk management preferences. Given non-stationary and uncertain sea-level rise, these metrics provide estimates of flood protection heights and offsets for different planning horizons in coastal areas. We illustrate the calculation of various allowance types for a set of long-duration tide gauges along U.S. coastlines.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

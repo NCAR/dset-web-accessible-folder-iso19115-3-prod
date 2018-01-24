@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:02.190096</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:10.227340</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -268,7 +268,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Snow is an important component of the climate system and a critical storage component in the hydrologic cycle. However, in situ observations of snow distribution are sparse, and remotely sensed products are imprecise and only available at a coarse spatial scale. GPS geodesists have long recognized that snow can affect a GPS signal, but it has not been shown that a GPS receiver placed in a standard geodetic orientation can be used to measure snow depth. In this paper, it is shown that changes in snow depth can be clearly tracked in the corresponding multipath modulation of the GPS signal. Results for two spring 2009 snowstorms in Colorado show strong agreement between GPS snow depth estimates, field measurements, and nearby ultrasonic snow depth sensors. Because there are hundreds of geodetic GPS receivers operating in snowy regions of the U.S., it is possible that GPS receivers installed for plate deformation studies, surveying, and weather monitoring could be used to also estimate snow depth.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Snow is an important component of the climate system and a critical storage component in the hydrologic cycle. However, in situ observations of snow distribution are sparse, and remotely sensed products are imprecise and only available at a coarse spatial scale. GPS geodesists have long recognized that snow can affect a GPS signal, but it has not been shown that a GPS receiver placed in a standard geodetic orientation can be used to measure snow depth. In this paper, it is shown that changes in snow depth can be clearly tracked in the corresponding multipath modulation of the GPS signal. Results for two spring 2009 snowstorms in Colorado show strong agreement between GPS snow depth estimates, field measurements, and nearby ultrasonic snow depth sensors. Because there are hundreds of geodetic GPS receivers operating in snowy regions of the U.S., it is possible that GPS receivers installed for plate deformation studies, surveying, and weather monitoring could be used to also estimate snow depth.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:42.093150</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:10.023960</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Global mean surface temperatures (GMST) exhibited a smaller rate of warming during 1998-2013, compared to the warming in the latter half of the 20th Century. Although, not a "true" hiatus in the strict definition of the word, this has been termed the "global warming hiatus" by IPCC (2013). There have been other periods that have also been defined as the "hiatus" depending on the analysis. There are a number of uncertainties and knowledge gaps regarding the "hiatus." This report reviews these issues and also posits insights from a collective set of diverse information that helps us understand what we do and do not know. One salient insight is that the GMST phenomenon is a surface characteristic that does not represent a slowdown in warming of the climate system but rather is an energy redistribution within the oceans. Improved understanding of the ocean distribution and redistribution of heat will help better monitor Earth's energy budget and its consequences. A review of recent scientific publications on the "hiatus" shows the difficulty and complexities in pinpointing the oceanic sink of the "missing heat" from the atmosphere and the upper layer of the oceans, which defines the "hiatus." Advances in "hiatus" research and outlooks (recommendations) are given in this report.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Global mean surface temperatures (GMST) exhibited a smaller rate of warming during 1998-2013, compared to the warming in the latter half of the 20th Century. Although, not a "true" hiatus in the strict definition of the word, this has been termed the "global warming hiatus" by IPCC (2013). There have been other periods that have also been defined as the "hiatus" depending on the analysis. There are a number of uncertainties and knowledge gaps regarding the "hiatus." This report reviews these issues and also posits insights from a collective set of diverse information that helps us understand what we do and do not know. One salient insight is that the GMST phenomenon is a surface characteristic that does not represent a slowdown in warming of the climate system but rather is an energy redistribution within the oceans. Improved understanding of the ocean distribution and redistribution of heat will help better monitor Earth's energy budget and its consequences. A review of recent scientific publications on the "hiatus" shows the difficulty and complexities in pinpointing the oceanic sink of the "missing heat" from the atmosphere and the upper layer of the oceans, which defines the "hiatus." Advances in "hiatus" research and outlooks (recommendations) are given in this report.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

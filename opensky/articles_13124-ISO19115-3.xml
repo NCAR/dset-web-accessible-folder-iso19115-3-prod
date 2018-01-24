@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:13.073173</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:00.106139</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -298,7 +298,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The new scenario framework for climate change research envisions combining pathways of future radiative forcing and their associated climate changes with alternative pathways of socioeconomic development in order to carry out research on climate change impacts, adaptation, and mitigation. Here we propose a conceptual framework for how to define and develop a set of Shared Socioeconomic Pathways (SSPs) for use within the scenario framework. We define SSPs as reference pathways describing plausible alternative trends in the evolution of society and ecosystems over a century timescale, in the absence of climate change or climate policies. We introduce the concept of a space of challenges to adaptation and to mitigation that should be spanned by the SSPs, and discuss how particular trends in social, economic, and environmental development could be combined to produce such outcomes. A comparison to the narratives from the scenarios developed in the Special Report on Emissions Scenarios (SRES) illustrates how a starting point for developing SSPs can be defined. We suggest initial development of a set of basic SSPs that could then be extended to meet more specific purposes, and envision a process of application of basic and extended SSPs that would be iterative and potentially lead to modification of the original SSPs themselves.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The new scenario framework for climate change research envisions combining pathways of future radiative forcing and their associated climate changes with alternative pathways of socioeconomic development in order to carry out research on climate change impacts, adaptation, and mitigation. Here we propose a conceptual framework for how to define and develop a set of Shared Socioeconomic Pathways (SSPs) for use within the scenario framework. We define SSPs as reference pathways describing plausible alternative trends in the evolution of society and ecosystems over a century timescale, in the absence of climate change or climate policies. We introduce the concept of a space of challenges to adaptation and to mitigation that should be spanned by the SSPs, and discuss how particular trends in social, economic, and environmental development could be combined to produce such outcomes. A comparison to the narratives from the scenarios developed in the Special Report on Emissions Scenarios (SRES) illustrates how a starting point for developing SSPs can be defined. We suggest initial development of a set of basic SSPs that could then be extended to meet more specific purposes, and envision a process of application of basic and extended SSPs that would be iterative and potentially lead to modification of the original SSPs themselves.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

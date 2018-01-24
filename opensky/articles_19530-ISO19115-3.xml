@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:43.695100</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:12.412869</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>The Atlantic Meridional Overturning Circulation plays a major role in moving heat and carbon around in the ocean. A new estimate of ocean heat transports for 2000 through 2013 throughout the Atlantic is derived. Top-of-atmosphere radiation is combined with atmospheric reanalyses to estimate surface heat fluxes and combined with vertically integrated ocean heat content to estimate ocean heat transport divergence as a residual. Atlantic peak northward ocean heat transports average 1.18 +/- 0.13PW (1 sigma) at 15 degrees N but vary considerably in latitude and time. Results agree well with observational estimates at 26.5 degrees N from the RAPID array, but for 2004-2013 the meridional heat transport is 1.00 +/- 0.11PW versus 1.23 +/- 0.11PW for RAPID. In addition, these results have no hint of a trend, unlike the RAPID results. Strong westerlies north of a meridian drive ocean currents and an ocean heat loss into the atmosphere that is exacerbated by a decrease in ocean heat transport northward.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[The Atlantic Meridional Overturning Circulation plays a major role in moving heat and carbon around in the ocean. A new estimate of ocean heat transports for 2000 through 2013 throughout the Atlantic is derived. Top-of-atmosphere radiation is combined with atmospheric reanalyses to estimate surface heat fluxes and combined with vertically integrated ocean heat content to estimate ocean heat transport divergence as a residual. Atlantic peak northward ocean heat transports average 1.18 +/- 0.13PW (1 sigma) at 15 degrees N but vary considerably in latitude and time. Results agree well with observational estimates at 26.5 degrees N from the RAPID array, but for 2004-2013 the meridional heat transport is 1.00 +/- 0.11PW versus 1.23 +/- 0.11PW for RAPID. In addition, these results have no hint of a trend, unlike the RAPID results. Strong westerlies north of a meridian drive ocean currents and an ocean heat loss into the atmosphere that is exacerbated by a decrease in ocean heat transport northward.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

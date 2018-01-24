@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:37.106492</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:02.475961</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -223,7 +223,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Many interrelationships exist between research articles, data, software, and other resources used to produce scientific findings. A number of challenges, however, impede efforts to implement, standardize, and institutionalize cross-links between scholarly resources. This report outlines findings from a workshop titled "Data &amp; Publication Linking" held January 5, 2016 in Washington, D.C., funded by the U.S. National Science Foundation's (NSF) Open Access &amp; Open Data initiative, and the NSF's EarthCube initiative. The workshop convened a discussion on the challenges and opportunities for cross-linking data and publication repositories. It brought together nineteen researchers and stakeholders from a range of sectors including data repositories, scholarly publishers, academic libraries, and scholarly research service providers. In this report, we present a diversity of perspectives and initiatives that can inform community-based solutions to scholarly resource cross-linking challenges.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Many interrelationships exist between research articles, data, software, and other resources used to produce scientific findings. A number of challenges, however, impede efforts to implement, standardize, and institutionalize cross-links between scholarly resources. This report outlines findings from a workshop titled "Data & Publication Linking" held January 5, 2016 in Washington, D.C., funded by the U.S. National Science Foundation's (NSF) Open Access & Open Data initiative, and the NSF's EarthCube initiative. The workshop convened a discussion on the challenges and opportunities for cross-linking data and publication repositories. It brought together nineteen researchers and stakeholders from a range of sectors including data repositories, scholarly publishers, academic libraries, and scholarly research service providers. In this report, we present a diversity of perspectives and initiatives that can inform community-based solutions to scholarly resource cross-linking challenges.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

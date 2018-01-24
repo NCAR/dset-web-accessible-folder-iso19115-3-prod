@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:39:48.550757</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:44:50.037875</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>An inert sphere of a few metres diameter, placed in a special stable geosynchronous orbit in perpetuo, can be used for a variety of scientific experiments. Ground-based observations of such a sphere, 'GeoSphere', can resolve very difficult problems in measuring the long-term solar irradiance. GeoSphere measurements will also help us understand the evolution of Earth's albedo and climate over at least the next century</gco:CharacterString>
+                <gco:CharacterString><![CDATA[An inert sphere of a few metres diameter, placed in a special stable geosynchronous orbit in perpetuo, can be used for a variety of scientific experiments. Ground-based observations of such a sphere, 'GeoSphere', can resolve very difficult problems in measuring the long-term solar irradiance. GeoSphere measurements will also help us understand the evolution of Earth's albedo and climate over at least the next century]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

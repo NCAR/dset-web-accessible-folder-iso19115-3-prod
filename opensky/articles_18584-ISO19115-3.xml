@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:26.625258</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:45.907630</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -358,7 +358,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We use a series of chemical transport model and chemistry climate model simulations to investigate the observed negative trends in MOPITT CO over several regions of the world, and to examine the consistency of time-dependent emission inventories with observations. We find that simulations driven by the MACCity inventory, used for the Chemistry Climate Modeling Initiative (CCMI), reproduce the negative trends in the CO column observed by MOPITT for 2000-2010 over the eastern United States and Europe. However, the simulations have positive trends over eastern China, in contrast to the negative trends observed by MOPITT. The model bias in CO, after applying MOPITT averaging kernels, contributes to the model-observation discrepancy in the trend over eastern China. This demonstrates that biases in a model's average concentrations can influence the interpretation of the temporal trend compared to satellite observations. The total ozone column plays a role in determining the simulated tropospheric CO trends. A large positive anomaly in the simulated total ozone column in 2010 leads to a negative anomaly in OH and hence a positive anomaly in CO, contributing to the positive trend in simulated CO. These results demonstrate that accurately simulating variability in the ozone column is important for simulating and interpreting trends in CO.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[We use a series of chemical transport model and chemistry climate model simulations to investigate the observed negative trends in MOPITT CO over several regions of the world, and to examine the consistency of time-dependent emission inventories with observations. We find that simulations driven by the MACCity inventory, used for the Chemistry Climate Modeling Initiative (CCMI), reproduce the negative trends in the CO column observed by MOPITT for 2000-2010 over the eastern United States and Europe. However, the simulations have positive trends over eastern China, in contrast to the negative trends observed by MOPITT. The model bias in CO, after applying MOPITT averaging kernels, contributes to the model-observation discrepancy in the trend over eastern China. This demonstrates that biases in a model's average concentrations can influence the interpretation of the temporal trend compared to satellite observations. The total ozone column plays a role in determining the simulated tropospheric CO trends. A large positive anomaly in the simulated total ozone column in 2010 leads to a negative anomaly in OH and hence a positive anomaly in CO, contributing to the positive trend in simulated CO. These results demonstrate that accurately simulating variability in the ozone column is important for simulating and interpreting trends in CO.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

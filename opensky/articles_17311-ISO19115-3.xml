@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:02.286861</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:45:10.350985</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -238,7 +238,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>GPS radio occultation remote sensing of the neutral atmosphere requires ionospheric correction of L1 and L2 signals. The ionosphere-corrected variables derived from radio occultation signals--such as the phase, Doppler, and bending angle--are affected by small-scale ionospheric effects that are not completely eliminated by the ionospheric correction. They are also affected by noise from mainly the L2 signal. This paper introduces a simple method for optimal filtering of the L4 = L1 - L2 signal used to correct the L1 signal, which minimizes the combined effects of both the small-scale ionospheric residual effects and L2 noise on the ionosphere-corrected variables. Statistical comparisons to high-resolution numerical weather models from the European Centre for Medium-Range Weather Forecasts (ECMWF) validate that this increases the accuracy of radio occultation inversions in the stratosphere.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[GPS radio occultation remote sensing of the neutral atmosphere requires ionospheric correction of L1 and L2 signals. The ionosphere-corrected variables derived from radio occultation signals--such as the phase, Doppler, and bending angle--are affected by small-scale ionospheric effects that are not completely eliminated by the ionospheric correction. They are also affected by noise from mainly the L2 signal. This paper introduces a simple method for optimal filtering of the L4 = L1 - L2 signal used to correct the L1 signal, which minimizes the combined effects of both the small-scale ionospheric residual effects and L2 noise on the ionosphere-corrected variables. Statistical comparisons to high-resolution numerical weather models from the European Centre for Medium-Range Weather Forecasts (ECMWF) validate that this increases the accuracy of radio occultation inversions in the stratosphere.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>

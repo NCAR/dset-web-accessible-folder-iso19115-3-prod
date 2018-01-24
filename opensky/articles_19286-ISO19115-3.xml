@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2017-10-04T22:40:37.588699</gco:DateTime>
+                <gco:DateTime>2018-01-24T19:46:03.198638</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -208,7 +208,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Rapid intensification (RI) of tropical cyclones (TCs) remains one of the most challenging issues in TC prediction. This study investigates the predictability of RI, the uncertainty in predicting RI timing, and the dynamical processes associated with RI. To address the question of environmental versus internal control of RI, five high-resolution ensembles of Hurricane Earl (2010) were generated with scale-dependent stochastic perturbations from synoptic to convective scales. Although most members undergo RI and intensify into major hurricanes, the timing of RI is highly uncertain. While environmental conditions including SST control the maximum TC intensity and the likelihood of RI during the TC lifetime, both environmental and internal factors contribute to uncertainty in RI timing. Complex interactions among environmental vertical wind shear, the mean vortex, and internal convective processes govern the TC intensification process and lead to diverse pathways to maturity. Although the likelihood of Earl undergoing RI seems to be predictable, the exact timing of RI has a stochastic component and low predictability.</gco:CharacterString>
+                <gco:CharacterString><![CDATA[Rapid intensification (RI) of tropical cyclones (TCs) remains one of the most challenging issues in TC prediction. This study investigates the predictability of RI, the uncertainty in predicting RI timing, and the dynamical processes associated with RI. To address the question of environmental versus internal control of RI, five high-resolution ensembles of Hurricane Earl (2010) were generated with scale-dependent stochastic perturbations from synoptic to convective scales. Although most members undergo RI and intensify into major hurricanes, the timing of RI is highly uncertain. While environmental conditions including SST control the maximum TC intensity and the likelihood of RI during the TC lifetime, both environmental and internal factors contribute to uncertainty in RI timing. Complex interactions among environmental vertical wind shear, the mean vortex, and internal convective processes govern the TC intensification process and lead to diverse pathways to maturity. Although the likelihood of Earl undergoing RI seems to be predictable, the exact timing of RI has a stochastic component and low predictability.]]></gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>
