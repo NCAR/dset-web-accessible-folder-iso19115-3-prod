@@ -2,7 +2,7 @@
     <mdb:metadataIdentifier>
         <mcc:MD_Identifier> 
             <mcc:code>
-                <gco:CharacterString>edu.ucar.opensky::articles:12885</gco:CharacterString>
+                <gco:CharacterString>edu.ucar.opensky::articles:23298</gco:CharacterString>
             </mcc:code>
         </mcc:MD_Identifier>
     </mdb:metadataIdentifier>
@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2021-10-07T19:04:30.935568</gco:DateTime>
+                <gco:DateTime>2021-10-07T19:04:31.651486</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -102,12 +102,12 @@
             <mri:citation>
                 <cit:CI_Citation>
                     <cit:title>
-                        <gco:CharacterString>Climate change projections of the North American Regional Climate Change Assessment Program (NARCCAP)</gco:CharacterString>
+                        <gco:CharacterString>The acidity of atmospheric particles and clouds</gco:CharacterString>
                     </cit:title>
                     <cit:date>
                         <cit:CI_Date>
                             <cit:date>
-                                <gco:DateTime>2013-10-01T00:00:00Z</gco:DateTime>
+                                <gco:DateTime>2020-04-24T00:00:00Z</gco:DateTime>
                             </cit:date>
                             <cit:dateType>
                                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="publication">publication</cit:CI_DateTypeCode>
@@ -118,7 +118,7 @@
                     <cit:identifier>
                         <mcc:MD_Identifier>
                             <mcc:code>
-                                <gco:CharacterString>http://n2t.net/ark:/85065/d7w096tv</gco:CharacterString>
+                                <gco:CharacterString>http://n2t.net/ark:/85065/d7bp060m</gco:CharacterString>
                             </mcc:code>
                         </mcc:MD_Identifier>
                     </cit:identifier>
@@ -126,7 +126,7 @@
                     <cit:identifier>
                         <mcc:MD_Identifier>
                             <mcc:code>
-                                <gco:CharacterString>https://doi.org/10.1007/s10584-013-0831-3</gco:CharacterString>
+                                <gco:CharacterString>https://doi.org/10.5194/acp-20-4809-2020</gco:CharacterString>
                             </mcc:code>
                         </mcc:MD_Identifier>
                     </cit:identifier>
@@ -139,7 +139,7 @@
                             <cit:party>
                                 <cit:CI_Individual>
                                     <cit:name>
-                                        <gco:CharacterString>Mearns, Linda</gco:CharacterString>
+                                        <gco:CharacterString>Pye, Havala O. T.</gco:CharacterString>
                                     </cit:name>
                                 </cit:CI_Individual>
                             </cit:party>
@@ -154,7 +154,7 @@
                             <cit:party>
                                 <cit:CI_Individual>
                                     <cit:name>
-                                        <gco:CharacterString>Sain, Stephan</gco:CharacterString>
+                                        <gco:CharacterString>Nenes, Athanasios</gco:CharacterString>
                                     </cit:name>
                                 </cit:CI_Individual>
                             </cit:party>
@@ -169,7 +169,7 @@
                             <cit:party>
                                 <cit:CI_Individual>
                                     <cit:name>
-                                        <gco:CharacterString>Leung, L.</gco:CharacterString>
+                                        <gco:CharacterString>Alexander, Becky</gco:CharacterString>
                                     </cit:name>
                                 </cit:CI_Individual>
                             </cit:party>
@@ -184,7 +184,7 @@
                             <cit:party>
                                 <cit:CI_Individual>
                                     <cit:name>
-                                        <gco:CharacterString>Bukovsky, Melissa</gco:CharacterString>
+                                        <gco:CharacterString>Ault, Andrew P.</gco:CharacterString>
                                     </cit:name>
                                 </cit:CI_Individual>
                             </cit:party>
@@ -199,7 +199,7 @@
                             <cit:party>
                                 <cit:CI_Individual>
                                     <cit:name>
-                                        <gco:CharacterString>McGinnis, Seth</gco:CharacterString>
+                                        <gco:CharacterString>Barth, Mary C.</gco:CharacterString>
                                     </cit:name>
                                 </cit:CI_Individual>
                             </cit:party>
@@ -214,7 +214,7 @@
                             <cit:party>
                                 <cit:CI_Individual>
                                     <cit:name>
-                                        <gco:CharacterString>Biner, S.</gco:CharacterString>
+                                        <gco:CharacterString>Clegg, Simon L.</gco:CharacterString>
                                     </cit:name>
                                 </cit:CI_Individual>
                             </cit:party>
@@ -229,7 +229,7 @@
                             <cit:party>
                                 <cit:CI_Individual>
                                     <cit:name>
-                                        <gco:CharacterString>Caya, D.</gco:CharacterString>
+                                        <gco:CharacterString>Collett Jr., Jeffrey L.</gco:CharacterString>
                                     </cit:name>
                                 </cit:CI_Individual>
                             </cit:party>
@@ -244,7 +244,7 @@
                             <cit:party>
                                 <cit:CI_Individual>
                                     <cit:name>
-                                        <gco:CharacterString>Arritt, R.</gco:CharacterString>
+                                        <gco:CharacterString>Fahey, Kathleen M.</gco:CharacterString>
                                     </cit:name>
                                 </cit:CI_Individual>
                             </cit:party>
@@ -259,7 +259,7 @@
                             <cit:party>
                                 <cit:CI_Individual>
                                     <cit:name>
-                                        <gco:CharacterString>Gutowski, W.</gco:CharacterString>
+                                        <gco:CharacterString>Hennigan, Christopher J.</gco:CharacterString>
                                     </cit:name>
                                 </cit:CI_Individual>
                             </cit:party>
@@ -274,7 +274,7 @@
                             <cit:party>
                                 <cit:CI_Individual>
                                     <cit:name>
-                                        <gco:CharacterString>Takle, E.</gco:CharacterString>
+                                        <gco:CharacterString>Herrmann, Hartmut</gco:CharacterString>
                                     </cit:name>
                                 </cit:CI_Individual>
                             </cit:party>
@@ -289,7 +289,7 @@
                             <cit:party>
                                 <cit:CI_Individual>
                                     <cit:name>
-                                        <gco:CharacterString>Snyder, M.</gco:CharacterString>
+                                        <gco:CharacterString>Kanakidou, Maria</gco:CharacterString>
                                     </cit:name>
                                 </cit:CI_Individual>
                             </cit:party>
@@ -304,7 +304,7 @@
                             <cit:party>
                                 <cit:CI_Individual>
                                     <cit:name>
-                                        <gco:CharacterString>Jones, R.</gco:CharacterString>
+                                        <gco:CharacterString>Kelly, James T.</gco:CharacterString>
                                     </cit:name>
                                 </cit:CI_Individual>
                             </cit:party>
@@ -319,7 +319,7 @@
                             <cit:party>
                                 <cit:CI_Individual>
                                     <cit:name>
-                                        <gco:CharacterString>Nunes, A.</gco:CharacterString>
+                                        <gco:CharacterString>Ku, I-Ting</gco:CharacterString>
                                     </cit:name>
                                 </cit:CI_Individual>
                             </cit:party>
@@ -334,7 +334,7 @@
                             <cit:party>
                                 <cit:CI_Individual>
                                     <cit:name>
-                                        <gco:CharacterString>Tucker, S.</gco:CharacterString>
+                                        <gco:CharacterString>McNeill, V. Faye</gco:CharacterString>
                                     </cit:name>
                                 </cit:CI_Individual>
                             </cit:party>
@@ -349,7 +349,7 @@
                             <cit:party>
                                 <cit:CI_Individual>
                                     <cit:name>
-                                        <gco:CharacterString>Herzmann, D.</gco:CharacterString>
+                                        <gco:CharacterString>Riemer, Nicole</gco:CharacterString>
                                     </cit:name>
                                 </cit:CI_Individual>
                             </cit:party>
@@ -364,7 +364,7 @@
                             <cit:party>
                                 <cit:CI_Individual>
                                     <cit:name>
-                                        <gco:CharacterString>McDaniel, Larry</gco:CharacterString>
+                                        <gco:CharacterString>Schaefer, Thomas</gco:CharacterString>
                                     </cit:name>
                                 </cit:CI_Individual>
                             </cit:party>
@@ -379,7 +379,112 @@
                             <cit:party>
                                 <cit:CI_Individual>
                                     <cit:name>
-                                        <gco:CharacterString>Sloan, L.</gco:CharacterString>
+                                        <gco:CharacterString>Shi, Guoliang</gco:CharacterString>
+                                    </cit:name>
+                                </cit:CI_Individual>
+                            </cit:party>
+                        </cit:CI_Responsibility>
+                    </cit:citedResponsibleParty>
+                    
+                    <cit:citedResponsibleParty>
+                        <cit:CI_Responsibility>
+                            <cit:role>
+                                <cit:CI_RoleCode codeList="codeListLocation#CI_RoleCode" codeListValue="author">author</cit:CI_RoleCode>
+                            </cit:role>
+                            <cit:party>
+                                <cit:CI_Individual>
+                                    <cit:name>
+                                        <gco:CharacterString>Tilgner, Andreas</gco:CharacterString>
+                                    </cit:name>
+                                </cit:CI_Individual>
+                            </cit:party>
+                        </cit:CI_Responsibility>
+                    </cit:citedResponsibleParty>
+                    
+                    <cit:citedResponsibleParty>
+                        <cit:CI_Responsibility>
+                            <cit:role>
+                                <cit:CI_RoleCode codeList="codeListLocation#CI_RoleCode" codeListValue="author">author</cit:CI_RoleCode>
+                            </cit:role>
+                            <cit:party>
+                                <cit:CI_Individual>
+                                    <cit:name>
+                                        <gco:CharacterString>Walker, John T.</gco:CharacterString>
+                                    </cit:name>
+                                </cit:CI_Individual>
+                            </cit:party>
+                        </cit:CI_Responsibility>
+                    </cit:citedResponsibleParty>
+                    
+                    <cit:citedResponsibleParty>
+                        <cit:CI_Responsibility>
+                            <cit:role>
+                                <cit:CI_RoleCode codeList="codeListLocation#CI_RoleCode" codeListValue="author">author</cit:CI_RoleCode>
+                            </cit:role>
+                            <cit:party>
+                                <cit:CI_Individual>
+                                    <cit:name>
+                                        <gco:CharacterString>Wang, Tao</gco:CharacterString>
+                                    </cit:name>
+                                </cit:CI_Individual>
+                            </cit:party>
+                        </cit:CI_Responsibility>
+                    </cit:citedResponsibleParty>
+                    
+                    <cit:citedResponsibleParty>
+                        <cit:CI_Responsibility>
+                            <cit:role>
+                                <cit:CI_RoleCode codeList="codeListLocation#CI_RoleCode" codeListValue="author">author</cit:CI_RoleCode>
+                            </cit:role>
+                            <cit:party>
+                                <cit:CI_Individual>
+                                    <cit:name>
+                                        <gco:CharacterString>Weber, Rodney</gco:CharacterString>
+                                    </cit:name>
+                                </cit:CI_Individual>
+                            </cit:party>
+                        </cit:CI_Responsibility>
+                    </cit:citedResponsibleParty>
+                    
+                    <cit:citedResponsibleParty>
+                        <cit:CI_Responsibility>
+                            <cit:role>
+                                <cit:CI_RoleCode codeList="codeListLocation#CI_RoleCode" codeListValue="author">author</cit:CI_RoleCode>
+                            </cit:role>
+                            <cit:party>
+                                <cit:CI_Individual>
+                                    <cit:name>
+                                        <gco:CharacterString>Xing, Jia</gco:CharacterString>
+                                    </cit:name>
+                                </cit:CI_Individual>
+                            </cit:party>
+                        </cit:CI_Responsibility>
+                    </cit:citedResponsibleParty>
+                    
+                    <cit:citedResponsibleParty>
+                        <cit:CI_Responsibility>
+                            <cit:role>
+                                <cit:CI_RoleCode codeList="codeListLocation#CI_RoleCode" codeListValue="author">author</cit:CI_RoleCode>
+                            </cit:role>
+                            <cit:party>
+                                <cit:CI_Individual>
+                                    <cit:name>
+                                        <gco:CharacterString>Zaveri, Rahul A.</gco:CharacterString>
+                                    </cit:name>
+                                </cit:CI_Individual>
+                            </cit:party>
+                        </cit:CI_Responsibility>
+                    </cit:citedResponsibleParty>
+                    
+                    <cit:citedResponsibleParty>
+                        <cit:CI_Responsibility>
+                            <cit:role>
+                                <cit:CI_RoleCode codeList="codeListLocation#CI_RoleCode" codeListValue="author">author</cit:CI_RoleCode>
+                            </cit:role>
+                            <cit:party>
+                                <cit:CI_Individual>
+                                    <cit:name>
+                                        <gco:CharacterString>Zuend, Andreas</gco:CharacterString>
                                     </cit:name>
                                 </cit:CI_Individual>
                             </cit:party>
@@ -402,7 +507,7 @@
 </cit:citedResponsibleParty><cit:onlineResource>
                         <cit:CI_OnlineResource>
                             <cit:linkage>
-                                <gco:CharacterString>http://n2t.net/ark:/85065/d7w096tv</gco:CharacterString>
+                                <gco:CharacterString>http://n2t.net/ark:/85065/d7bp060m</gco:CharacterString>
                             </cit:linkage>
                             <cit:name>
                                 <gco:CharacterString>Resource Homepage</gco:CharacterString>
@@ -414,7 +519,7 @@
                     <cit:onlineResource>
                         <cit:CI_OnlineResource>
                             <cit:linkage>
-                                <gco:CharacterString>https://doi.org/10.1007/s10584-013-0831-3</gco:CharacterString>
+                                <gco:CharacterString>https://doi.org/10.5194/acp-20-4809-2020</gco:CharacterString>
                             </cit:linkage>
                             <cit:name>
                                 <gco:CharacterString>Resource Full Text</gco:CharacterString>
@@ -425,7 +530,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>We investigate major results of the NARCCAP multiple regional climate model (RCM) experiments driven by multiple global climate models (GCMs) regarding climate change for seasonal temperature and precipitation over North America. We focus on two major questions: How do the RCM simulated climate changes differ from those of the parent GCMs and thus affect our perception of climate change over North America, and how important are the relative contributions of RCMs and GCMs to the uncertainty (variance explained) for different seasons and variables? The RCMs tend to produce stronger climate changes for precipitation: larger increases in the northern part of the domain in winter and greater decreases across a swath of the central part in summer, compared to the four GCMs driving the regional models as well as to the full set of CMIP3 GCM results. We pose some possible process-level mechanisms for the difference in intensity of change, particularly for summer. Detailed process-level studies will be necessary to establish mechanisms and credibility of these results. The GCMs explain more variance for winter temperature and the RCMs for summer temperature. The same is true for precipitation patterns. Thus, we recommend that future RCM-GCM experiments over this region include a balanced number of GCMs and RCMs.</gco:CharacterString>
+                <gco:CharacterString>Acidity, defined as pH, is a central component of aqueous chemistry. In the atmosphere, the acidity of condensed phases (aerosol particles, cloud water, and fog droplets) governs the phase partitioning of semivolatile gases such as HNO3, NH3, HCl, and organic acids and bases as well as chemical reaction rates. It has implications for the atmospheric lifetime of pollutants, deposition, and human health. Despite its fundamental role in atmospheric processes, only recently has this field seen a growth in the number of studies on particle acidity. Even with this growth, many fine-particle pH estimates must be based on thermodynamic model calculations since no operational techniques exist for direct measurements. Current information indicates acidic fine particles are ubiquitous, but observationally constrained pH estimates are limited in spatial and temporal coverage. Clouds and fogs are also generally acidic, but to a lesser degree than particles, and have a range of pH that is quite sensitive to anthropogenic emissions of sulfur and nitrogen oxides, as well as ambient ammonia. Historical measurements indicate that cloud and fog droplet pH has changed in recent decades in response to controls on anthropogenic emissions, while the limited trend data for aerosol particles indicate acidity may be relatively constant due to the semivolatile nature of the key acids and bases and buffering in particles. This paper reviews and synthesizes the current state of knowledge on the acidity of atmospheric condensed phases, specifically particles and cloud droplets. It includes recommendations for estimating acidity and pH, standard nomenclature, a synthesis of current pH estimates based on observations, and new model calculations on the local and global scale.</gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>
@@ -517,7 +622,7 @@
             <mri:resourceConstraints>
                 <mco:MD_LegalConstraints>
                     <mco:useLimitation>
-                        <gco:CharacterString>Copyright 2013 Springer.</gco:CharacterString>
+                        <gco:CharacterString>Copyright author(s). This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</gco:CharacterString>
                     </mco:useLimitation>
                     <mco:otherConstraints>
                         <gco:CharacterString>None</gco:CharacterString>
@@ -536,4 +641,64 @@
         </mri:MD_DataIdentification>
     </mdb:identificationInfo>
 
-</mdb:MD_Metadata>
+<mdb:metadataExtensionInfo>
+    <mex:MD_MetadataExtensionInformation>
+        <cit:extensionOnLineResource>
+            <cit:CI_OnlineResource>
+                <cit:linkage>
+                    <gco:CharacterString>https://dx.doi.org/10.23719/1504059</gco:CharacterString>
+                </cit:linkage>
+                <cit:protocol>
+                    <gco:CharacterString>https</gco:CharacterString>
+                </cit:protocol>
+                <cit:name>
+                    <gco:CharacterString>Related Dataset #1</gco:CharacterString>
+                </cit:name>
+                <cit:description>
+                    <gco:CharacterString>The Acidity of Atmospheric Particles and Clouds</gco:CharacterString>
+                </cit:description>
+
+            </cit:CI_OnlineResource>
+        </cit:extensionOnLineResource>
+    </mex:MD_MetadataExtensionInformation>
+</mdb:metadataExtensionInfo><mdb:metadataExtensionInfo>
+    <mex:MD_MetadataExtensionInformation>
+        <cit:extensionOnLineResource>
+            <cit:CI_OnlineResource>
+                <cit:linkage>
+                    <gco:CharacterString>https://dx.doi.org/10.5281/zenodo.1343547</gco:CharacterString>
+                </cit:linkage>
+                <cit:protocol>
+                    <gco:CharacterString>https</gco:CharacterString>
+                </cit:protocol>
+                <cit:name>
+                    <gco:CharacterString>Related Software #1</gco:CharacterString>
+                </cit:name>
+                <cit:description>
+                    <gco:CharacterString>Geoschem/Geos-Chem: Geos-Chem 12.0.0 Release</gco:CharacterString>
+                </cit:description>
+
+            </cit:CI_OnlineResource>
+        </cit:extensionOnLineResource>
+    </mex:MD_MetadataExtensionInformation>
+</mdb:metadataExtensionInfo><mdb:metadataExtensionInfo>
+    <mex:MD_MetadataExtensionInformation>
+        <cit:extensionOnLineResource>
+            <cit:CI_OnlineResource>
+                <cit:linkage>
+                    <gco:CharacterString>https://dx.doi.org/10.5281/zenodo.3379043</gco:CharacterString>
+                </cit:linkage>
+                <cit:protocol>
+                    <gco:CharacterString>https</gco:CharacterString>
+                </cit:protocol>
+                <cit:name>
+                    <gco:CharacterString>Related Software #2</gco:CharacterString>
+                </cit:name>
+                <cit:description>
+                    <gco:CharacterString>CMAQ</gco:CharacterString>
+                </cit:description>
+
+            </cit:CI_OnlineResource>
+        </cit:extensionOnLineResource>
+    </mex:MD_MetadataExtensionInformation>
+</mdb:metadataExtensionInfo></mdb:MD_Metadata>
