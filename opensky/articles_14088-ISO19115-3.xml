@@ -1,4 +1,4 @@
-<mdb:MD_Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/1.0" xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:mcc="http://standards.iso.org/iso/19115/-3/mcc/1.0" xmlns:mco="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:mdb="http://standards.iso.org/iso/19115/-3/mdb/1.0" xmlns:mds="http://standards.iso.org/iso/19115/-3/mds/1.0" xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:mex="http://standards.iso.org/iso/19115/-3/mex/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://standards.iso.org/iso/19115/-3/mdb/1.0 http://standards.iso.org/iso/19115/-3/mdb/1.0/mdb.xsd">
+<mdb:MD_Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/1.0" xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:mcc="http://standards.iso.org/iso/19115/-3/mcc/1.0" xmlns:mco="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:mdb="http://standards.iso.org/iso/19115/-3/mdb/1.0" xmlns:mds="http://standards.iso.org/iso/19115/-3/mds/1.0" xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:mex="http://standards.iso.org/iso/19115/-3/mex/1.0" xmlns:mrd="http://standards.iso.org/iso/19115/-3/mrd/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://standards.iso.org/iso/19115/-3/mdb/1.0 http://standards.iso.org/iso/19115/-3/mdb/1.0/mdb.xsd">
     <mdb:metadataIdentifier>
         <mcc:MD_Identifier> 
             <mcc:code>
@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2022-10-07T16:23:34.612839</gco:DateTime>
+                <gco:DateTime>2023-04-05T22:03:52.778145</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -290,7 +290,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Fossil fuel combustion has increased atmospheric CO&#8322; by&#8201;~&#8201;115 &#181;mol mol-1 since 1750 and decreased its carbon isotope composition (&#948;&#185;&#179;C) by 1.7-2&#8240; (the &#185;&#179;C Suess effect). Because carbon is stored in the terrestrial biosphere for decades and longer, the &#948;&#185;&#179;C of CO&#8322; released by terrestrial ecosystems is expected to differ from the &#948;&#185;&#179;C of CO&#8322; assimilated by land plants during photosynthesis. This isotopic difference between land-atmosphere respiration (&#948;R) and photosynthetic assimilation (&#948;A) fluxes gives rise to the &#185;&#179;C land disequilibrium (D). Contemporary understanding suggests that over annual and longer time scales, D is determined primarily by the Suess effect, and thus, D is generally positive (&#948;R&#8201;&gt;&#8201;&#948;A). A 7 year record of biosphere-atmosphere carbon exchange was used to evaluate the seasonality of &#948;A and &#948;R, and the &#185;&#179;C land disequilibrium, in a subalpine conifer forest. A novel isotopic mixing model was employed to determine the &#948;&#185;&#179;C of net land-atmosphere exchange during day and night and combined with tower-based flux observations to assess &#948;A and &#948;R. The disequilibrium varied seasonally and when flux-weighted was opposite in sign than expected from the Suess effect (D&#8201;=&#8201;&#8722;0.75&#8201;&#177;&#8201;0.21&#8240; or &#8722;0.88&#8201;&#177;&#8201;0.10&#8240; depending on method). Seasonality in D appeared to be driven by photosynthetic discrimination (&#916;canopy) responding to environmental factors. Possible explanations for negative D include (1) changes in &#916;canopy over decades as CO&#8322; and temperature have risen, and/or (2) post-photosynthetic fractionation processes leading to sequestration of isotopically enriched carbon in long-lived pools like wood and soil.</gco:CharacterString>
+                <gco:CharacterString>Fossil fuel combustion has increased atmospheric CO&#8322; by&#8201;~&#8201;115 &#181;mol mol-1 since 1750 and decreased its carbon isotope composition (&#948;&#185;&#179;C) by 1.7-2&#8240; (the &#185;&#179;C Suess effect). Because carbon is stored in the terrestrial biosphere for decades and longer, the &#948;&#185;&#179;C of CO&#8322; released by terrestrial ecosystems is expected to differ from the &#948;&#185;&#179;C of CO&#8322; assimilated by land plants during photosynthesis. This isotopic difference between land-atmosphere respiration (&#948;R) and photosynthetic assimilation (&#948;A) fluxes gives rise to the &#185;&#179;C land disequilibrium (D). Contemporary understanding suggests that over annual and longer time scales, D is determined primarily by the Suess effect, and thus, D is generally positive (&#948;R&#8201;&gt;&#8201;&#948;A). A 7 year record of biosphere-atmosphere carbon exchange was used to evaluate the seasonality of &#948;A and &#948;R, and the &#185;&#179;C land disequilibrium, in a subalpine conifer forest. A novel isotopic mixing model was employed to determine the &#948;&#185;&#179;</gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>
@@ -348,7 +348,17 @@
             <mri:topicCategory>
                 <mri:MD_TopicCategoryCode>geoscientificInformation</mri:MD_TopicCategoryCode>
             </mri:topicCategory>
-
+            <mri:resourceFormat>
+                <mrd:MD_Format>
+                    <mrd:formatSpecificationCitation>
+                        <cit:CI_Citation>
+                            <cit:title>
+                                <gco:CharacterString>PDF</gco:CharacterString>
+                            </cit:title>
+                        </cit:CI_Citation>
+                    </mrd:formatSpecificationCitation>
+                </mrd:MD_Format>
+            </mri:resourceFormat>
             <mri:descriptiveKeywords>
                 <mri:MD_Keywords>
                     <mri:keyword>
@@ -378,7 +388,6 @@
                     </mri:thesaurusName>
                 </mri:MD_Keywords>
             </mri:descriptiveKeywords>
-
             <mri:resourceConstraints>
                 <mco:MD_LegalConstraints>
                     <mco:useLimitation>
@@ -389,7 +398,6 @@
                     </mco:otherConstraints>
                 </mco:MD_LegalConstraints>
             </mri:resourceConstraints>
-
             <mri:defaultLocale>
                 <lan:PT_Locale>
                     <lan:language>

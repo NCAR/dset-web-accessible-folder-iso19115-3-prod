@@ -1,4 +1,4 @@
-<mdb:MD_Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/1.0" xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:mcc="http://standards.iso.org/iso/19115/-3/mcc/1.0" xmlns:mco="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:mdb="http://standards.iso.org/iso/19115/-3/mdb/1.0" xmlns:mds="http://standards.iso.org/iso/19115/-3/mds/1.0" xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:mex="http://standards.iso.org/iso/19115/-3/mex/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://standards.iso.org/iso/19115/-3/mdb/1.0 http://standards.iso.org/iso/19115/-3/mdb/1.0/mdb.xsd">
+<mdb:MD_Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/1.0" xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:mcc="http://standards.iso.org/iso/19115/-3/mcc/1.0" xmlns:mco="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:mdb="http://standards.iso.org/iso/19115/-3/mdb/1.0" xmlns:mds="http://standards.iso.org/iso/19115/-3/mds/1.0" xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:mex="http://standards.iso.org/iso/19115/-3/mex/1.0" xmlns:mrd="http://standards.iso.org/iso/19115/-3/mrd/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://standards.iso.org/iso/19115/-3/mdb/1.0 http://standards.iso.org/iso/19115/-3/mdb/1.0/mdb.xsd">
     <mdb:metadataIdentifier>
         <mcc:MD_Identifier> 
             <mcc:code>
@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2022-10-07T15:41:37.019833</gco:DateTime>
+                <gco:DateTime>2023-04-05T21:31:38.147856</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -215,7 +215,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>Long-term statistics of organized convection are vital to improved understanding of the hydrologic cycle at various scales. Satellite observations are used to understand the timing, duration, and frequency of deep convection in equatorial Africa, a region with some of the most intense thunderstorms. Yet little has been published about the propagation characteristics of mesoscale convection in that region. Diurnal, sub-seasonal, and seasonal cycles of cold cloud (proxy for convective precipitation) are examined on a continental scale. Organized deep convection consists of coherent structures that are characteristic of systems propagating under a broad range of atmospheric conditions. Convection is triggered by heating of elevated terrain, sea/land breezes, and lake breezes. Coherent episodes of convection result from regeneration of convection through multiple diurnal cycles while propagating westward. They have an average of 17.6 h duration and 673 km span; most have zonal phase speeds of 8 - 16 m s&#8315;&#185;. Propagating convection occurs in the presence of moderate low-level shear that is associated with the southwesterly monsoonal flow and mid-level easterly jets. Convection is also modulated by eastward-moving equatorially-trapped Kelvin waves, which have phase speeds of 12 - 22 m s&#8315;&#185; over equatorial Africa. Westward propagation of mesoscale convection is interrupted by the dry phase of convectively coupled Kelvin waves. During the wet phase, daily initiation and westward propagation continues within the Kelvin wave and the cold cloud shields are larger. Mesoscale convection is more widespread during the active phase of the Madden Julian Oscillation (MJO) but with limited westward propagation. The study highlights multiscale interaction as a major source of variability in convective precipitation during the critical rainy seasons in equatorial Africa.</gco:CharacterString>
+                <gco:CharacterString>Long-term statistics of organized convection are vital to improved understanding of the hydrologic cycle at various scales. Satellite observations are used to understand the timing, duration, and frequency of deep convection in equatorial Africa, a region with some of the most intense thunderstorms. Yet little has been published about the propagation characteristics of mesoscale convection in that region. Diurnal, sub-seasonal, and seasonal cycles of cold cloud (proxy for convective precipitation) are examined on a continental scale. Organized deep convection consists of coherent structures that are characteristic of systems propagating under a broad range of atmospheric conditions. Convection is triggered by heating of elevated terrain, sea/land breezes, and lake breezes. Coherent episodes of convection result from regeneration of convection through multiple diurnal cycles while propagating westward. They have an average of 17.6 h duration and 673 km span; most have zonal phase speeds of 8 - 16 m s&#8315;&#185;</gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>
@@ -273,7 +273,17 @@
             <mri:topicCategory>
                 <mri:MD_TopicCategoryCode>geoscientificInformation</mri:MD_TopicCategoryCode>
             </mri:topicCategory>
-
+            <mri:resourceFormat>
+                <mrd:MD_Format>
+                    <mrd:formatSpecificationCitation>
+                        <cit:CI_Citation>
+                            <cit:title>
+                                <gco:CharacterString>PDF</gco:CharacterString>
+                            </cit:title>
+                        </cit:CI_Citation>
+                    </mrd:formatSpecificationCitation>
+                </mrd:MD_Format>
+            </mri:resourceFormat>
             <mri:descriptiveKeywords>
                 <mri:MD_Keywords>
                     <mri:keyword>
@@ -303,7 +313,6 @@
                     </mri:thesaurusName>
                 </mri:MD_Keywords>
             </mri:descriptiveKeywords>
-
             <mri:resourceConstraints>
                 <mco:MD_LegalConstraints>
                     <mco:useLimitation>
@@ -314,7 +323,6 @@
                     </mco:otherConstraints>
                 </mco:MD_LegalConstraints>
             </mri:resourceConstraints>
-
             <mri:defaultLocale>
                 <lan:PT_Locale>
                     <lan:language>

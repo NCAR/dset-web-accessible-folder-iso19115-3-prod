@@ -1,4 +1,4 @@
-<mdb:MD_Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/1.0" xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:mcc="http://standards.iso.org/iso/19115/-3/mcc/1.0" xmlns:mco="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:mdb="http://standards.iso.org/iso/19115/-3/mdb/1.0" xmlns:mds="http://standards.iso.org/iso/19115/-3/mds/1.0" xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:mex="http://standards.iso.org/iso/19115/-3/mex/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://standards.iso.org/iso/19115/-3/mdb/1.0 http://standards.iso.org/iso/19115/-3/mdb/1.0/mdb.xsd">
+<mdb:MD_Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cit="http://standards.iso.org/iso/19115/-3/cit/1.0" xmlns:gex="http://standards.iso.org/iso/19115/-3/gex/1.0" xmlns:lan="http://standards.iso.org/iso/19115/-3/lan/1.0" xmlns:mcc="http://standards.iso.org/iso/19115/-3/mcc/1.0" xmlns:mco="http://standards.iso.org/iso/19115/-3/mco/1.0" xmlns:mdb="http://standards.iso.org/iso/19115/-3/mdb/1.0" xmlns:mds="http://standards.iso.org/iso/19115/-3/mds/1.0" xmlns:mri="http://standards.iso.org/iso/19115/-3/mri/1.0" xmlns:gco="http://standards.iso.org/iso/19115/-3/gco/1.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:mex="http://standards.iso.org/iso/19115/-3/mex/1.0" xmlns:mrd="http://standards.iso.org/iso/19115/-3/mrd/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://standards.iso.org/iso/19115/-3/mdb/1.0 http://standards.iso.org/iso/19115/-3/mdb/1.0/mdb.xsd">
     <mdb:metadataIdentifier>
         <mcc:MD_Identifier> 
             <mcc:code>
@@ -79,7 +79,7 @@
     <mdb:dateInfo>
         <cit:CI_Date>
             <cit:date>
-                <gco:DateTime>2022-10-07T16:33:03.606197</gco:DateTime>
+                <gco:DateTime>2023-04-05T22:16:16.701345</gco:DateTime>
             </cit:date>
             <cit:dateType>
                 <cit:CI_DateTypeCode codeList="codeListLocation#CI_DateTypeCode" codeListValue="creation">creation</cit:CI_DateTypeCode>
@@ -290,7 +290,7 @@
                 </cit:CI_Citation>
             </mri:citation>
             <mri:abstract>
-                <gco:CharacterString>This study analyzes the observed subtidal currents, 1/12&#176; global HYCOM model results, and the observed time series to interpret seasonal and interannual patterns in the behavior of the Kuroshio intrusion around the Luzon Strait (LS). The observations include current measurements conducted at mooring station N2 (20&#176;40.441&#8242;N, 120&#176;38.324&#8242;E) from 7 July 2009 to 31 March 2011, surface geostrophic currents derived from the merged absolute dynamic topography, and the trajectory of an Argo float during the winter of 2010-2011. Results from mooring station N2 confirmed the seasonal changes in the Kuroshio intrusion and the variation of the Kuroshio intrusion during El Ni&#241;o event from July 2009 to April 2010 and La Ni&#241;a even from June 2010 to March 2011. The strongest Kuroshio intrusion occurs in the winter, with successively weaker currents in spring, autumn, and summer. Comparison of relative differences (&#916;max (z)) in the maximum absolute value of monthly average zonal velocity components |Umax (z)| showed that the Kuroshio intrusion was stronger during the 2009-2010 winter (El Ni&#241;o) than the 2010-2011 winter (La Ni&#241;a). Furthermore, the relative differences (&#916;max (z)) in deeper layers exceed those of the surface layer. Circulation patterns in surface geostrophic currents and the Argo float trajectory confirmed the results of mooring station N2. The Kuroshio intrusion velocity variation modeled using the 1/12&#176; global HYCOM model resembled the observation on both seasonal to interannual scales. Modeled variation in the zonal mean velocity anomaly was also consistent with Ni&#241;o3, Ni&#241;o4, and North Equatorial Current (NEC) bifurcation latitude indices, indicating concurrent impacts of the ENSO influence. Monsoon winds strongly affect the seasonal variation while the weak upstream Kuroshio transport induced by El Ni&#241;o, strongly affects the interannual variation, such as 2009&#8211;2010 winter. In 2010-2011 winter, the impact of winter monsoon forcing still exists in the LS. However, the stronger upstream Kuroshio transport during this period did not allow the Kuroshio to penetrate into the LS deeply. This explains why the 2009-2010 winter Kuroshio intrusion (El Ni&#241;o event) was stronger than that of the 2010-2011 winter (La Ni&#241;a event).</gco:CharacterString>
+                <gco:CharacterString>This study analyzes the observed subtidal currents, 1/12&#176; global HYCOM model results, and the observed time series to interpret seasonal and interannual patterns in the behavior of the Kuroshio intrusion around the Luzon Strait (LS). The observations include current measurements conducted at mooring station N2 (20&#176;40.441&#8242;N, 120&#176;38.324&#8242;E) from 7 July 2009 to 31 March 2011, surface geostrophic currents derived from the merged absolute dynamic topography, and the trajectory of an Argo float during the winter of 2010-2011. Results from mooring station N2 confirmed the seasonal changes in the Kuroshio intrusion and the variation of the Kuroshio intrusion during El Ni&#241;o event from July 2009 to April 2010 and La Ni&#241;a even from June 2010 to March 2011. The strongest Kuroshio intrusion occurs in the winter, with successively weaker currents in spring, autumn, and summer. Comparison of relative differences (&#916;</gco:CharacterString>
             </mri:abstract>
             <mri:pointOfContact><cit:CI_Responsibility>
     <cit:role>
@@ -348,7 +348,17 @@
             <mri:topicCategory>
                 <mri:MD_TopicCategoryCode>geoscientificInformation</mri:MD_TopicCategoryCode>
             </mri:topicCategory>
-
+            <mri:resourceFormat>
+                <mrd:MD_Format>
+                    <mrd:formatSpecificationCitation>
+                        <cit:CI_Citation>
+                            <cit:title>
+                                <gco:CharacterString>PDF</gco:CharacterString>
+                            </cit:title>
+                        </cit:CI_Citation>
+                    </mrd:formatSpecificationCitation>
+                </mrd:MD_Format>
+            </mri:resourceFormat>
             <mri:descriptiveKeywords>
                 <mri:MD_Keywords>
                     <mri:keyword>
@@ -378,7 +388,6 @@
                     </mri:thesaurusName>
                 </mri:MD_Keywords>
             </mri:descriptiveKeywords>
-
             <mri:resourceConstraints>
                 <mco:MD_LegalConstraints>
                     <mco:useLimitation>
@@ -389,7 +398,6 @@
                     </mco:otherConstraints>
                 </mco:MD_LegalConstraints>
             </mri:resourceConstraints>
-
             <mri:defaultLocale>
                 <lan:PT_Locale>
                     <lan:language>
